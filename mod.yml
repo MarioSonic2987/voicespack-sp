@@ -2131,7 +2131,7 @@ assets:
     source:
       - name: voice\gumibattle\gumi.vsb
   #Battle voices (Sora and Party members)
-  - name: limit\fm\mulan.bar
+  - name: limit\us\mulan.bar
     method: copy
     source:
       - name: limit\mulan.bar
