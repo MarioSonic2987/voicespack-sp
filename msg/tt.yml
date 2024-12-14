@@ -1997,7 +1997,7 @@
 - id: 13596
   en: ¡No permitiré más salidas de tono!
 - id: 13597
-  en: ¡No, no desapareceras!...
+  en: ¡No, no desaparecerás!...
 - id: 13598
   en: ¡Espera!
 - id: 13600
@@ -6545,7 +6545,7 @@
 - id: 19912
   en: Axel...
 - id: 19913
-  en: Igual me he equivocado.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Quizá sea hora de irse a la cama.{:delay 82 00}{:clear }Dentro de poco no podremos volver hablar como ahora.
+  en: Igual me he equivocado.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Quizá sea hora de irse a la cama.{:delay 82 00}{:clear }Dentro de poco no podremos volver a hablar como ahora.
 - id: 19914
   en: Quieres decir que... {:delay 7D 00}{:clear }¿volveremos a ser como antes?
 - id: 19915
