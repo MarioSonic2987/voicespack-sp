@@ -1,0 +1,3683 @@
+﻿- id: 2935
+  en: '{:unk06 02}{:unk13 A4 01 78 00}{:unk08 03 00 05}¡Lo logramos!'
+- id: 2936
+  en: >-
+    {:unk13 96 00 3C 00}{:unk08 01 01 06}¿Dónde habéis
+
+    estado?
+- id: 2937
+  en: '{:unk13 A4 00 3C 00}{:unk08 01 01 05}Bueno, eh...'
+- id: 2938
+  en: >-
+    {:unk13 B9 00 3C 00}{:unk08 01 01 05}Dentro de este ordenador
+
+    hay un... mundo...{:clear }... donde viven unos... eh...
+
+    programas y...
+- id: 2939
+  en: >-
+    {:unk13 91 00 50 00}{:unk08 01 01 07}En otras palabras...{:clear }Sin la contraseña
+
+    no se puede acceder
+
+    a los datos de...{:clear }las investigaciones
+
+    de Ansem.
+- id: 2940
+  en: '{:unk13 87 00 73 00}{:unk08 01 01 06}Así es.'
+- id: 2941
+  en: >-
+    {:unk13 A6 00 43 00}{:unk08 01 01 06}Pero acabasteis
+
+    con Ansem...
+- id: 2942
+  en: >-
+    {:unk13 90 01 9B 00}{:unk08 01 00 05}Ahí va, tal vez
+
+    nunca encontremos
+
+    la contraseña.
+- id: 2943
+  en: '{:unk13 C8 00 32 00}{:unk08 01 01 06}O sea...'
+- id: 2944
+  en: >-
+    {:unk13 82 00 46 00}{:unk08 01 01 07}Es como
+
+    buscar una aguja
+
+    en un pajar.
+- id: 2947
+  en: '{:unk13 54 01 B4 00}{:unk08 01 00 05}No se da por vencida...'
+- id: 2948
+  en: '{:unk06 02}{:unk13 72 01 C8 00}{:unk08 03 00 05}¡Y nosotros tampoco!'
+- id: 2949
+  en: >-
+    {:unk13 C9 00 89 00}{:unk08 01 01 05}¡Vamos, debemos encontrar
+
+    esa contraseña!
+- id: 2950
+  en: >-
+    {:unk13 4A 01 50 00}{:unk08 01 00 05}Sí. Se lo prometimos
+
+    a Tron.
+- id: 2952
+  en: ¿Qué son estos garabatos?
+- id: 2953
+  en: Bastión... {:delay 5F 00}{:clear }{:delay 3C 00}Central... {:delay 4B 00}{:clear }{:delay 3C 00}{:clear }Seguridad, Tron... {:delay C8 00}{:clear }{:delay 37 00}{:clear }"Door to...
+- id: 2954
+  en: Parece un diagrama o algo así.
+- id: 2955
+  en: ¿"Door To... Darkness"?
+- id: 2956
+  en: ¡Oh!
+- id: 2957
+  en: ¡D!{:delay 2D 00}{:clear }{:delay 23 00}{:clear }¡T!{:delay 2D 00}{:clear }{:delay 23 00}{:clear }¡D!
+- id: 2958
+  en: ¡DTD!
+- id: 2959
+  en: ¿Qué pasa?
+- id: 2960
+  en: >-
+    ¡Mira esto! ¡Debe de ser
+
+    el entorno de datos!{:delay B4 00}{:clear }{:delay 25 00}{:clear }¡DTD! ¿No lo ves?
+
+    ¡Las siglas de "Door To Darkness"!
+- id: 2961
+  en: >-
+    ¡Claro! Pero...
+
+    nos sigue faltando la contraseña.
+- id: 2962
+  en: >-
+    Oh, "Door To Darkness",
+
+    ¡eso significa "puerta de la oscuridad"!
+- id: 2963
+  en: ¡Majestad!
+- id: 2964
+  en: ¡Os estábamos buscando!
+- id: 2965
+  en: >-
+    ¡Shhh! {:delay 23 00}{:clear }{:delay 50 00}{:clear }¡La Organización puede
+
+    estar escuchando!
+- id: 2966
+  en: ¿Hablabais de la Puerta a la Oscuridad?
+- id: 2967
+  en: Oh, claro, señor.{:delay 50 00}{:clear }{:delay 33 00}{:clear }Estamos buscando el santo y seña.
+- id: 2968
+  en: ¿Santo y seña?
+- id: 2969
+  en: Ah, te refieres a la contraseña.
+- id: 2970
+  en: >-
+    Bueno, la Puerta a la Oscuridad
+
+    solo puede abrirse{:delay A3 00}{:clear }cuando se reúnen las Siete Princesas.{:delay 6E 00}{:clear }Que son Blancanieves, Yasmín, Bella...
+- id: 2971
+  en: Ya veo...
+- id: 2972
+  en: ¿Qué os proponéis?
+- id: 2973
+  en: >-
+    Con esa contraseña podríamos acceder
+
+    a las investigaciones de Ansem.
+- id: 2974
+  en: >-
+    Eso significa...
+
+    ¡que quizá descubráis su paradero!
+- id: 2975
+  en: >-
+    Dejad de bromear, Majestad. {:delay 64 00}{:clear }{:delay 0F 00}{:clear }Ya derrotamos a Ansem,
+
+    y vos lo sabéis.
+- id: 2976
+  en: >-
+    Me parece que tengo
+
+    mucho que explicaros.
+- id: 2977
+  en: ¡Somos todo oídos, Majestad!
+- id: 2978
+  en: >-
+    Está bien, pero antes
+
+    tengo una pregunta...
+- id: 2979
+  en: Chicos... ¿no está Tron esperándoos?
+- id: 2980
+  en: >-
+    No os preocupéis,
+
+    no iré a ninguna parte.{:delay 8B 00}{:clear }Si esos sincorazón atacan, estaré aquí
+
+    y me ocuparé de hacerles frente.
+- id: 2981
+  en: ¡Claro! Nosotros también.
+- id: 2982
+  en: Entonces ya hablaremos luego.
+- id: 2983
+  en: ¡Prometido!
+- id: 2984
+  en: ¡Nos veremos más tarde!
+- id: 2985
+  en: ''
+- id: 2986
+  en: Celda
+- id: 2987
+  en: Torre I/O
+- id: 2988
+  en: '{:width 90}Núcleo del ordenador central'
+- id: 2989
+  en: 'Guía sobre la celda #0'
+- id: 2990
+  en: 'Guía sobre la celda #1'
+- id: 2991
+  en: 'Guía sobre la celda #2'
+- id: 2992
+  en: 'Guía sobre la torre #0'
+- id: 2993
+  en: 'Guía sobre la torre #1'
+- id: 2994
+  en: 'Guía sobre la torre #2'
+- id: 2995
+  en: 'Guía sobre el núcleo del ordenador central #0'
+- id: 2996
+  en: 'Guía sobre el núcleo del ordenador central #1'
+- id: 2997
+  en: 'Guía sobre el núcleo del ordenador central #2'
+- id: 2998
+  en: Sí
+- id: 2999
+  en: No
+- id: 3000
+  en: Selecciona un destino.
+- id: 3001
+  en: ¿Quieres transportarte aquí?
+- id: 7525
+  en: No se puede ir por aquí.
+- id: 8067
+  en: ¡Derrota a los incorpóreos!
+- id: 8068
+  en: >-
+    ¡Derrota a los incorpóreos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 8069
+  en: ¡Derrota a los incorpóreos y protege las puertas!
+- id: 8070
+  en: >-
+    ¡Junto a León, vence a los incorpóreos
+
+    mientras proteges las puertas! ¡Si el
+
+    indicador se vacía, se termina la batalla!
+- id: 8071
+  en: ¡Derrota a todos los enemigos!
+- id: 8072
+  en: >-
+    ¡Derrota a todos los enemigos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 8073
+  en: ¡Derrota a todos los enemigos!
+- id: 8074
+  en: ¡Derrota a todos los enemigos!
+- id: 8075
+  en: ¡Derrota a todos los sincorazón!
+- id: 8076
+  en: >-
+    ¡Lucha junto a tus amigos
+
+    y derrota a los sincorazón!
+- id: 8077
+  en: ¡Estás atrapado! ¡Derrota a todos los sincorazón para escapar!
+- id: 8079
+  en: ¡Estás atrapado! ¡Derrota a todos los sincorazón para escapar!
+- id: 8081
+  en: ¡Estás atrapado! ¡Derrota a todos los sincorazón para escapar!
+- id: 8083
+  en: ¡Derrota a todos los enemigos!
+- id: 8084
+  en: >-
+    ¡Derrota a todos los enemigos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 8085
+  en: ¡Derrota a los sincorazón!
+- id: 8086
+  en: ¡Usa las defensas de la ciudad para derrotar a los sincorazón!
+- id: 8087
+  en: ¡Derrota a los sincorazón!
+- id: 8088
+  en: >-
+    ¡Lucha junto a tus amigos
+
+    y derrota a los sincorazón!
+- id: 8148
+  en: >-
+    Un momento... ¡Creía que todo
+
+    estaba bajo control por aquí!
+- id: 8149
+  en: ¡Eh, mirad!
+- id: 8150
+  en: >-
+    Otra vez la Organización {XIII}.
+
+    Hay que ir a ver a León.
+- id: 8151
+  en: '{:unk13 90 01 18 01}{:unk08 01 00 01}¡Adelante!'
+- id: 8152
+  en: >-
+    {:unk13 A0 00 6E 00}{:unk08 01 01 05}Un momento...{:clear }¿Qué le ha pasado
+
+    a este sitio?
+- id: 8153
+  en: >-
+    {:unk13 79 01 E1 00}{:unk08 01 00 04}¿Esos sincorazón no
+
+    se parecían a los
+
+    del mundo de Tron?
+- id: 8154
+  en: >-
+    {:unk13 91 00 3C 00}{:unk08 01 01 06}¡Vamos,
+
+    entrad!
+- id: 8155
+  en: '{:unk13 54 01 5A 00}{:unk08 01 01 06}¡Date prisa, Cid!'
+- id: 8156
+  en: '{:unk06 02}{:unk13 C8 00 50 00}{:unk08 03 01 06}¡Dame un segundo!'
+- id: 8157
+  en: '{:unk13 96 00 41 00}{:unk08 01 00 05}¡Rayos! ¡Rápido!'
+- id: 8158
+  en: '{:unk06 02}{:unk13 36 01 50 00}{:unk08 03 00 05}¡Maldición...!'
+- id: 8159
+  en: '{:unk13 A5 00 9B 00}{:unk08 01 01 06}¿Qué sucede?'
+- id: 8160
+  en: >-
+    {:unk13 A0 00 37 00}{:unk08 01 01 06}¡Siempre aparecéis en
+
+    el momento exacto!
+- id: 8161
+  en: >-
+    {:unk13 2C 01 37 00}{:unk08 01 01 06}El PCM está sembrando el
+
+    caos dentro del ordenador.
+- id: 8162
+  en: '{:unk13 87 00 09 01}{:unk08 01 00 06}¡Otra vez, no!'
+- id: 8163
+  en: >-
+    {:unk13 D2 00 37 00}{:unk08 01 01 06}Al menos eso es
+
+    lo que cree León...
+- id: 8164
+  en: >-
+    Ha ido al estudio de Ansem a averiguar
+
+    de qué diablos iba todo esto.
+- id: 8165
+  en: >-
+    Parece que el PCM está usando
+
+    datos del sistema{:delay B4 00}{:clear }para crear más sincorazón.
+- id: 8166
+  en: >-
+    Y, además, está fastidiando todo el
+
+    sistema de control de la ciudad.
+- id: 8167
+  en: >-
+    [Necios usuarios
+
+    Obedeced al PCM]
+- id: 8168
+  en: >-
+    Ese chisme nunca se da por vencido,
+
+    ¿no es así?
+- id: 8169
+  en: >-
+    {:unk13 85 00 35 00}{:unk08 01 01 06}Un programa nunca se
+
+    rinde.
+- id: 8170
+  en: '{:unk13 FA 00 91 00}{:unk08 01 00 05}¿Cómo le va a Tron?'
+- id: 8171
+  en: >-
+    {:unk13 2C 01 55 00}{:unk08 01 01 06}No podemos comunicarnos con él.{:clear }Creemos que le han forzado
+
+    a ir a la rejilla de juego.
+- id: 8172
+  en: >-
+    {:unk13 1E 01 3C 00}{:unk08 01 00 05}Y no parece que sea un
+
+    juego especialmente
+
+    divertido.
+- id: 8175
+  en: >-
+    {:unk13 AF 00 37 00}{:unk08 01 01 06}Gracias, chaval.{:clear }Estamos preparando un programa
+
+    de Erradicación del PCM.{:clear }Me da en la nariz
+
+    que está casi terminado.
+- id: 8176
+  en: >-
+    {:unk13 F0 00 50 00}{:unk08 01 00 05}Ojalá. Espero que estés
+
+    en lo cierto.
+- id: 8177
+  en: >-
+    {:unk13 04 01 41 00}{:unk08 01 01 06}Escuchad, vamos a necesitar
+
+    la ayuda de Tron cuando
+
+    ese Erradicador esté completo.
+- id: 8178
+  en: >-
+    {:unk13 FA 00 8C 00}{:unk08 01 00 05}No os preocupéis.{:clear }¡Nos encargaremos
+
+    de avisar a Tron!
+- id: 8179
+  en: >-
+    {:unk13 50 01 3A 00}{:unk08 01 00 04}Contamos con vosotros,
+
+    chavales. No lo olvidéis.
+- id: 8180
+  en: '{:unk13 F5 00 AF 00}{:unk08 01 00 05}¡Entendido!'
+- id: 8181
+  en: '{:unk13 C6 00 39 00}{:unk08 01 00 05}¡Ahí va, somos nosotros!'
+- id: 8182
+  en: >-
+    {:unk13 AA 00 50 00}{:unk08 01 00 06}No podréis hablar con Tron si
+
+    perdemos el control de esta sala.
+- id: 8183
+  en: >-
+    {:unk13 FA 00 3C 00}{:unk08 01 01 06}¿Habéis hablado
+
+    con Cid?
+- id: 8184
+  en: '{:unk13 C8 00 6E 00}{:unk08 01 00 05}Sí.'
+- id: 8185
+  en: '{:unk13 40 01 2D 00}{:unk08 01 01 06}¿Y el Erradicador?'
+- id: 8186
+  en: '{:unk13 96 00 82 00}{:unk08 01 00 05}Está casi listo.'
+- id: 8187
+  en: '{:unk13 C8 00 64 00}{:unk08 01 00 05}¡Genial!'
+- id: 8188
+  en: >-
+    {:unk13 D2 00 50 00}{:unk08 01 00 05}Eh, León, ¿por qué no
+
+    vas a ayudar a Cid?{:clear }Yo me encargo de esto.
+
+    ¿Vale?
+- id: 8189
+  en: >-
+    {:unk13 CF 00 43 00}{:unk08 01 01 07}¿Estás segura?
+
+    ¿Tú sola?...
+- id: 8190
+  en: >-
+    {:unk13 F0 00 3C 00}{:unk08 01 01 07}... Ya, lo siento.
+
+    Todo tuyo.
+- id: 8191
+  en: '{:unk13 FA 00 3C 00}{:unk08 01 00 05}¿Cómo está Tron?'
+- id: 8192
+  en: >-
+    {:unk13 F0 00 46 00}{:unk08 01 01 07}Seguimos sin poder
+
+    contactar con él.{:clear }¿Por qué no lo
+
+    intentáis vosotros?
+- id: 8193
+  en: >-
+    {:unk13 0E 01 3C 00}{:unk08 01 00 05}No, iremos a verle
+
+    en persona.
+- id: 8194
+  en: >-
+    {:unk13 A0 00 40 01}{:unk08 01 01 02}Entonces hacedme
+
+    un favor.{:clear }Cuando encontréis a Tron,
+
+    decidle que vaya a la
+
+    Torre I/O.{:clear }Allí cargaremos el
+
+    programa de
+
+    Erradicación del PCM.
+- id: 8195
+  en: >-
+    {:unk13 8C 00 5A 00}{:unk08 01 00 05}La Torre I/O.
+
+    ¡Entendido!
+- id: 8196
+  en: >-
+    {:unk13 E4 00 3F 00}{:unk08 01 01 07}Gracias.
+
+    Y tened cuidado.
+- id: 8197
+  en: >-
+    [Necios usuarios
+
+    Obedeced al PCM]
+- id: 8198
+  en: Aguanta, Tron, ya vamos.
+- id: 8199
+  en: ¿Has acabado?
+- id: 8200
+  en: >-
+    Lo habría hecho,
+
+    de no ser por ese vejestorio.
+- id: 8201
+  en: ¿Vejestorio, dices?
+- id: 8202
+  en: ¡Estoy intentando trabajar!
+- id: 8203
+  en: >-
+    Jo, jo, jo... ¡Ya te enseñaré yo
+
+    quién es un vejestorio!
+- id: 8204
+  en: ¡Ya está!
+- id: 8205
+  en: >-
+    Toma, León.{:delay 64 00}{:clear }{:delay 14 00}{:clear }Un programa casero.
+
+    Delicatessen mágica del vejestorio.
+- id: 8206
+  en: Será mejor que funcione.
+- id: 8207
+  en: Me voy.
+- id: 8208
+  en: ¡Mantente alerta!
+- id: 8209
+  en: >-
+    Alerta.{:delay 4B 00}{:clear }{:delay 0F 00}Control de usuario
+
+    anulado indefinidamente.
+- id: 8210
+  en: ¡Es inútil!
+- id: 8211
+  en: León, déjame intentarlo.
+- id: 8212
+  en: Este es el último aviso.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }Desistan.
+- id: 8213
+  en: ¡Que aproveche!
+- id: 8214
+  en: ¡Y no hables con la boca llena!
+- id: 8215
+  en: ¿Qué... qué estás cargando?
+- id: 8216
+  en: >-
+    ¡Las cosas se están
+
+    calmando en la ciudad!{:delay 62 00}{:clear }{:delay 27 00}{:clear }Los únicos sincorazón que quedan
+
+    son los habituales de por aquí.{:delay 8A 00}{:clear }{:delay 30 00}{:clear }Incluso hay menos que antes.
+- id: 8217
+  en: >-
+    Ahora solo falta traer a nuestros
+
+    amigos de una pieza.
+- id: 8218
+  en: ¡Estáis aquí!
+- id: 8219
+  en: ¡Bienvenidos!
+- id: 8220
+  en: ¿Qué tal la ciudad?
+- id: 8221
+  en: ¡De primera!
+- id: 8222
+  en: >-
+    Tampoco hay rastro del PCM. Todo vuelve
+
+    a la normalidad. Lo logramos.
+- id: 8223
+  en: Eh, ¿y esas caras largas?{:delay 78 00}{:clear }{:delay 19 00}{:clear }¿Qué ha pasado?
+- id: 8224
+  en: Tron ha desaparecido.
+- id: 8225
+  en: Y prometió que volveríamos a verle...
+- id: 8226
+  en: ¿Qué está pasando?
+- id: 8227
+  en: >-
+    Saludos, amigos.{:delay 3C 00}{:clear }El sistema está activo y
+
+    listo para el usuario.
+- id: 8228
+  en: ¡Tron!
+- id: 8229
+  en: No me olvidéis.
+- id: 8230
+  en: ¡Sí!
+- id: 8231
+  en: ¡Es fantástico!
+- id: 8232
+  en: ¡Basta! ¡Me haces cosquillas!
+- id: 8233
+  en: ¿Tron tiene cosquillas?
+- id: 8234
+  en: ¿Qué tal esto?
+- id: 8235
+  en: ¡Por favor, para!
+- id: 8236
+  en: >-
+    Tron ha pasado demasiado
+
+    tiempo con esos chicos.
+- id: 8237
+  en: >-
+    Esperad. Un momento.{:delay B1 00}{:clear }Quiero enseñaros algo que he encontrado
+
+    entre los archivos viejos. {:delay B4 00}{:clear }Es la ciudad tal y como se construyó.
+- id: 8238
+  en: Es verdad...{:delay 5A 00}{:clear }{:delay 19 00}{:clear }Ya me acuerdo.
+- id: 8239
+  en: ¡Como en los viejos tiempos!
+- id: 8240
+  en: >-
+    Mmmm...{:delay 3C 00}{:clear }{:delay 19 00}{:clear }Me gustaría averiguar cuándo{:delay 81 00}{:clear }esta ciudad empezó a ser conocida con
+
+    el horrible nombre de Bastión Hueco.
+- id: 8241
+  en: >-
+    Antes, esta ciudad se
+
+    llamaba de otra forma.
+- id: 8242
+  en: ''
+- id: 8243
+  en: Vergel Radiante.{:delay 6E 00}{:clear }{:delay 2D 00}{:clear }
+- id: 8244
+  en: ¿Dónde están los demás?
+- id: 8245
+  en: >-
+    Ni idea. Tendrán otros
+
+    asuntos que atender.
+- id: 8246
+  en: ¿Qué asuntos?
+- id: 8247
+  en: >-
+    ¿Insinúas que tienen cuestiones
+
+    más importantes de las que{:delay 9C 00}{:clear }preocuparse que mi regreso?
+- id: 8248
+  en: >-
+    Bueno, verás, hay una tal Organización {XIII}
+
+    que no deja de entrometerse...
+- id: 8249
+  en: >-
+    ¡Deja que esos ilusos sigan
+
+    con sus jueguecitos!
+- id: 8250
+  en: >-
+    ¿Y qué hacemos con el canijo de la llave
+
+    espada? Resulta un auténtico incordio.
+- id: 8251
+  en: Ya veo...
+- id: 8252
+  en: >-
+    Está bien.{:delay 42 00}{:clear }Supongo que será mucho mejor que me
+
+    cuentes todo cuanto{:delay 96 00}{:clear }ha acontecido en mi ausencia.
+- id: 8253
+  en: ¿Hay alguien en casa?
+- id: 8254
+  en: ¡Merlín!
+- id: 8255
+  en: ¡El castillo está en peligro!
+- id: 8256
+  en: ¿A qué viene tanto alboroto?
+- id: 8257
+  en: ¡Jo, jo! ¡Sois vosotros!
+- id: 8258
+  en: >-
+    Veo que habéis aprendido mucho desde
+
+    la última vez que nos vimos.
+- id: 8259
+  en: ¿En serio?
+- id: 8260
+  en: ¡Tenemos un problemón!{:delay 78 00}{:clear }¡Es Maléfica! ¡Ha vuelto! ¡Está aquí!
+- id: 8261
+  en: ¿Dónde? ¿En el castillo?
+- id: 8262
+  en: ¡Sí! Y se ha traído a los sincorazón.
+- id: 8263
+  en: Vaya, vaya...
+- id: 8264
+  en: ¿Habrá pasado algo?
+- id: 8265
+  en: ''
+- id: 8266
+  en: ¡Vamos!
+- id: 8267
+  en: Bueno... habéis tardado un poco, ¿no?
+- id: 8268
+  en: >-
+    ¿Has sido tú quien nos
+
+    ha invocado, Merlín?
+- id: 8269
+  en: >-
+    Así es...{:delay 64 00}{:clear }{:delay 1E 00}{:clear }Pero me temo que he usado
+
+    demasiado poder al hacerlo{:delay 78 00}{:clear }y esos infernales sincorazón...
+- id: 8270
+  en: ¿Qué ha pasado?
+- id: 8271
+  en: >-
+    Mmm... pues que me he encontrado
+
+    algo que os puede interesar.
+- id: 8272
+  en: ¡El libro de Pooh!
+- id: 8273
+  en: >-
+    Eso es. {:delay 44 00}{:clear }Sé que eres un buen amigo
+
+    de Winnie the Pooh, Sora,{:delay BD 00}{:clear }por eso os he invocado.
+- id: 8274
+  en: >-
+    Cuando lo hice, me
+
+    atacaron los sincorazón.{:delay BE 00}{:clear }Me defendí con hechizos
+
+    bastante poderosos,{:delay D0 00}{:clear }pero temí que el libro
+
+    sufriera daños, así que...{:delay BD 00}{:clear }{:delay 2B 00}Esperad...{:delay 3E 00}{:clear }Será mejor que llame a León y a los
+
+    demás para que se enteren también.{:delay E5 00}{:clear }Voy a buscarlos.
+
+    Vuelvo al instante.
+- id: 8275
+  en: ¿Qué tal estará Pooh?
+- id: 8276
+  en: ¡Averígualo!
+- id: 8277
+  en: ¡Hecho!
+- id: 8278
+  en: ¡Sora!
+- id: 8279
+  en: Tú cúbreme, ¿vale?
+- id: 8280
+  en: ¡Sora! ¡Ven rápido!
+- id: 8281
+  en: ¿Donald?
+- id: 8282
+  en: ¿Has traído el libro, Sora?
+- id: 8283
+  en: ¡Eh!
+- id: 8284
+  en: ¡Devolvednos eso!
+- id: 8285
+  en: ¿Creéis que está bien?
+- id: 8286
+  en: >-
+    ¡Ahí va! Quizá deberías volver y
+
+    asegurarte de que Pooh está bien.
+- id: 8287
+  en: ¿Y qué hacemos con Merlín?
+- id: 8288
+  en: ¡Bah, ya le diremos algo!
+- id: 8289
+  en: ¡Vale!
+- id: 8290
+  en: >-
+    {:unk13 AA 00 46 00}{:unk08 01 01 05}Era demasiada molestia
+
+    esperar a un viejo mago, ¿no?
+- id: 8291
+  en: '{:unk13 96 00 50 00}{:unk08 01 01 06}Lo siento mucho...'
+- id: 8292
+  en: '{:unk13 2C 01 64 00}{:unk08 01 00 05}¿Cómo andan las cosas por allí?'
+- id: 8293
+  en: >-
+    {:unk13 18 01 78 00}{:unk08 01 01 06}Bueno...{:clear }Pooh parece haberse
+
+    olvidado de mí por completo.{:clear }Y no solo de mí, también
+
+    de sus otros amigos.
+- id: 8294
+  en: >-
+    {:unk13 FA 00 50 00}{:unk08 01 00 05}Era lo que
+
+    me temía...
+- id: 8295
+  en: >-
+    {:unk13 C8 00 64 00}{:unk08 01 00 04}Sospecho que está relacionado
+
+    con las páginas que los
+
+    sincorazón han robado.{:clear }Tendréis que recuperar las
+
+    páginas arrancadas y reparar
+
+    el libro para arreglar este lío.
+- id: 8296
+  en: >-
+    {:unk13 B4 00 3C 00}{:unk08 01 01 05}Este libro es uno de los elementos
+
+    más preciados del mundo.{:clear }Pensé decirle a León
+
+    que lo había encontrado...{:clear }pero quizá debamos mantenerlo
+
+    en secreto por ahora.
+- id: 8297
+  en: '{:unk06 02}{:unk13 A0 00 2C 01}{:unk08 03 01 02}¡Entendido!'
+- id: 8298
+  en: '{:unk06 02}{:unk13 72 01 64 00}{:unk08 03 00 05}¡Entendido!'
+- id: 8299
+  en: '{:unk06 02}{:unk13 6E 00 3C 00}{:unk08 03 01 06}¡Entendido!'
+- id: 8300
+  en: '{:unk13 94 00 5F 00}{:unk08 01 01 06}Perfecto.'
+- id: 8998
+  en: >-
+    La sala del ordenador es por aquí.{:clear }Los ordenadores son delicados. Podéis
+
+    tocarlos, pero no hagáis tonterías.
+- id: 8999
+  en: >-
+    Si sigue así, destruirá el estudio antes
+
+    de que encontremos la contraseña.{:clear }Lo siento, Sora, pero debes
+
+    vigilar a esa chica.
+- id: 9000
+  en: >-
+    Déjanos esto a nosotros. Tú
+
+    concéntrate en los datos.{:clear }Usa la contraseña y trabaja con
+
+    Tron para liberar los datos del DTD.
+- id: 9001
+  en: >-
+    Echad una mano a {:theme 0A}Tron{:reset} hasta que
+
+    el programa esté listo.{:clear }No os preocupéis,
+
+    yo me encargaré de todo aquí.
+- id: 9002
+  en: >-
+    Primero habrá que encontrar los
+
+    datos de la investigación de Ansem.{:clear }Luego os explicaré todo.
+
+    Por favor, tened cuidado.
+- id: 9003
+  en: >-
+    {:theme 0A}El ordenador está ahí delante.{:reset}{:clear }Dentro, el camino se vuelve engañoso.
+
+    Si os perdéis, caminad junto a la pared.
+- id: 9004
+  en: >-
+    Busco a un tío con una gran espada.
+
+    No, no tiene una cicatriz en la cara.{:clear }Tiene los ojos de un color extraño
+
+    y trata de ocuparse él solo de todo.
+- id: 9005
+  en: >-
+    León y los otros están en la zona
+
+    residencial. Han ido a casa de Merlín.
+- id: 9006
+  en: >-
+    Está bueno el helado de sal marina, ¿eh?
+
+    ¡Pero no es momento de comer helados!{:clear }Ayudad a León y a los otros. Y no
+
+    esperéis una recompensa a cambio.
+- id: 9007
+  en: >-
+    Si os cruzáis con un hombre de pelo
+
+    plateado y una larga espada, avisadme.{:clear }Su nombre es Sephiroth.
+
+    Es mi enemigo más siniestro.
+- id: 9008
+  en: >-
+    Parece que tus prendas se diseñaron
+
+    para acumular energía cuando usas la magia.{:clear }No te contengas, pues
+
+    tu magia se recupera enseguida.
+- id: 9009
+  en: >-
+    El PCM ha vuelto los dispositivos
+
+    de defensa contra nosotros.{:clear }Si te acercas a ellos, tendrás
+
+    que esquivar sus ataques.
+- id: 9010
+  en: >-
+    Será duro, pero si seguimos trabajando
+
+    este mundo volverá a la normalidad.{:clear }Ahora eres libre de seguir tu camino.
+
+    Ten cuidado, Sora.
+- id: 9011
+  en: >-
+    ¿Has visto los dispositivos de defensa
+
+    de la ciudad? Los llaman Claymore.{:clear }No tienen tanto poder como vosotros,
+
+    pero si los usáis bien pueden...{:clear }ser de gran ayuda.
+- id: 9012
+  en: >-
+    La sala del ordenador está más allá
+
+    del {:theme 0A}postigo{:reset}. Ve con cuidado.
+- id: 9013
+  en: >-
+    Lo siento. Acabar el programa de
+
+    Erradicación del PCM tardará algo.{:clear }Mientras tanto, id y ayudad a Tron
+
+    {:theme 0A}desde la sala del ordenador{:reset}.
+- id: 9014
+  en: >-
+    León está en el patio interior.
+
+    No os entretengáis, ¿vale?
+- id: 9015
+  en: >-
+    Si vais hacia la derecha y subís las
+
+    escaleras, llegaréis al patio interior.{:clear }Allí hay muchos sincorazón, así
+
+    que preparaos bien en el mercado.
+- id: 9016
+  en: >-
+    Como dije antes, esta ciudad posee
+
+    dispositivos de defensa.{:clear }Pueden ser muy útiles. Luchar junto
+
+    a ellos debería simplificaros las cosas.
+- id: 9017
+  en: >-
+    ¡Nosotros vigilamos a los sincorazón!{:clear }¡Vuestro cometido es enfrentaros
+
+    a ellos! ¡Buena suerte! ♪
+- id: 9018
+  en: >-
+    El PCM está usando la máquina de
+
+    fabricar sincorazón del estudio.{:clear }También tiene el control del sistema
+
+    de defensa. Esto se pone feo.
+- id: 9019
+  en: >-
+    Sé que Pooh y vosotros sois buenos amigos.{:clear }Deberíamos esperar a Merlín, pero me
+
+    gustaría saber si Pooh está bien.
+- id: 12075
+  en: >-
+    Todos arrimáis el hombro para salvar
+
+    lo que consideráis importante.{:clear }Y seguís adelante porque estáis
+
+    juntos. Sería difícil hacerlo solos.
+- id: 12317
+  en: ¡Maléfica! {:delay 64 00}{:clear }{:delay 28 00}{:clear }¡Maléfica!
+- id: 12318
+  en: Puede que sí hayan acabado con ella.
+- id: 12319
+  en: >-
+    Oh, y este castillo no es lo que me
+
+    esperaba. No tiene brillo ni nada.
+- id: 12320
+  en: >-
+    Ah...
+
+    ¿Qué pasará ahora con nuestro plan?
+- id: 12321
+  en: ¡Es Bastión Hueco!
+- id: 12322
+  en: ¡Ahí va! Ahora parece distinto.
+- id: 12323
+  en: Espero que León y su panda estén bien.
+- id: 12324
+  en: >-
+    Oh, oh. Me parece que
+
+    vamos a tener que pelear.
+- id: 12325
+  en: '{:unk06 02}{:unk13 0E 01 54 01}{:unk08 03 00 02}¿¡Tío Gilito!?'
+- id: 12326
+  en: '{:unk13 A5 00 55 00}{:unk08 01 00 06}¿Eh? ¿Quién...?'
+- id: 12327
+  en: >-
+    {:unk13 3B 01 47 00}{:unk08 01 00 07}Es el tío de Donald... ¡un
+
+    magnate de los negocios!{:clear }Antes de aparecer los sincorazón,
+
+    viajaba por los mundos en
+
+    una nave gumi con el rey.{:clear }Estaba ayudando a establecer
+
+    un sistema de tráfico entre mundos.
+- id: 12328
+  en: '{:unk06 02}{:unk13 D7 00 54 01}{:unk08 03 01 01}¡Un sistema de tránsito!'
+- id: 12329
+  en: >-
+    {:unk13 18 01 4B 00}{:unk08 01 00 06}¿Qué es
+
+    ese jaleo?
+- id: 12330
+  en: >-
+    {:unk13 18 01 4B 00}{:unk08 01 00 06}¡Vaya, pero si es Donald!{:clear }¡Y Goofy!
+
+    ¡Hola, muchachos!{:clear }¡Eh, tenéis muy
+
+    buen aspecto!
+- id: 12331
+  en: >-
+    {:unk13 D5 00 55 01}{:unk08 01 01 01}Tú también,
+
+    Tío Gilito.
+- id: 12332
+  en: >-
+    {:unk13 F0 00 F5 00}{:unk08 01 01 01}Ay, no creáis...{:clear }No consigo reproducir
+
+    el sabor de mi viejo helado
+
+    favorito.{:clear }Ganaría una fortuna
+
+    si pudiera...
+- id: 12333
+  en: '{:unk13 54 01 50 00}{:unk08 01 00 05}¡Malísimo!'
+- id: 12334
+  en: ¡Eh! ¿Qué pasa aquí?
+- id: 12335
+  en: Eso es un mecanismo de defensa.
+- id: 12336
+  en: ¡Yuffie!
+- id: 12337
+  en: ¡Cuidado!
+- id: 12338
+  en: ¡Hola, chicos!
+- id: 12339
+  en: Veo que seguís en plena forma.
+- id: 12340
+  en: ¿Qué esperabas? {:delay 55 00}{:clear }{:delay 0A 00}{:clear }Veo que a ti te va muy bien.
+- id: 12341
+  en: ¿Qué te esperabas tú?
+- id: 12342
+  en: ¿Qué tal los demás?
+- id: 12343
+  en: ¡Genial!
+- id: 12344
+  en: >-
+    Oye, Yuffie,
+
+    ¿has visto al rey y a Riku?
+- id: 12345
+  en: No.
+- id: 12346
+  en: >-
+    Pero tenía la sensación
+
+    de que os volvería a ver.
+- id: 12347
+  en: >-
+    "Quizá no volvamos a vernos,
+
+    pero jamás nos olvidaremos."
+- id: 12348
+  en: ¿Se supone que ese era León?
+- id: 12349
+  en: >-
+    Todos están trabajando
+
+    en casa de Merlín. {:delay AF 00}{:clear }{:delay 0A 00}{:clear }¡Vamos!
+- id: 12350
+  en: >-
+    ¡El Comité de Reconstrucción
+
+    de Bastión Hueco!
+- id: 12351
+  en: ¡Cuanto tiempo!
+- id: 12352
+  en: ¡Vaya! ¡Qué bien os veo!
+- id: 12353
+  en: Lo sabía.
+- id: 12354
+  en: ¿Qué sabías?
+- id: 12355
+  en: >-
+    Hace poco, de repente, todos nos
+
+    acordamos de vosotros. Todos a la vez.
+- id: 12356
+  en: >-
+    ¿Os... acordasteis? {:delay 50 00}{:clear }{:delay 0A 00}{:clear }¡Espera! ¿Quieres decir que
+
+    nos habíais olvidado?
+- id: 12357
+  en: ¡Gracias!
+- id: 12358
+  en: ¿Dónde habéis estado todo este tiempo?
+- id: 12359
+  en: Estábamos durmiendo.
+- id: 12360
+  en: Anda que ya os vale.
+- id: 12361
+  en: >-
+    ¡Qué más da! Es estupendo.
+
+    ¡Todos juntos otra vez!
+- id: 12362
+  en: >-
+    Oíd... mm... Estamos buscando a Riku
+
+    y al rey. ¿Los habéis visto?
+- id: 12363
+  en: Ya veo.
+- id: 12364
+  en: >-
+    Lo siento. Pero decidnos si podemos
+
+    ayudar en algo, ¿vale?
+- id: 12365
+  en: Vale. Gracias.
+- id: 12366
+  en: No nos deis las gracias aún.
+- id: 12368
+  en: >-
+    ¿Te refieres a los incorpóreos
+
+    y a los sincorazón?
+- id: 12369
+  en: ¡Exacto!
+- id: 12370
+  en: >-
+    Creo que os vendría
+
+    bien nuestra ayuda.
+- id: 12371
+  en: Entonces, vamos al grano.
+- id: 12372
+  en: >-
+    Sora, Donald, Goofy...{:delay 78 00}{:clear }Esperábamos que los tres pudierais
+
+    echarnos una mano por aquí.
+- id: 12373
+  en: Como que íbamos a negarnos.
+- id: 12374
+  en: '{:delay 83 00}{:clear }Olvidaba con quién estoy hablando.'
+- id: 12375
+  en: ¡Eh! ¿Qué quieres decir con eso?
+- id: 12376
+  en: >-
+    Tómatelo como uno de los
+
+    cumplidos de León.
+- id: 12377
+  en: >-
+    Seguidme hasta el patio interior.
+
+    Hay algo que tenéis que ver.
+- id: 12378
+  en: >-
+    ¡Oh! Imaginaba que erais vosotros.
+
+    ¡Justo a tiempo!
+- id: 12379
+  en: ¡Es Merlín!
+- id: 12380
+  en: >-
+    ¡Sora y sus compañeros
+
+    nos van a ayudar!
+- id: 12381
+  en: ¡Estupendo! ¡Contamos con vosotros!
+- id: 12382
+  en: ¡Hecho!
+- id: 12383
+  en: >-
+    Ah, sí. ¿Les has dado
+
+    las tarjetas, querida?
+- id: 12384
+  en: ¡Oh!
+- id: 12385
+  en: >-
+    Tomad...
+
+    Son para vosotros.{:delay B4 00}{:clear }León pensó que os gustaría tenerlas.
+- id: 12386
+  en: >-
+    ¡Miembro Honorífico del Comité de
+
+    Reconstrucción de Bastión Hueco!
+- id: 12387
+  en: ¡Tarjetas de miembro!
+- id: 12388
+  en: Es genial, ¿eh?
+- id: 12389
+  en: Eh, gracias, León... ¿Eh?
+- id: 12390
+  en: >-
+    ¡Oh, no! ¡Teníamos que estar
+
+    en el patio interior!
+- id: 12391
+  en: Mirad eso.
+- id: 12392
+  en: ''
+- id: 12393
+  en: >-
+    Queremos reconstruir Bastión Hueco
+
+    para que sea como antes. {:delay C3 00}{:clear }{:delay 1E 00}{:clear }Puede que incluso mejor.
+- id: 12394
+  en: >-
+    Queda mucho por hacer,
+
+    pero podremos con todo...
+- id: 12395
+  en: Excepto... con eso.
+- id: 12396
+  en: Y eso.
+- id: 12397
+  en: Es cosa nuestra.
+- id: 12398
+  en: Me alegro de oír eso.
+- id: 12399
+  en: >-
+    Dime, Sora...
+
+    ¿tienes idea de lo que está pasando?
+- id: 12400
+  en: >-
+    Hay un tal Pete que va por ahí
+
+    tramando algo con los sincorazón.
+- id: 12401
+  en: >-
+    Ese no sabe ni hacer
+
+    la "o" con un canuto. {:delay B8 00}{:clear }Los que deben preocuparnos
+
+    son los incorpóreos...
+- id: 12402
+  en: >-
+    ¡Y los de esa
+
+    Organización {XIII} también!
+- id: 12403
+  en: ¿Nos llamabais?
+- id: 12404
+  en: Lo estáis haciendo bien.
+- id: 12405
+  en: ¿Quiénes sois?
+- id: 12406
+  en: Esto es digno de celebración.
+- id: 12407
+  en: >-
+    La llave espada...
+
+    Un arma realmente maravillosa.{:delay FA 00}{:clear }{:delay 37 00}{:clear }Si estuviera en...
+
+    manos más capaces...
+- id: 12408
+  en: ¡Dad la cara!
+- id: 12409
+  en: ¡La Organización {XIII}!
+- id: 12410
+  en: Bien. Así acabaremos con esto.
+- id: 12411
+  en: ¡Qué lástima! {:delay 78 00}{:clear }{:delay 19 00}{:clear }Creía que podríamos ser amigos...
+- id: 12412
+  en: ¡Alto!
+- id: 12413
+  en: ¿¡Qué pretendéis!?
+- id: 12414
+  en: Vaya. Vaya.
+- id: 12415
+  en: ¡Aparta!
+- id: 12416
+  en: ¿Te parece de buena educación{:delay 7D 00}{:clear }{:delay 19 00}{:clear }cerrarme el paso así?
+- id: 12417
+  en: ¡He dicho que te apartes!
+- id: 12420
+  en: >-
+    Verás, eso funcionaría si...
+
+    yo fuera un simple mequetrefe.
+- id: 12429
+  en: ¡Vaya!... {:delay 37 00}{:clear }{:delay 19 00}{:clear }Pues no lo sé.
+- id: 12431
+  en: ¡Espera!
+- id: 12435
+  en: Sí, tienes razón. ¡Solo hay un Sora!
+- id: 12436
+  en: >-
+    ¡El Miembro Honorífico del Comité
+
+    de Reconstrucción de Bastión Hueco!
+- id: 12440
+  en: Ahhh... Ya entiendo.
+- id: 12445
+  en: ¿Creéis que...?
+- id: 12446
+  en: Ahora parece que hay más sincorazón.
+- id: 12447
+  en: ''
+- id: 12448
+  en: Vamos a ver a los demás.
+- id: 12449
+  en: Estarán en casa de Merlín.
+- id: 12450
+  en: >-
+    {:unk13 09 01 46 00}{:unk08 01 00 06}¡Ay! Estaba tan cerca
+
+    de lograr ese sabor...
+- id: 12451
+  en: >-
+    {:unk13 0E 01 46 00}{:unk08 01 00 06}¿Qué hay, muchachos?{:clear }León y sus amigos están
+
+    en la zona residencial.{:clear }Sí, en casa de Merlín.
+- id: 12452
+  en: ¡Ah! ¡Cloud!
+- id: 12453
+  en: ¿Qué haces?
+- id: 12454
+  en: >-
+    Iré a por él.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Le pondré punto y final. {:delay 69 00}{:clear }{:delay 50 00}{:clear }Me enfrentaré a quien personifica
+
+    todo lo oscuro que hay en mí.
+- id: 12456
+  en: Si es así, es por su culpa.
+- id: 12457
+  en: ¿De quién?
+- id: 12458
+  en: Sephiroth.{:delay 41 00}{:clear }{:delay 28 00}{:clear }Avisadme si le veis.
+- id: 12459
+  en: Vale. ¿Qué aspecto tiene?
+- id: 12460
+  en: >-
+    Pelo plateado.
+
+    Lleva una espada larga.
+- id: 12461
+  en: Claro.{:delay 3C 00}{:clear }Bueno, nos vemos, Cloud.
+- id: 12462
+  en: Tened cuidado.
+- id: 12463
+  en: >-
+    Juega con la mente; pensaréis que
+
+    la oscuridad es la única salida.
+- id: 12464
+  en: >-
+    {:unk13 9B 00 46 00}{:unk08 01 01 07}Eh, chicos,
+
+    llegáis justo
+
+    a tiempo.{:clear }Tenemos buenas
+
+    noticias para vosotros.{:clear }Debéis ir a
+
+    ver a León.
+- id: 12465
+  en: '{:unk13 4A 01 91 00}{:unk08 01 00 05}¿Qué noticias?'
+- id: 12466
+  en: >-
+    {:unk13 59 01 46 00}{:unk08 01 00 04}¡Encontramos el
+
+    ordenador que estaba
+
+    usando Ansem!
+- id: 12467
+  en: '{:unk13 A5 00 E6 00}{:unk08 01 00 05}¡Porras!'
+- id: 12468
+  en: >-
+    {:unk13 C4 00 E6 00}{:unk08 01 01 02}Sí. Quizá consigamos acceso a
+
+    información sobre los sincorazón
+
+    y la Organización.
+- id: 12470
+  en: '{:unk13 90 01 AF 00}{:unk08 01 00 05}Y el rey.'
+- id: 12471
+  en: >-
+    {:unk13 18 01 37 00}{:unk08 01 01 06}¡Por qué no vais a verlo
+
+    vosotros mismos!
+- id: 12472
+  en: '{:unk13 FA 00 28 00}{:unk08 01 00 05}¡No muerde!'
+- id: 12473
+  en: '{:unk13 40 01 8C 00}{:unk08 01 00 05}¿Qué quieres decir?'
+- id: 12474
+  en: >-
+    {:unk13 D2 00 32 00}{:unk08 01 01 06}Nada. Id a la sala de ordenadores,
+
+    por el postigo del castillo.{:clear }¡Tened cuidado!
+- id: 12476
+  en: >-
+    Tienen cosas que hacer
+
+    en el postigo del castillo.
+- id: 12477
+  en: ¡Notición!
+- id: 12478
+  en: ¿Eh?
+- id: 12479
+  en: Vamos a informar.
+- id: 12480
+  en: ¿A quién?
+- id: 12481
+  en: ¡A nuestro líder, claro!
+- id: 12482
+  en: Sí, ya sabes, Maléfi...
+- id: 12483
+  en: No le hagáis caso.{:delay 3C 00}{:clear }{:delay 14 00}{:clear }Os aseguro... que venimos en paz.
+- id: 12484
+  en: Mentirosa...
+- id: 12485
+  en: ¿Algún problema?{:delay 3C 00}{:clear }{:delay 39 00}{:clear }Bueno, vale, habla tú.
+- id: 12486
+  en: ¡Siento mucho todo esto!
+- id: 12487
+  en: '{:unk06 02}{:unk13 4A 01 50 00}{:unk08 03 00 05}¡León!'
+- id: 12488
+  en: '{:unk13 64 00 64 00}{:unk08 01 00 05}¡Por aquí!'
+- id: 12489
+  en: >-
+    {:unk13 A0 00 5A 00}{:unk08 01 01 05}¿Habéis encontrado
+
+    el ordenador de Ansem?
+- id: 12490
+  en: >-
+    {:unk13 B4 00 3C 00}{:unk08 01 01 07}Sí. El rey está muy
+
+    interesado en él.
+- id: 12491
+  en: '{:unk13 DC 00 96 00}{:unk08 01 00 05}¿El rey?'
+- id: 12492
+  en: '{:unk13 95 00 2D 00}{:unk08 01 01 06}Está con León.'
+- id: 12493
+  en: >-
+    {:unk06 02}{:unk13 8C 00 91 00}{:unk08 03 01 05}¡Por fin veremos
+
+    al rey!
+- id: 12494
+  en: '{:unk06 02}{:unk13 A4 01 41 00}{:unk08 03 00 05}¡Hurra!'
+- id: 12495
+  en: >-
+    {:unk13 86 01 B8 00}{:unk08 01 00 00}Eh...{:clear }¿Riku está
+
+    con ellos?
+- id: 12496
+  en: >-
+    {:unk13 BE 00 50 00}{:unk08 01 00 06}Bueno, al menos puedo
+
+    preguntarle al rey
+
+    sobre él.{:clear }Y ese ordenador
+
+    tal vez podría
+
+    decirnos algo.
+- id: 12497
+  en: '{:unk13 0E 01 2D 00}{:unk08 01 01 06}¡Buena idea!'
+- id: 12498
+  en: Ansem...
+- id: 12499
+  en: >-
+    ¡Ahí va! Supongo que este
+
+    debe de ser su cuarto.
+- id: 12500
+  en: ¿Dónde está el rey?
+- id: 12501
+  en: ¡Hola!
+- id: 12502
+  en: ¡Vosotros!
+- id: 12503
+  en: >-
+    Estoy buscando a alguien. ¿Habéis
+
+    visto a un tío con el pelo de punta?
+- id: 12504
+  en: '{:delay 32 00}Más de punta.'
+- id: 12505
+  en: Dejadme que eche un vistazo.
+- id: 12506
+  en: Siento las molestias.
+- id: 12507
+  en: No es molestia, señorita.
+- id: 12508
+  en: Ya era hora.
+- id: 12509
+  en: ¡León!
+- id: 12510
+  en: >-
+    {:unk13 4A 01 73 00}{:unk08 01 01 06}¿El rey no
+
+    está contigo?
+- id: 12512
+  en: '{:unk06 02}{:unk13 18 01 C3 00}{:unk08 03 01 06}¡Eh!'
+- id: 12513
+  en: >-
+    {:unk13 37 01 34 00}{:unk08 01 00 05}Bueno, quizá esto calme
+
+    vuestra impaciencia.
+- id: 12514
+  en: >-
+    {:unk13 AA 00 50 00}{:unk08 01 01 06}La sala de ordenadores
+
+    de Ansem.
+- id: 12515
+  en: ¡Aquí está!
+- id: 12516
+  en: ¿Dónde están Kairi... y Riku?
+- id: 12517
+  en: Tranquilo. {:delay 3C 00}{:clear }{:delay 23 00}{:clear }¿Es que quieres romperlo?
+- id: 12518
+  en: Oh... lo siento. {:delay 5A 00}{:clear }{:delay 12 00}{:clear }Creo que me he emocionado.
+- id: 12519
+  en: ¡Baja de ahí!
+- id: 12520
+  en: >-
+    Atención, usuario.
+
+    Esto es una advertencia.{:delay DF 00}{:clear }Si prosigue el mal uso de
+
+    este terminal se accionarán{:delay 78 00}{:clear }medidas defensivas de inmediato.
+- id: 12521
+  en: ¿Quién anda ahí?
+- id: 12522
+  en: Soy el Programa de Control Maestro.{:delay 73 00}{:clear }{:delay 14 00} {:clear }Yo superviso este sistema.
+- id: 12523
+  en: ¿Dónde estás?
+- id: 12524
+  en: ¡Donald!
+- id: 12525
+  en: Perdón...
+- id: 12526
+  en: >-
+    Punto de decisión alcanzado.
+
+    Estáis arrestados.
+- id: 12527
+  en: ¿¡Arrestados!?
+- id: 12528
+  en: ¡Corred!
+- id: 12529
+  en: >-
+    {:unk13 6E 00 78 00}{:unk08 01 00 05}¿Que estáis
+
+    buscando qué?
+- id: 12530
+  en: >-
+    {:unk13 89 00 BB 00}{:unk08 01 01 02}¡Anda!
+
+    ¡Un cuarto secreto!{:clear }Será mejor
+
+    que eche otro
+
+    vistazo.
+- id: 12531
+  en: Con permiso.
+- id: 12532
+  en: Bueno, se acabó.
+- id: 12533
+  en: Mirad.
+- id: 12534
+  en: Tron... no te rindas.
+- id: 12535
+  en: Bueno, ¿por dónde empezamos?
+- id: 12536
+  en: ¡Ya sé! ¡Vamos a acceder al DTD!
+- id: 12537
+  en: >-
+    El rey está comprobando la
+
+    situación en la ciudad.{:delay 78 00}{:clear }Volverá pronto.
+
+    No os preocupéis. {:delay 75 00}{:clear }{:delay 39 00}{:clear }Eh, mirad, nos pide una contraseña.
+- id: 12538
+  en: ¡Eso es fácil! Es...
+- id: 12539
+  en: ¡Sora!
+- id: 12540
+  en: ¡Donald!
+- id: 12541
+  en: ¡Goofy!
+- id: 12542
+  en: Pues... así es.
+- id: 12543
+  en: ¿Y bien?
+- id: 12544
+  en: Magnífico. Entramos.
+- id: 12545
+  en: >-
+    Tengo que ir a la ciudad. {:delay 5F 00}{:clear }{:delay 19 00}{:clear }Quiero ver qué ha hecho
+
+    esa última sacudida.
+- id: 12546
+  en: >-
+    ¿No vas a consultar los datos?
+
+    No han sido nada fáciles de conseguir.
+- id: 12547
+  en: >-
+    Ahora mismo vuelvo. {:delay 46 00}{:clear }{:delay 46 00}{:clear }Eh, Sora... ¿por qué no empiezas
+
+    a cargarlos y a copiarlos?
+- id: 12548
+  en: >-
+    Solo hay que teclear un
+
+    poco. Es fácil, ¿no?
+- id: 12549
+  en: ¿Ha funcionado?
+- id: 12550
+  en: Oye, estas cosas llevan su tiempo.
+- id: 12551
+  en: ¡Oh! {:delay 3C 00}{:clear }¡Está haciendo algo!
+- id: 12552
+  en: ''
+- id: 12553
+  en: >-
+    Creo que quiere saber
+
+    qué estamos buscando.
+- id: 12554
+  en: ¡Riku y Kairi!
+- id: 12555
+  en: '[Error de datos]'
+- id: 12556
+  en: Nada...
+- id: 12557
+  en: >-
+    Ni siquiera el ordenador
+
+    de Ansem lo sabe.
+- id: 12558
+  en: ¿Qué estás haciendo?
+- id: 12559
+  en: >-
+    Le pregunto al ordenador si puede
+
+    hablarnos de esos incorpóreos.
+- id: 12560
+  en: '[Estudios sobre incorpóreos. Informes Ansem.]'
+- id: 12561
+  en: ¿Qué es esto?
+- id: 12562
+  en: Los datos están dañados.
+- id: 12564
+  en: ¿Qué tal la Organización?
+- id: 12565
+  en: ¡Mirad!
+- id: 12566
+  en: ¡Estúpido ordenador!
+- id: 12567
+  en: ¡Sora!
+- id: 12568
+  en: ''
+- id: 12569
+  en: ¿Quién es este tío?
+- id: 12570
+  en: >-
+    Bueno, veo que habéis
+
+    hecho que funcione.
+- id: 12571
+  en: ¡Oh! ¡Majestad!
+- id: 12572
+  en: >-
+    Bien hecho. {:delay 3A 00}{:clear }El ordenador nos dirá todo
+
+    lo que necesitamos saber.
+- id: 12573
+  en: >-
+    Pero siempre dice que los datos
+
+    están todos pachuchos.
+- id: 12574
+  en: >-
+    Solo tenemos la foto de
+
+    un tío que no conocemos.
+- id: 12575
+  en: ¡Ansem el Sabio!
+- id: 12576
+  en: ¿Nos estáis tomando el pelo?
+- id: 12577
+  en: >-
+    ¿Habéis olvidado qué aspecto
+
+    tenía Ansem, Majestad?
+- id: 12578
+  en: ¡Claro que no! Ese es él. {:delay 68 00}{:clear }¡Estoy seguro!
+- id: 12580
+  en: >-
+    Disculpad, ¿podéis venir
+
+    por aquí, por favor?
+- id: 12581
+  en: >-
+    Mirad, este es Ansem. {:delay 78 00}{:clear }{:delay 25 00}{:clear }Ya sabéis, ese al que tanto
+
+    nos costó derrotar.
+- id: 12582
+  en: >-
+    Oh, es verdad.
+
+    No terminé de explicarme.
+- id: 12583
+  en: ''
+- id: 12584
+  en: >-
+    El hombre de la foto es, sin duda, {:delay 7C 00}{:clear }el que intentó hacerse con el reino;{:delay 7C 00}{:clear }a quien vosotros derrotasteis. {:delay 7F 00}{:clear }Pero no luchabais contra él,
+
+    sino contra su sincorazón.{:delay 44 01}{:clear }En realidad no era Ansem; {:delay 8F 00}{:clear }iba por ahí diciéndole a todo
+
+    el mundo que lo era.
+- id: 12585
+  en: Entonces...
+- id: 12586
+  en: ¿Quéeee?
+- id: 12587
+  en: >-
+    ¿Luchamos tanto solo para
+
+    derrotar a un impostor?
+- id: 12589
+  en: ¡No me lo puedo creer!
+- id: 12590
+  en: >-
+    Eh... Me estoy haciendo un lío. {:delay 8C 00}{:clear }Si es un farsante,
+
+    ¿qué le pasó al verdadero Ansem?
+- id: 12591
+  en: >-
+    Bueno, eso es lo que
+
+    intento averiguar.
+- id: 12592
+  en: >-
+    Ansem el Sabio debe de saber todo sobre
+
+    los planes de la Organización {XIII}{:delay FC 00}{:clear }y lo que le está pasando a los mundos.
+- id: 12593
+  en: Estoy seguro de que nos ayudará.
+- id: 12594
+  en: >-
+    ¿Sabéis? Estuve a punto de
+
+    encontrarle una vez...
+- id: 12595
+  en: ''
+- id: 12596
+  en: ¡No me digáis que hay más!{:delay 5A 00}{:clear }{:delay 2E 00}{:clear }¡Ya estoy bastante perdido!
+- id: 12597
+  en: >-
+    Vamos a ver...{:delay 5E 00}{:clear }Un tipo llamado Ansem,
+
+    que no era realmente Ansem,{:delay DE 00}{:clear }se convirtió en un sincorazón.{:delay 74 00}{:clear }Entonces, ¿también se creó
+
+    un incorpóreo cuando pasó eso?
+- id: 12598
+  en: ¡Sí!
+- id: 12599
+  en: >-
+    Y ese incorpóreo es el
+
+    líder de la Organización.
+- id: 12600
+  en: ¿Quéeee?
+- id: 12601
+  en: >-
+    Sé que he visto antes
+
+    a ese Ansem "falso"{:delay 90 00}{:clear }y también he visto al líder
+
+    de la Organización {XIII}.
+- id: 12602
+  en: Era como estar con el mismo tipo.
+- id: 12603
+  en: Pero... ¿dónde visteis a ese tipo?
+- id: 12604
+  en: ¡Vaya! {:delay 32 00}{:clear }{:delay 34 00}{:clear }No me acuerdo.
+- id: 12605
+  en: >-
+    Ansem el Sabio...{:delay 64 00}{:clear }El verdadero Ansem... Él debe de saber
+
+    la verdadera identidad del impostor.{:delay 07 01}{:clear }Por eso tengo que encontrarle
+
+    y preguntárselo.
+- id: 12606
+  en: ¡Tú! {:delay 3C 00}{:clear }{:delay 2D 00}{:clear }¡Tú empezaste todo esto! {:delay 54 00}{:clear }{:delay 4E 00}{:clear }Por tu culpa, Riku y Kairi...
+- id: 12607
+  en: >-
+    {:delay 30 00}{:clear }Majestad...
+
+    ¿sabéis dónde está Riku?
+- id: 12608
+  en: Él... {:delay 3C 00}{:clear }{:delay 54 00}{:clear }Lo siento. {:delay 48 00}{:clear }No sé nada.
+- id: 12609
+  en: ¿De verdad, Majestad? {:delay 42 00}{:clear }{:delay 30 00}{:clear }¿Estáis seguro?
+- id: 12610
+  en: Lo siento, Sora.
+- id: 12611
+  en: >-
+    ¿Y qué pasa con Kairi? {:delay 3C 00}{:clear }{:delay 2A 00}{:clear }¡Quizá la Organización
+
+    la haya secuestrado!
+- id: 12612
+  en: ¡Oh, no!
+- id: 12613
+  en: Sora, Donald, Goofy...
+- id: 12614
+  en: >-
+    Pensaba ir a pedir ayuda
+
+    a Ansem el Sabio, {:delay A8 00}{:clear }{:delay 1C 00}{:clear }pero me he dado cuenta de que
+
+    he olvidado algo muy importante.
+- id: 12615
+  en: >-
+    Ayudar a los demás es más necesario
+
+    que pedir ayuda a los demás.
+- id: 12616
+  en: >-
+    Estamos sanos y salvos...
+
+    ¡y somos libres!
+- id: 12617
+  en: >-
+    Lo principal es prestar ayuda
+
+    a un amigo en apuros.
+- id: 12618
+  en: >-
+    Iremos juntos a buscar
+
+    a Riku y a Kairi.
+- id: 12620
+  en: ¡Algo pasa!
+- id: 12621
+  en: >-
+    ¡Me parece que tendremos que
+
+    empezar a ayudar por aquí!
+- id: 12622
+  en: >-
+    ¡Escuchad, mis sincorazón!{:delay 8A 00}{:clear }¡Atacad a esos pellejos blancos!
+
+    ¡Aniquiladlos!
+- id: 12623
+  en: >-
+    ¿Qué? ¿Estás loca?
+
+    ¡No ganaremos jamás! {:delay B4 00}{:clear }¡No se tú, pero yo me largo!
+- id: 12624
+  en: ¡Eres un cobarde patético!
+- id: 12625
+  en: ''
+- id: 12626
+  en: >-
+    ¡Sincorazón! {:delay 42 00}{:clear }¡Dejad a los blancos!
+
+    ¡Concentraos en Sora y sus amigos!
+- id: 12627
+  en: ¡Oh, oh!
+- id: 12628
+  en: ¿Dónde está Maléfica?
+- id: 12629
+  en: Me parece que ha huido.
+- id: 12630
+  en: >-
+    Pues eso es bastante
+
+    cutre por su parte.
+- id: 12631
+  en: >-
+    Creo que nos hemos
+
+    equivocado de bando.
+- id: 12632
+  en: >-
+    Mmm... Si queréis elegir bando,{:delay 90 00}{:clear }¿por qué no os aliáis con León?
+
+    Siempre necesita ayuda.
+- id: 12633
+  en: ¿Ese tal León tiene algún tesoro?
+- id: 12634
+  en: ¡Sí, montones de cosas!
+- id: 12635
+  en: ¡Perfecto!
+- id: 12636
+  en: Vamos.
+- id: 12637
+  en: ¿Quiénes sois?
+- id: 12638
+  en: Nadie que merezca la pena.
+- id: 12639
+  en: Solo tres fanáticas de los tesoros.
+- id: 12640
+  en: ¡Nos vemos, chicos!
+- id: 12641
+  en: ¿De verdad tiene León un tesoro?
+- id: 12643
+  en: ¡No tenemos tiempo para esto!
+- id: 12644
+  en: ''
+- id: 12645
+  en: ¡Sora, es Sephiroth!
+- id: 12646
+  en: ¿No se supone que Sephiroth es {:delay 74 00}{:clear }la parte oscura del corazón de Cloud?
+- id: 12647
+  en: ¿Cloud os ha contado eso?{:delay D2 00}{:clear }{:delay 2D 00}{:clear }Ya debe de ser consciente de todo.
+- id: 12648
+  en: ¿Qué piensas hacerle?
+- id: 12649
+  en: >-
+    Nada.{:delay 7C 00}{:clear }Cloud es quien
+
+    ansía la oscuridad.
+- id: 12650
+  en: Dijo que tenéis asuntos pendientes.
+- id: 12651
+  en: Ya veo...{:delay 3C 00}{:clear }{:delay 6E 00}{:clear }Quiere volver a verme.
+- id: 12652
+  en: Pues le daré lo que quiere.
+- id: 12653
+  en: >-
+    El último rayo de luz
+
+    es el más difícil... de apagar.
+- id: 12654
+  en: ¡Os ayudaremos!
+- id: 12655
+  en: ¡Sora! ¡Por detrás!
+- id: 12657
+  en: >-
+    El rey está en el patio interior.
+
+    ¡Dirigíos hacia allí!
+- id: 12658
+  en: ¡Entendido!
+- id: 12659
+  en: ''
+- id: 12660
+  en: ¿Crees que podrás con tantos?
+- id: 12661
+  en: Bueno...{:delay 6E 00}{:clear }Será duro si aparece uno más.
+- id: 12662
+  en: '{:delay 87 00}{:clear }Entonces yo me encargaré de él.'
+- id: 12663
+  en: ¿Qué? ¿También pretendes luchar?
+- id: 12664
+  en: ¡Sephiroth!
+- id: 12665
+  en: >-
+    Tengo entendido que
+
+    me estabas buscando.
+- id: 12666
+  en: >-
+    Sí.{:delay 2D 00}{:clear }{:delay 23 00}{:clear }Cuando me libre de ti,
+
+    la oscuridad desaparecerá.
+- id: 12667
+  en: >-
+    ¿Y querrás hacerlo? {:delay 5A 00}{:clear }{:delay 28 00}{:clear }Esa oscuridad surge de
+
+    tus propios recuerdos. {:delay B4 00}{:clear }{:delay 32 00}{:clear }¿Crees que puedes borrar tu pasado?
+- id: 12668
+  en: ¡Calla!
+- id: 12669
+  en: >-
+    Reconócelo. Has dado la espalda al
+
+    presente y vives en el pasado, {:delay 33 01}{:clear }{:delay 28 00}{:clear }porque la luz del presente
+
+    es muy fuerte.
+- id: 12670
+  en: ¡Tú no me conoces!
+- id: 12671
+  en: ¡Cloud!
+- id: 12672
+  en: Lo sé, porque...{:delay A8 00}{:clear }{:delay 25 00}{:clear }yo soy tú.
+- id: 12673
+  en: ¡Cloud! ¡Espera!
+- id: 12674
+  en: ¡León! ¡Chicos! ¡Aguantad!
+- id: 12675
+  en: >-
+    Bien, chicos, tenéis que ir
+
+    a buscar a Riku y a Kairi.
+- id: 12676
+  en: >-
+    ¡León y los otros también
+
+    son nuestros amigos!
+- id: 12677
+  en: >-
+    No te preocupes,
+
+    aquí ya hay mucha ayuda.{:delay 78 00}{:clear }Nosotros nos encargamos
+
+    de esta batalla.
+- id: 12678
+  en: Pero... ¡se lo prometí a León!
+- id: 12679
+  en: ¡Donald! ¡Goofy! {:delay 5A 00}{:clear }¡Coged a Sora y marchaos!
+- id: 12680
+  en: >-
+    Riku, Kairi... dadme
+
+    un poco de tiempo, ¿vale?
+- id: 12681
+  en: ¡Majestad!
+- id: 12682
+  en: >-
+    Entendido. Partiremos en
+
+    busca de Riku y de Kairi.
+- id: 12683
+  en: Bien. ¡Id con ciudado!
+- id: 12684
+  en: ¡Lo mismo digo, Majestad!
+- id: 12685
+  en: ¡Esperad, chicos!
+- id: 12686
+  en: ¡Sora, obedece!
+- id: 12687
+  en: ¡Vendrás con nosotros, te guste o no!
+- id: 12688
+  en: ¡Vamos, Sora! Tienes que ser bueno.
+- id: 12689
+  en: De acuerdo.
+- id: 12690
+  en: ¡Vámonos pitando!
+- id: 12691
+  en: ¡Adelante!
+- id: 12692
+  en: ¡Lo siento, Majestad!
+- id: 12693
+  en: ''
+- id: 12694
+  en: ¡Espero que nos perdonéis!
+- id: 12695
+  en: ¡Eh, chicos, se os ve muy animados!
+- id: 12696
+  en: ¡Date el piro!
+- id: 12697
+  en: >-
+    ¿No estabas tú trapicheando
+
+    en el Inframundo? {:delay CC 00}{:clear }¿Cómo ha entrado un pardillo
+
+    semejante en la Organización {XIII}?
+- id: 12698
+  en: Seguro que ni sabes luchar.
+- id: 12699
+  en: ¡Pero nosotros sí!
+- id: 12700
+  en: >-
+    No hay que juzgar a nadie
+
+    por las apariencias.
+- id: 12701
+  en: >-
+    Uughh... Mira que les dije que
+
+    no me liaran en este marrón...
+- id: 12702
+  en: ¿Quién es este pirado?
+- id: 12703
+  en: >-
+    Recuerda que la Organización está
+
+    compuesta por incorpóreos.
+- id: 12704
+  en: Ya... ¡sin corazón!
+- id: 12705
+  en: >-
+    ¡Sí que tenemos corazón!
+
+    No seáis así...
+- id: 12706
+  en: ¡No nos engañas!
+- id: 12707
+  en: ¡Silencio, traidor!
+- id: 12708
+  en: >-
+    ¿Alguien de la Organización
+
+    quiere ser el próximo?
+- id: 12709
+  en: ¡Eh! ¡Sora!
+- id: 12710
+  en: ¡No les provoques!
+- id: 12711
+  en: >-
+    Sí, tenemos que ayudar
+
+    a nuestros amigos.
+- id: 12712
+  en: Oh. Perdón.
+- id: 12713
+  en: ¡Vámonos!
+- id: 12714
+  en: ¡Ajá! ¡Estáis aquí!
+- id: 12715
+  en: Tenéis muchos amigos a los que ayudar.
+- id: 12716
+  en: >-
+    ¡Así que será mejor unir fuerzas y
+
+    acabar con esta batalla de una vez!
+- id: 12717
+  en: ¡Sí, Majestad!
+- id: 12718
+  en: ¡Cuidado!
+- id: 12719
+  en: ¡Goofy!
+- id: 12720
+  en: No...
+- id: 12721
+  en: >-
+    ¡Ey! ¡Eres el Capitán del rey!
+
+    ¡Tienes que levantarte!
+- id: 12722
+  en: ¡Vamos, despierta!
+- id: 12723
+  en: ¡Goofy, es hora de comer!
+- id: 12724
+  en: ¡Goofy!...
+- id: 12725
+  en: Goofy...
+- id: 12726
+  en: Esto no está sucediendo...{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }No puede ser verdad...{:delay 4B 00}{:clear }{:delay 28 00}{:clear }No puede...
+- id: 12727
+  en: Pagarán por esto.
+- id: 12728
+  en: ¿Estás bien?
+- id: 12729
+  en: Sí, estoy bien, pero...
+- id: 12730
+  en: Oohh... ¡Goofy!
+- id: 12731
+  en: ¡Hola, chicos!
+- id: 12732
+  en: ¡Goofy!
+- id: 12733
+  en: Oye, eso ha dolido un montón.
+- id: 12734
+  en: ¡Ahhh, Goofy!
+- id: 12735
+  en: >-
+    Ay, Majestad, siempre me
+
+    acaban dando en el coco.
+- id: 12736
+  en: ''
+- id: 12737
+  en: ''
+- id: 12738
+  en: Eso duele también.
+- id: 12739
+  en: ¡No vuelvas a hacer eso nunca más!
+- id: 12740
+  en: ¿Eh?
+- id: 12741
+  en: ¿Qué les pasa?
+- id: 12742
+  en: ¡Eh!
+- id: 12743
+  en: ¡Es el tipo ese que no es Ansem!
+- id: 12744
+  en: ¡Quieres decir su incorpóreo!
+- id: 12745
+  en: El líder de la Organización {XIII}...
+- id: 12746
+  en: ¡Un momento! ¡Ahora lo entiendo!
+- id: 12747
+  en: Sabio Ansem,{:delay 54 00}{:clear }vengo a pedir su consejo.
+- id: 12748
+  en: >-
+    Me alegra tener la oportunidad
+
+    de hablar así, amigo mío.{:delay D2 00}{:clear }{:delay 20 00}{:clear }Estoy intrigado con tu hipótesis...{:delay 9C 00}{:clear }y me resulta difícil contener las ansias
+
+    de ponerla a prueba.{:delay 0C 01}{:clear }Aun así...{:delay 48 00}{:clear }me preocupa la
+
+    estabilidad de los mundos.
+- id: 12749
+  en: Sí, a mí también me preocupa.
+- id: 12750
+  en: >-
+    Las puertas que han aparecido...{:delay 78 00}{:clear }{:delay 28 00}{:clear }El lugar que buscan los sincorazón...{:delay 78 00}{:clear }{:delay 46 00}{:clear }Temo que mi investigación
+
+    haya provocado todo esto...
+- id: 12751
+  en: >-
+    Maestro Ansem.{:delay 48 00}{:clear }Con respecto al experimento que
+
+    le presenté el otro día...{:delay 99 00}{:clear }{:delay 18 00}{:clear }con su permiso, quisiera continuar...
+- id: 12752
+  en: >-
+    ¡Lo prohíbo!{:delay 38 00}{:clear }{:delay 29 00}{:clear }Olvida lo dicho de las puertas y
+
+    el corazón de todos los mundos.{:delay C6 00}{:clear }¡Ese lugar no debe ser profanado!
+- id: 12753
+  en: >-
+    Pero, maestro Ansem...
+
+    he estado pensando...
+- id: 12754
+  en: Xehanort...{:delay 50 00}{:clear }{:delay 2D 00}{:clear }Será mejor olvidarse de todo eso.
+- id: 12755
+  en: ¡Ya me acuerdo!{:delay 4E 00}{:clear }¡Es Xehanort!{:delay 3C 00}{:clear }¡El aprendiz de Ansem!
+- id: 12756
+  en: >-
+    ¡El líder de la Organización {XIII}
+
+    es el incorpóreo de Xehanort!
+- id: 12757
+  en: ¡Vamos!
+- id: 12758
+  en: ¡Largaos!
+- id: 12759
+  en: ¡Hay que ir a por Xehanort!
+- id: 12760
+  en: ¡Eso!
+- id: 12761
+  en: ¿Y el rey?
+- id: 12762
+  en: ¡Allí está!
+- id: 12763
+  en: ¡Vamos!
+- id: 12764
+  en: ¡Majestad!
+- id: 12765
+  en: ¡Xehanort!
+- id: 12766
+  en: >-
+    Hace mucho ya que me
+
+    desprendí de ese nombre...
+- id: 12767
+  en: >-
+    ¡Suéltalo, incorpóreo!
+
+    ¿Dónde está Kairi? ¿Y Riku?
+- id: 12768
+  en: No sé nada de ninguna Kairi.{:delay 83 00}{:clear }{:delay 30 00}{:clear }En cuanto a Riku...{:delay 71 00}{:clear }tal vez deberías preguntarle a tu rey.
+- id: 12769
+  en: ¡Alto!
+- id: 12770
+  en: ¡Se ha ido!
+- id: 12771
+  en: Sora... Goofy...
+- id: 12772
+  en: ¿Qué está pasando?
+- id: 12773
+  en: Habéis caído directo en su trampa.
+- id: 12775
+  en: ¿Xemnas?
+- id: 12776
+  en: El individuo que acabáis de ver.{:delay 5A 00}{:clear }{:delay 14 00}{:clear }Su líder.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }¿Lo captas?{:delay 50 00}{:clear }{:delay 2D 00}{:clear }X-E-M, N-A-S.
+- id: 12777
+  en: >-
+    ¿La Organización {XIII} quiere
+
+    librarse de los sincorazón?
+- id: 12778
+  en: ¡Eres muy cortito!
+- id: 12779
+  en: >-
+    Cada sincorazón que abate esa llave
+
+    espada libera un corazón cautivo.
+- id: 12780
+  en: Y eso es lo que la Organización busca.
+- id: 12781
+  en: >-
+    ¿Y qué piensan hacer esos
+
+    tipos con los corazones?
+- id: 12782
+  en: No me chivaré.
+- id: 12783
+  en: ¡Habla!
+- id: 12784
+  en: >-
+    ¡Tú! ¡Tú eres el que ha
+
+    secuestrado a Kairi!
+- id: 12785
+  en: Bingo. Me llamo Axel. ¿Lo captas?
+- id: 12786
+  en: ¿¡Dónde está Kairi!?
+- id: 12787
+  en: Por favor. ¡Dímelo!
+- id: 12788
+  en: Mira, respecto a Kairi...{:delay 64 00}{:clear }{:delay 23 00}{:clear }lo siento.
+- id: 12789
+  en: ¡Axel!
+- id: 12790
+  en: ¡Oh, oh!
+- id: 12791
+  en: >-
+    Nos aseguraremos de que
+
+    reciba el máximo castigo.
+- id: 12793
+  en: >-
+    Si es Kairi lo que te preocupa,
+
+    tranquilo,{:delay A0 00}{:clear }estamos cuidando muy bien de ella.
+- id: 12794
+  en: Llévame con ella.
+- id: 12795
+  en: ¿Tan importante es para ti?
+- id: 12796
+  en: Sí. Más que nada.
+- id: 12797
+  en: Demuéstrame cuánto te importa.
+- id: 12798
+  en: Te lo ruego...
+- id: 12800
+  en: ¡Maldito...!
+- id: 12801
+  en: >-
+    ¿Estás enfadado? ¿Me odias?{:delay B6 00}{:clear }{:delay 43 00}{:clear }Toma esa rabia y dirígela
+
+    hacia los sincorazón.
+- id: 12802
+  en: >-
+    Pobres sincorazón,
+
+    acumulando corazones sin sentido.
+- id: 12803
+  en: >-
+    Sin embargo, ni se imaginan
+
+    el verdadero poder que albergan.
+- id: 12804
+  en: >-
+    La furia de la llave espada
+
+    libera esos corazones,
+- id: 12805
+  en: >-
+    que se concentran en la oscuridad,
+
+    sin dueño, libres...
+- id: 12806
+  en: >-
+    ... hasta acabar formando el Reino
+
+    de los Corazones, Kingdom Hearts.
+- id: 12807
+  en: >-
+    Y cuando llegue ese momento,
+
+    por fin podremos existir realmente.
+- id: 12808
+  en: ¿Pero qué diablos estás farfullando?
+- id: 12809
+  en: ¡Kingdom Hearts me pertenece a mí!
+- id: 12810
+  en: >-
+    El corazón de todos los reinos,
+
+    el corazón de todo lo que vive.
+- id: 12811
+  en: >-
+    ¡Un dominio llamado
+
+    Kingdom Hearts ha de ser solo mío!
+- id: 12812
+  en: ¡Maléfica, no! ¡No más sincorazón!
+- id: 12813
+  en: ¡No acepto órdenes de ti!
+- id: 12814
+  en: Necia...
+- id: 12815
+  en: ¡Oh, no!
+- id: 12816
+  en: >-
+    Yo mantendré a estas criaturas a raya.{:delay A0 00}{:clear }¡Tú idea la forma de
+
+    aniquilarlas para siempre!
+- id: 12817
+  en: ¡Maléfica!
+- id: 12818
+  en: >-
+    No te equivoques.{:delay 64 00}{:clear }{:delay 19 00}{:clear }Ten por seguro que algún
+
+    día me vengaré de ti.
+- id: 12819
+  en: ¡Maléfica!
+- id: 12820
+  en: ¡Márchate!
+- id: 12821
+  en: ¡No acepto órdenes de ti!
+- id: 12822
+  en: ¡Sora! ¡Vamos!
+- id: 12823
+  en: Pero... ¿qué pasa con...?
+- id: 12824
+  en: Veamos... ¿dónde lo dejamos?
+- id: 12825
+  en: ''
+- id: 12826
+  en: ¿De parte de quién estáis vosotros?
+- id: 12827
+  en: >-
+    Los sincorazón siempre se
+
+    alían con el más fuerte.
+- id: 12828
+  en: Bien, Sora.{:delay 3C 00}{:clear }{:delay 18 00}{:clear }Libera más corazones.
+- id: 12829
+  en: ¡No! ¡Los corazones!
+- id: 12830
+  en: >-
+    Puede que todo cuanto hemos hecho...
+
+    no haya servido de nada.{:delay FF 00}{:clear }{:delay 32 00}{:clear }¿¡Qué voy a hacer si no
+
+    puedo usar la llave espada!?
+- id: 12831
+  en: >-
+    ¡Imbéciles!{:delay 54 00}{:clear }¡No se puede confiar
+
+    en vosotros para nada!
+- id: 12832
+  en: ¿Eh?
+- id: 12833
+  en: ¡Sora! ¡Donald! ¡Goofy!
+- id: 12834
+  en: Tranquilo.{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }No sucumbirán tan fácilmente.
+- id: 12835
+  en: Ese elegido de la llave espada...{:delay 71 00}{:clear }{:delay 41 00}{:clear }es un chico con suerte.
+- id: 12836
+  en: Hasta pronto.
+- id: 12837
+  en: ¡Mentirosos!
+- id: 12838
+  en: ¿Qué?
+- id: 12839
+  en: León no tiene ningún tesoro.
+- id: 12840
+  en: Y eso que luchamos por vosotros.
+- id: 12841
+  en: ¿Donald...?
+- id: 12842
+  en: ¡Bueno, tenía que decirles algo!
+- id: 12843
+  en: >-
+    No veo cómo vamos
+
+    a arreglar esto.
+- id: 12844
+  en: Entonces, ¿qué hacemos?
+- id: 12845
+  en: Nos vamos a llevar vuestro tesoro.
+- id: 12846
+  en: ¡Pero si no tenemos nada!
+- id: 12847
+  en: ¿Seguro?
+- id: 12848
+  en: '{:delay 6A 00}¡Vamos a ver!'
+- id: 12849
+  en: ''
+- id: 12850
+  en: ¡Ajá!
+- id: 12851
+  en: ¡Bueno! ¡Está decidido!{:delay 6A 00}{:clear }¡Nos llevamos todos vuestros objetos!
+- id: 12852
+  en: Me estáis tomando el pelo.
+- id: 12853
+  en: ¡Venga ya!
+- id: 12854
+  en: ¡Esto apesta!
+- id: 12855
+  en: ¿No éramos amigos?
+- id: 12856
+  en: Mirad, sentimos el engaño, pero...
+- id: 12858
+  en: >-
+    Así que no estaría bien
+
+    que os quitásemos todo.
+- id: 12860
+  en: ¡Adiós! ¡Buena suerte!
+- id: 12861
+  en: ¿Qué hace Cloud?
+- id: 12862
+  en: Ni idea.
+- id: 12863
+  en: '{:delay 85 00}Por cierto, vosotros tres...{:delay BE 00}{:clear }{:delay 1F 00}{:clear }¿quiénes sois?'
+- id: 12864
+  en: No sé si deberíamos decírtelo.
+- id: 12865
+  en: ¡Vaya!{:delay 30 00}{:clear }{:delay 23 00}{:clear }¡Qué espada más rara llevas ahí!
+- id: 12866
+  en: ¡Es la llave espada!
+- id: 12867
+  en: >-
+    Ya veo...{:delay 38 00}{:clear }{:delay 67 00}{:clear }Así que eso es una llave espada.{:delay 7F 00}{:clear }{:delay 48 00}{:clear }Y supongo que tú debes
+
+    de ser el elegido.
+- id: 12868
+  en: ¿Y qué si lo soy?
+- id: 12869
+  en: >-
+    Me pregunto si cambiará de opinión...
+
+    cuando te derrote.
+- id: 12870
+  en: ¡Qué te parece!
+- id: 12871
+  en: Admito que eres muy hábil...{:delay 90 00}{:clear }{:delay 2B 00}{:clear }pero Cloud es el único...{:delay 7F 00}{:clear }{:delay 34 00}{:clear }que puede eliminarme.
+- id: 12872
+  en: >-
+    {:delay AF 00}{:clear }Dile a Cloud que venga aquí.{:delay 85 00}{:clear }{:delay 37 00}{:clear }Dile que Sephiroth quiere
+
+    ajustar cuentas.
+- id: 12937
+  en: '{:unk13 DF 00 EA 00}{:unk08 01 01 00}Está en las Oscuras Profundidades.'
+- id: 12938
+  en: >-
+    {:unk13 92 00 34 00}{:unk08 01 01 06}Ya veo...{:clear }Pues es hora de que
+
+    terminemos con esto.
+- id: 12939
+  en: '{:unk13 91 00 4B 00}{:unk08 01 01 06}Cloud...'
+- id: 12940
+  en: '{:unk13 A9 00 32 00}{:unk08 01 01 04}No estoy muy seguro...'
+- id: 12941
+  en: >-
+    {:unk13 A5 00 4B 00}{:unk08 01 01 06}Si le ves,
+
+    avísame.
+- id: 12942
+  en: ¿Le has dado mi mensaje?
+- id: 12943
+  en: Tal vez.
+- id: 12944
+  en: >-
+    Siento haberte hecho esperar,
+
+    Sephiroth.
+- id: 12945
+  en: Cloud...{:delay 2D 00}{:clear }{:delay 5E 00}{:clear }Nunca dejarás atrás la oscuridad...
+- id: 12946
+  en: Calla.
+- id: 12947
+  en: Nunca dejarás atrás tu pasado...
+- id: 12948
+  en: ¡Calla!
+- id: 12949
+  en: ¡Cloud! ¡A por él!
+- id: 12950
+  en: ''
+- id: 12952
+  en: ¡Por muchas veces que caiga...{:delay 7E 00}{:clear }{:delay 2D 00}{:clear }tu oscuridad me sigue llamando!
+- id: 12953
+  en: ''
+- id: 12954
+  en: ¡Mentira!
+- id: 12955
+  en: ¡Tifa! ¡No te acerques!
+- id: 12956
+  en: ¿¡Qué dices!?{:delay 32 00}{:clear }{:delay 19 00}{:clear }Quiero ayudarte.
+- id: 12957
+  en: No puedes.{:delay 3C 00}{:clear }{:delay 28 00}{:clear }Jamás abandonará la oscuridad.
+- id: 12958
+  en: >-
+    No tiene por qué. Solo necesita
+
+    a alguien que le rodee de luz.
+- id: 12959
+  en: >-
+    La oscuridad seguirá ahí, Sephiroth...{:delay AE 00}{:clear }pero en un lugar al que
+
+    tú no podrás llegar.
+- id: 12960
+  en: ¿No me digas?
+- id: 12961
+  en: A ver qué puede hacer esa luz tuya.
+- id: 12962
+  en: ¡No!
+- id: 12965
+  en: ¡Cuidado!
+- id: 12967
+  en: Cloud, puedes contar con mi luz.
+- id: 12968
+  en: La luz no va contigo.
+- id: 12969
+  en: Ni siquiera...{:delay 3C 00}{:clear }{:delay 73 00}{:clear }yo lo sé.
+- id: 12970
+  en: ¡Basta!
+- id: 12971
+  en: ¿Eh?
+- id: 12972
+  en: ''
+- id: 12973
+  en: ¿Dónde se han metido?
+- id: 12974
+  en: >-
+    ¿Creéis que han vuelto
+
+    a su propio mundo?
+- id: 12975
+  en: >-
+    Han ido a otra parte...{:delay 69 00}{:clear }{:delay 5A 00}{:clear }Cloud ha ido a librar
+
+    una gran batalla...{:delay 78 00}{:clear }{:delay 2D 00}{:clear }contra la oscuridad de su interior.
+- id: 12976
+  en: Se ha vuelto a ir.
+- id: 12977
+  en: ¿Qué vas a hacer ahora?
+- id: 12978
+  en: '{:delay 93 00}Supongo que seguir buscando.'
+- id: 12980
+  en: No te preocupes.{:delay 37 00}{:clear }{:delay 2D 00}{:clear }La luz es fácil de encontrar.
+- id: 12981
+  en: Me voy.{:delay 30 00}{:clear }{:delay 0F 00}{:clear }Tomad, esto es por ayudarme.
+- id: 12982
+  en: >-
+    Pero... espera...
+
+    ¿cuándo te hemos ayudado?
+- id: 12983
+  en: ''
+- id: 12988
+  en: ¿Habéis visto a Sephiroth?
+- id: 12989
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Hablar sobre Sephiroth?
+
+    {:chardelay 0A 00}No, no debería.
+
+    {:chardelay 09 00}¡Por supuesto!
+- id: 12990
+  en: >-
+    Olvidamos tantas cosas.
+
+    A vosotros, la ciudad...{:clear }Ahora ya las recordamos. Las cosas
+
+    queridas siempre quedan en el corazón.
+- id: 12995
+  en: >-
+    Puedo sentirlo en mi corazón.{:clear }Sephiroth...
+
+    sé que estás cerca.
+- id: 12996
+  en: >-
+    Dile a Cloud que venga aquí, que
+
+    Sephiroth quiere arreglar unos asuntos.
+- id: 12997
+  en: >-
+    Aquí tampoco está. Sin embargo,
+
+    siento que estoy cerca.{:clear }Seguro que le voy pisando los
+
+    talones. Pronto le alcanzaré.
+- id: 13019
+  en: >-
+    ¡Riquezas! ¡Riquezas!
+              ¡Soy tan feliz! ♪{:clear }... ¡Ah! ¿¡Tú!?
+- id: 13020
+  en: >-
+    ¡Eh, Rikku! Deja de cantar
+
+    y escucha...{:clear }... ¿Eh? ¿¡Tú!?
+- id: 13872
+  en: '{:unk13 FA 00 2D 00}{:unk08 01 00 05}Pronto le veréis.'
+- id: 13963
+  en: >-
+    No me interesa lo que le pase a
+
+    este mundo.{:clear }Además, no creo que necesites más
+
+    ayuda de la que ya tienes.
+- id: 14151
+  en: >-
+    Pensé que sería más sabroso...
+
+    No logro dar con el sabor justo.{:clear }Si pudiera hacer ese helado,
+
+    sé que a todos les encantaría.{:clear }¡Y yo ganaría una fortuna!
+- id: 14247
+  en: >-
+    {:unk13 D2 00 37 00}{:unk08 01 00 06}¡Santas gaitas!
+
+    ¡Lo he logrado!{:clear }¡He vuelto a conseguir el
+
+    ‛Helado de sal marina’!
+- id: 14248
+  en: >-
+    {:unk13 72 01 8C 00}{:unk08 01 00 06}¡Mmm!
+
+    ¿Podemos probarlo?
+- id: 14249
+  en: '{:unk13 FF 00 41 00}{:unk08 01 00 05}¡Por supuesto!'
+- id: 14250
+  en: '{:unk06 02}{:unk13 45 01 32 00}{:unk08 03 00 05}¡Porras! ¡Está bueno!'
+- id: 14251
+  en: '{:unk06 02}{:unk13 13 01 3F 00}{:unk08 03 00 05}¡Qué salado!'
+- id: 14252
+  en: '{:unk13 A4 01 6E 00}{:unk08 01 00 06}¡Y dulce!'
+- id: 14253
+  en: >-
+    {:unk13 C8 00 78 00}{:unk08 01 00 05}Sí. ¡Es único!{:clear }Cuando era un muchacho, a
+
+    todos los críos nos encantaba.
+- id: 14294
+  en: >-
+    Puede que todo cuanto hemos hecho...
+
+    no haya servido de nada.{:delay FF 00}{:clear }{:delay 32 00}{:clear }¿¡Qué voy a hacer si no
+
+    puedo usar la llave espada!?
+- id: 14295
+  en: ¡Imbéciles!{:delay 54 00}{:clear }¡No se puede confiar en vosotros para nada!
+- id: 14296
+  en: ¿Eh?
+- id: 14297
+  en: ''
+- id: 14672
+  en: >-
+    Sí, un farsante. Pero había que
+
+    detenerle de todas formas.
+- id: 14755
+  en: >-
+    Bastión Hueco tiene un problema...
+
+    y muy gordo.
+- id: 15149
+  en: >-
+    ¡Más quisieras! Puedes decir lo que
+
+    quieras, pero eso no cambiará nada.
+- id: 15150
+  en: ¡Pues te apartaremos por las malas!
+- id: 15151
+  en: >-
+    Pero no lo soy. Estoy con la
+
+    Organización y no me dais ningún miedo.
+- id: 15152
+  en: >-
+    ¡Ja! {:delay 22 00}{:clear }¡Gran discurso para alguien
+
+    que se queda al margen mientras {:delay 7E 00}{:clear }los incorpóreos luchan por él!
+- id: 15153
+  en: >-
+    Vaya, vaya. {:delay 46 00}{:clear }{:delay 19 00}{:clear }Os habéis llevado una
+
+    impresión equivocada.
+- id: 15154
+  en: ¿Y vas a llorar?
+- id: 15155
+  en: >-
+    ¡Más quisieras!{:delay 3C 00}{:clear }¿Y si te recuerdo lo duros que son
+
+    aquellos a los que os enfrentáis?
+- id: 15156
+  en: ¿Recordarme?
+- id: 15157
+  en: '{:delay B0 00}{:clear }Así es. Él solía poner esa misma cara.'
+- id: 15158
+  en: >-
+    Supongo que crees que puedes ponerme
+
+    nervioso diciendo cosas a lo loco.
+- id: 15159
+  en: ¡Portaos bien!
+- id: 15160
+  en: ¡Porras! ¡Se ha escapado!
+- id: 15161
+  en: ¡Qué extraño! {:delay 4B 00}{:clear }{:delay 23 00}{:clear }¿Qué es eso de "la misma cara"?
+- id: 15162
+  en: >-
+    Eh, yo creo que solo
+
+    intentaba confundirte.
+- id: 15163
+  en: ¿Eh?
+- id: 15164
+  en: ¿Qué es esto?
+- id: 15165
+  en: ¿No será...?
+- id: 15166
+  en: >-
+    Puede que haya abierto la puerta
+
+    como dijo Yen Sid.
+- id: 15167
+  en: ¡Vaya!
+- id: 15168
+  en: Lo siento, León, {:delay 69 00}{:clear }{:delay 1E 00}{:clear }pero los demás mundos nos llaman.
+- id: 15169
+  en: >-
+    La Organización {XIII}...{:delay 64 00}{:clear }{:delay 50 00}{:clear }Parecen muy duros.
+
+    Tened cuidado por ahí fuera.
+- id: 15170
+  en: Hasta pronto.
+- id: 15173
+  en: >-
+    {:unk13 A0 00 E3 00}{:unk08 01 01 02}¿Y también algo sobre el
+
+    Reino de la Oscuridad?{:clear }Parece que allí es
+
+    donde están Riku y Kairi.
+- id: 15174
+  en: '{:unk13 9A 01 BE 00}{:unk08 01 00 05}Porras...'
+- id: 15175
+  en: >-
+    {:unk13 91 00 37 00}{:unk08 01 01 06}Iremos a ver a
+
+    Tron.
+- id: 15255
+  en: Sí que hay algo oscuro en ti, Cloud...
+- id: 15256
+  en: ¿Ocurre algo?
+- id: 15257
+  en: Ehh...
+- id: 15258
+  en: No es nada.
+- id: 15259
+  en: ''
+- id: 15260
+  en: No te metas en esto.
+- id: 15261
+  en: >-
+    Querrás decir que no me quieres
+
+    a tu lado cuando te marches.
+- id: 15263
+  en: ¿En serio?
+- id: 15264
+  en: Sí.
+- id: 15265
+  en: >-
+    ¿Ves? No pareces muy seguro. {:delay 91 00}{:clear }{:delay 64 00}{:clear }Bueno, vale, lo comprendo.
+
+    Vete. Haz lo que debas.
+- id: 15266
+  en: ¿Eh?
+- id: 15267
+  en: Por muy lejos que estés de aquí,{:delay 70 00}{:clear }{:delay 4D 00}cuando halles tu luz... {:delay 51 00}{:clear }{:delay 37 00}{:clear }seguro que te guiará de vuelta...{:delay 7A 00}{:clear }{:delay 4F 00}¿Verdad?
+- id: 15268
+  en: Supongo.
+- id: 15269
+  en: Pues yo me quedaré aquí...{:delay 51 00}{:clear }{:delay 37 00}{:clear }y pensaré en ti.{:delay 70 00}{:clear }{:delay 46 00}¿Vale, Cloud?
+- id: 15270
+  en: Vale.
+- id: 15271
+  en: ¿Crees que le irá bien?
+- id: 15272
+  en: Le irá bien.{:delay 33 00}{:clear }{:delay 5C 00}{:clear }Seguro que aún conserva algo de luz.
+- id: 15273
+  en: Tienes razón.
+- id: 15278
+  en: >-
+    Es que... {:delay 32 00}{:clear }{:delay 78 00}{:clear }Escucha, aunque me
+
+    vaya lejos, volveré.
+- id: 15610
+  en: >-
+    Me alegra que todos estén bien,
+
+    pero aún no podemos detenernos.{:clear }¡Por lo que más queráis,
+
+    debemos mantenernos unidos!
+- id: 15774
+  en: >-
+    Vamos, es todo un montaje
+
+    de la Organización {XIII}.
+- id: 15775
+  en: >-
+    Xemnas os está utilizando
+
+    para destruir a los sincorazón.{:delay D2 00}{:clear }Ese es su plan maestro.
+- id: 15963
+  en: Olvídalo.
+- id: 15964
+  en: >-
+    León nos lo ha contado todo.{:delay 62 00}{:clear }{:delay 24 00}{:clear }Dice que vuestro viaje
+
+    ha sido bastante duro.
+- id: 15965
+  en: ¡Os vamos a animar!
+- id: 15966
+  en: ¡Tomad, esto es un regalo!
+- id: 15967
+  en: >-
+    Perdonad, ¿sois del
+
+    Comité de Reconstrucción?
+- id: 15968
+  en: ¿Qué trama la pandilla de León?
+- id: 16056
+  en: >-
+    {:unk13 B2 00 39 00}{:unk08 01 01 07}Están justo
+
+    por allí.
+- id: 16057
+  en: ¿Qué sitio es este?
+- id: 16058
+  en: ¡El Reino de la Oscuridad!
+- id: 16059
+  en: ¡Kairi! ¡Riku!
+- id: 16060
+  en: ¿¡Quién anda ahí!?
+- id: 16061
+  en: ¿Qué es esto?
+- id: 16062
+  en: ¿Seguro que quieres abrir...
+- id: 16063
+  en: '... eso?'
+- id: 16064
+  en: >-
+    ¡Ahí va!
+
+    Es la panda de Villa Crepúsculo.{:delay B8 00}{:clear }Están Hayner, Pence, Olette...{:delay 91 00}{:clear }Y, ehm...
+- id: 16065
+  en: Roxas.
+- id: 16066
+  en: ¿Le conoces?
+- id: 16067
+  en: >-
+    No...{:delay 2D 00}{:clear }{:delay 2F 00}{:clear }Me ha venido ese nombre de repente.
+
+    Él es... Roxas.
+- id: 16068
+  en: ¿Seguro que quieres comerte...
+- id: 16069
+  en: '... eso?'
+- id: 16070
+  en: ¿Salado?...{:delay 50 00}{:clear }{:delay 14 00}{:clear }¡No!... ¡Dulce!
+- id: 16071
+  en: >-
+    ¡Aún no!
+
+    ¡Tengo que buscar a Kairi!
+- id: 16072
+  en: ¿Sabes adónde ir?
+- id: 16750
+  en: ¡León ha caído! ¡Usa Sanar para despertarlo!
+- id: 17002
+  en: Un retrato de Ansem.
+- id: 17003
+  en: >-
+    Un retrato del hombre al que
+
+    confundiste con Ansem.
+- id: 17004
+  en: Un retrato de Xehanort.
+- id: 17005
+  en: >-
+    El garabato dice
+
+    ‛Door to Darkness’.
+- id: 17006
+  en: No sabes para qué sirve este aparato.
+- id: 17007
+  en: Este aparato te permite ver a Tron.
+- id: 17008
+  en: Está cerrada con un sistema especial.
+- id: 17624
+  en: >-
+    {:unk0f 03 64 00 59 01}{:color #00F0F080}Se ha agregado el comando Magia.{:reset}
+
+    Al usar magia, consumes PM en el
+
+    indicador de la parte inferior derecha.{:clear }{:unk0f 00 00 00 00 00}Para usar accesos directos, pulsa {:unk16 0B}.
+
+    Al acabarse, los PM se recuperan en los
+
+    círculos de luz o después de un tiempo.
+- id: 17625
+  en: >-
+    {:unk0f 03 64 00 59 01}{:color #00F0F080}Se ha agregado el comando Invocar.{:reset}
+
+    Al usarlo, el indicador de Fusión se convierte en el de Invocar.{:clear }{:unk0f 00 00 00 00 00}El personaje invocado reemplaza al resto del grupo.
+
+    Prueba las diferentes acciones que aparecen
+
+    con cada invocación.
+- id: 17626
+  en: >-
+    {:unk0f 01 02 01 96 00}En las ciudades, habla con los Moguris.
+
+    Pueden fabricar objetos con varios materiales.{:clear }{:unk0f 00 00 00 00 00}Recoge los materiales necesarios
+
+    para la fabricación de objetos.
+- id: 17845
+  en: ¡Derrota a todos los enemigos!
+- id: 17846
+  en: >-
+    ¡Vence a todos los enemigos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 17863
+  en: >-
+    Si nos separamos, como ya pasó, no
+
+    podremos ayudarnos mutuamente.{:clear }En momentos así, ¡no debemos
+
+    dar tregua a nuestros enemigos!
+- id: 17864
+  en: >-
+    ¡Vaya! No sé qué ha ocurrido,
+
+    ¡pero siento haberos preocupado!{:clear }¿Qué sucederá ahora? ¡Debemos
+
+    estar preparados para lo que sea!
+- id: 17865
+  en: >-
+    ¡Qué carácter tiene esa chiquilla!
+
+    Creí que iba a destrozarlo todo.{:clear }Aunque quizá haya roto algo.
+
+    ¿Podrías ir a revisar el estudio?
+- id: 17866
+  en: >-
+    ¡El rey se ha adelantado solo!
+
+    ¡Tenemos que ir tras él! ¡Deprisa!
+- id: 17867
+  en: >-
+    Esa explosión vino de afuera, ¿no?
+
+    ¡Debe de estar pasando algo terrible!{:clear }Me temo que será una larga batalla.
+
+    ¿Estás preparado, Sora?
+- id: 17868
+  en: >-
+    Hay quien, si tiene la oportunidad,
+
+    puede convertirse en héroe.{:clear }Nunca pierdas tu coraje ni tu
+
+    compasión por los otros, Sora.
+- id: 17869
+  en: >-
+    Una vez que el programa de Cid esté
+
+    listo, lo enviaré desde el {:theme 0A}estudio{:reset}.{:clear }Pero, si perdemos a Tron, será inútil.
+
+    Ve y ayúdale, Sora.
+- id: 17870
+  en: >-
+    Parece que has crecido un montón
+
+    este último año.{:clear }No me refiero solo a tu cuerpo.
+
+    Te has vuelto aún más fuerte.{:clear }Ese es el Sora que conozco.
+- id: 17871
+  en: >-
+    El sistema de defensa ha sido restaurado
+
+    y nos hemos ocupado del PCM.{:clear }Ahora debéis continuar vuestro viaje.
+
+    Si nos necesitáis, contad con nosotros.
+- id: 17872
+  en: >-
+    ¡Va a ser genial ser del Comité de
+
+    Reconstrucción del Vergel Radiante!{:clear }¡No veo la hora! Atentos, ciudadanos.
+
+    ¡Aquí viene la gran ninja Yuffie!
+- id: 17919
+  en: Todo eso me da igual.
+- id: 17920
+  en: >-
+    Déjame entrar en el
+
+    Reino de la Oscuridad, ¿vale?
+- id: 17927
+  en: >-
+    ¿Ya le has encontrado?
+
+    Me alegro de que esté bien.{:clear }Creo que si uno busca lo suficiente,
+
+    siempre da con lo que quiere.{:clear }¿Por dónde debería seguir ahora?
+- id: 17928
+  en: >-
+    Últimamente tenemos muchos
+
+    problemas.{:clear }Mira esa extraña máquina de mi
+
+    cuarto. ¡Arruina el ambiente!
+- id: 17929
+  en: >-
+    La magia es muy útil y puede
+
+    combinarse con otras acciones.{:clear }Muchos son capaces de usar
+
+    magia, así que no olvides practicar.
+- id: 17930
+  en: >-
+    Dicen que la ciudad puede ser
+
+    reconstruida sin ordenadores.{:clear }Merlín estaba en contra de ellos.
+
+    Decía que interferían en todo.
+- id: 17931
+  en: >-
+    León estaba preocupado por vosotros.
+
+    No dijo nada, pero era evidente.{:clear }¡Ja! ¡No entiendo por qué los hombres
+
+    siempre ocultan sus sentimientos!
+- id: 17932
+  en: >-
+    Veo que estáis todos más
+
+    animados que nunca.{:clear }Mantened la calma, amigos.
+
+    Recordad que esto no es un juego.
+- id: 17933
+  en: >-
+    Existen muchas armas extrañas.
+
+    Algunas destinadas a los elegidos.{:clear }Esas armas están fuertemente
+
+    ligadas a sus amos.{:clear }Tú y tu llave espada
+
+    sois una muestra.
+- id: 17934
+  en: >-
+    Tron ya está bien y la reconstrucción
+
+    de la ciudad sigue en marcha.{:clear }Cuando la ciudad esté restaurada,
+
+    haremos una fiesta en vuestro honor.
+- id: 17935
+  en: >-
+    Protegeremos la ciudad.
+
+    Tú ve tras el jefe enemigo.{:clear }No te preocupes.
+
+    ¡Confía en mí, muchacho!
+- id: 17936
+  en: >-
+    Hay demasiados enemigos hasta para
+
+    León. Tenéis que echarle una mano.{:clear }Podéis llegar hasta él a través de la
+
+    pared rota del patio interior. ¡Deprisa!
+- id: 17937
+  en: >-
+    ¡Vosotros sí que sabéis pelear!
+
+    ¡También mi ninjutsu es poderoso!{:clear }¡Mirad! Hiiiioh... Un momento. Si
+
+    hiciera eso, podría derribar la casa.
+- id: 17938
+  en: >-
+    ¿¡Qué está pasando!? ¿Tendrá
+
+    algo que ver con esos programas?{:clear }Si es así, id por ese terminal y
+
+    arregladlo con Tron.
+- id: 17939
+  en: >-
+    ¡La ciudad entera está temblando!
+
+    Sora, ¿qué ocurre ahí dentro?
+- id: 18015
+  en: >-
+    Así que te importa de verdad.
+
+    En tal caso...
+- id: 18016
+  en: La respuesta es no.
+- id: 18017
+  en: Absurdo.
+- id: 18018
+  en: >-
+    Nada ganarás derrotándome.
+
+    Tú lo sabes mejor que nadie, Cloud.
+- id: 18074
+  en: >-
+    Mmm.
+
+    Aquí tampoco está.{:clear }Bueno, no voy a dejar que
+
+    se oculte de mí siempre.
+- id: 18075
+  en: >-
+    He puesto el libro en el estante.{:clear }¿Por qué tardará tanto Merlín?
+
+    Espero que Pooh esté bien.
+- id: 18076
+  en: >-
+    Hablaré con Merlín. Tú ve a ver
+
+    qué ha pasado dentro del libro.{:clear }Ha recibido una buena sacudida.
+
+    Ojalá que Pooh y los otros estén bien.
+- id: 18225
+  en: Esto son notas sobre la oscuridad.
+- id: 18226
+  en: >-
+    Esto son notas sobre
+
+    los corazones del mundo.
+- id: 18227
+  en: >-
+    Esto son notas sobre
+
+    las conexiones entre mundos.
+- id: 18228
+  en: >-
+    Esta tubería suministra energía
+
+    a la ciudad.
+- id: 18229
+  en: >-
+    Puedes ver el Valle del Villano,
+
+    donde vivía Maléfica.
+- id: 18230
+  en: >-
+    Ante ti se extiende una
+
+    profunda garganta.
+- id: 18231
+  en: >-
+    Esta máquina controla el sistema
+
+    de seguridad de la pared.
+- id: 18232
+  en: Esta grúa se usa para reconstruir la ciudad.
+- id: 18233
+  en: >-
+    Con este hielo se podrían
+
+    hacer buenos helados.
+- id: 18234
+  en: >-
+    Aquí se guardan materiales de
+
+    construcción.
+- id: 18235
+  en: Esta tienda es un refrigerador gigante.
+- id: 18236
+  en: Un plano de la red eléctrica de la ciudad.
+- id: 18237
+  en: Planos del sistema de defensa.
+- id: 18238
+  en: >-
+    Este ordenador ha sido modificado
+
+    para uso personal de Cid.
+- id: 18239
+  en: Una pizarra para reuniones de estrategia.
+- id: 18240
+  en: Hay cabellos de la barba de Merlín.
+- id: 18241
+  en: >-
+    Esta máquina se usa para
+
+    estudios de magia.
+- id: 18242
+  en: >-
+    La maleta preferida de Merlín.
+
+    Muy espaciosa.
+- id: 18243
+  en: >-
+    Un diario sobre los mundos que
+
+    Merlín ha visitado y sobre el futuro.
+- id: 18244
+  en: >-
+    En este libro, se describen con detalle
+
+    los hechizos creados por Merlín.
+- id: 18245
+  en: >-
+    Este es el armario que Merlín
+
+    siempre reduce de tamaño.
+- id: 18708
+  en: >-
+    ¡Demyx te ha desafiado a una serie de
+
+    pruebas! ¡Supéralas y enfréntate a él!
+- id: 18709
+  en: >-
+    ¡Válete de todas tus estrategias y habilidades
+
+    para vencer a Sephiroth!
+- id: 18836
+  en: >-
+    {:unk13 FA 00 3C 00}{:unk08 01 01 06}Un momento, Sora.{:clear }¿Qué hay de
+
+    tu magia?
+- id: 18837
+  en: '{:unk13 18 01 64 00}{:unk08 01 00 05}¿Eh?{:clear }Ah, pues la verdad...'
+- id: 18838
+  en: >-
+    {:unk13 C8 00 46 00}{:unk08 01 01 07}¡Tal vez te hayas
+
+    olvidado mientras
+
+    dormías!
+- id: 18839
+  en: >-
+    {:unk13 AA 00 46 00}{:unk08 01 01 07}Ay, ¿qué haré contigo?{:clear }Bueno, tendré que
+
+    prestarte algunos
+
+    hechizos.{:clear }¡Pero debes tener
+
+    cuidado!
+- id: 18840
+  en: >-
+    {:unk13 AC 00 53 00}{:unk08 01 01 05}¡Gracias,
+
+    Merlín!
+- id: 18841
+  en: >-
+    {:unk13 68 01 D2 00}{:unk08 01 00 05}¡Al patio interior,
+
+    y rápido!
+- id: 18842
+  en: >-
+    {:unk13 BB 00 48 00}{:unk08 01 00 06}¡Ah! Una cosa más.{:clear }Sora, deja que otorgue nuevos
+
+    poderes a tus prendas.
+- id: 18843
+  en: '{:unk13 F0 00 64 00}{:unk08 01 01 06}¿¡En serio!?'
+- id: 18844
+  en: >-
+    {:unk13 A9 00 4C 00}{:unk08 01 00 06}¡Pues claro!{:clear }Has hecho tantas cosas...
+
+    Considéralo una muestra
+
+    de agradecimiento.
+- id: 18845
+  en: >-
+    {:unk13 A0 00 4B 00}{:unk08 01 01 07}¡Gracias, Majestad!{:clear }Ahora tenemos que
+
+    reunirnos con Tron.{:clear }¿Podríais esperarnos
+
+    aquí?
+- id: 18846
+  en: >-
+    {:unk13 DE 00 4E 00}{:unk08 01 00 05}Lo haré, Sora.
+
+    Y recuerda: ¡ten cuidado!
+- id: 18847
+  en: >-
+    {:unk13 18 01 46 00}{:unk08 01 01 06}Ahora bien, el libro no es
+
+    lo único valioso...{:clear }Esto es para ti, Sora.
+- id: 18848
+  en: '{:unk13 FA 00 5A 00}{:unk08 01 00 05}¿Qué es?'
+- id: 18849
+  en: >-
+    {:unk13 A0 00 46 00}{:unk08 01 01 06}Basta con que te concentres
+
+    en esto con todo tu
+
+    corazón...{:clear }y con solo nombrarlo
+
+    podrás invocar
+
+    a un aliado...{:clear }para que te ayude en
+
+    los momentos difíciles.
+- id: 18850
+  en: >-
+    {:unk13 DC 00 46 00}{:unk08 01 00 05}¿Como lo hacían Simba y Mushu
+
+    la última vez que estuvimos aquí?
+- id: 18851
+  en: >-
+    {:unk13 C8 00 3C 00}{:unk08 01 01 06}Exactamente.{:clear }¡Ahora, tú y tus amigos
+
+    debéis seguir adelante!
+- id: 18852
+  en: >-
+    {:unk13 DC 00 46 00}{:unk08 01 00 06}Gracias, Merlín.{:clear }Estamos preocupados por Pooh,
+
+    así que volveremos en cuanto
+
+    encontremos las páginas arrancadas.
+- id: 18908
+  en: >-
+    He inventado un nuevo producto:
+
+    un monopatín. ¿Quieres ver cómo anda?
+- id: 18909
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Qué oportuno. ¿Lo pruebas?
+
+    {:chardelay 33 00}No, estoy muy ocupado.
+
+    {:chardelay 52 00}Claro, ¿por qué no?
+- id: 18910
+  en: >-
+    No consigo el sabor del helado, pero
+
+    al menos mis monopatines van bien.
+- id: 18911
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Qué oportuno. ¿Otra vez?
+
+    {:chardelay 33 00}No, estoy muy ocupado.
+
+    {:chardelay 52 00}Claro, ¿por qué no?
+- id: 18912
+  en: >-
+    Necesito mejorar mi monopatín.
+
+    ¿Podrías ayudarme?
+- id: 18913
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Quieres probar el monopatín?
+
+    {:chardelay 33 00}No, estoy muy ocupado.
+
+    {:chardelay 52 00}Claro, ¿por qué no?
+- id: 19322
+  en: >-
+    ¿Tienes alguna página del libro de
+
+    Pooh? Están esparcidas por los mundos.{:clear }¡Encuéntralas todas! Sé que Pooh
+
+    y sus amigos te importan mucho.
+- id: 19323
+  en: >-
+    ¿¡Qué está pasando!? ¡La ciudad está
+
+    infestada de incorpóreos y sincorazón!{:clear }León y los otros han ido al patio
+
+    interior. ¡Vayamos a buscarlos!
+- id: 19324
+  en: >-
+    Así que ese era Sephiroth.
+
+    Se parece un poco a Cloud.{:clear }Me gustaría avisarle, pero
+
+    antes hay que ayudar a los demás.
+- id: 19566
+  en: >-
+    Esto son notas sobre el
+
+    corazón humano.
+- id: 19748
+  en: Bastión Hueco
+- id: 19860
+  en: Maléfica quiere apoderarse del castillo...
+- id: 19864
+  en: ¡No puede seeeeer!
+- id: 19871
+  en: '[Gracias.]'
+- id: 19889
+  en: '[¡Gracias!]'
+- id: 20173
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Xemnas a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A1 00}¡A luchar toca!
+- id: 20174
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Xigbar a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A2 00}¡A luchar toca!
+- id: 20175
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Xaldin a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A3 00}¡A luchar toca!
+- id: 20176
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Vexen a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A4 00}¡A luchar toca!
+- id: 20177
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Lexaeus a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A5 00}¡A luchar toca!
+- id: 20178
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Zexión a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A6 00}¡A luchar toca!
+- id: 20179
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Saïx a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A7 00}¡A luchar toca!
+- id: 20180
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Axel a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A8 00}¡A luchar toca!
+- id: 20181
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Demyx a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay A9 00}¡A luchar toca!
+- id: 20182
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Luxord a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay AA 00}¡A luchar toca!
+- id: 20183
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Marluxia a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay AB 00}¡A luchar toca!
+- id: 20184
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Larxene a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay AC 00}¡A luchar toca!
+- id: 20185
+  en: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+    fuerte de Roxas a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay AD 00}¡A luchar toca!
+- id: 20239
+  en: >-
+    Un dispositivo de control y almacenamiento
+
+    de datos. El corredor se ha abierto.
+- id: 20337
+  en: >-
+    No es posible seguir por aquí.
+
+    Habrá que buscar otro camino.
+- id: 20358
+  en: Ha pasado mucho tiempo, "viejo amigo".
+- id: 20541
+  en: Usa ataques potentes para abrir las válvulas. ¡Tienes que abrir las tres a la vez!
+- id: 20543
+  en: >-
+    ¡Vence a Vexen de la Organización {XIII}!
+
+    Rompe su escudo para poder dañarle.
+
+    ¡Evita los círculos o robará tus datos!
+- id: 20544
+  en: >-
+    ¡Vence a Zexión de la Organización {XIII}!
+
+    ¡No pierdas de vista su libro mágico!
+- id: 20545
+  en: >-
+    ¡Vence a Marluxia de la Organización {XIII}!
+
+    Pierdes si el contador sobre la cabeza
+
+    llega a cero con los golpes de guadaña.
+
+    ¡Aprovecha los comandos de reacción!
+- id: 20546
+  en: >-
+    ¡Vence a Larxene de la Organización {XIII}!
+
+    Cuando se multiplique, ataca a dos de sus
+
+    dobles a la vez e infligirás el doble de daño.
+- id: 20547
+  en: >-
+    ¡Vence a Lexaeus de la Organización {XIII}!
+
+    Su fuerza va aumentando durante la
+
+    batalla. ¡Contraatacar es tu mejor opción!
+- id: 20600
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡Golpéalo y haz que no deje de girar!
+- id: 20693
+  en: ¡Pierdes si el contador llega a cero!
+- id: 20697
+  en: ¡Rescata a tus amigos atrapados en el libro!
+- id: 21388
+  en: '{:unk13 31 01 5A 00}{:unk08 01 00 05}¿Eh?'
+- id: 21389
+  en: '{:unk13 82 00 37 00}{:unk08 01 01 06}Creo que han salido de ahí.'
+- id: 21390
+  en: >-
+    {:unk13 54 01 8C 00}{:unk08 01 00 05}¿Desde cuándo hay ahí
+
+    un agujero? ¿Habrá algo dentro?
+- id: 21391
+  en: >-
+    {:unk06 02}{:unk13 A0 00 A0 00}{:unk08 03 01 05}¡Ya habrá tiempo para eso!
+
+    ¡Debemos ir tras el rey!
+- id: 21483
+  en: "{:delayandfade 08 78} \nSegún Merlín, Pooh no recuerda\nnada porque los sincorazón han\nrobado algunas páginas de su libro.\n \nSora tiene que apresurarse en\nrecuperar una a una las páginas y\nregresar al mundo del simpático osito\nantes de que la cosa empeore.\n \n \n"
+- id: 21484
+  en: "{:delayandfade 0A 78} \nSora vuelve a la casa de Merlín y\nrecibe de Cid la noticia de que el\nordenador de Ansem ha aparecido\ny que podría contener datos sobre\nRiku, Kairi, el rey y la Organización {XIII}.\n \nEntusiasmados por el hallazgo,\nSora, Donald y Goofy se apresuran\nhacia la sala del ordenador.\n \n"
+- id: 21485
+  en: "{:delayandfade 07 B4} \nGracias a la inestimable ayuda de Tron,\nSora y los suyos logran regresar al mundo\nreal, pero aún queda mucho por hacer.\n \n \n \n \n \n \n"
+- id: 21486
+  en: "{:delayandfade 08 78} \nEs necesaria una contraseña\npara acceder a los datos de\nlas investigaciones de Ansem,\ny qué mejor lugar para buscarla\nque su propio estudio.\n \nSora y sus amigos saben que\ndar con ella no será una tarea\nfácil, pero tras un registro\nminucioso...\n"
+- id: 21487
+  en: "{:delayandfade 0A 78} \nUn año atrás, Sora y sus amigos\nse enfrentaron a un vil sincorazón\nque pretendía hacerse con\nKingdom Hearts: Ansem, el buscador\nde oscuridad.\n \nSin embargo, ahora descubren que\nno es ese su verdadero nombre.\nAquel sincorazón era un impostor\nque simplemente suplantó tal nombre."
+- id: 21488
+  en: "{:delayandfade 0A 78} \nEl infame líder de la Organización {XIII}.\nEl incorpóreo de Xehanort, el aprendiz\nde Ansem.\n \n \n \n \n \n \n \n"
+- id: 21489
+  en: "{:delayandfade 0A 78} \nHa llegado el momento de\nponer fin a la contienda.\n \n¡Xehanort no puede escaparse!\n \n \n \n \n \n \n"
+- id: 21490
+  en: "{:delayandfade 0A 78} \n¿Cómo pueden estar los sincorazón\ndel entorno de datos de Tron en\nel mundo real?\n \nSegún Yuffie, el PCM está moviendo\nlos hilos de su malvado plan desde\nel mundo de los ordenadores.\n \n \n \n"
+- id: 21491
+  en: "{:delayandfade 0A 78} \nNo hay forma de contactar con Tron\nasí que las esperanzas recaen en Cid,\nque está desarrollando el programa\nde Erradicación del PCM.\n \n \n \n \n \n"
+- id: 21492
+  en: "{:delayandfade 08 78} \nAsí las cosas, no queda sino ir\nal mundo de Tron y hablar con él\ndirectamente.\n \nMientras Aerith y los demás se\nencargan de las cosas en el mundo\nde los usuarios, Sora debe entrar\nde nuevo en el entorno de datos.\n \n \n"
+- id: 21493
+  en: "{:delayandfade 0A 78} \nNada más compartir con Cloud\nlas palabras de Sephiroth, el joven\nagacha la cabeza y reflexiona...\n \n\"Pues es hora de que terminemos\ncon esto\", sentencia.\n \n \n \n"
+- id: 21565
+  en: ¡Tus comandos están en el libro! ¡Libéralos!
+- id: 21566
+  en: ¡Ya puedes usar los comandos!
+- id: 21623
+  en: ¡Encuentra al verdadero antes de que sea tarde!
+- id: 21761
+  en: >-
+    {:unk08 02 00 06}¿Quieres combatir contra Sephiroth?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay 00 13}¡Luchemos!

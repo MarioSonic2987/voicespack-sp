@@ -1,0 +1,6712 @@
+﻿- id: 2865
+  en: Abrir menú
+- id: 2866
+  en: Escalones escalofriantes
+- id: 2867
+  en: La bolsa animada
+- id: 2868
+  en: El amigo tras la pared
+- id: 2869
+  en: Los quejidos del túnel
+- id: 2870
+  en: El doble
+- id: 2871
+  en: El tren fantasma
+- id: 2872
+  en: La mansión vacía
+- id: 2873
+  en: >-
+    ¿Sabías que a medida que desciendes, aumentan los
+
+    escalones de la Estación del Atardecer?
+- id: 2874
+  en: >-
+    Trueno se hace un lío al contar
+
+    los escalones.
+
+    ¡Él es así!
+- id: 2875
+  en: >-
+    ¿Sabes lo de la bolsa de la Colina del Atardecer?
+
+    Es horrible. Se mueve como si estuviera viva.
+- id: 2876
+  en: >-
+    Bah, era solo un perro atrapado.
+
+    Ya no le pasará nada.
+- id: 2877
+  en: >-
+    ¿Sabías que sale una pelota de
+
+    la pared al final del callejón?
+
+    A veces hay más de una.
+- id: 2878
+  en: >-
+    Es solo una pelota.
+
+    Parece que alguien
+
+    estuvo jugando con ella.
+- id: 2879
+  en: >-
+    Se oyen unos quejidos horribles en
+
+    el túnel de las Terrazas del Atardecer.
+
+    ¿Crees que podría ser un fantasma?
+- id: 2880
+  en: >-
+    Vivi estaba practicando para el torneo
+
+    de Struggle. El eco del túnel convertía
+
+    su voz en un quejido espantoso.
+- id: 2881
+  en: >-
+    ¿Sabías que muchas personas
+
+    han visto a sus dobles en la
+
+    esquina de las Terrazas del Atardecer?
+- id: 2882
+  en: >-
+    Era solo un reflejo en el agua.
+
+    ¡Está limpia como un espejo!
+- id: 2883
+  en: >-
+    ¿Has oído lo del tren fantasma invisible
+
+    que pasa por la Estación del Atardecer?
+
+    ¿Quién podría descubrir un tren invisible...?
+- id: 2884
+  en: (Tentative) ¡El fantasma del tren era un ◯◯!
+- id: 2885
+  en: 'La mansión vacía: Guía #0'
+- id: 2886
+  en: (Tentative) ¡El secreto de la masión era un ◯◯!
+- id: 2887
+  en: '{:icon button-triangle}Diario'
+- id: 2888
+  en: Cartero
+- id: 2889
+  en: Cuesta arriba
+- id: 2890
+  en: Fanfarronería
+- id: 2891
+  en: Pegar carteles
+- id: 2892
+  en: '{:width 95}Para-zumbidos'
+- id: 2893
+  en: ¡Fuera basura!
+- id: 2894
+  en: Se necesita cocinero
+- id: 2895
+  en: Una mano amiga.
+- id: 2896
+  en: >-
+    Necesito a alguien
+
+    que reparta unas cartas
+
+    por mí.
+- id: 2898
+  en: Se busca persona fuerte.
+- id: 2899
+  en: >-
+    Se necesita a alguien
+
+    para transportar cosas.
+
+    Cualquiera puede
+
+    hacerlo.
+- id: 2901
+  en: ¿Quieres ser famoso?
+- id: 2902
+  en: >-
+    Se busca una persona
+
+    para montar un gran
+
+    espectáculo callejero.
+- id: 2904
+  en: ¡Atención! ¡Atención!
+- id: 2905
+  en: >-
+    ¡Necesito a alguien
+
+    que corra rápido y
+
+    pegue carteles en
+
+    ciertos sitios!
+- id: 2907
+  en: ¡Cuidado!
+- id: 2908
+  en: >-
+    ¡Hay abejas por
+
+    todas partes!
+
+    ¡Necesito que alguien
+
+    se encargue de ellas!
+- id: 2910
+  en: Un trabajo sucio.
+- id: 2911
+  en: >-
+    ¿Podría alguien echar
+
+    una mano para
+
+    deshacernos de la basura?
+- id: 2913
+  en: ¡Se necesitan cocineros!
+- id: 2914
+  en: >-
+    Se busca una persona
+
+    que cocine muy bien.
+- id: 2916
+  en: Sí
+- id: 2917
+  en: No
+- id: 2918
+  en: Elige un trabajo.
+- id: 2919
+  en: ¿Quieres este trabajo?
+- id: 12137
+  en: ¿Una llave... espada?
+- id: 12138
+  en: Una llave espada...
+- id: 12139
+  en: ¿Qué será todo eso?
+- id: 12140
+  en: ¡Oh!
+- id: 12141
+  en: Lo siento mucho...
+- id: 12142
+  en: >-
+    Eh, chicos, ¿creéis que siempre
+
+    estaremos juntos como ahora?
+- id: 12143
+  en: Espero que sí.
+- id: 12144
+  en: ¿Eh? ¿A qué ha venido eso?
+- id: 12145
+  en: Ah, bueno, ya sabes,{:delay 64 00}{:clear }estaba pensando en alto.
+- id: 12146
+  en: >-
+    Pues yo dudo que podamos
+
+    estar siempre juntos.{:delay 96 00}{:clear }{:delay 37 00}{:clear } ¿Madurar no acaba siendo algo así?{:delay AC 00}{:clear }Lo que importa no es cuántas
+
+    veces nos veamos,{:delay B4 00}{:clear }sino cuántas veces pensemos
+
+    los unos en los otros. ¿No?
+- id: 12147
+  en: >-
+    {:delay 32 00}{:clear }¿Te has tragado un libro
+     de frases célebres?
+- id: 12148
+  en: >-
+    ¡Se acabó!
+
+    ¡Te has quedado sin helado!{:delay 78 00}{:clear }{:delay 3C 00}{:clear }Tío, menudo rollazo de día.
+- id: 12149
+  en: >-
+    Tal vez sea por el ladrón
+
+    de recuerdos de ayer.
+- id: 12150
+  en: >-
+    Naa... ¿Sabes qué es?{:delay A2 00}{:clear }Que se nos acaban las vacaciones.
+
+    Nada más.
+- id: 12151
+  en: Bien, tengo una idea.
+- id: 12152
+  en: >-
+    ¡Nos vamos todos a la playa!{:delay 78 00}{:clear }{:delay 25 00}{:clear } ¿Y por qué a la playa?{:delay 78 00}{:clear } Porque... ¡no hemos ido ni una
+     vez en todas las vacaciones!
+- id: 12153
+  en: ¿Eehh?
+- id: 12154
+  en: ¿No queréis?
+- id: 12155
+  en: ¿Has olvidado que no tenemos pasta?
+- id: 12156
+  en: ¡De ese detallito me ocupo yo!
+- id: 12157
+  en: '{:unk13 82 00 46 00}{:unk06 00}{:unk08 01 01 05}¡Date prisa, Roxas!'
+- id: 12158
+  en: '{:unk13 4A 01 63 00}{:unk06 00}{:unk08 01 01 05}¡Vamos a la Calle del Mercado!'
+- id: 12159
+  en: Quedan solo dos días.
+- id: 12160
+  en: >-
+    ¡Nos apuntamos los dos
+
+    y llegamos a la final! {:delay 94 00}{:clear }¡Así, gane quien gane,
+
+    nos repartiremos el premio!
+- id: 12161
+  en: Vale. Hecho.
+- id: 12162
+  en: ¡Juntos vais a arrasar!
+- id: 12163
+  en: ¡A por ellos!
+- id: 12164
+  en: ¡Prometido!
+- id: 12165
+  en: >-
+    {:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 01 06}Bueno,
+
+    ¡manos a la obra!
+- id: 12166
+  en: >-
+    {:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}Un billete a la playa vale
+
+    900 platines. Cuatro billetes...
+- id: 12167
+  en: '{:unk13 78 00 64 00}{:unk06 00}{:unk08 01 01 06}¡3.600!'
+- id: 12168
+  en: >-
+    {:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}Y 300 por barba para gastar allí.
+
+    ¿Cuánto es?
+- id: 12169
+  en: >-
+    {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 05}1.200 platines.
+
+    4.800, en total.
+- id: 12170
+  en: '{:unk13 54 01 64 00}{:unk06 00}{:unk08 01 01 06}¿Para gastar en qué?'
+- id: 12171
+  en: >-
+    {:unk13 D2 00 3C 00}{:unk06 00}{:unk08 01 01 06}¡En galletitas saladas!
+
+    ¿En qué si no?
+- id: 12172
+  en: >-
+    {:unk13 7E 01 51 00}{:unk06 00}{:unk08 01 01 06}Pues podría ser en
+
+    sandías, por ejemplo.
+- id: 12173
+  en: >-
+    {:unk13 D2 00 46 00}{:unk06 00}{:unk08 01 01 06}Son muy caras. Cada una
+
+    cuesta unos 2.000 platines.
+- id: 12174
+  en: '{:unk13 54 01 64 00}{:unk06 00}{:unk08 01 01 06}Pues entonces, galletitas.'
+- id: 12175
+  en: '{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}¿Por dónde íbamos?'
+- id: 12176
+  en: >-
+    {:unk13 C5 00 50 00}{:unk06 00}{:unk08 01 00 05}Necesitamos 4.800 platines.
+
+    Pero solo tenemos...
+- id: 12177
+  en: '{:unk13 72 01 50 00}{:unk06 00}{:unk08 01 00 07}Yo tengo 800.'
+- id: 12178
+  en: '{:unk13 82 00 5A 00}{:unk06 00}{:unk08 01 00 05}Yo, 650.'
+- id: 12179
+  en: '{:unk13 F6 00 61 00}{:unk06 00}{:unk08 01 01 06}Solo 150. Lo siento.'
+- id: 12180
+  en: >-
+    {:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}¡Tenemos 1.600 platines!
+
+    Necesitamos 3.200 más.
+- id: 12181
+  en: >-
+    {:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}¡Habrá que trabajar un poco
+
+    para conseguir la pasta!{:clear }¡Cada uno tiene que conseguir 800
+
+    platines antes de que salga el tren!
+- id: 12182
+  en: >-
+    {:unk13 54 01 64 00}{:unk06 00}{:unk08 01 01 07}¡Nos vemos en la estación
+
+    con la pasta en la mano!
+- id: 12183
+  en: >-
+    {:unk13 78 00 82 00}{:unk06 00}{:unk08 01 00 05}¿No dijo que de eso
+
+    se encargaba él?
+- id: 12184
+  en: >-
+    {:unk13 D8 00 7B 00}{:unk06 00}{:unk08 01 00 05}Vete a saber. Pero yo no
+
+    me quedo sin galletitas.
+- id: 12185
+  en: >-
+    {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}¿Estamos
+
+    todos listos?
+- id: 12186
+  en: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}Bien, ¿qué tenemos?'
+- id: 12187
+  en: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Veamos...'
+- id: 12188
+  en: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Solo esto.'
+- id: 12189
+  en: '{:unk13 37 01 4C 00}{:unk06 00}{:unk08 01 01 06}Bien hecho.'
+- id: 12190
+  en: >-
+    {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}¿Estamos
+
+    todos listos?
+- id: 12191
+  en: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}Bien, ¿qué tenemos?'
+- id: 12192
+  en: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Veamos...'
+- id: 12193
+  en: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Solo esto.'
+- id: 12194
+  en: >-
+    {:unk13 5C 01 39 00}{:unk06 00}{:unk08 01 01 06}¡Genial,
+
+    Roxas!
+- id: 12195
+  en: '{:unk13 97 00 7F 00}{:unk06 00}{:unk08 01 01 05}¡Sabía que lo conseguirías!'
+- id: 12196
+  en: >-
+    {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}¿Estamos
+
+    todos listos?
+- id: 12197
+  en: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}Bien, ¿qué tenemos?'
+- id: 12198
+  en: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Veamos...'
+- id: 12199
+  en: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Solo esto.'
+- id: 12200
+  en: >-
+    {:unk13 6E 01 3D 00}{:unk06 02}{:unk08 03 01 06}¡Vaya, Roxas!
+
+    ¡Es increíble!
+- id: 12201
+  en: >-
+    {:unk13 4C 01 66 00}{:unk06 00}{:unk08 01 00 06}¡Podemos comprar
+
+    hasta una sandía!
+- id: 12202
+  en: '{:unk13 79 00 8C 00}{:unk06 00}{:unk08 01 01 07}¡Perfecto!'
+- id: 12203
+  en: >-
+    Buen trabajo, chicos. Sumado
+
+    a lo que teníamos, esto hace...
+- id: 12204
+  en: ¡Ta-chán! ¡5.000 platines!
+- id: 12205
+  en: ¡Mola!
+- id: 12206
+  en: ¡A por los billetes!
+- id: 12207
+  en: >-
+    No podremos estar siempre juntos...{:delay 5D 00}{:clear }así que aprovechemos el tiempo
+
+    y hagamos algo inolvidable.
+- id: 12208
+  en: ¿Qué?
+- id: 12209
+  en: ¡Lo pillas!
+- id: 12210
+  en: ''
+- id: 12211
+  en: ''
+- id: 12212
+  en: ''
+- id: 12213
+  en: ¿Qué?
+- id: 12214
+  en: ¡Roxas! ¡Tres minutos!
+- id: 12215
+  en: ¡Voy!
+- id: 12216
+  en: ¡Cuatro de estudiantes!
+- id: 12217
+  en: Roxas, el dinero.
+- id: 12218
+  en: Espera...
+- id: 12219
+  en: ¡No!
+- id: 12220
+  en: ''
+- id: 12221
+  en: ¿Adónde vas?
+- id: 12222
+  en: Cuando me caí hace un momento
+- id: 12223
+  en: ¿Tío?
+- id: 12224
+  en: No ha podido ir muy... lejos...
+- id: 12225
+  en: ¿De qué estás hablando?
+- id: 12226
+  en: No había ningún tío.
+- id: 12227
+  en: ''
+- id: 12228
+  en: Pero si...
+- id: 12229
+  en: ¿De verdad? ¿No lo visteis?
+- id: 12230
+  en: Oh, vaya...
+- id: 12231
+  en: ¿No había nadie... allí?
+- id: 12232
+  en: Se te derrite.
+- id: 12233
+  en: Lo siento.
+- id: 12234
+  en: ¡Anímate, hombre!
+- id: 12235
+  en: Es que ha sido muy extraño.
+- id: 12236
+  en: Qué raro...
+- id: 12237
+  en: Ya te digo.
+- id: 12238
+  en: ¿Puedes sentir a Sora?
+- id: 12239
+  en: ¿Puedes sentir a Sora?
+- id: 12240
+  en: Restauración al 28 por ciento.
+- id: 12241
+  en: Naminé, aprisa.
+- id: 12242
+  en: ¿Tan difícil es hacer una playa?
+- id: 12243
+  en: >-
+    Sería darle al enemigo
+
+    otro punto de entrada.
+- id: 12244
+  en: ¿Y esto?
+- id: 12245
+  en: >-
+    Siempre podemos gastárnoslo
+
+    en helados de sal marina.
+- id: 12246
+  en: >-
+    Todo cuanto pertenece a esa ciudad
+
+    debe mantenerse fuera del mundo real.{:delay 09 01}{:clear }Bórralo.
+- id: 12247
+  en: ¿Quién eres?
+- id: 12248
+  en: ¿Eh?
+- id: 12249
+  en: >-
+    {:unk13 18 01 50 00}{:unk06 00}{:unk08 02 00 05}‛Nos vemos en la estación. ¡Hoy
+
+    nos vamos a la playa! La pasta
+
+    no es problema.
+                      Hayner"
+- id: 12250
+  en: Eh.
+- id: 12251
+  en: Buenas.
+- id: 12252
+  en: ''
+- id: 12253
+  en: Hola, Roxas.
+- id: 12254
+  en: Hola...
+- id: 12255
+  en: ¿Tú eres...?
+- id: 12256
+  en: Quería verte al menos una vez.
+- id: 12257
+  en: ¿A mí?
+- id: 12258
+  en: Sí, a ti.
+- id: 12259
+  en: >-
+    Olette me ha liado para
+
+    ir de compras con ella.
+- id: 12260
+  en: ¡Eh! ¿Quieres venirte?
+- id: 12261
+  en: >-
+    ¿Eh? Mmm... Espera...
+
+    ¿Habéis visto eso?
+- id: 12262
+  en: Se está escaqueando...
+- id: 12263
+  en: >-
+    Pues tú mismo. Nos vemos luego,
+
+    Roxas. ¿Vale?
+- id: 12264
+  en: Vale...
+- id: 12265
+  en: ¿Habrá ido a esa mansión encantada?
+- id: 12266
+  en: ¿Eh?
+- id: 12267
+  en: ¡Suéltame!
+- id: 12268
+  en: Eh, gallina.
+- id: 12269
+  en: ¿Qué es eso?
+- id: 12270
+  en: >-
+    ¡No lo sé, pero se han
+
+    pasado de la raya!
+- id: 12271
+  en: ¡Busca un arma!
+- id: 12272
+  en: Qué chungo...
+- id: 12273
+  en: ¡Roxas! ¡Usa la llave espada!
+- id: 12274
+  en: Me llamo Naminé.
+- id: 12275
+  en: Roxas...{:delay 34 00}{:clear }{:delay 60 00}{:clear } ¿recuerdas tu verdadero nombre?
+- id: 12276
+  en: Controla tu lengua, Naminé.
+- id: 12277
+  en: Pero si nadie se lo dice, Roxas se...
+- id: 12278
+  en: Es mejor que no sepa la verdad.
+- id: 12279
+  en: ¡Eh! ¡Devuélveme mi dinero!
+- id: 12280
+  en: ''
+- id: 12281
+  en: Seifer, monstruo, márcate una pose.
+- id: 12282
+  en: ¿Qué tal así?
+- id: 12283
+  en: ¡Te ha quedado de lujo, tío!
+- id: 12284
+  en: Espera que te echamos otra.
+- id: 12285
+  en: ¿Para qué es eso?
+- id: 12286
+  en: Un recuerdo.
+- id: 12287
+  en: >-
+    Para celebrar que esos malajes
+
+    blancuchos se han pirado.
+- id: 12288
+  en: Pan comido.
+- id: 12289
+  en: ¿Qué eran esas cosas?
+- id: 12290
+  en: Forasteros, eso eran.
+- id: 12291
+  en: >-
+    Y si no siguen las reglas
+
+    de por aquí,{:delay AA 00}{:clear }tendré que darles unas
+
+    lecciones de disciplina.
+- id: 12292
+  en: >-
+    ¡Anda que no! Seifer siempre
+
+    se preocupa por la ciudad.
+- id: 12293
+  en: ''
+- id: 12294
+  en: ¡Esperad!
+- id: 12295
+  en: >-
+    ¡Eh! ¡No vale rajarse para
+
+    el torneo de mañana!
+- id: 12296
+  en: ¡Os estaremos esperando!
+- id: 12297
+  en: >-
+    Así que... ¿has estado con
+
+    la pandilla de Seifer?
+- id: 12298
+  en: No... No es eso...
+- id: 12299
+  en: >-
+    Y bueno, ¿qué tal la playa?
+
+    ¿No ibais hoy?
+- id: 12300
+  en: >-
+    No hemos ido.
+
+    No sería lo mismo sin ti, ¿no?
+- id: 12301
+  en: '... Lo siento.'
+- id: 12302
+  en: >-
+    Oye... ¿qué tal si vamos mañana?{:delay D2 00}{:clear }Podríamos comprar unas
+
+    galletitas saladas y...
+- id: 12303
+  en: Ya tengo otros planes.
+- id: 12304
+  en: Oohh...
+- id: 12305
+  en: ¡Ah!
+- id: 12306
+  en: >-
+    ¡Nos apuntamos los dos y
+
+    llegamos a la final!{:delay 95 00}{:clear }¡Así, gane quien gane,
+
+    nos repartiremos el premio!
+- id: 12307
+  en: Vale. Hecho.
+- id: 12308
+  en: ¡Juntos vais a arrasar!
+- id: 12309
+  en: ¡A por ellos!
+- id: 12310
+  en: ¡Prometido!
+- id: 12311
+  en: Yo me largo.
+- id: 12312
+  en: Restauración al 48 por ciento.
+- id: 12313
+  en: ¿Era una Naminé hecha de datos?
+- id: 12314
+  en: >-
+    No... Naminé ha pirateado
+
+    esos datos ella solita.{:delay 04 01}{:clear }{:delay 3C 00}{:clear }¡Mira lo que acaba de hacer!{:delay 64 00}{:clear } {:delay 3F 00}{:clear }Está totalmente fuera de mi control.
+- id: 12315
+  en: Cálmate.
+- id: 12316
+  en: >-
+    No importa.{:delay 64 00}{:clear } {:delay 69 00}{:clear }Mientras Naminé cumpla
+
+    con su objetivo...{:delay CF 00}{:clear }{:delay 30 00}{:clear }no tendremos que preocuparnos
+
+    por lo que le pase a Roxas.
+- id: 12999
+  en: >-
+    todavía tenía el dinero. ¡Seguro
+
+    que me lo ha quitado aquel tío!
+- id: 13172
+  en: ''
+- id: 13173
+  en: He vuelto a soñar con él...
+- id: 13174
+  en: Tío, ¿no te toca las narices?
+- id: 13175
+  en: Sí. Y que lo digas.
+- id: 13176
+  en: Seifer se ha pasado esta vez.
+- id: 13177
+  en: >-
+    Ya sé que han estado robando
+
+    en la ciudad.{:delay E1 00}{:clear }Y que tenemos asuntos pendientes
+
+    con Seifer.{:delay A6 00}{:clear }Si quiere pensar que hemos sido
+
+    nosotros, puedo entenderlo.{:delay FA 00}{:clear }Pero... no es eso lo que
+
+    más me molesta.
+- id: 13178
+  en: >-
+    Lo que de verdad me fastidia...{:delay 58 00}{:clear }es que va por ahí diciéndole a todo
+
+    el mundo que somos los ladrones.{:delay C3 00}{:clear }{:delay 14 00}{:clear }Y ahora todos nos tratan como si
+
+    fuéramos unos mangantes.
+- id: 13179
+  en: >-
+    ¿Habéis estado tan cabreados
+
+    alguna vez en la vida?{:delay B4 00}{:clear }{:delay 0A 00}{:clear }Porque yo no.{:delay 32 00}{:clear }Nunca. Jamás.
+- id: 13180
+  en: A ver, ¿qué hacemos?
+- id: 13181
+  en: Ehhh... pues...
+- id: 13182
+  en: >-
+    ¿Y si buscamos a los verdaderos
+
+    ladrones? Eso aclararía las cosas.
+- id: 13183
+  en: ¡Eh, eso suena bien!
+- id: 13184
+  en: ¿Y qué pasa con Seifer?
+- id: 13185
+  en: >-
+    Primero... tenemos que limpiar
+
+    nuestro nombre.{:delay B4 00}{:clear }Cuando encontremos al
+
+    verdadero culpable,{:delay 6F 00}{:clear }todo el mundo nos dejará en paz.
+- id: 13186
+  en: ''
+- id: 13187
+  en: ¡Oh, no!
+- id: 13188
+  en: ¡Han desaparecido!{:delay 3A 00}{:clear }¡Nuestras ----- no están!
+- id: 13189
+  en: ¿Las ----- no están?
+- id: 13190
+  en: >-
+    No podéis decir -----...
+
+    ¿Pero qué?
+- id: 13191
+  en: >-
+    Pero sí entendéis lo que os digo,
+
+    ¿no?{:delay 98 00}{:clear }¡Nuestras ----- no están!
+- id: 13192
+  en: ¿Robadas?
+- id: 13193
+  en: >-
+    No solo las -----.{:delay 78 00}{:clear }¡La palabra -----!
+
+    ¡También la han robado!
+- id: 13194
+  en: ¿Qué clase de ladrón es este?{:delay 80 00}{:clear }Seifer no ha podido hacer algo así.
+- id: 13195
+  en: Eso.
+- id: 13196
+  en: ¡Venga! ¡Es hora de investigar!
+- id: 13197
+  en: ¿¡Eh!?
+- id: 13198
+  en: Su corazón está regresando.
+- id: 13199
+  en: No cabe duda. Pronto despertará.
+- id: 13200
+  en: Roxas, vamos.
+- id: 13201
+  en: '{:unk13 59 01 91 00}{:unk08 01 00 05}¡Por aquí!'
+- id: 13202
+  en: >-
+    {:unk13 12 01 38 00}{:unk08 01 01 06}Vamos a investigar
+
+    lo que ha ocurrido.
+- id: 13204
+  en: >-
+    {:unk13 F3 00 42 00}{:unk08 01 00 05}No hemos robado
+
+    nada, ¿vale?
+- id: 13205
+  en: >-
+    {:unk13 6F 01 4C 00}{:unk08 01 00 05}Me gustaría creerte,
+
+    pero...{:clear }¿Quién más querría
+
+    robar cosas así?
+- id: 13206
+  en: '{:unk13 F3 00 4C 00}{:unk08 01 00 05}¿Qué cosas?'
+- id: 13207
+  en: >-
+    {:unk13 54 01 3C 00}{:unk08 01 00 06}Como si no lo supieras.
+
+    No te lo pienso decir.{:clear }Ve y pregunta en la
+
+    tienda de accesorios.
+- id: 13208
+  en: >-
+    {:unk13 1B 01 60 00}{:unk08 01 01 06}Anda, Roxas,
+
+    pregúntaselo.
+- id: 13209
+  en: >-
+    {:unk13 BA 00 4B 00}{:unk08 01 01 06}Oh, eres tú, Roxas...
+
+    No me decepciones.{:clear }Solías ser uno de
+
+    mis clientes favoritos.
+- id: 13210
+  en: '{:unk13 93 00 8A 00}{:unk08 01 01 06}¡Yo no soy un ladrón!'
+- id: 13211
+  en: '{:unk13 13 01 4B 00}{:unk08 01 01 06}Vale...'
+- id: 13212
+  en: >-
+    {:unk13 B2 00 7A 00}{:unk08 01 01 05}No me hace ninguna gracia
+
+    que todos sospechen de mí...
+- id: 13213
+  en: >-
+    {:unk13 CE 00 4B 00}{:unk08 01 01 06}Pues tienes que encontrar la
+
+    forma de limpiar tu nombre.{:clear }La mujer de la tienda de dulces
+
+    está muy disgustada también.
+- id: 13214
+  en: >-
+    {:unk13 FA 00 48 00}{:unk08 01 00 05}¿Roxas?{:clear }¿Has visto a mi
+
+    gato por ahí?
+- id: 13215
+  en: '{:unk13 C6 00 31 00}{:unk08 01 01 06}Mmm...'
+- id: 13216
+  en: '{:unk13 F4 00 54 00}{:unk08 01 00 05}Gracias, Roxas.'
+- id: 13217
+  en: >-
+    {:unk13 A2 00 3B 00}{:unk08 01 01 06}¿Le han robado algo
+
+    a usted?
+- id: 13218
+  en: >-
+    {:unk13 EF 00 45 00}{:unk08 01 00 05}Sí, hijos, sí.
+
+    Algo importante.
+- id: 13219
+  en: >-
+    {:unk13 A4 00 3B 00}{:unk08 01 01 06}Pues nosotros
+
+    no hemos sido.
+- id: 13220
+  en: '{:unk13 EC 00 54 00}{:unk08 01 00 05}Te creo.'
+- id: 13221
+  en: >-
+    {:unk13 AB 00 3B 00}{:unk08 01 01 06}Gracias,
+
+    señora.{:clear }¿Y qué le
+
+    han robado?
+- id: 13222
+  en: >-
+    {:unk13 EB 00 45 00}{:unk08 01 00 05}Mis ----.{:clear }Mis preciosas
+
+    ----.
+- id: 13223
+  en: >-
+    {:unk13 25 01 ED 00}{:unk08 01 01 02}Parece que el culpable
+
+    anda por ahí
+
+    robando ----.
+- id: 13224
+  en: >-
+    {:unk13 26 01 3C 00}{:unk08 01 01 06}Y no solo
+
+    ----,{:clear }sino la propia palabra
+
+    ----, también.
+- id: 13225
+  en: >-
+    {:unk13 87 01 FE 00}{:unk08 01 01 02}No es un ladrón
+
+    normal...
+- id: 13226
+  en: >-
+    {:unk13 24 01 60 00}{:unk08 01 00 05}Me pregunto si Seifer
+
+    sabrá algo.
+- id: 13227
+  en: >-
+    {:unk13 21 01 3B 00}{:unk08 01 00 05}Deberíamos hablar con él.
+
+    Andando, ¡al solar!
+- id: 13228
+  en: ¡Los cacos!
+- id: 13229
+  en: Sois de lo peor, ¿vale?
+- id: 13230
+  en: ¿Ah, sí?
+- id: 13231
+  en: Eres todo un orador, rubito.
+- id: 13232
+  en: ¿Y tú de qué vas?
+- id: 13233
+  en: >-
+    Ya podéis ir devolviéndonos la -----
+
+    ahora.
+- id: 13234
+  en: >-
+    Nada más que vosotros seríais
+
+    capaces de robarla.
+- id: 13236
+  en: ¡Una vez más!
+- id: 13237
+  en: '{:delay 6E 00}¡Así se habla!'
+- id: 13238
+  en: >-
+    Si os ponéis de rodillas y suplicáis,
+
+    a lo mejor lo paso por alto.
+- id: 13239
+  en: ''
+- id: 13240
+  en: ¡Roxas!
+- id: 13241
+  en: ¡Roxas, concéntrate!
+- id: 13242
+  en: ¡Venga!{:delay 48 00}{:clear }{:delay 22 00}{:clear }¡Deja de hacer el tonto y pelea!
+- id: 13243
+  en: Mmm.
+- id: 13244
+  en: Es que Seifer no está muy en forma.
+- id: 13245
+  en: Ya veremos en el torneo.
+- id: 13246
+  en: ¿Eh?
+- id: 13247
+  en: ¿Qué era eso?
+- id: 13248
+  en: ¿El ladrón?
+- id: 13249
+  en: ''
+- id: 13250
+  en: ¡Los buenos siempre ganan! ¡Toma ya!
+- id: 13251
+  en: ¡Oh!
+- id: 13252
+  en: ¿Qué diablos haces?
+- id: 13253
+  en: ¿Es el ladrón?
+- id: 13254
+  en: ¡A por él!
+- id: 13255
+  en: '{:unk13 01 01 CE 00}Hemos venido por vos, mi señor.'
+- id: 13256
+  en: ¿Eh?
+- id: 13257
+  en: Es inútil...
+- id: 13258
+  en: ¿Qué?
+- id: 13259
+  en: ¿Qué... qué es esto?
+- id: 13260
+  en: ¿Qué es esto?
+- id: 13261
+  en: >-
+    Yo fui su primer cliente cuando
+
+    se hizo cargo de la tienda,{:delay D6 00}{:clear }así que nos hicimos una foto.
+- id: 13262
+  en: Es una foto preciosa.
+- id: 13263
+  en: ¡Anda!
+- id: 13264
+  en: ¡Eh! ¡Acabas de decir "foto"!
+- id: 13265
+  en: >-
+    Bueno, Roxas,
+
+    háblanos del ladrón de fotos.
+- id: 13266
+  en: >-
+    No hay mucho que decir.
+
+    Las fotos estaban allí tiradas.
+- id: 13267
+  en: >-
+    ¡Y cómo demostraremos que
+
+    no fuimos nosotros!
+- id: 13268
+  en: Es una chica...
+- id: 13269
+  en: Pareces contento, Roxas.
+- id: 13270
+  en: Qué va...
+- id: 13271
+  en: Así que ¿nadie más se ha fijado en que{:delay 8C 00}{:clear }todas las fotos robadas son de Roxas?
+- id: 13272
+  en: >-
+    Aahh...{:delay 63 00}{:clear }Por eso todos creían
+
+    que éramos nosotros.
+- id: 13273
+  en: >-
+    ¿Entonces Seifer no ha ido
+
+    por ahí acusándonos?
+- id: 13274
+  en: ¿De verdad son todas mías?
+- id: 13275
+  en: Sí.
+- id: 13276
+  en: ¿Ves?
+- id: 13277
+  en: Mira.
+- id: 13278
+  en: Sí. Hasta la última.
+- id: 13279
+  en: >-
+    Menuda movida.{:delay 3C 00}{:clear }¿Y si el ladrón quisiera robar
+
+    al verdadero Roxas o algo así?
+- id: 13280
+  en: >-
+    No flipes, tío.{:delay 73 00}{:clear }¿Para qué querría alguien a un
+
+    ceporro como Roxas?
+- id: 13281
+  en: Ya te vale.
+- id: 13282
+  en: ''
+- id: 13283
+  en: ¿Dónde... estoy?
+- id: 13284
+  en: ¿Quién anda ahí?
+- id: 13285
+  en: ¿Quién eres tú?
+- id: 13286
+  en: Restauración al 12 por ciento.
+- id: 13287
+  en: >-
+    Los indeseables de la Organización...
+
+    nos han encontrado.
+- id: 13288
+  en: >-
+    ¿Por qué... iban esos incorpóreos
+
+    a robar las fotografías?
+- id: 13289
+  en: >-
+    Porque lo ven todo como
+
+    meros datos.{:delay 9E 00}{:clear }{:delay 2C 00}{:clear }Son tan necios que no notan
+
+    la diferencia.{:delay AB 00}{:clear }{:delay 7C 00}{:clear }No tenemos mucho tiempo.{:delay 73 00}{:clear }{:delay 5C 00}{:clear }Naminé debe darse prisa.
+- id: 13290
+  en: ¿Hice una... promesa?...
+- id: 13291
+  en: ¡Qué lío!
+- id: 13292
+  en: >-
+    {:unk13 22 01 50 00}{:unk08 01 00 05}¡Deprisa, al solar!
+
+    ¡Llegarás tarde!
+- id: 13293
+  en: ¿A quién vas a animar?
+- id: 13294
+  en: A los dos, tonto.
+- id: 13295
+  en: >-
+    ¡Damas y caballeros de
+
+    Villa Crepúsculo!{:delay 92 00}{:clear }¡Ya está aquí el enfrentamiento
+
+    más electrizante del verano!
+- id: 13296
+  en: >-
+    ¡Así es!{:delay 72 00}{:clear }¡Hoy se celebra el combate
+
+    por el título de Struggle!
+- id: 13297
+  en: ¿Quién será capaz de dar la campanada{:delay 7F 00}{:clear }y vencer a nuestro campeón, Setzer?
+- id: 13298
+  en: ¡Seifer, tío!
+- id: 13299
+  en: >-
+    ¿¡Quién saldrá coronado hoy como
+
+    el nuevo campeón de Struggle!?
+- id: 13300
+  en: ¡Hayner! ¡Roxas!
+- id: 13301
+  en: ¡Setzeerrrrrr!
+- id: 13302
+  en: >-
+    Sí, el público está que arde y
+
+    ya saben qué viene ahora.
+- id: 13303
+  en: Que empiece el...
+- id: 13304
+  en: ¡Struggle!
+- id: 13305
+  en: >-
+    ¡Y voy a presentarles a
+
+    los aspirantes de hoy!{:delay EE 00}{:clear }¡Cuatro tipos duros que han
+
+    superado las rondas preliminares!
+- id: 13306
+  en: >-
+    Finalista habitual y Presidente del
+
+    Comité de Disciplina de Villa Crepúsculo:{:delay D7 00}{:clear }¡Seifer!
+- id: 13307
+  en: >-
+    Un completo desconocido.{:delay 75 00}{:clear }¿Quién iba a imaginar que
+
+    llegaría tan lejos este año? ¡Vivi!
+- id: 13308
+  en: >-
+    El favorito de los suburbios y
+
+    rey de las travesuras: ¡Hayner! {:delay 08 01}{:clear }¡Es su primera final!
+- id: 13309
+  en: >-
+    Y el cuarto en discordia,
+
+    que resulta ser mi cliente favorito:{:delay 04 01}{:clear }¡Roxas!
+- id: 13310
+  en: >-
+    Bueno... ¿quién ganará la
+
+    final de este caluroso verano?
+- id: 13311
+  en: >-
+    Y...{:delay 1E 00}{:clear }la oportunidad de enfrentarse
+
+    al vigente campeón, ¡Setzer!
+- id: 13312
+  en: >-
+    Ya falta poco, amigos.{:delay 60 00}{:clear }Sugiero a los aspirantes que consulten
+
+    las Reglas Oficiales de Struggle{:delay B6 00}{:clear }antes de empezar.
+- id: 13313
+  en: >-
+    {:unk13 44 01 58 00}{:unk08 01 00 05}Ya conocéis las reglas, pero
+
+    nunca está de más recordarlas.
+- id: 13314
+  en: Oye...{:delay 28 00}{:clear }perdona por lo de ayer.
+- id: 13315
+  en: ¿Qué? ¿Sigues preocupado por eso? {:delay 9B 00}{:clear }Aprende a olvidar esos rollos.
+- id: 13316
+  en: Son demasiadas cosas.
+- id: 13317
+  en: Lo siento, tío.
+- id: 13318
+  en: Espera, ¿por qué iba a sentirlo?
+- id: 13319
+  en: >-
+    ¡Nuestro primer combate del torneo
+
+    de hoy será entre{:delay D8 00}{:clear }Roxas y su mejor amigo, Hayner!
+- id: 13320
+  en: Y el ganador es... ¡Roxas!
+- id: 13321
+  en: >-
+    Ni siquiera la amistad
+
+    puede parar a este chico...{:delay 9B 00}{:clear }y eso que Hayner ha
+
+    hecho un gran combate.
+- id: 13322
+  en: He perdido.{:delay 7F 00}{:clear }No me lo creo.
+- id: 13323
+  en: Veo que te he enseñado bien.
+- id: 13324
+  en: >-
+    Me he divertido mucho
+
+    luchando contigo.
+- id: 13325
+  en: Ya. Pues yo no, listillo.
+- id: 13326
+  en: Venga, hombre, anímate un poco.
+- id: 13327
+  en: Bah... estoy bien.
+- id: 13328
+  en: Fuera de mi camino.
+- id: 13329
+  en: ¿Tienes prisa por perder?
+- id: 13330
+  en: Respeta a tus mayores.
+- id: 13331
+  en: >-
+    {:delay 31 00}¡Miren cómo saltan las chispas! {:delay 91 00}{:clear }¡Supongo que Seifer no esperaba
+
+    luchar contra uno de sus chicos!
+- id: 13332
+  en: ¿Desde cuándo Vivi es tan fuerte?
+- id: 13333
+  en: ¡Ya eres mío!
+- id: 13334
+  en: >-
+    No... No sé muy bien
+
+    qué ha pasado...
+- id: 13335
+  en: '... pero... ¡el ganador es Vivi! {:delay EB 00}{:clear }¡Ha sido una remontada tremenda!'
+- id: 13336
+  en: Ese no es Vivi.
+- id: 13337
+  en: ¿Eh?
+- id: 13338
+  en: Machácalo.
+- id: 13339
+  en: >-
+    Parece que Seifer se ha retirado
+
+    del combate por el tercer puesto.
+- id: 13340
+  en: ¿Entonces soy tercero? {:delay 64 00}{:clear } {:delay 14 00}{:clear }¡Toma ya!
+- id: 13341
+  en: Jugad limpio, chicos.
+- id: 13342
+  en: >-
+    Y ahora, el combate que estaban
+
+    esperando:{:delay BB 00}{:clear }¡Roxas contra Vivi!
+- id: 13343
+  en: ¿Otra vez?
+- id: 13344
+  en: ¿Otra vez?
+- id: 13345
+  en: >-
+    Roxas, tú como siempre.
+
+    Pelea tras pelea.
+- id: 13346
+  en: ¿Es que no me recuerdas? {:delay 60 00}{:clear } {:delay 25 00}{:clear }Soy yo. {:delay 33 00}{:clear } {:delay 1D 00}{:clear }Ya sabes,{:delay 59 00}{:clear }Axel.
+- id: 13347
+  en: ¿Axel?
+- id: 13348
+  en: >-
+    Tu mente está completamente
+
+    en blanco.{:delay 86 00}{:clear } {:delay 20 00}{:clear }¡Qué pasada!{:delay 6A 00}{:clear }¡Ni los umbríos van a poder con eso!
+- id: 13349
+  en: ¡Espera! Dime qué está pasando.
+- id: 13350
+  en: >-
+    Esta es su ciudad, su creación,
+
+    ¿verdad? {:delay 97 00}{:clear } {:delay 38 00}{:clear }Así que no hay tiempo
+
+    para preguntas.{:delay 8A 00}{:clear } {:delay 34 00}{:clear }Tú te vienes conmigo,
+
+    consciente o no.{:delay 9F 00}{:clear }Y luego ya hablaremos.
+- id: 13351
+  en: Peligro.
+- id: 13352
+  en: ¡Qué está pasando!
+- id: 13353
+  en: El número trece. Roxas.{:delay B4 00}{:clear } {:delay 43 00}{:clear }El elegido de la llave espada.
+- id: 13354
+  en: ¡De acuerdo!{:delay 41 00}{:clear }¡Tú te lo has buscado!
+- id: 13355
+  en: ''
+- id: 13356
+  en: ¡Conque eras tú!
+- id: 13357
+  en: >-
+    ¡Roxas! ¡Ignora las falacias
+
+    de este insensato!
+- id: 13358
+  en: ¡Roxas, no dejes que te engañe!
+- id: 13359
+  en: ¡Roxas!
+- id: 13360
+  en: ¡Roxas!
+- id: 13361
+  en: Hayner...{:delay 5A 00}{:clear }Pence...{:delay 55 00}{:clear }Olette...
+- id: 13362
+  en: ¡Hayner! ¡Pence! ¡Olette!
+- id: 13363
+  en: >-
+    ¿Qué?
+
+    ¿Qué ha pasado?
+- id: 13364
+  en: '{:delay 0A 00}{:clear }¿Eh? {:delay 1E 00}{:clear } {:delay 6E 00}{:clear }¿Cómo he llegado aquí?'
+- id: 13365
+  en: ¡Roxas!
+- id: 13366
+  en: ¡Damas y caballeros!{:delay 62 00}{:clear }¡Roxas! ¡Nuestro nuevo gran campeón!
+- id: 13367
+  en: ¿Roxas?
+- id: 13368
+  en: ¡Setzeerrrr!
+- id: 13369
+  en: ¡Roxas! ¡Que empieza!
+- id: 13370
+  en: >-
+    Quiero un combate limpio.
+
+    Ambos habéis llegado a lo más alto.
+- id: 13371
+  en: Ahí solo hay sitio para uno.
+- id: 13372
+  en: En fin... ¡que gane el mejor!
+- id: 13373
+  en: >-
+    Eh, paquete...{:delay 7E 00}{:clear } {:delay 14 00}{:clear }¿qué tal si te rajas y
+
+    nos vamos a casa?
+- id: 13374
+  en: ¡Roxas! ¡Concéntrate!
+- id: 13375
+  en: Déjame ganar y sabré recompensarte.
+- id: 13376
+  en: ¡Venga ya!
+- id: 13377
+  en: >-
+    ¡Roxas, nuestro héroe revelación,
+
+    contra Setzer, el actual campeón!{:delay 0E 01}{:clear } {:delay 1B 00}{:clear }¡El ganador de este combate será
+
+    el auténtico campeón! {:delay B4 00}{:clear } {:delay 16 00}{:clear }¡Y podrá vacilar durante
+
+    todo un año, amigos!
+- id: 13378
+  en: >-
+    Gracias por la victoria, socio.
+
+    Te la dedico.
+- id: 13379
+  en: ¡Roxas! ¡Roxas!
+- id: 13380
+  en: ¡Roxas!
+- id: 13381
+  en: ¡Lo hiciste!
+- id: 13382
+  en: ¡Ha sido una pasada, Roxas!
+- id: 13383
+  en: ¡Roxas! ¡Roxas!
+- id: 13384
+  en: Lo prometido.
+- id: 13385
+  en: ¡Muchas gracias, Roxas!
+- id: 13386
+  en: ¡Je! Otro tesoro más para compartir.
+- id: 13387
+  en: >-
+    Yo también tengo un regalo...
+
+    para todos.
+- id: 13388
+  en: ¡Oohh!
+- id: 13389
+  en: Naminé...{:delay 75 00}{:clear }¿Qué me está pasando?
+- id: 13390
+  en: >-
+    ¿Quién eres?
+
+    Yo no me llamo así.{:delay 9A 00}{:clear }Soy Kairi.
+- id: 13391
+  en: Kairi... Yo te conozco.{:delay 78 00}{:clear }{:delay 28 00}{:clear }Eres la chica que le gusta.
+- id: 13392
+  en: ¿A quién?
+- id: 13393
+  en: ¡Por favor, di el nombre!
+- id: 13394
+  en: Soy Roxas.
+- id: 13395
+  en: >-
+    Vale, Roxas,
+
+    ¿pero cómo se llama él?
+- id: 13396
+  en: ¿No recuerdas mi nombre? {:delay 7C 00}{:clear }¡Muchas gracias, Kairi!
+- id: 13397
+  en: ''
+- id: 13398
+  en: >-
+    Está bien,
+
+    supongo que puedo darte una pista.
+- id: 13399
+  en: ¡Empieza por "S"!
+- id: 13400
+  en: Su progreso es asombroso.
+- id: 13401
+  en: ¿Qué ha sucedido?
+- id: 13402
+  en: >-
+    El encuentro de Naminé con Roxas puso{:delay 78 00}{:clear }su corazón en contacto
+
+    con el de Kairi.{:delay AA 00}{:clear } {:delay 4F 00}{:clear }Y eso, de paso, ha afectado a Sora.{:delay BF 00}{:clear } {:delay 14 00}{:clear }¿Entiendes?
+- id: 13403
+  en: Naminé...{:delay 5A 00}{:clear } {:delay 1E 00}{:clear }es todo un prodigio.
+- id: 13404
+  en: >-
+    No nació como los otros incorpóreos.{:delay 96 00}{:clear } {:delay 3F 00}{:clear }Puede interferir en los corazones
+
+    y los recuerdos de Sora{:delay B1 00}{:clear }y de quienes están con él.
+- id: 13405
+  en: ¿Quién es el origen de su incorpóreo?
+- id: 13406
+  en: >-
+    Podría decírtelo...{:delay 8B 00}{:clear } {:delay 33 00}{:clear }pero quizás tú podrías iluminarme
+
+    antes con tu verdadero nombre.
+- id: 13407
+  en: Es Ansem.
+- id: 13408
+  en: '{:delay D7 00}{:clear } {:delay 76 00}{:clear }¡Es un honor, Ansem!'
+- id: 13409
+  en: Estaba soñando...
+- id: 13410
+  en: Pero ¿era todo... un sueño?
+- id: 13411
+  en: >-
+    Solo quedan tres días de
+
+    las vacaciones de verano,{:delay 97 00}{:clear }así que ni nombres los deberes.
+- id: 13412
+  en: >-
+    Quedamos en que los
+
+    terminaríamos hoy.
+- id: 13413
+  en: Ayer...{:delay 38 00}{:clear }me caí de la torre de la estación, ¿no?
+- id: 13414
+  en: ¡Entonces no estarías aquí!
+- id: 13415
+  en: Pero tío, te faltó un pelo...
+- id: 13416
+  en: ¡Dejad de cambiar de tema!
+- id: 13417
+  en: ¡Vale, vale!
+- id: 13418
+  en: >-
+    Tú ganas. Haremos los deberes.{:delay 91 00}{:clear }Maldita redacción libre...{:delay 6F 00}{:clear }{:delay 0A 00}{:clear }Bueno, ¿alguien tiene alguna idea
+
+    brillante para el tema?
+- id: 13419
+  en: >-
+    Podríamos estudiar las cosas que
+
+    me están pasando.{:delay EB 00}{:clear }{:delay 0A 00}{:clear }Ya sabéis... los sueños...
+
+    y esos tipos de blanco...
+- id: 13420
+  en: Ni hablar.
+- id: 13421
+  en: ¿Por qué?
+- id: 13422
+  en: >-
+    Mira, algo raro os ocurre
+
+    a la ciudad y a ti{:delay 96 00}{:clear }desde que robaron las fotos.
+- id: 13423
+  en: >-
+    Pues mañana registraremos el pueblo
+
+    y averiguaremos qué está pasando.
+- id: 13424
+  en: Todos nos echarán una mano.
+- id: 13425
+  en: ¿Todo eso por mí?
+- id: 13426
+  en: ¡Voy a por unos helados!
+- id: 13427
+  en: >-
+    {:unk13 EA 00 87 00}{:unk08 01 00 05}Hay un extraño rumor
+
+    circulando por ahí.{:clear }¿Queréis oírlo?
+- id: 13428
+  en: >-
+    {:unk13 AE 00 4E 00}{:unk08 01 01 06}Conocéis las escaleras de la
+
+    Estación del Atardecer, ¿no?
+- id: 13429
+  en: >-
+    {:unk13 B5 00 51 00}{:unk06 01}{:unk08 01 01 06}Subimos y bajamos por ellas
+
+    sin fijarnos mucho.{:clear }Pero no son normales,
+
+    ¿sabéis?{:clear }El número de escalones
+
+    varía según subas o bajes.
+- id: 13430
+  en: '{:unk13 0B 01 50 00}{:unk06 02}{:unk08 03 00 05}¿¡En serio!?'
+- id: 13431
+  en: >-
+    {:unk13 49 01 79 00}{:unk08 01 01 05}Y hay otras seis historias
+
+    extrañas como esa.{:clear }Algo así como...{:clear }... las Siete Maravillas
+
+    de Villa Crepúsculo.
+- id: 13432
+  en: >-
+    {:unk13 40 01 50 00}{:unk08 01 00 05}¡Podríamos investigarlas para
+
+    nuestro trabajo de la escuela!{:clear }Pence, ¡eres un genio!
+- id: 13433
+  en: >-
+    {:unk13 E6 00 50 00}{:unk08 01 00 05}Debe de haber más
+
+    rumores circulando por ahí.{:clear }¡Separémonos!{:clear }Yo voy a por
+
+    las Siete Maravillas...
+- id: 13434
+  en: >-
+    {:unk13 33 01 56 00}{:unk08 01 00 05}¡Olette y yo trataremos de
+
+    enterarnos de otros rumores!{:clear }¡Andando!
+- id: 13435
+  en: >-
+    {:unk13 22 01 50 00}{:unk08 01 00 05}Pues tú te vienes
+
+    conmigo, Roxas.{:clear }Vayamos a coger el tren.
+
+    ¡A la estación!
+- id: 13436
+  en: >-
+    ¡Ha llegado la hora! ¡Comienza nuestra
+
+    búsqueda de las Siete Maravillas!
+- id: 13437
+  en: ¡Eh! ¿Algún rumor nuevo?
+- id: 13438
+  en: Nada en la Calle del Mercado.
+- id: 13439
+  en: A nosotros no nos adelantáis.{:delay 8C 00}{:clear }{:delay 1E 00}{:clear }Vamos a las terrazas con vosotros.
+- id: 13440
+  en: ¡Hayner, no es una carrera!
+- id: 13441
+  en: ¡Pues ahora sí!
+- id: 13442
+  en: '{:delay 3C 00}{:clear }Venga, podemos ir todos.'
+- id: 13443
+  en: Eh... ¿dónde lo habré metido?
+- id: 13444
+  en: ¡Olette! ¡Date prisa!
+- id: 13445
+  en: ¿Eh?
+- id: 13446
+  en: >-
+    ¿Estos son los escalones?{:delay 64 00}{:clear }{:delay 50 00}{:clear }¿Los que suman distinto para
+
+    arriba que para abajo?
+- id: 13447
+  en: >-
+    Mmm... en realidad, es una
+
+    auténtica estupidez, pero...
+- id: 13448
+  en: ¿Qué?
+- id: 13449
+  en: >-
+    Fue Trueno quien los contó.{:delay 50 00}{:clear }Dijo...{:delay 61 00}{:clear }"Nunca me salen los mismos
+
+    escalones, colega."{:delay A0 00}{:clear }
+- id: 13450
+  en: >-
+    Entonces...
+
+    ¿simplemente contó mal?
+- id: 13451
+  en: Eh, no te preocupes.
+- id: 13452
+  en: >-
+    ¿Sabes?{:delay 48 00}{:clear }No se puede decir que esa maravilla
+
+    fuera muy maravillosa.
+- id: 13453
+  en: Vale, vale. No digas más.
+- id: 13454
+  en: >-
+    ¡Pero la siguiente sí que es buena!
+
+    ¡La Sexta Maravilla!
+- id: 13455
+  en: ¡Tenemos algo chicos!
+- id: 13456
+  en: ¡El misterio del tren fantasma!
+- id: 13457
+  en: >-
+    ¡Todo el mundo conoce
+
+    la Sexta Maravilla!
+- id: 13458
+  en: ¿Sí? Pues yo no.
+- id: 13459
+  en: ¿Ya sabéis por dónde pasa el tren?
+- id: 13460
+  en: Por la Colina del Atardecer.
+- id: 13461
+  en: >-
+    Si los rumores son ciertos,
+
+    pronto pasará.
+- id: 13462
+  en: Se cuenta que el tren va vacío:{:delay AD 00}{:clear }{:delay 26 00}{:clear }sin maquinista,{:delay 67 00}{:clear }sin revisor,{:delay 59 00}{:clear }sin pasajeros...{:delay 51 00}{:clear }sin vuelta.
+- id: 13463
+  en: El año que viene tenemos que ir a la playa.
+- id: 13464
+  en: >-
+    Sí. Habrá que buscar trabajo
+
+    al empezar las vacaciones.
+- id: 13465
+  en: Buenas tardes, piltrafillas.{:delay 6E 00}{:clear } {:delay 20 00}{:clear }¿Qué estáis haciendo aquí?
+- id: 13466
+  en: ¿Y a ti qué te importa?
+- id: 13467
+  en: No me importa, pero decídmelo.
+- id: 13468
+  en: Estamos esperando al tren fantasma.
+- id: 13469
+  en: Esperando al tren fantasma...
+- id: 13470
+  en: >-
+    ¿Por qué siempre que os veo me
+
+    pongo de los nervios?
+- id: 13471
+  en: No lo sé.{:delay 46 00}{:clear }{:delay 24 00}{:clear }Tal vez sea el destino.
+- id: 13472
+  en: El destino...{:delay 4A 00}{:clear }En ese caso, seamos amigos.
+- id: 13473
+  en: Paso de dejarme guiar por el destino.
+- id: 13474
+  en: ¿Y cuándo te has dejado tú guiar por algo?
+- id: 13475
+  en: ¿Seifer?
+- id: 13476
+  en: Lo sé.{:delay 3C 00}{:clear }{:delay 14 00}{:clear }Mañana.
+- id: 13477
+  en: ¡Mirad!
+- id: 13478
+  en: ¡Sí que existe!
+- id: 13479
+  en: ¡Y además no va nadie a bordo!
+- id: 13480
+  en: >-
+    ¿Cuál es la pega?
+
+    Tiene que haber una pega, ¿no?
+- id: 13481
+  en: ¿Así que es real?
+- id: 13482
+  en: ¡Vamos a la estación!
+- id: 13483
+  en: ¡Subamos!
+- id: 13484
+  en: ¿Qué?
+- id: 13485
+  en: Podría pasarte algo.
+- id: 13486
+  en: ¿Eh?
+- id: 13487
+  en: El tren llegará en breves momentos.
+- id: 13488
+  en: Vamos.
+- id: 13489
+  en: Vino un tren de la playa que...{:delay 84 00}{:clear }iba sin maquinista, ¿verdad?
+- id: 13490
+  en: Volvamos...
+- id: 13491
+  en: ¿Verdad?
+- id: 13492
+  en: Vámonos a casa a hacer la redacción.
+- id: 13493
+  en: '"Los rumores eran falsos. Fin."'
+- id: 13494
+  en: >-
+    Puede quedar bien si escribimos
+
+    todo lo que hemos hecho.
+- id: 13495
+  en: >-
+    Pero ¿qué pasa con la última,
+
+    la Séptima Maravilla?
+- id: 13496
+  en: ¡A quién le importa!
+- id: 13497
+  en: A mí. Vamos, Pence.
+- id: 13498
+  en: Tú mismo.
+- id: 13499
+  en: Roxas...
+- id: 13500
+  en: '{:delay 3C 00}{:clear }Está en la mansión encantada.'
+- id: 13501
+  en: ¿Sabes una cosa...?
+- id: 13502
+  en: ¡Uagh!
+- id: 13503
+  en: Íbamos a explorar la mansión mañana.
+- id: 13504
+  en: Cierto...
+- id: 13505
+  en: Hasta la panda de Seifer nos iba a ayudar.
+- id: 13506
+  en: ¿Seifer?
+- id: 13507
+  en: Sí. Se lo pidió Hayner.
+- id: 13508
+  en: ¿Y qué estamos buscando?
+- id: 13509
+  en: >-
+    Bueno, dicen que hay una niña que se
+
+    aparece en la ventana del segundo piso.{:delay 10 01}{:clear }Aunque hace años que nadie vive aquí.
+- id: 13510
+  en: Roxas...
+- id: 13511
+  en: ¿Naminé?
+- id: 13512
+  en: Este soy...{:delay 3C 00}{:clear }{:delay 33 00}{:clear }¿yo?...{:delay 45 00}{:clear }{:delay 5D 00}{:clear }Y también está Axel.
+- id: 13513
+  en: Sois amigos íntimos.
+- id: 13514
+  en: Muy graciosa.
+- id: 13515
+  en: >-
+    ¿No quieres saber la verdad...
+
+    sobre quién eres realmente?
+- id: 13516
+  en: Nadie me conoce mejor que yo mismo.
+- id: 13517
+  en: Claro...
+- id: 13518
+  en: >-
+    Pero...{:delay 3C 00}{:clear }{:delay 1E 00}no entiendo qué está
+
+    pasando últimamente.
+- id: 13519
+  en: Conoces a estos tres, ¿verdad?
+- id: 13520
+  en: Sí...{:delay 44 00}{:clear }{:delay 35 00}Sora, Donald y Goofy.{:delay A1 00}{:clear }Estaban en mis sueños.
+- id: 13521
+  en: >-
+    Hace casi un año...{:delay 5A 00}{:clear }{:delay 33 00}{:clear }sucedieron ciertas cosas...{:delay 8E 00}{:clear }y tuve que separar los recuerdos
+
+    enlazados del corazón de Sora.{:delay E6 00}{:clear }{:delay 23 00}{:clear }Pero ahora...{:delay 5A 00}{:clear }voy a volver a colocarlos
+
+    justo donde estaban.
+- id: 13522
+  en: ¿Te refieres a... los sueños?
+- id: 13523
+  en: Sí.{:delay 3C 00}{:clear }{:delay 24 00}{:clear }Sora y tú estáis conectados.
+- id: 13524
+  en: >-
+    Y para estar completo de nuevo,
+
+    digamos que Sora...
+- id: 13525
+  en: ¿A mí?{:delay 7C 00}{:clear }¿Para qué?
+- id: 13526
+  en: Tú conservas la mitad de su ser.{:delay 9B 00}{:clear }{:delay 82 00}{:clear }Te necesita, Roxas.
+- id: 13527
+  en: ¿Naminé?
+- id: 13528
+  en: Naminé...{:delay 42 00}{:clear }{:delay 6D 00}¿quién eres?
+- id: 13529
+  en: >-
+    Una bruja... con poderes sobre los
+
+    recuerdos de Sora y los que le rodean.
+- id: 13530
+  en: ¿Una bruja?
+- id: 13531
+  en: Así es como me llama DiZ.
+- id: 13532
+  en: Mmm... No puedo ayudarte.
+- id: 13533
+  en: Es curioso...{:delay 49 00}{:clear }{:delay 85 00}{:clear }Siento como si...{:delay 88 00}{:clear }no me conociera a mí mismo.
+- id: 13534
+  en: Tú...{:delay 3C 00}{:clear }{:delay 50 00}{:clear }Tú no deberías haber existido, Roxas.
+- id: 13535
+  en: ¿Qué?{:delay 5A 00}{:clear }{:delay 29 00}{:clear }¿Cómo puedes decir algo así...{:delay 93 00}{:clear }{:delay 2B 00}{:clear }aunque fuera verdad?
+- id: 13536
+  en: Lo siento.{:delay 3C 00}{:clear }{:delay 23 00}{:clear }Supongo que hay cosas que...{:delay 50 00}{:clear }realmente es mejor no decir.
+- id: 13537
+  en: ¡Roxas! ¡Roxas!
+- id: 13538
+  en: ¿Eh?
+- id: 13539
+  en: ¿La has visto?
+- id: 13540
+  en: Sí. Mira la ventana... Fíjate.
+- id: 13541
+  en: ¡Bah, qué chasco!
+- id: 13542
+  en: '... Sí.'
+- id: 13543
+  en: Bueno, volvamos al lugar de siempre.{:delay B8 00}{:clear }Hayner y Olette nos esperan.
+- id: 13544
+  en: Hola, chicos. ¿Qué tal ha ido?
+- id: 13545
+  en: >-
+    La niña de la ventana ha resultado ser
+
+    una cortina que se movía con el viento.
+- id: 13546
+  en: Me lo imaginaba. Ya tenemos la redacción.
+- id: 13547
+  en: ¡Perfecto!
+- id: 13548
+  en: Bueno, ¿vamos a por Hayner?{:delay 78 00}{:clear }Seguro que está en la estación.
+- id: 13549
+  en: >-
+    Solo nos quedan dos días
+
+    para estar juntos.
+- id: 13550
+  en: ¿Eh?
+- id: 13551
+  en: Las vacaciones, ¿te acuerdas?
+- id: 13552
+  en: Oh...{:delay 64 00}{:clear }Claro.
+- id: 13553
+  en: Mañana registraremos la ciudad.
+- id: 13554
+  en: Y pasado es la feria.
+- id: 13555
+  en: El último día del verano.
+- id: 13556
+  en: >-
+    ¡No digas eso!
+
+    ¿Quieres que me salga una úlcera?
+- id: 13557
+  en: >-
+    Eso si no explotas antes de comer
+
+    tanto helado.
+- id: 13558
+  en: ¿Por qué le has mostrado el tren?
+- id: 13559
+  en: Porque se perdió la excursión a la playa.
+- id: 13560
+  en: '{:delay 48 00}Te estás volviendo un blandengue.'
+- id: 13561
+  en: >-
+    Bueno...{:delay 50 00}{:clear }{:delay 1E 00}{:clear }¿y tú qué?{:delay 4B 00}{:clear }{:delay 39 00}{:clear }¿Empiezan a llenarse las lagunas
+
+    de tu memoria?
+- id: 13562
+  en: Sí, la bruma se va despejando.
+- id: 13563
+  en: >-
+    Lo mismo les está pasando a todos los que
+
+    estaban relacionados con Sora.{:delay 0E 01}{:clear }{:delay 6E 00}{:clear }Muy pronto, para ellos, será como un
+
+    buen amigo que se ha ido un año de viaje.
+- id: 13564
+  en: >-
+    He esperado,
+
+    pero ahora quiero saberlo.{:delay 7D 00}{:clear } {:delay 32 00}{:clear }¿Qué es lo que pretendes?
+- id: 13565
+  en: Venganza.
+- id: 13566
+  en: Venganza...
+- id: 13567
+  en: >-
+    Ahora, los últimos retoques.{:delay BA 00}{:clear }{:delay 0A 00}{:clear }Primero, debemos librarnos de Naminé.{:delay B4 00}{:clear }{:delay 0A 00}{:clear }Ha hecho un trabajo espléndido con Sora,
+
+    pero ahora debe desaparecer.
+- id: 13568
+  en: Restauración al 97 por ciento.
+- id: 13569
+  en: Tíos... anoche no me podía dormir.
+- id: 13570
+  en: ¿Chicos?
+- id: 13571
+  en: >-
+    Mira a lo que hemos llegado.{:delay 78 00}{:clear }Me han dado la sucia orden
+
+    de eliminarte...{:delay A1 00}{:clear }{:delay 1E 00}{:clear }si te niegas a volver conmigo.
+- id: 13572
+  en: Somos...{:delay 56 00}{:clear }buenos amigos, ¿no?
+- id: 13573
+  en: >-
+    Claro... pero no dejaré que me
+
+    conviertan en un umbrío por...{:delay EC 00}{:clear }¡Un momento! ¿Ya te acuerdas?
+- id: 13574
+  en: '... Sí.'
+- id: 13575
+  en: >-
+    ¡Genial!{:delay 38 00}{:clear }Pero... ya sabes,
+
+    tengo que... comprobarlo.{:delay A4 00}{:clear }Así que... mmm...{:delay 78 00}{:clear }{:delay 73 00}{:clear }¿Cómo se llama nuestro jefe?
+- id: 13576
+  en: Ah, no me lo puedo creer...
+- id: 13577
+  en: ¡Roxas, ven a la mansión!{:delay C2 00}{:clear }¡Ha llegado la hora!
+- id: 13578
+  en: ¡Hayner!{:delay 58 00}{:clear }¡Pence!{:delay 63 00}{:clear }¡Olette!
+- id: 13579
+  en: >-
+    El Roxas que yo conocía
+
+    ha desaparecido.
+- id: 13580
+  en: ¡Me hace venir y me deja fuera!
+- id: 13581
+  en: Esa Organización {XIII}...{:delay 6F 00}{:clear }no es nada bueno.
+- id: 13582
+  en: >-
+    Buenos o malos. No sé.{:delay E5 00}{:clear }Son un grupo de seres incompletos
+
+    que desean ser completos.{:delay C8 00}{:clear }{:delay 30 00}{:clear }Con ese fin, buscan algo
+
+    desesperadamente.
+- id: 13583
+  en: ¿Qué?
+- id: 13584
+  en: Kingdom Hearts.
+- id: 13585
+  en: ¿Te divierte?
+- id: 13587
+  en: Tú eres...
+- id: 13588
+  en: ¿Naminé?
+- id: 13589
+  en: >-
+    Nada que averigües tendría el poder
+
+    para cambiar tu destino.
+- id: 13590
+  en: >-
+    Aunque no lo cambie,
+
+    quiero saberlo.{:delay B0 00}{:clear }¡Tengo derecho a saberlo!
+- id: 13591
+  en: >-
+    Un incorpóreo no tiene derecho
+
+    a saber.{:delay D1 00}{:clear }Ni siquiera tiene derecho a ser.
+- id: 13592
+  en: ¿Pero qué es un incorpóreo?
+- id: 13593
+  en: >-
+    DiZ, no hay tiempo.
+
+    ¡Demasiados incorpóreos!
+- id: 13594
+  en: >-
+    Roxas, los incorpóreos como nosotros
+
+    solo somos seres a medias.{:delay 29 01}{:clear }No desaparecerás.{:delay 85 00}{:clear }¡Solo estarás completo!
+- id: 13595
+  en: ¿Voy... a desaparecer?
+- id: 13596
+  en: ¡No permitiré más salidas de tono!
+- id: 13597
+  en: ¡No, no desapareceras!...
+- id: 13598
+  en: ¡Espera!
+- id: 13600
+  en: ¡Suéltala!
+- id: 13601
+  en: ¡Naminé!
+- id: 13602
+  en: ¿Funcionará?
+- id: 13603
+  en: >-
+    Si podemos mantener
+
+    la ciudad virtual{:delay C0 00}{:clear }hasta que Naminé termine
+
+    de enlazar los recuerdos de Sora.
+- id: 13604
+  en: ¿Qué le ocurrirá a Roxas?
+- id: 13605
+  en: >-
+    Conserva la mitad del poder
+
+    de Sora en su interior.{:delay BF 00}{:clear }{:delay 3C 00}{:clear }Al final, tendrá que devolverlo.{:delay 8D 00}{:clear }{:delay 53 00}{:clear }Hasta entonces,{:delay 50 00}{:clear }necesitará otra personalidad para
+
+    despistar a sus perseguidores.
+- id: 13606
+  en: Pobre marioneta.
+- id: 13607
+  en: Es el destino de un incorpóreo.
+- id: 13608
+  en: Asombroso, Roxas.
+- id: 13609
+  en: Axel.
+- id: 13610
+  en: >-
+    ¿De verdad te acuerdas
+
+    de mí esta vez?{:delay D3 00}{:clear }¡Qué gran halago!
+- id: 13611
+  en: ¡Pero ya es tarde!
+- id: 13612
+  en: ¿Dos?
+- id: 13613
+  en: Axel...
+- id: 13614
+  en: Nos veremos en otra vida.
+- id: 13615
+  en: Sí. Te esperaré.
+- id: 13616
+  en: Qué tontería.{:delay 8E 00}{:clear }Ni siquiera sé si tú volverás a...
+- id: 13617
+  en: ¿Donald?
+- id: 13618
+  en: ¿Goofy?
+- id: 13619
+  en: Al fin, el elegido de la llave espada.
+- id: 13620
+  en: ¿Con quién hablas?{:delay 54 00}{:clear }{:delay 25 00}{:clear }¿Conmigo?{:delay 3C 00}{:clear }¿O con Sora?
+- id: 13621
+  en: >-
+    A la mitad de Sora, claro.{:delay 96 00}{:clear }{:delay 42 00}{:clear }Tú resides en la oscuridad.{:delay A8 00}{:clear }{:delay 31 00}{:clear }Lo que necesito es a alguien que pueda
+
+    moverse por el Reino de la Luz{:delay 05 01}{:clear }y destruir la Organización {XIII}.
+- id: 13622
+  en: ¿Por qué? ¿Quién eres?
+- id: 13623
+  en: Un simple siervo del mundo.
+- id: 13624
+  en: ''
+- id: 13625
+  en: >-
+    Y si yo soy un siervo,{:delay 77 00}{:clear }tú deberías considerarte una
+
+    herramienta como mucho.
+- id: 13626
+  en: Eso es...{:delay 63 00}{:clear }¿se supone que es una broma?
+- id: 13627
+  en: ¡Porque no me hace gracia!
+- id: 13628
+  en: >-
+    Mis disculpas.{:delay 3F 00}{:clear }{:delay 45 00}{:clear }Esto no es más que una
+
+    proyección virtual.
+- id: 13629
+  en: Vamos, acércate.
+- id: 13630
+  en: ¡No sabes cómo te odio!
+- id: 13631
+  en: >-
+    Comparte algo de ese odio
+
+    con Sora.{:delay B4 00}{:clear }{:delay 2B 00}{:clear }Es demasiado bueno
+
+    para lo que le conviene.
+- id: 13632
+  en: ¡No!{:delay 56 00}{:clear }¡Mi corazón me pertenece!
+- id: 13633
+  en: Sora...
+- id: 13634
+  en: Te envidio.
+- id: 13635
+  en: >-
+    Supongo que mis vacaciones
+
+    de verano...{:delay 96 00}{:clear }{:delay 2B 00}{:clear }se acabaron.
+- id: 13636
+  en: ¿Eh? ¿Qué es este sitio?
+- id: 13637
+  en: ''
+- id: 13638
+  en: ¿Estás bien?
+- id: 13639
+  en: ¿Eh...?
+- id: 13640
+  en: >-
+    ¡Ese perro y tú habéis salido volando
+
+    de un agujero en la pared!{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Casi nos da un infarto a todos.
+- id: 13641
+  en: >-
+    ¡Socorro! ¡En el solar deportivo!
+
+    ¡Es Seifer!
+- id: 13642
+  en: ¡Por favor! ¡Que alguien nos ayude!
+- id: 13643
+  en: Parece que hay problemas...
+- id: 13644
+  en: ¡Hora de luchar!
+- id: 13645
+  en: Impresionante.
+- id: 13646
+  en: >-
+    Por cierto,
+
+    ¿habéis visto a un tipo llamado Axel?{:delay 02 01}{:clear }Supongo que está por aquí.
+- id: 13647
+  en: ¿Y a mí qué?
+- id: 13648
+  en: >-
+    Veréis, Axel ha decidido actuar
+
+    al margen de nosotros.
+- id: 13649
+  en: ¿También está con la Organización?
+- id: 13650
+  en: Sí.
+- id: 13651
+  en: ¿Y no sois amigos?
+- id: 13652
+  en: >-
+    No es una Organización
+
+    muy organizada...
+- id: 13653
+  en: >-
+    No bajéis la guardia.{:delay 96 00}{:clear }Axel no se detendrá ante nada
+
+    con tal de convertiros en sincorazón.
+- id: 13654
+  en: >-
+    Vaya, gracias por preocuparte
+
+    de nosotros.{:delay 96 00}{:clear }Pero, afortunadamente,
+
+    sabemos cuidarnos muy bien.
+- id: 13655
+  en: >-
+    Me alegra saberlo.{:delay 8A 00}{:clear }Con Axel o sin él, nos partiría
+
+    el corazón que os pasara algo.
+- id: 13656
+  en: ¿Corazón? ¡Si no tenéis corazón!
+- id: 13657
+  en: >-
+    Cierto, no lo tenemos.{:delay 8C 00}{:clear } {:delay 28 00}{:clear }Pero... recordamos qué se sentía.
+
+    Eso es lo que nos hace especiales.
+- id: 13658
+  en: ¿Qué quieres decir?
+- id: 13659
+  en: Sabemos muy bien...{:delay 7A 00}{:clear }cómo herir un corazón.
+- id: 13660
+  en: >-
+    Sora, tú sigue luchando
+
+    contra esos sincorazón.
+- id: 13661
+  en: Vamos a seguirle.
+- id: 13662
+  en: ¿Y eso?
+- id: 13663
+  en: >-
+    No estoy seguro, pero a lo mejor nos
+
+    lleva hasta el mundo de la Organización.
+- id: 13664
+  en: >-
+    No seas insensato.
+
+    ¿Quieres acabar como Riku?
+- id: 13665
+  en: ¿¡Qué!?
+- id: 13666
+  en: ¡Eh, espera!
+- id: 13667
+  en: >-
+    ¿A qué se refiere con
+
+    "acabar como Riku"?
+- id: 13668
+  en: >-
+    Eh, ¿qué tal si os largáis de mi ciudad?
+
+    Ya habéis causado bastantes problemas.
+- id: 13669
+  en: Riku...
+- id: 13670
+  en: ¡Como quieras! ¡Vamos, chicos!
+- id: 13671
+  en: ¡Alto!
+- id: 13672
+  en: ¡Decídete de una vez!
+- id: 13673
+  en: >-
+    Esto es para el tipo más fuerte
+
+    de Villa Crepúsculo.
+- id: 13674
+  en: Gracias, pero... no lo necesitamos.
+- id: 13675
+  en: ¡Ah! ¡Sora!
+- id: 13676
+  en: Esto... Pence, ¿verdad?
+- id: 13677
+  en: ¿Conoces a una chica llamada Kairi?
+- id: 13678
+  en: ¿¡Ka... Kairi!? ¡Claro que sí!
+- id: 13679
+  en: ¡Será mejor que vengas a la estación!
+- id: 13680
+  en: ¡Eh!
+- id: 13681
+  en: Oye, ¿cómo es que conocéis a Kairi?
+- id: 13682
+  en: ¿De verdad Kairi ha estado aquí?
+- id: 13683
+  en: >-
+    Sí.{:delay 69 00}{:clear }Y... ha dicho que
+
+    te estaba buscando.
+- id: 13684
+  en: ¡Dime dónde está!
+- id: 13685
+  en: Pues...
+- id: 13686
+  en: ¡Qué historia más romántica!
+- id: 13687
+  en: >-
+    Si te quedas,
+
+    seguro que Sora aparecerá por aquí.
+- id: 13688
+  en: Sí, dijo que volvería.
+- id: 13689
+  en: ¡Vale!
+- id: 13690
+  en: ¿Por qué has tardado tanto, Kairi?
+- id: 13691
+  en: Algo me decía que te encontraría aquí.
+- id: 13693
+  en: Kairi...
+- id: 13694
+  en: ¿Crees que ha podido ser Axel?
+- id: 13695
+  en: Lo siento...
+- id: 13696
+  en: >-
+    Eh, no es culpa tuya.
+
+    ¡Venga, anímate!
+- id: 13697
+  en: Tiene gracia que yo diga eso...
+- id: 13698
+  en: ¡Tengo que ayudar a Kairi!
+- id: 13699
+  en: ''
+- id: 13700
+  en: ''
+- id: 13701
+  en: ¡Por los pelos!
+- id: 13702
+  en: ¿Sora?
+- id: 13703
+  en: ¡Sora! ¿Estás bien?
+- id: 13704
+  en: ¿Eh? ¿Qué...?
+- id: 13705
+  en: ¿Qué... qué ha pasado?
+- id: 13706
+  en: >-
+    Se ha abierto una nueva ruta.{:delay 72 00}{:clear }Y Kairi y Riku nos esperan
+
+    en algún punto de ella.
+- id: 13707
+  en: Debéis daros prisa.
+- id: 13708
+  en: ¿Volveréis?
+- id: 13709
+  en: ¡Lo prometo!
+- id: 13725
+  en: ¡Eh, creo que ya casi hemos llegado!
+- id: 13726
+  en: ''
+- id: 13727
+  en: ''
+- id: 13728
+  en: >-
+    ¡Ahí va!
+
+    ¿No habíamos venido por la foto?
+- id: 13729
+  en: Mirad. Os la enseñaré.
+- id: 13730
+  en: ¡Anda! ¡Goofy tiene razón!
+- id: 13731
+  en: ¡Venga, vamos a buscar esa mansión!
+- id: 13732
+  en: ¡Eso!
+- id: 13733
+  en: Eh, ¿estás bien?
+- id: 13734
+  en: ¿Qué ha pasado?
+- id: 13735
+  en: Vinimos en busca de Kairi,{:delay AA 00}{:clear }y esas cosas blancas nos atacaron.
+- id: 13736
+  en: ¡Tenéis que ir con más cuidado!
+- id: 13737
+  en: >-
+    Sí, no tenéis por qué
+
+    implicaros en esto.
+- id: 13738
+  en: >-
+    Claro que sí.
+
+    Kairi también es amiga nuestra.
+- id: 13739
+  en: Es verdad...{:delay 50 00}{:clear }¿Sabes? Nunca había pensado en eso.
+- id: 13740
+  en: >-
+    Se rumorea que esta mansión
+
+    recibe visitantes muy extraños.
+- id: 13741
+  en: >-
+    Creíamos que podría ser
+
+    la puerta a una especie de{:delay 95 00}{:clear }Villa Crepúsculo alternativa.
+- id: 13742
+  en: >-
+    ¿Cómo que Villa
+
+    Crepúsculo alternativa?
+- id: 13743
+  en: >-
+    Oye, Goofy,
+
+    ¿podríamos ver ese cristal tuyo?
+- id: 13744
+  en: >-
+    Yo misma hice ese monedero
+
+    y todavía lo tengo, {:delay 8A 00}{:clear }así que no debería haber dos.
+- id: 13745
+  en: Y este es el trofeo que te dio Seifer.{:delay AA 00}{:clear }Te lo dejaste, ¿recuerdas?
+- id: 13746
+  en: Es un trofeo único.{:delay 77 00}{:clear }Lo mismo pasa con los cristales:{:delay 75 00}{:clear }rojo, azul, amarillo, verde... {:delay C6 00}{:clear }Solo hay uno de cada color.{:delay 7A 00}{:clear }¡Pero vosotros tenéis otros!
+- id: 13747
+  en: Eso... ¿por qué los tenéis?
+- id: 13748
+  en: ''
+- id: 13749
+  en: >-
+    El monedero es del rey.{:delay 96 00}{:clear }Cuando nos dio dinero para el tren,
+
+    también nos dio el cristal.
+- id: 13750
+  en: >-
+    Pero...
+
+    ¿de dónde lo ha sacado el rey?
+- id: 13751
+  en: >-
+    ¿Veis? Tiene que haber otra ciudad
+
+    como esta por ahí.{:delay F8 00}{:clear }Eso explicaría por qué el rey
+
+    tenía el monedero y el cristal.{:delay DD 00}{:clear }Todo encaja.
+- id: 13752
+  en: ¿Tú crees?
+- id: 13753
+  en: >-
+    ¡En esa otra ciudad es donde debe
+
+    de estar todo lo que falta aquí!
+- id: 13754
+  en: Como Kairi.
+- id: 13755
+  en: ¡Ya entiendo!
+- id: 13756
+  en: ¡Cuidado!
+- id: 13757
+  en: >-
+    Tengo que deciros una cosa.
+
+    He descubierto dónde está Ansem,{:delay B5 00}{:clear }¡Ansem el Sabio! ¡El verdadero!{:delay 8C 00}{:clear }Se ha infiltrado en el cuartel general
+
+    de la Organización {XIII}.
+- id: 13758
+  en: >-
+    Y nosotros ya sabemos dónde está Kairi.
+
+    ¡Estoy casi seguro!
+- id: 13759
+  en: ¿Entonces qué hacéis todos aquí?
+- id: 13760
+  en: Alguien nos dio una pista.
+- id: 13761
+  en: ¿Quién?
+- id: 13762
+  en: >-
+    Veréis, Majestad,
+
+    Sora cree que ha podido ser Riku.
+- id: 13763
+  en: Es una sensación que tuve.
+- id: 13764
+  en: >-
+    Pues si eso es lo que crees,
+
+    seguro que aciertas.
+- id: 13765
+  en: Entonces, ¿Riku está bien?
+- id: 13766
+  en: Si eso es lo que crees...
+- id: 13767
+  en: >-
+    ¡He esperado mucho, Majestad!
+
+    ¡Contadme lo que sabéis!
+- id: 13768
+  en: No me corresponde a mí decirlo.
+- id: 13769
+  en: Pero, Majestad... ¿por qué?
+- id: 13770
+  en: No quiero incumplir mi promesa.
+- id: 13771
+  en: ¿Le hicisteis una promesa a Riku?
+- id: 13772
+  en: >-
+    ¡Entonces está bien!
+
+    ¡Puedo volver a verle!
+- id: 13773
+  en: ¿Eh? ¿Quién es Riku?
+- id: 13774
+  en: Mi mejor amigo.
+- id: 13775
+  en: ¡Pues claro!
+- id: 13776
+  en: >-
+    ¿Majestad? Fue Riku el que os dio
+
+    la bolsa y el cristal, ¿verdad?
+- id: 13777
+  en: Y le prometisteis no decirlo, ¿no?
+- id: 13778
+  en: Caramba, chicos...
+- id: 13779
+  en: ¡Ya basta!
+- id: 13780
+  en: Sí. ¡Vámonos!
+- id: 13781
+  en: ¡Kairi! ¡Riku! ¡Ya vamos!
+- id: 13782
+  en: >-
+    {:unk13 AA 00 C3 00}{:unk08 01 00 05}Tiene que haber un
+
+    ordenador en alguna parte.
+- id: 13783
+  en: >-
+    {:unk13 71 01 93 00}{:unk08 01 00 05}Un ordenador...{:clear }¿Pensáis que está
+
+    conectado a esa
+
+    otra Villa Crepúsculo?
+- id: 13784
+  en: >-
+    {:unk13 C1 00 B3 00}{:unk08 01 00 05}Puede ser.{:clear }Y allí debería de haber una entrada
+
+    al Reino de la Oscuridad.
+- id: 13785
+  en: >-
+    {:unk13 13 01 3D 00}{:unk08 01 00 04}Eso os lo dijo Riku,
+
+    ¿verdad?
+- id: 13786
+  en: >-
+    {:unk13 FC 00 50 01}{:unk08 01 01 03}Por favor, Sora.
+
+    Hice una promesa.
+- id: 13787
+  en: >-
+    {:unk13 DB 00 3B 00}{:unk08 01 00 05}¡Ajá!
+
+    ¡Lo sabía!
+- id: 13788
+  en: >-
+    {:unk13 CF 00 5C 01}{:unk06 02}{:unk08 03 01 01}¡Eh! ¡No molestes
+
+    al rey!
+- id: 13789
+  en: '{:unk13 BB 00 3F 00}{:unk08 01 00 05}Vale. Lo siento...'
+- id: 13790
+  en: ¡Mirad!
+- id: 13791
+  en: ¡Lo encontramos!
+- id: 13792
+  en: ¿Cómo funciona?
+- id: 13793
+  en: Yo me encargo.
+- id: 13794
+  en: A ver...
+- id: 13795
+  en: Eso es.
+- id: 13796
+  en: Oh.
+- id: 13797
+  en: ¿Qué pasa?
+- id: 13798
+  en: No puedo seguir sin la contraseña.
+- id: 13799
+  en: >-
+    ¿Tenéis alguna idea de cuál
+
+    puede ser la contraseña?
+- id: 13800
+  en: ''
+- id: 13801
+  en: Pues... solo tenemos esta foto.
+- id: 13802
+  en: ''
+- id: 13803
+  en: ¡Y el helado salado-dulce!
+- id: 13804
+  en: Sí, el que se comió Donald.
+- id: 13805
+  en: Estaba en la caja con la foto.
+- id: 13806
+  en: ¡Ya está! {:delay 50 00}{:clear }¡A Ansem el Sabio le encanta el helado!
+- id: 13807
+  en: Vale. ¿Cómo se llama ese sabor?
+- id: 13808
+  en: ''
+- id: 13809
+  en: ¡Ha funcionado!
+- id: 13810
+  en: ¡Vamos!
+- id: 13811
+  en: Nos quedamos a defender el fuerte.
+- id: 13812
+  en: ¡Saluda a Kairi!
+- id: 13813
+  en: ¡Hecho!
+- id: 13814
+  en: ¿Hemos vuelto al mismo sitio?
+- id: 13815
+  en: ¡Mirad!
+- id: 13816
+  en: Esta es la otra Villa Crepúsculo.{:delay A0 00}{:clear }La Villa Crepúsculo de Roxas.
+- id: 13817
+  en: >-
+    Tiene que haber una entrada al
+
+    Reino de la Oscuridad por aquí.{:delay AA 00}{:clear }Vamos a separarnos.
+- id: 13818
+  en: Ahí...
+- id: 13819
+  en: Es aquí.
+- id: 13820
+  en: ¿Qué es este sitio?
+- id: 13821
+  en: ¡Qué lata! ¿Por dónde vamos?
+- id: 13822
+  en: ¡Riku! ¡Kairi!
+- id: 13823
+  en: ¡Es inútil!
+- id: 13824
+  en: >-
+    ¡No dejéis de moveros o
+
+    la oscuridad os engullirá!
+- id: 13825
+  en: ¡Largaos!
+- id: 13826
+  en: ¿Por qué?
+- id: 13827
+  en: No preguntes. ¡Obedeced!
+- id: 13828
+  en: ¿Estás bien?
+- id: 13829
+  en: >-
+    Yo secuestré a Kairi,
+
+    pero se me escapó.{:delay B4 00}{:clear }{:delay 3C 00}{:clear }Y después, Saïx la capturó.
+- id: 13830
+  en: ¡Dejadnos en paz!
+- id: 13831
+  en: >-
+    Creo que me gustaba más
+
+    cuando estaban de mi parte.
+- id: 13832
+  en: ¿Acaso te arrepientes?
+- id: 13833
+  en: ¡Naaa! Yo puedo con estos payasos.{:delay 9D 00}{:clear }{:delay 63 00}{:clear }Observa.
+- id: 13834
+  en: ¡Uaahh!
+- id: 13835
+  en: Te estás... desvaneciendo...
+- id: 13836
+  en: >-
+    Bueno, es lo que pasa cuando pones
+
+    todo tu ser en un ataque.{:delay 74 01}{:clear }¿Entiendes? {:delay 84 00}{:clear }Aunque no es que los incorpóreos
+
+    existan realmente... ¿No es así?
+- id: 13841
+  en: Quería ver a Roxas.
+- id: 13843
+  en: Esto nos lleva...
+- id: 13844
+  en: ¡Eh, venga, vámonos!
+- id: 13845
+  en: ''
+- id: 14050
+  en: El mar azul,{:delay 4E 00}{:clear } el cielo azul...{:delay 6F 00}{:clear }¡Pillamos un tren y nos vamos!
+- id: 14163
+  en: １４１６３
+- id: 14164
+  en: １４１６４
+- id: 14165
+  en: 'Tutorial: Talking'
+- id: 14166
+  en: １４１６６
+- id: 14167
+  en: 'Tutorial: Camera'
+- id: 14168
+  en: １４１６８
+- id: 14169
+  en: 'Tutorial: Fighting'
+- id: 14170
+  en: ¡Tienes que vencer a Seifer!
+- id: 14171
+  en: ¡Enfréntate al enemigo misterioso!
+- id: 14172
+  en: ¡Enfréntate al enemigo misterioso!
+- id: 14173
+  en: 'Tutorial: Savepoint'
+- id: 14174
+  en: ¡Enfréntate al enemigo misterioso!
+- id: 14175
+  en: ¡Derrota a todos los enemigos misteriosos!
+- id: 14176
+  en: ¡Usa el comando de reacción para abrir el cofre!
+- id: 14177
+  en: ¡Derrota al enemigo misterioso con ayuda de los comandos de reacción!
+- id: 14178
+  en: VS Hayner
+- id: 14179
+  en: VS Vivi
+- id: 14180
+  en: ¡Derrota a todos los enemigos misteriosos!
+- id: 14181
+  en: １４１８１
+- id: 14182
+  en: VS Setzer
+- id: 14183
+  en: ¡Derrota a todos los enemigos extraños!
+- id: 14184
+  en: ¡Derrota a todos los enemigos extraños!
+- id: 14185
+  en: ※※Axel [seriously]
+- id: 14186
+  en: ¡Derrota a todos los enemigos extraños!
+- id: 14187
+  en: ¡Acaba con los sincorazón!
+- id: 14188
+  en: ¡Acaba con los sincorazón!
+- id: 14189
+  en: ¡Acaba con los sincorazón!
+- id: 14190
+  en: ¡Derrota a todos los incorpóreos!
+- id: 14191
+  en: ¡Lucha junto al rey Mickey y derrota a todos los incorpóreos!
+- id: 14192
+  en: ※※Dusk
+- id: 14193
+  en: ¡Lucha junto a Axel y derrota a todos los incorpóreos!
+- id: 14202
+  en: ¡Enfréntate y derrota al otro Roxas!
+- id: 14203
+  en: ¡Examina la pared del fondo!
+- id: 14204
+  en: ¡Tienes que derrotar a los Vivis!
+- id: 14219
+  en: >-
+    Actualizando la información de
+
+    empleos. Por favor, regresad más tarde.
+- id: 14220
+  en: >-
+    Actualizando la información de
+
+    empleos. Por favor, regresad más tarde.
+- id: 14223
+  en: ¡Salta encima de la bolsa y evita que se mueva!
+- id: 14300
+  en: ¿Sora?
+- id: 14301
+  en: ¿Quién anda ahí?
+- id: 14302
+  en: ¡Sora!
+- id: 14303
+  en: ¡Sora, despierta!
+- id: 14304
+  en: ¡Donald! ¡Goofy!
+- id: 14305
+  en: '{:delay 45 00}{:clear }¡Menuda siesta!'
+- id: 14306
+  en: Entonces, ¿estábamos dormidos?
+- id: 14307
+  en: >-
+    Supongo que sí...
+
+    o no estaríamos tan atontados...
+- id: 14308
+  en: >-
+    ¿Cuándo creéis que nos
+
+    quedamos dormidos?
+- id: 14309
+  en: Ehh...
+- id: 14310
+  en: A ver... Vencimos a Ansem.
+- id: 14311
+  en: Sí.
+- id: 14312
+  en: Devolvimos la paz al mundo.{:delay 8C 00}{:clear }Encontramos a Kairi...{:delay 70 00}{:clear }Ah, sí, y nos fuimos a buscar a Riku.{:delay D1 00}{:clear }Creo que hasta ahí voy bien.
+- id: 14313
+  en: ¿Y ahora qué?
+- id: 14314
+  en: ¿Qué dice tu diario, Pepito?
+- id: 14315
+  en: ¡Anda! Solo hay una frase...
+- id: 14316
+  en: '"Dar las gracias a Naminé." {:delay 5A 00}{:clear }{:delay 32 00}{:clear } Mmm... Me pregunto quién será.'
+- id: 14317
+  en: ¡Pues vaya diario!
+- id: 14318
+  en: ''
+- id: 14319
+  en: >-
+    Bueno, ¿qué tal si
+
+    averiguamos dónde estamos?
+- id: 14320
+  en: >-
+    ¿Sabéis? Creo que he estado
+
+    en esta ciudad antes.
+- id: 14321
+  en: ¿Cómo se llama?
+- id: 14322
+  en: '{:delay BC 00}Serán imaginaciones mías.'
+- id: 14323
+  en: ¿Qué queréis?
+- id: 14324
+  en: >-
+    Ehhh... nada. Solo
+
+    saber qué había por aquí.
+- id: 14325
+  en: >-
+    Pues ya lo sabes.
+
+    Este es nuestro sitio.
+- id: 14326
+  en: Ahmm...
+- id: 14327
+  en: ¿Qué?
+- id: 14328
+  en: >-
+    Sois... nuevos por aquí,
+
+    ¿no? Yo soy Pence.
+- id: 14329
+  en: >-
+    Hayner. Encantado.{:delay 69 00}{:clear }Pero tenemos cosas que hacer,
+
+    así que hasta luego.
+- id: 14330
+  en: >-
+    Me llamo Olette.{:delay 68 00}{:clear }¿Habéis terminado ya
+
+    los deberes de verano?{:delay 86 00}{:clear }Las redacciones libres
+
+    son lo peor, ¿eh?
+- id: 14331
+  en: ¿Deberes?
+- id: 14332
+  en: Eh, ¿cómo os llamáis?
+- id: 14333
+  en: >-
+    Huy, perdón.
+
+    Somos Sora, Donald y Goofy.
+- id: 14334
+  en: ¿Qué tal?
+- id: 14335
+  en: >-
+    Sora, Donald, Goofy. {:delay B7 00}{:clear }Acabamos de conocer a
+
+    alguien que os busca.
+- id: 14336
+  en: >-
+    Parecía que tenia mucha prisa.{:delay 6E 00}{:clear }Llevaba una capa negra y
+
+    no se le veía la cara,{:delay B4 00}{:clear }pero tenía unas orejas
+
+    grandes y redondas.
+- id: 14337
+  en: ¡El rey!
+- id: 14338
+  en: ¿Dónde le habéis visto?
+- id: 14339
+  en: En la estación.
+- id: 14340
+  en: ¡La estación! ¡Gracias!
+- id: 14341
+  en: >-
+    Bueno, tenemos que seguir
+
+    con los deberes.
+- id: 14342
+  en: ¡Hasta luego!
+- id: 14343
+  en: ¡Vaya! ¡El rey nos está buscando!
+- id: 14344
+  en: ¡Sí, vayamos a la estación!
+- id: 14345
+  en: ¿Majestad?
+- id: 14346
+  en: ¡Shhh!
+- id: 14347
+  en: >-
+    ¡Tenéis que subir al tren y salir
+
+    de la ciudad! El tren sabe el camino.
+- id: 14348
+  en: Toma.
+- id: 14349
+  en: ¡Majestad!
+- id: 14350
+  en: ¿El rey?{:delay 74 00}{:clear }¿De verdad era él?
+- id: 14351
+  en: Puede que sí. ¡Sí, seguro que sí!
+- id: 14352
+  en: ¡Ahora sabemos que está bien!
+- id: 14353
+  en: >-
+    El rey quedó atrapado en el
+
+    Reino de la Oscuridad, ¿no?
+- id: 14354
+  en: Ajá.
+- id: 14355
+  en: Pero acabamos de verle...
+- id: 14356
+  en: Sí.
+- id: 14357
+  en: >-
+    Y si el rey está aquí,
+
+    ¡es que Riku también está!
+- id: 14358
+  en: ¡Tiene que estar!
+- id: 14359
+  en: >-
+    Pues yo me voy a buscar a Riku.{:delay 9B 00}{:clear }{:delay 14 00}{:clear }Así podremos volver a
+
+    las islas juntos.{:delay AA 00}{:clear }¡Kairi está allí esperándonos!{:delay 78 00}{:clear }{:delay 1E 00}{:clear }¿Qué vais a hacer vosotros?
+- id: 14360
+  en: >-
+    ¡Pero Sora!
+
+    ¿Hace falta que lo preguntes?
+- id: 14361
+  en: ¡Eh! ¿De qué te ríes?
+- id: 14362
+  en: ¡De tu cara!
+- id: 14363
+  en: >-
+    ¿Qué me decís, chicos? {:delay 5F 00}{:clear }¿Os apetece vivir otra
+
+    aventura juntos?
+- id: 14364
+  en: Y... ¿adónde vamos?
+- id: 14365
+  en: ¡Tenemos que subir a ese tren!
+- id: 14366
+  en: ¡Sí!
+- id: 14367
+  en: ¡Vamos!
+- id: 14368
+  en: ¡Esperad!
+- id: 14369
+  en: ''
+- id: 14370
+  en: Eh, Sora...
+- id: 14371
+  en: ¿Qué?
+- id: 14372
+  en: Nada... pero...
+- id: 14373
+  en: >-
+    Hemos venido a despediros.{:delay 5F 00}{:clear }Algo nos decía que teníamos
+
+    que hacerlo.
+- id: 14374
+  en: Oh. ¿De verdad? Gracias.
+- id: 14375
+  en: Deberíais comprar ya los billetes.
+- id: 14376
+  en: Sí.
+- id: 14377
+  en: ''
+- id: 14378
+  en: ¿Qué pasa?
+- id: 14379
+  en: Son iguales.
+- id: 14380
+  en: Sí.
+- id: 14381
+  en: Tres billetes, por favor.
+- id: 14382
+  en: >-
+    Tengo la sensación de que
+
+    no volveremos a esta ciudad...
+- id: 14383
+  en: ¿Por qué?
+- id: 14384
+  en: Serán imaginaciones tuyas.
+- id: 14385
+  en: ¡Sí, eso será!
+- id: 14386
+  en: ¡Venga, vámonos!
+- id: 14387
+  en: ¡Adiós!
+- id: 14388
+  en: >-
+    Oye, Sora...{:delay 55 00}{:clear }¿seguro que no nos
+
+    hemos visto antes?
+- id: 14389
+  en: Segurísimo.{:delay 32 00}{:clear }{:delay 2D 00}{:clear }¿Por qué lo dices?
+- id: 14390
+  en: No sé.
+- id: 14391
+  en: Oh.
+- id: 14392
+  en: ¿Eh?
+- id: 14393
+  en: ¿Estás bien?
+- id: 14394
+  en: Ah... Sí.{:delay 69 00}{:clear }No sé qué me ha pasado.
+- id: 14395
+  en: Anímate.
+- id: 14396
+  en: Sí. Hasta la vista.
+- id: 14397
+  en: ¿Sabéis?
+- id: 14398
+  en: Estoy triste.
+- id: 14399
+  en: Volveremos.
+- id: 14400
+  en: >-
+    Sí, ya volveremos a visitar
+
+    a Hayner y a los demás.
+- id: 14401
+  en: Eh, vosotros, ¿de dónde salís?
+- id: 14402
+  en: Ehhh...
+- id: 14403
+  en: >-
+    ¿Habéis venido para pelear
+
+    con nosotros o qué?
+- id: 14404
+  en: ¿Pelear? No hemos venido a pelear.
+- id: 14405
+  en: ¡Qué insolente!
+- id: 14406
+  en: A ver, listillos...
+- id: 14407
+  en: >-
+    Es hora de enseñaros cómo
+
+    comportarse en mi ciudad.{:delay 81 00}{:clear }¡Vamos!
+- id: 14408
+  en: ¡Menudo soplagaitas!
+- id: 14409
+  en: ''
+- id: 14410
+  en: Sí.
+- id: 14411
+  en: ¡Un momento!
+- id: 14412
+  en: >-
+    Si os vais a pelear, ¿por qué no
+
+    lo hacéis con un buen Struggle?
+- id: 14413
+  en: ¿Qué?
+- id: 14414
+  en: >-
+    Verás, Seifer...
+
+    soy un gran admirador tuyo.
+- id: 14415
+  en: ¿Qué? ¿Qué quieres?
+- id: 14416
+  en: >-
+    En otras palabras, quiero ver
+
+    más de tus "supermovimientos".
+- id: 14417
+  en: >-
+    Has llevado el torneo con mucho estilo{:delay 9B 00}{:clear }{:delay 14 00}{:clear }y dominaste por completo
+
+    el combate por el título.
+- id: 14418
+  en: Pero no me canso de verte.{:delay 8D 00}{:clear }¿Te das cuenta?{:delay 48 00}{:clear }¡Los combates son demasiado cortos!
+- id: 14419
+  en: ¿Y cómo te llamas tú?
+- id: 14420
+  en: Sora.
+- id: 14421
+  en: >-
+    Sora, si quieres participar en un
+
+    combate, no tienes más que decirlo.
+- id: 14433
+  en: >-
+    Era una prueba innegable de que
+
+    os dimos para el pelo, pardillos.
+- id: 14434
+  en: ¿Qué habéis hecho?{:delay 6C 00}{:clear }¿Quemarla?
+- id: 14435
+  en: >-
+    ¡Ja! No necesitamos una ----- para
+
+    demostrar que sois unos pringados.
+- id: 14441
+  en: ¡Me lo ha quitado!
+- id: 14443
+  en: '{:delay 4E 00}{:clear }A ver cómo volvemos...'
+- id: 14444
+  en: ¿Qué estás haciendo?
+- id: 14445
+  en: >-
+    {:delay 54 00}{:clear }He enviado a mis lacayos dentro{:delay A3 00}{:clear }a ver si el amo de esta torre
+
+    es tan grande y{:delay A7 00}{:clear } tan duro como dicen.
+- id: 14446
+  en: >-
+    Dicen que es un hechicero
+
+    muy poderoso,{:delay AB 00}{:clear }por lo que sería el perfecto
+
+    guardaespaldas para mí.
+- id: 14447
+  en: >-
+    Bah, da igual lo duro que sea.{:delay 78 00}{:clear }Cuando sea un sincorazón,
+
+    hará lo que yo diga.
+- id: 14448
+  en: ¿Un sincorazón?
+- id: 14449
+  en: >-
+    Exacto.{:delay 54 00}{:clear }Son esos seres que salen de lo más
+
+    oscuro del corazón de la gente.{:delay D2 00}{:clear }Y, oye, con todos esos sincorazón
+
+    de su parte, mi querido amigo,{:delay E1 00}{:clear }¡Maléfica va a conquistarlo todo!
+- id: 14450
+  en: >-
+    Estoy en deuda con esa bruja,{:delay 96 00}{:clear }así que me dedico a recorrer
+
+    el mundo para conseguirle{:delay CF 00} {:clear }un gran ejército de sincorazón.
+- id: 14451
+  en: >-
+    ¿Qué hago hablando con vosotros,
+
+    mocosos?{:delay 9C 00}{:clear } ¡Largo! Ya llevo bastante retraso.
+- id: 14452
+  en: >-
+    Deberías buscarte algo
+
+    mejor que hacer.
+- id: 14453
+  en: ¿Quién lo dice?
+- id: 14454
+  en: ¿¡Eh!? ¡Ahhh! ¡Vosotros!
+- id: 14455
+  en: ¿Pete?
+- id: 14456
+  en: >-
+    ¿Qué estáis haciendo por aquí,
+
+    mequetrefes?
+- id: 14457
+  en: ¿Qué haces tú aquí?
+- id: 14458
+  en: ¿Le conocéis?
+- id: 14459
+  en: >-
+    ¡Pues claro! ¡Pete lleva toda
+
+    la vida causando problemas!
+- id: 14460
+  en: >-
+    Su majestad le desterró a otra
+
+    dimensión hace mucho.{:delay E6 00}{:clear }{:delay 2F 00}{:clear }¿Cómo se habrá escapado?
+- id: 14461
+  en: >-
+    {:delay A5 00}{:clear }¿Queréis saber cómo?{:delay 6A 00}{:clear }¡Maléfica me liberó! ¡Así escapé!{:delay D4 00}{:clear }Y ahora vuestro mundo... ¿qué digo?{:delay BB 00}{:clear }¡Todos los mundos van a
+
+    pertenecer a un servidor!
+- id: 14462
+  en: >-
+    Porque Maléfica me va a
+
+    ayudar a conquistarlos.
+- id: 14463
+  en: Maléfica, ya...
+- id: 14464
+  en: >-
+    ¡Ohh! ¿De qué os reís?{:delay 5A 00}{:clear }{:delay 15 00}{:clear }¡El poder de Maléfica
+
+    es inconmensurable!
+- id: 14465
+  en: Ha palmado.
+- id: 14467
+  en: ¿Qué quieres decir?
+- id: 14468
+  en: ¡Vosotros!{:delay 3C 00}{:clear }{:delay 17 00}{:clear } ¡Vosotros sois los culpables!
+- id: 14469
+  en: Bueno...{:delay 30 00}{:clear }Igual sí tuvimos algo que ver.
+- id: 14470
+  en: ''
+- id: 14471
+  en: >-
+    ¡A mí los sincorazón!
+
+    ¡A formar!
+- id: 14472
+  en: >-
+    ¡Ya veréis!{:delay 60 00}{:clear }¡Nadie, y quiero decir nadie,
+
+    se mete con el todopoderoso Pete!
+- id: 14473
+  en: Bueno, "todopoderoso" Pete,{:delay 5A 00}{:clear }{:delay 30 00}{:clear }¿quién vive en esta torre?
+- id: 14474
+  en: >-
+    Ah, ¿no lo sabéis?{:delay 8A 00}{:clear }Es el venerable Yen Sid.{:delay 8A 00}{:clear }Claro que ya debe de
+
+    ser un sincorazón.
+- id: 14475
+  en: ¿El maestro Yen Sid vive aquí?
+- id: 14476
+  en: ¡Sí, es el mentor del rey!
+- id: 14477
+  en: ¡Vaya! ¡Debe de ser muy poderoso!
+- id: 14478
+  en: ¡Los sincorazón por aquí y por allá!{:delay B4 00}{:clear } {:delay 1E 00}{:clear }¡Las cosas no han cambiado nada!
+- id: 14479
+  en: Pues menos mal que estamos aquí.
+- id: 14480
+  en: >-
+    Entonces,
+
+    ¿los mundos no están en paz?
+- id: 14481
+  en: ¡Maestro Yen Sid! Es un honor.
+- id: 14482
+  en: ¡Qué hay!
+- id: 14483
+  en: ¡Sora! ¡Un poco de respeto!
+- id: 14484
+  en: Conque tú eres Sora...{:delay B4 00}{:clear }{:delay 21 00}{:clear }Muy bien, ¿habéis visto ya al rey?
+- id: 14485
+  en: >-
+    Le hemos visto, Maestro.
+
+    Pero no hemos podido hablar con él.
+- id: 14486
+  en: >-
+    Sí... el rey está muy
+
+    ocupado últimamente.
+- id: 14487
+  en: >-
+    Por tanto,{:delay 57 00}{:clear }parece ser que la tarea de adiestraros
+
+    a vosotros tres será mi cometido.
+- id: 14488
+  en: >-
+    Tenéis un peligroso viaje por delante.
+
+    Debéis ir bien preparados.
+- id: 14489
+  en: >-
+    Entonces... ¿tenemos que
+
+    embarcarnos en otra misión?
+- id: 14490
+  en: >-
+    Yo quería buscar a mi amigo Riku,
+
+    para que podamos volver a las islas.
+- id: 14491
+  en: >-
+    Sí, lo sé.{:delay 7E 00}{:clear }Sin embargo, todo lo que hay en
+
+    tu viaje, Sora, está conectado.
+- id: 14492
+  en: >-
+    Que encuentres el camino
+
+    de vuelta a las islas...
+- id: 14493
+  en: Que regreses tú solo o con tu amigo...
+- id: 14494
+  en: >-
+    Incluso que las islas estén
+
+    aún donde estaban.
+- id: 14495
+  en: >-
+    Y la llave que conecta
+
+    todo eso eres tú, Sora.
+- id: 14496
+  en: ¿Yo... soy la llave?
+- id: 14497
+  en: ¡El elegido de la llave espada!
+- id: 14498
+  en: >-
+    Tú eres la llave que abrirá
+
+    la puerta a la luz.
+- id: 14499
+  en: >-
+    Este libro contiene conocimientos muy
+
+    valiosos que necesitarás en tu viaje.{:delay F5 00}{:clear }{:delay 35 00}{:clear }Estúdialo con atención.
+- id: 14500
+  en: >-
+    Cuando hayas terminado, hablaremos de
+
+    los enemigos que sin duda encontrarás.
+- id: 14501
+  en: >-
+    Un momento, ¿cómo es que los
+
+    sincorazón siguen por ahí?
+- id: 14502
+  en: >-
+    Tus pasadas hazañas impidieron una
+
+    inmensa expansión de los sincorazón{:delay 34 01}{:clear }desde la gran Oscuridad, {:delay 78 00}{:clear }eso tenlo por seguro.
+- id: 14503
+  en: >-
+    Sin embargo, los sincorazón son
+
+    oscuridad hecha realidad{:delay F6 00}{:clear }{:delay 15 00}{:clear }y la oscuridad anida
+
+    en todos los corazones.
+- id: 14504
+  en: >-
+    Es cierto, hay menos sincorazón,{:delay 78 00}{:clear }pero mientras quede oscuridad en un
+
+    solo corazón, será difícil erradicarlos.
+- id: 14505
+  en: >-
+    ¡Ahí va! Eso significa{:delay 7F 00}{:clear }que si todos los corazones
+
+    estuvieran llenos de luz,{:delay 96 00}{:clear }los sincorazón desaparecerían.
+- id: 14506
+  en: >-
+    Ahora tenemos que hablar de los
+
+    enemigos que os encontraréis.
+- id: 14507
+  en: ''
+- id: 14508
+  en: >-
+    Si alguien como tú, Donald,
+
+    cede a la oscuridad de su corazón,{:delay 43 01}{:clear }también se convertirá
+
+    en un sincorazón.
+- id: 14509
+  en: Eso ya lo sabéis.
+- id: 14510
+  en: ''
+- id: 14511
+  en: >-
+    Los sincorazón siempre andan al acecho,
+
+    intentando capturar nuevos corazones.{:delay 32 01}{:clear }¡Nunca bajéis la guardia!{:delay 82 00}{:clear }{:delay 26 00}{:clear }Ahora bien...
+- id: 14512
+  en: >-
+    En ocasiones, cuando alguien de
+
+    corazón y voluntad fuertes,{:delay F0 00}{:clear }ya sea bueno o malo,
+
+    se convierte en un sincorazón,{:delay F6 00}{:clear }{:delay 24 00}{:clear }el cascarón vacío que deja tras
+
+    de sí actúa con voluntad propia.
+- id: 14513
+  en: >-
+    Un recipiente vacío cuyo
+
+    corazón ha sido robado...{:delay DE 00}{:clear }{:delay 1B 00}{:clear } Un espíritu que sigue viviendo,{:delay 7B 00}{:clear }aun cuando su cuerpo abandona
+
+    la existencia... ya que... {:delay F4 00}{:clear }los incorpóreos "son",
+
+    pero no existen.
+- id: 14514
+  en: >-
+    Puede parecer que los incorpóreos
+
+    tienen sentimientos, {:delay D0 00}{:clear }pero es un engaño...{:delay 57 00}{:clear }Fingen tener corazón.
+- id: 14515
+  en: ¡No os dejéis embaucar!
+- id: 14516
+  en: ¿Incorpóreos?...{:delay 48 00}{:clear }{:delay 37 00}Que no existen...
+- id: 14517
+  en: >-
+    Muy bien... El ser que veis ante
+
+    vosotros es un "umbrío".{:delay 80 01}{:clear }{:delay 36 00}{:clear }Es la forma más común
+
+    de los incorpóreos.
+- id: 14518
+  en: >-
+    Pero hay otros...{:delay 69 00}{:clear }Algunos más grandes, otros con
+
+    poderes aterradores y singulares...{:delay 09 01}{:clear }{:delay 2D 00}{:clear }¡Estad atentos!
+- id: 14519
+  en: >-
+    En vuestro viaje veréis un número
+
+    alarmante de umbríos.{:delay 2C 01}{:clear }Intentarán haceros daño.
+- id: 14520
+  en: >-
+    Aun así,
+
+    no son más que cascarones vacíos,{:delay 78 00}{:clear }destinados a regresar a la oscuridad.{:delay 7E 00}{:clear }{:delay 24 00}{:clear }Pero...
+- id: 14521
+  en: >-
+    Los seres que tenéis ahora
+
+    ante vosotros son otra cosa.
+- id: 14522
+  en: >-
+    Los incorpóreos más poderosos han formado
+
+    un grupo llamado Organización {XIII}, {:delay 26 01}{:clear }que dirige a los más débiles.
+- id: 14523
+  en: Organización {XIII}...
+- id: 14524
+  en: >-
+    Los sincorazón actúan por instinto,{:delay 77 00}{:clear }pero los incorpóreos lo hacen
+
+    de forma sofisticada.{:delay BB 00}{:clear }Pueden pensar y planificar.
+
+    Parecen tener un objetivo...
+- id: 14525
+  en: >-
+    Aunque ignoramos
+
+    por completo cuál es.
+- id: 14526
+  en: >-
+    El rey presintió el peligro y
+
+    se aventuró para combatirlo.
+- id: 14527
+  en: >-
+    Encontró la llave espada del Reino de
+
+    la Oscuridad y con ella cerró la puerta.
+- id: 14528
+  en: >-
+    Ahora viaja de mundo en mundo
+
+    combatiendo a los sincorazón,{:delay FC 00}{:clear }mientras busca la respuesta
+
+    al acertijo de los incorpóreos{:delay E5 00}{:clear }y la Organización {XIII}.
+- id: 14529
+  en: >-
+    ¡Entonces será mejor encontrar
+
+    primero al rey!
+- id: 14530
+  en: Pero... ¿dónde puede estar?
+- id: 14531
+  en: No lo sabremos hasta que le busquemos.
+- id: 14533
+  en: >-
+    Bueno, antes de irte, necesitarás
+
+    ropas de viaje más apropiadas.
+- id: 14534
+  en: Esas te quedan un poco pequeñas.
+- id: 14535
+  en: >-
+    Por aquí encontrarás a las tres hadas.{:delay BA 00}{:clear }Si se lo pides, te proporcionarán
+
+    prendas más apropiadas.
+- id: 14536
+  en: >-
+    ¡Ahí va!
+
+    ¡Sí que creces deprisa, Sora!
+- id: 14538
+  en: >-
+    Riku, el rey, vosotros y yo.{:delay 9C 00}{:clear }{:delay 24 00}{:clear }Me da igual lo que sea esa Organización
+
+    o lo que esté planeando.{:delay B4 00}{:clear }{:delay 28 00}{:clear }Estando nosotros cinco, digo, seis;
+
+    no hay por qué preocuparse. ¿No es así?
+- id: 14539
+  en: ¡Cierto!
+- id: 14540
+  en: >-
+    ¡Mirad quiénes están aquí, queridas!
+
+    Sora, Donald y Goofy...
+- id: 14541
+  en: >-
+    ¡Oohh! ¡Si estás buscando ropa,
+
+    has venido al sitio indicado!
+- id: 14542
+  en: Yo me ocuparé del diseño.
+- id: 14543
+  en: ¡Oh, eso no le queda bien!
+- id: 14544
+  en: Ah, vamos, vamos, queridas...
+- id: 14545
+  en: ¿No os gusta más esto?
+- id: 14546
+  en: ¡Espera!
+- id: 14547
+  en: ¿Estás segura?
+- id: 14548
+  en: ¡Azul!
+- id: 14549
+  en: '{:delay 5D 00}¿¡Quieren decidirse ya!?'
+- id: 14550
+  en: >-
+    Está bien. Todas juntas, queridas.
+
+    ¡Y nada de regañinas!
+- id: 14551
+  en: ¡Ay, madre!
+- id: 14552
+  en: Ohhh... Es encantador.
+- id: 14553
+  en: ¡Oh, sí! Tiene un aspecto deslumbrante.
+- id: 14554
+  en: Atiende, no son prendas normales.
+- id: 14555
+  en: Tienen poderes muy especiales.
+- id: 14556
+  en: Toma este orbe en tu mano...
+- id: 14557
+  en: ¡Y verás lo que pasa!
+- id: 14558
+  en: ''
+- id: 14559
+  en: ¡Vaya!
+- id: 14560
+  en: ¡Dos llaves espada!
+- id: 14561
+  en: >-
+    Este viaje será el doble
+
+    de difícil que el último.
+- id: 14562
+  en: >-
+    Tus prendas tienen además
+
+    otros poderes...
+- id: 14563
+  en: >-
+    ... pero tendrás que descubrirlos a
+     medida que avancéis en vuestro viaje.
+- id: 14564
+  en: >-
+    Vale, haré lo que pueda.
+
+    ¡Y muchas gracias!
+- id: 14565
+  en: >-
+    ¡Ah! Y hay algo más para vosotros,
+
+    del maestro Yen Sid.
+- id: 14566
+  en: ¡Oh, porras!
+- id: 14567
+  en: ¡Eh! ¡La nave gumi!
+- id: 14568
+  en: ¿Listos para irnos?
+- id: 14569
+  en: Bueno, bueno... Un momento.
+- id: 14570
+  en: >-
+    Debido a vuestras anteriores misiones,{:delay C4 00}{:clear }los mundos han regresado
+
+    a su estado original.
+- id: 14571
+  en: >-
+    Eso significa que las rutas entre
+
+    ellos han desaparecido.
+- id: 14572
+  en: ¿Y cómo vamos a viajar?
+- id: 14573
+  en: >-
+    No temáis.{:delay 48 00}{:clear }Si lo que el rey sospecha
+
+    resulta ser cierto,{:delay 90 00}{:clear }{:delay 1D 00}{:clear }los mundos han preparado nuevas
+
+    rutas por las que podréis viajar.
+- id: 14574
+  en: >-
+    Esas rutas se pueden utilizar
+
+    abriendo puertas especiales.
+- id: 14575
+  en: ¿Cómo se abren esas puertas? {:delay 96 00}{:clear }{:delay 0F 00}{:clear }Me temo que no lo sé.
+- id: 14576
+  en: >-
+    No obstante,
+
+    la llave espada os servirá de guía.
+- id: 14577
+  en: >-
+    Cuando de la llave espada surja un haz
+
+    de luz, regresad a la nave gumi.
+- id: 14578
+  en: >-
+    Si bien los mundos pueden pareceros muy
+
+    alejados y fuera de vuestro alcance,{:delay 2D 01}{:clear }siguen conectados por lazos invisibles;{:delay BE 00}{:clear }igual que nuestros corazones.
+- id: 14579
+  en: Todos están conectados.
+- id: 14580
+  en: Así es.
+- id: 14581
+  en: ¡Vale!
+- id: 14582
+  en: Pero estad alerta.{:delay 8C 00}{:clear }{:delay 2D 00}{:clear } A medida que avancéis...
+- id: 14583
+  en: >-
+    ... los sincorazón y los incorpóreos
+
+    usarán sus propias rutas; {:delay 0C 01}{:clear }los pasillos de la oscuridad,
+
+    para viajar de mundo en mundo.
+- id: 14584
+  en: >-
+    Puede que intenten unir
+
+    esos oscuros pasajes{:delay A7 00}{:clear }con las puertas que
+
+    hay entre los mundos.
+- id: 14585
+  en: ¡Eh! ¡Eso no vale!
+- id: 14586
+  en: Muy bien.{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }Esto es todo cuanto puedo deciros.
+- id: 14587
+  en: Partid, Sora, Donald y Goofy.{:delay F0 00}{:clear }{:delay 30 00}{:clear }Todos os aguardan.
+- id: 14588
+  en: Bueno, ¡vámonos!
+- id: 14589
+  en: ¡Maestro Yen Sid!
+- id: 14590
+  en: Apreciamos en mucho su ayuda.
+- id: 14591
+  en: ¡Caramba! ¿Qué es eso?
+- id: 14592
+  en: >-
+    ¿No hemos visto esto antes
+
+    en alguna parte?
+- id: 14593
+  en: Sí, querida. Me pregunto dónde fue...
+- id: 14594
+  en: ¡Ah! ¡Maléfi...!
+- id: 14595
+  en: >-
+    ¡No! ¡No debemos recordar su nombre!
+
+    Ay, cielos...
+- id: 14596
+  en: Era una vieja bruja despreciable...
+- id: 14597
+  en: >-
+    ¡Oh, no! ¡Me vuelven los recuerdos!{:delay B4 00}{:clear }¿Qué hacemos? Oooh...
+
+    ¿Qué hacemos?
+- id: 14598
+  en: >-
+    Deberíamos decírselo
+
+    al maestro Yen Sid.
+- id: 14599
+  en: >-
+    Sí. Eso debemos hacer.
+
+    ¡Rápido!
+- id: 14600
+  en: ¡Maléfica!
+- id: 14647
+  en: >-
+    Aquello que consideras lo correcto,
+
+    no lo es.{:delay C4 00}{:clear } {:delay 1E 00}{:clear }Y eso es un gran error.
+- id: 14665
+  en: Es un sitio de lo más misterioso.
+- id: 14839
+  en: >-
+    Lo siento, pero Maléfica
+
+    ya no puede ayudarte.
+- id: 14854
+  en: >-
+    Sí. Y el rey debe de saber
+
+    dónde está Riku, {:delay B6 00}{:clear }porque estaban juntos en el Reino de
+
+    la Oscuridad cuando cerramos la puerta.{:delay CE 00}{:clear }{:delay 10 00}{:clear }¿Os acordáis?
+
+    Cuando derrotamos a Ansem.
+- id: 14855
+  en: Eh, supongo...
+- id: 14856
+  en: >-
+    Me ha llevado tiempo,{:delay 78 00}{:clear }{:delay 28 00}pero pronto Sora volverá a ser el de siempre.{:delay C9 00}{:clear }{:delay 21 00}{:clear }El proceso también te está
+
+    afectando a ti, Roxas.
+- id: 14857
+  en: '... te necesita.'
+- id: 14858
+  en: Quizá me gustaría saber...{:delay 82 00}{:clear }{:delay 64 00}{:clear }¿qué sabes tú de mí...
+- id: 14859
+  en: '... que yo no sepa?'
+- id: 14860
+  en: Son las cortinas que se mueven.{:delay 64 00}{:clear }Habrá corriente por alguna parte.
+- id: 14861
+  en: >-
+    Me sorprende que un sitio tan
+
+    antiguo tenga cortinas.
+- id: 14862
+  en: >-
+    Pero... no sé por qué tengo este poder.{:delay 1C 01}{:clear }Simplemente lo tengo.{:delay 57 00}{:clear }{:delay 25 00}Ni siquiera sé si hay un modo
+
+    adecuado de usarlo.
+- id: 15200
+  en: >-
+    Roxas no es el único que no tenía que
+
+    haber existido nunca.{:delay D2 00}{:clear }{:delay 66 00}{:clear }Encárgate de ello, Ansem.
+- id: 15221
+  en: >-
+    ¿Quién se llevará a casa
+
+    el gran premio?
+- id: 15222
+  en: >-
+    El no va más de la lucha,
+
+    ¡el Trofeo de los Cuatro Cristales!
+- id: 15274
+  en: >-
+    ¡Roxas! Volveremos a vernos.{:delay BF 00}{:clear }Entonces podremos hablar de todo.{:delay A2 00}{:clear }Tal vez yo no sepa que eres tú
+
+    y tú no sepas que soy yo,{:delay 03 01}{:clear }pero volveremos a vernos.
+- id: 15275
+  en: Algún día... Pronto...{:delay 6B 00}{:clear }¡Lo prometo!
+- id: 15276
+  en: >-
+    Es que...{:delay 75 00}{:clear }creo que...{:delay 64 00}{:clear }he estado esquivando la pregunta
+
+    que de verdad quiero hacer.
+- id: 15277
+  en: ¿Qué me va a pasar ahora?{:delay 78 00}{:clear }{:delay 47 00}{:clear }Dime al menos eso.{:delay 50 00}{:clear }{:delay 2E 00}{:clear }Todo lo demás ya no importa.
+- id: 15382
+  en: '{:unk13 FC 00 52 00}{:unk08 01 00 05}Bien hecho.'
+- id: 15383
+  en: '{:unk13 00 01 52 00}{:unk08 01 00 05}No está mal.'
+- id: 15384
+  en: >-
+    {:unk13 08 01 46 00}{:unk08 01 00 05}¿Podrías esforzarte
+
+    un poco más?
+- id: 15385
+  en: >-
+    {:unk13 0C 01 5E 00}{:unk08 01 00 05}¡Gracias! Eres
+
+    de gran ayuda.
+- id: 15386
+  en: '{:unk13 09 01 6A 00}{:unk08 01 00 05}No está mal.'
+- id: 15387
+  en: >-
+    {:unk13 16 01 5E 00}{:unk08 01 00 05}Creo que podrías
+
+    hacerlo mejor.
+- id: 15388
+  en: >-
+    {:unk13 6A 01 42 00}{:unk08 01 00 05}¡Vaya! ¡Eres
+
+    el mejor!
+- id: 15389
+  en: '{:unk13 71 01 4E 00}{:unk08 01 00 05}Mmm, así, así.'
+- id: 15390
+  en: >-
+    {:unk13 74 01 42 00}{:unk08 01 00 05}¡Apuesto a que yo podría
+
+    hacerlo aún mejor!
+- id: 15391
+  en: '{:unk13 1C 01 82 00}{:unk08 01 00 05}Buen trabajo.'
+- id: 15392
+  en: '{:unk13 1A 01 82 00}{:unk08 01 00 05}Aceptable, diría yo.'
+- id: 15393
+  en: '{:unk13 27 01 82 00}{:unk08 01 00 05}Vamos, tú puedes hacerlo mejor.'
+- id: 15394
+  en: '{:unk13 12 01 6C 00}{:unk08 01 00 05}¡Gran trabajo!'
+- id: 15395
+  en: '{:unk13 22 01 6C 00}{:unk08 01 00 05}Mmm... está bien.'
+- id: 15396
+  en: '{:unk13 18 01 6C 00}{:unk08 01 00 05}Esfuérzate más, ¿vale?'
+- id: 15397
+  en: >-
+    {:unk13 5E 01 A0 00}{:unk08 01 00 05}¡Fantástico!
+
+    Te debo una.
+- id: 15398
+  en: >-
+    {:unk13 64 01 A0 00}{:unk08 01 00 05}Bien... Eso será
+
+    suficiente.
+- id: 15399
+  en: >-
+    {:unk13 68 01 A0 00}{:unk08 01 00 05}¿Eso es lo mejor
+
+    que puedes hacer?
+- id: 15400
+  en: >-
+    {:unk13 09 01 7F 00}{:unk08 01 00 05}Con eso debería bastar.
+
+    Vamos a la estación.
+- id: 15401
+  en: >-
+    {:unk13 6A 01 74 00}{:unk08 01 00 05}Con eso debería bastar.
+
+    Vamos a la estación.
+- id: 15740
+  en: >-
+    Con el joystick analógico izquierdo, Roxas corre.
+
+    Si lo inclinas un poco, caminará.
+
+    Para saltar, usa {:unk16 05}.{:clear }{:color #00F0F080}Visita la tienda de armaduras.{:reset}{:clear }Si no recuerdas lo que tienes que hacer,
+
+    pulsa START para confirmar tu objetivo.
+- id: 15741
+  en: >-
+    Si pasas rozando los edificios,
+
+    puedes agarrarte de los bordes y trepar.
+
+    Pruébalo y accederás a muchos sitios.
+- id: 15907
+  en: >-
+    En fin, estoy divagando.
+
+    Ve a buscar a Kairi.{:delay 4A 01}{:clear }Ah, se me olvidaba...{:delay B4 00}{:clear }Perdona por lo que le hice.
+- id: 15908
+  en: >-
+    Cuando la encontremos,
+
+    podrás decírselo tú mismo.
+- id: 15909
+  en: Creo que paso.{:delay 3C 00}{:clear }{:delay 34 00}{:clear }No podría echarle corazón, ¿sabes? {:delay 80 00} {:clear }{:delay 43 00}{:clear }No tengo. {:delay 40 00}{:clear }
+- id: 15910
+  en: Axel, ¿qué es lo que pretendías?
+- id: 15911
+  en: Él...{:delay 3C 00}{:clear }{:delay 3B 00}{:clear }era el único que me caía bien.{:delay 7A 00}{:clear }{:delay 33 00}{:clear }Me hacía sentir...{:delay 44 00}{:clear }{:delay 29 00}{:clear }como si tuviera corazón.{:delay 70 00}{:clear }Es un tanto... curioso.
+- id: 15912
+  en: Tú haces que me sienta...{:delay 5A 00}{:clear }{:delay 24 00}{:clear }igual.
+- id: 15913
+  en: Kairi está presa en el castillo.{:delay 82 00}{:clear }Daos prisa.
+- id: 15914
+  en: Axel...
+- id: 16038
+  en: >-
+    {:color #00F00080}Los comandos de reacción{:reset} se usan
+
+    para realizar acciones en determinadas situaciones.{:clear }{:unk0f 01 3C 00 13 01}{:unk12 27 00}Visita la tienda de accesorios y
+
+    aparecerá el comando de reacción ‛Hablar’.
+
+    Pulsa {:unk16 08} para hablar con la dueña.{:clear }{:unk0f 00 00 00 00 00}{:unk12 28 00}{:color #00F0F080}Habla con la dueña de la tienda de accesorios.{:reset}
+- id: 16040
+  en: >-
+    {:color #00F00080}Los comandos de reacción{:reset} aparecen en varias
+
+    situaciones y son muy útiles.
+
+    {:color #00F0F080}Úsalos siempre que puedas.{:reset}
+- id: 16041
+  en: Es un miembro de la Organización {XIII}.{:delay 77 00}{:clear } {:delay 28 00}{:clear }¡Saïx! ¿lo captas? {:delay 6F 00}{:clear }{:delay 1E 00}{:clear }¡Y ahora, ve a salvarla!
+- id: 16078
+  en: >-
+    Para mover la cámara, usa el joystick
+
+    analógico derecho. Pulsa R3 para
+
+    volver a la posición inicial.{:clear }Pulsa {:unk16 0D} para fijar un blanco.
+
+    Si la fijas en algo, la cámara
+
+    seguirá al objetivo automáticamente.
+
+    {:color #00F0F080}Fíjala en el gato.{:reset}
+- id: 16079
+  en: >-
+    Fijar un blanco te ayudará a seguir un objetivo.
+
+    Cuando la cámara está fija, puedes controlarla.
+
+    Para cancelar, pulsa {:unk16 0D} otra vez.
+- id: 16115
+  en: >-
+    Si te acercas, podrás recoger las esferas que
+
+    sueltan los enemigos cuando los vences.{:clear }Las esferas amarillas suman platines, y
+
+    las verdes devuelven VT.
+- id: 16119
+  en: >-
+    {:unk0f 01 C7 01 36 01}En la parte inferior derecha, verás el indicador de VT.
+
+    Cuando sufres daños, pierdes VT.
+
+    La batalla termina si el indicador llega a cero.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 01 7C 01 7C 01}El indicador azul en la parte inferior derecha
+
+    indica los PM. Posee un misterioso poder que
+
+    aún no está disponible.{:clear }Si te acercas a un objetivo, aparecerá
+
+    una marca naranja.
+
+    Para atacar, pulsa {:unk16 06}.{:clear }{:color #00F0F080}Acércate a Seifer y atácale.{:reset}
+- id: 16121
+  en: >-
+    Cuando golpees a un enemigo, continúa
+
+    atacando y lanzarás poderosos combos.
+
+    {:color #00F0F080}Pulsa {:unk16 06} repetidamente.{:reset}{:clear }Los contraataques son una buena forma
+
+    {:color #00F0F080}de eludir y anular los ataques enemigos.{:reset}
+
+    Te servirán para defenderte.
+- id: 16125
+  en: >-
+    Si te acercas a la luz, aparecerá el {:color #00F00080}comando de
+
+    reacción{:reset} ‛Guardar’. Pulsa {:unk16 08} y abrirás un
+
+    menú que permite guardar la partida.{:clear }{:color #00F0F080}Para guardar, abre el menú.{:reset}
+- id: 16126
+  en: >-
+    Hay muchos círculos de luz además de este.
+
+    Con ellos podrás recuperar la VT y los PM
+
+    de Roxas. ¡Aprovéchalos!
+- id: 16127
+  en: >-
+    Has obtenido un mapa del lugar. Este
+
+    aparece en la parte superior derecha.{:clear }En algunos mundos existen varios mapas.
+
+    Para inspeccionar ciertas zonas, deberás
+
+    conseguir un mapa.
+- id: 16130
+  en: >-
+    {:unk0f 03 64 00 6D 01}{:color #00F0F080}Se ha agregado el comando Objeto.{:reset}
+
+    Usa {:unk16 0F} para seleccionar Objeto, y pulsa {:unk16 06}.
+
+    Elige el objeto que quieres usar y pulsa {:unk16 06}.{:clear }{:unk0f 00 00 00 00 00}Para el acceso directo, pulsa {:unk16 0B} y {:unk16 05}.
+
+    Puedes cambiarlo en el menú principal.
+- id: 16132
+  en: >-
+    {:color #00F0F080}Roxas ya puede usar habilidades.{:reset}
+
+    Las habilidades se activan desde el menú principal.{:clear }Al ganar batallas importantes, subirás de
+
+    nivel, aumentarás varios parámetros
+
+    y aprenderás nuevos ataques.{:clear }También subes de nivel cuando vences
+
+    enemigos y ganas experiencia.{:clear }Si te resulta difícil vencer al enemigo,
+
+    sube el nivel de Roxas antes de avanzar.
+- id: 16473
+  en: '{:unk13 96 01 67 00}{:unk08 01 01 06}Hola, Roxas.'
+- id: 16474
+  en: >-
+    {:unk13 6F 01 4C 00}{:unk08 01 00 05}Nunca creí que fueras
+
+    capaz de hacer algo así...
+- id: 16856
+  en: >-
+    Mira, Kairi,{:delay 3C 00}{:clear }tienes mucho valor para saltar a
+
+    la oscuridad así por las buenas.
+- id: 16857
+  en: '{:delay 64 00}{:clear }¡Suéltame! {:delay 28 00}{:clear } {:delay 50 00}{:clear }¡Suéltame!'
+- id: 17093
+  en: Bien, ya entiendo...
+- id: 17158
+  en: >-
+    Con el joystick analógico izquierdo, Roxas corre.
+
+    Si lo inclinas un poco, caminará.
+
+    Para saltar, usa {:icon button-circle}.
+
+    {:color #00F0F080}Visita la tienda de armaduras.{:reset}{:clear }
+- id: 17159
+  en: >-
+    Si te acercas a la tienda de accesorios,
+
+    aparecerá el comando de reacción ‛Hablar’.
+
+    Pulsa {:icon button-triangle} para hablar con la dueña.
+
+    {:color #00F0F080}Habla con la dueña de la tienda de accesorios.{:reset}
+- id: 17160
+  en: >-
+    Para mover la cámara, usa el joystick analógico derecho.
+
+    Pulsa R3 para volver a la posición inicial.
+
+    Pulsa {:icon button-r1} para fijar un blanco.
+
+    {:color #00F0F080}Pulsa {:icon button-r1} y fíjala en el gato.{:reset}
+- id: 17161
+  en: >-
+    Cuando sufres daños, pierdes VT. Si el indicador llega a cero,
+
+    la batalla termina. Si te acercas a un objetivo, aparecerá una
+
+    marca naranja. Para atacar, pulsa {:icon button-cross}.
+
+    {:color #00F0F080}Acércate a Seifer y atácale.{:reset}
+- id: 17162
+  en: >-
+    Si te acercas a la luz, aparecerá el {:color #00F00080}comando de
+
+    reacción{:reset} ‛Guardar’. Pulsa {:icon button-triangle} y abrirás un
+
+    menú que permite guardar la partida.
+
+    {:color #00F0F080}Para guardar, abre el menú.{:reset}
+- id: 17163
+  en: ¡Vence a todos los incorpóreos!
+- id: 17294
+  en: En los dardos, se lee "Hayner" en letra pequeña.
+- id: 17295
+  en: >-
+    El sofá donde hablaban
+
+    Pence y Olette.
+- id: 17296
+  en: ¡Bienvenidos a Villa Crepúsculo!
+- id: 17297
+  en: '⇽: Altos de la Estación  ⇾: Solar deportivo'
+- id: 17298
+  en: '"¡Que comience el Struggle!"'
+- id: 17301
+  en: >-
+    Reglas de Struggle:
+
+
+    El combate termina si uno de los
+
+    participantes pierde todas sus esferas.
+- id: 17303
+  en: En este garaje cabrían objetos grandes.
+- id: 17304
+  en: '⇽: Solar deportivo ⇾: Altos de la Estación'
+- id: 17305
+  en: Horarios de la Estación del Atardecer.
+- id: 17306
+  en: ¡La Feria de la Costa ya está aquí!
+- id: 17307
+  en: 'Hacia: Estación Atardecer'
+- id: 17308
+  en: 'Hacia: ???'
+- id: 17311
+  en: Salían bolas de la pared.
+- id: 17312
+  en: Era solo tu reflejo en el agua.
+- id: 17313
+  en: 'Destino: Estación Central'
+- id: 17314
+  en: ¡Las Siete Maravillas han sido descubiertas!
+- id: 17315
+  en: >-
+    Una maqueta de la
+
+    Estación Central.
+- id: 17316
+  en: Está muy bien cerrada.
+- id: 17317
+  en: La maqueta del castillo está destruida.
+- id: 17318
+  en: Está bloqueada y no se puede abrir.
+- id: 17319
+  en: >-
+    Solo una gran explosión podría
+
+    haber roto esto.
+- id: 17320
+  en: (Tentative) ¡Las Siete Maravillas han sido descubiertas!
+- id: 17344
+  en: >-
+    {:unk08 00 00 00}Con solo mirarla, esta espada
+
+    parece darte fuerza.
+- id: 17345
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿La fuerza es importante?
+
+    {:chardelay 33 00}No tanto.
+
+    {:chardelay 09 00}¡Claro que sí!
+- id: 17346
+  en: >-
+    {:unk08 00 00 00}Este bastón parece mágico, como si con
+
+    solo sostenerlo te otorgara sabiduría.
+- id: 17347
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿La sabiduría es importante?
+
+    {:chardelay 33 00}No tanto.
+
+    {:chardelay 0B 00}¡Claro que sí!
+- id: 17348
+  en: >-
+    {:unk08 00 00 00}Este escudo es muy resistente. Un
+
+    escudo así podría soportar lo que fuera.
+- id: 17349
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿La protección es importante?
+
+    {:chardelay 33 00}No tanto.
+
+    {:chardelay 0A 00}¡Claro que sí!
+- id: 17355
+  en: >-
+    "Tira la basura en el depósito
+
+    de la Plazoleta del Tranvía."
+- id: 17356
+  en: >-
+    En este trastero,
+
+    hay equipamiento para el torneo.
+- id: 17357
+  en: >-
+    Reglas de Struggle:
+
+
+    Lleva objetos.
+
+    Si te quedas sin VT, pierdes.
+- id: 17358
+  en: '⇽: Plaza de la Estación ⇾: Plazoleta del Tranvía'
+- id: 17359
+  en: '⇽: Plazoleta del Tranvía ⇾: Solar deportivo'
+- id: 17360
+  en: >-
+    Tire la basura en el depósito
+
+    de la Plazoleta del Tranvía.
+- id: 17361
+  en: La puerta es muy pesada. No se moverá.
+- id: 17362
+  en: ¿Adónde irá esta vía?
+- id: 17363
+  en: La entrada está al otro lado.
+- id: 17364
+  en: Está lleno de palitos de helado.
+- id: 17365
+  en: Está lleno de palitos de helado.
+- id: 17366
+  en: '⇽: Estación del Atardecer ⇾: Colina del Atardecer'
+- id: 17367
+  en: '⇽: Túnel ⇾: Estación del Atardecer'
+- id: 17368
+  en: Parece un tablón de anuncios.
+- id: 17369
+  en: '"Tren local. ¡Gratis!"'
+- id: 17370
+  en: '"Tren local. ¡Gratis!"'
+- id: 17371
+  en: La estatua está mirando al suelo.
+- id: 17372
+  en: Está completamente bloqueada por los tubos.
+- id: 17374
+  en: Esto proyecta la imagen del monitor.
+- id: 17375
+  en: Parecen los datos de alguien.
+- id: 17376
+  en: No sabes qué es este aparato.
+- id: 17379
+  en: Hay evidencias de que esto ya ha sido usado.
+- id: 17380
+  en: Hace tiempo que no se usa.
+- id: 17381
+  en: Parece que todavía podría usarse.
+- id: 17382
+  en: Parece que solo está encendida.
+- id: 17383
+  en: >-
+    ¿Quién habrá hecho esto?
+
+    ¿Y con qué propósito?
+- id: 17384
+  en: Esta es la cápsula donde dormía Sora.
+- id: 17385
+  en: ¿Cuál vas a leer?
+- id: 17386
+  en: >-
+    Aquí están registradas todas las
+
+    travesuras que el rey hizo hace años.
+- id: 17387
+  en: Este libro describe hechizos poderosos.
+- id: 17388
+  en: >-
+    Contemplas una vista espectral, como si
+
+    miraras un mar de nubes desde arriba.
+- id: 17390
+  en: >-
+    Reglas de Struggle:
+
+
+    Gana la persona que recoge más
+
+    esferas en el tiempo asignado.
+- id: 17403
+  en: Este tablón se usa para los torneos.
+- id: 17404
+  en: >-
+    Reglas de Struggle:
+
+
+    ¡Ataca a tus adversarios y recoge
+
+    más esferas que ellos!
+- id: 17405
+  en: En este garaje, hay equipamiento para el torneo.
+- id: 17406
+  en: >-
+    Reglas de Struggle:
+
+
+    ¡Cada uno tiene cien esferas!
+
+    ¡El mejor estratega gana!
+- id: 17407
+  en: >-
+    Participantes:
+
+    Setzer, Seifer, Vivi,
+
+    Hayner y Roxas.
+- id: 17408
+  en: Próxima apertura. Taller de fabricación de objetos.
+- id: 17411
+  en: >-
+    Necesitas platines para comprar objetos.{:clear }Para ganar algunos, busca empleo
+
+    en el tablón de anuncios.
+- id: 17412
+  en: >-
+    ¡Cuidado, allí hay abejas!
+
+    ¿De dónde habrán salido?{:clear }He puesto un anuncio pidiendo ayuda
+
+    para espantarlas, pero nadie ha respondido.
+- id: 17413
+  en: >-
+    ¡Me han pedido que presente el
+
+    siguiente combate de Struggle!{:clear }No tengo tiempo para atender la tienda.
+- id: 17414
+  en: >-
+    Ahora estoy aprovisionando mi tienda.{:clear }Mucha gente viene a ver el Struggle,
+
+    y quiero estar preparada.
+- id: 17416
+  en: >-
+    He cerrado mi tienda
+
+    porque ya estoy mayor.{:clear }Ahora disfruto de la vida
+
+    con Chiro, mi gato.
+- id: 17417
+  en: >-
+    ¡Hablemos con la señora de la tienda de
+
+    accesorios y empecemos a investigar!
+- id: 17418
+  en: >-
+    La mejor forma de conseguir información
+
+    es preguntar. Habla con todos.
+- id: 17419
+  en: >-
+    ¡Si encuentras sitios
+
+    interesantes, investígalos!{:clear }¡Podrías obtener información valiosa!
+- id: 17420
+  en: >-
+    Mira a tu alrededor con atención.
+
+    ¡Quizá encuentres algo!{:clear }¡Cuando busques, no pases nada por alto!
+- id: 17421
+  en: >-
+    ¿Dónde andará ese gato?
+
+    No puede estar muy lejos.
+- id: 17422
+  en: >-
+    Apuesto a que está cerca.
+
+    ¿Has buscado bien por aquí?
+- id: 17423
+  en: >-
+    ¿Entonces te sientes preparado?{:clear }Tómate tu tiempo
+
+    para elegir tu arma.
+- id: 17424
+  en: >-
+    Seifer no perderá el tiempo
+
+    peleando con vosotros.{:clear }Usará su ataque más poderoso
+
+    solo si está en problemas.
+- id: 17425
+  en: Es pan comido.
+- id: 17429
+  en: >-
+    ¡Este sitio es un caos! ¿Quién va
+
+    a limpiar toda esta basura?
+- id: 17430
+  en: >-
+    {:unk08 00 00 00}Tiene una protección para la mano.
+
+    Es una buena defensa.
+- id: 17431
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Dar prioridad a la defensa?
+
+    {:chardelay 33 00}No, usaré otra cosa.
+
+    {:chardelay 0A 00}¡Me la quedo!
+- id: 17432
+  en: >-
+    {:unk08 00 00 00}Esto casi parece un bastón. Es
+
+    bueno para lanzar ataques especiales.
+- id: 17433
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Dar prioridad a los ataques especiales?
+
+    {:chardelay 33 00}No, usaré otra cosa.
+
+    {:chardelay 0B 00}¡Me lo quedo!
+- id: 17434
+  en: >-
+    {:unk08 00 00 00}Una porra para combatir en el Struggle.
+
+    Su peso ligero la hace fácil de blandir.
+- id: 17435
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Dar prioridad al ataque?
+
+    {:chardelay 33 00}No, usaré otra cosa.
+
+    {:chardelay 09 00}¡Me la quedo!
+- id: 17439
+  en: >-
+    Me lo temía. ¡Me he quedado
+
+    sin accesorios durante el Struggle!{:clear }Tendrás que esperar un poco.
+- id: 17440
+  en: >-
+    ¡Chiro!
+
+    ¿Dónde se habrá metido ese gato?{:clear }No puede haber ido lejos...
+- id: 17441
+  en: Ah, hola, Roxas.
+- id: 17442
+  en: >-
+    Si yo fuera tú, iría armado.
+
+    ¡Seifer lo pagará!
+- id: 17443
+  en: >-
+    Vigila bien a tu adversario.
+
+    Cuando baje la guardia, ¡golpéale!{:clear }¡Si lo haces, seguro que ganas!
+- id: 17444
+  en: >-
+    El arma de la derecha no está mal.{:clear }También puedes usarla en el Struggle.
+
+    Debería resultarte fácil de blandir.
+- id: 17446
+  en: >-
+    El organizador del Struggle
+
+    sí que te hace trabajar duro.{:clear }Pegar carteles no es trabajo fácil.
+
+    ¡La Plazoleta del Tranvía es enorme!
+- id: 17447
+  en: >-
+    ¿Quieres ayudarme a montar un
+
+    espectáculo?{:clear }¡Necesito un colaborador a tiempo parcial!
+- id: 17451
+  en: >-
+    Tiempo atrás solía practicar
+
+    luchando con amigos.{:clear }Entrenar es la única forma de hacerte
+
+    fuerte. Seifer puede ser un buen adversario.
+- id: 17453
+  en: >-
+    He encontrado a mi gato.
+
+    Ahora nos vamos a mudar.{:clear }Chiro y yo viviremos el resto de
+
+    nuestros días en el campo.
+- id: 17454
+  en: >-
+    Hayner dijo que él se encargaría, pero
+
+    yo sabía que iba a pasar algo así.{:clear }Elige un trabajo de {:theme 0A}este tablón{:reset} o
+
+    del que hay en la {:theme 0A}Plazoleta del Tranvía{:reset}.
+- id: 17455
+  en: >-
+    Hayner subió por esta colina. Debe de
+
+    estar esperando en la Plaza de la Estación.{:clear }Parece que tiene cosas que hacer,
+
+    así que yo también haré un esfuerzo.
+- id: 17459
+  en: >-
+    Se te ve muy ocupado.
+
+    ¿Estás trabajando?{:clear }¡Yo voy a practicar
+
+    para el próximo Struggle!
+- id: 17461
+  en: >-
+    ¡Eh, Roxas! ¿Ya conseguiste tu parte?
+
+    ¡Cada uno debe conseguir 800 platines!{:clear }¡El mar nos espera!
+
+    ¡Confío en ti!
+- id: 17462
+  en: >-
+    ¿Cómo va el trabajo?{:clear }Cuando hayas reunido suficiente
+
+    dinero, vuelve aquí.
+- id: 17463
+  en: Mmm... Esto debería cubrir los gastos...
+- id: 17464
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Seguir trabajando?
+
+    {:chardelay 33 00}¡Sí, los platines nunca están de más!
+
+    {:chardelay 09 00}No, ya he ganado suficiente.
+- id: 17465
+  en: ¡Así se hace, Roxas!
+- id: 17466
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Seguir trabajando?
+
+    {:chardelay 33 00}¡Sí, los platines nunca están de más!
+
+    {:chardelay 09 00}No, ya he ganado suficiente.
+- id: 17467
+  en: >-
+    ¡Vaya, Roxas! ¡Eres un as!
+
+    ¡Hasta podemos comprar un melón!
+- id: 17468
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Tienes muchos platines. ¿Seguir trabajando?
+
+    {:chardelay 33 00}¡Sí, los platines nunca están de más!
+
+    {:chardelay 09 00}No, ya he ganado suficiente.
+- id: 17469
+  en: >-
+    Esta es la primera vez que estoy
+
+    a cargo de la tienda.{:clear }Todavía estoy aprendiendo el oficio,
+
+    así que ten un poco de paciencia, ¿vale?
+- id: 17479
+  en: >-
+    Repartir cartas por esta cuesta
+
+    no es tarea fácil.{:clear }Me gustaría encontrar a alguien
+
+    que me ayudara.
+- id: 17489
+  en: >-
+    ¿Has ido hasta arriba? ¡La puesta de sol
+
+    desde la Colina del Atardecer es bellísima!
+- id: 17490
+  en: >-
+    ¡He estado tan ocupado con el combate de
+
+    Struggle que me olvidé de la tienda!{:clear }Lo siento. Vuelve más tarde, por favor.
+- id: 17498
+  en: >-
+    Corren rumores sobre siete maravillas que
+
+    hay en las Terrazas del Atardecer.{:clear }No suelo creerme los rumores, pero
+
+    este me asusta un poco.
+- id: 17499
+  en: >-
+    ¿Has ido a la Colina del Atardecer?
+
+    ¡La puesta de sol te deja sin aliento!{:clear }Hace mucho, mi mujer y yo...
+
+    Bah, no importa.
+- id: 17509
+  en: >-
+    ¡He estado tan ocupado con las armas
+
+    del Struggle que me olvidé del trabajo!{:clear }Lo siento, pero mi tienda aún
+
+    no está lista.
+- id: 17515
+  en: >-
+    Tengo que traer esos objetos
+
+    a este garaje.{:clear }He puesto un anuncio pidiendo ayuda,
+
+    pero no ha venido nadie.
+- id: 17516
+  en: >-
+    ¡Estoy preparando el equipo
+
+    para el Struggle!{:clear }Lo siento, pero no tengo tiempo
+
+    para atender la tienda.
+- id: 17517
+  en: >-
+    ¿Aún no has ido a la Colina del Atardecer?
+
+    La vista desde allí es asombrosa.{:clear }Solía ir allí por el túnel,
+
+    pero ahora tomo el tren.
+- id: 17521
+  en: '...{:clear }Ve y escucha las reglas.'
+- id: 17522
+  en: '...{:clear }No te detengas.'
+- id: 17523
+  en: >-
+    Me has vencido, Roxas. Sabes
+
+    lo que eso significa, ¿no?{:clear }¡Espero que ganes!
+- id: 17524
+  en: >-
+    ¡Ahora lucharás con Setzer,
+
+    el campeón!{:clear }A veces se descuida. ¡Aprovecha
+
+    esos momentos para golpearle!
+- id: 17525
+  en: >-
+    ¿Estáis listos?{:clear }La tienda de objetos está abierta.
+
+    ¡Compremos cosas para más adelante!
+- id: 17526
+  en: >-
+    Cuando pierde la calma, Hayner
+
+    se vuelve más vulnerable.{:clear }Espera tu oportunidad y le vencerás.
+
+    ¡Pero yo no te he dicho nada!
+- id: 17527
+  en: >-
+    Algo extraño le sucede a Vivi.{:clear }Si logras evitar sus ataques,
+
+    podrás golpearle.
+- id: 17528
+  en: >-
+    ¡Fíjate y verás que Setzer
+
+    tiene un patrón de ataque!{:clear }¡Si lo descubres, pelear con él
+
+    será mucho más fácil!
+- id: 17529
+  en: >-
+    Seifer y su pandilla han ido al callejón.
+
+    Seguro que no les gustan las multitudes.
+- id: 17530
+  en: >-
+    Espero que hayas comprado pociones.
+
+    Las necesitarás para pelear con Hayner.{:clear }Si no tienes suficiente dinero,
+
+    ¡puedes trabajar un poco más!
+- id: 17531
+  en: >-
+    Parece que Seifer se ha tomado muy
+
+    a pecho su derrota contra Vivi.{:clear }Ha vuelto al callejón.
+- id: 17532
+  en: >-
+    Dicen que Setzer ha entrenado
+
+    mucho para este torneo.{:clear }¡Tú también debes estar preparado
+
+    cuando te enfrentes con él, Roxas!
+- id: 17533
+  en: >-
+    Los combates de Struggle están bien,
+
+    ¡pero no hay nada como una pelea callejera!
+- id: 17534
+  en: >-
+    ¡Ajá!{:clear }¿Ibas a decir algo?
+
+    Puedes venir cuando quieras, chaval.
+- id: 17535
+  en: >-
+    ¿Crees que eres fuerte
+
+    solo porque has ganado?{:clear }¡La próxima vez pelearé en serio!
+- id: 17536
+  en: >-
+    ¡Seifer te dará para
+
+    el pelo, colega!
+- id: 17537
+  en: >-
+    ¡Pero si Vivi no es tan fuerte!
+
+    ¡Tiene que haber un error!
+- id: 17538
+  en: >-
+    ¡Seifer no iba en serio!
+
+    ¡La próxima te vas a enterar!
+- id: 17539
+  en: Victoria.
+- id: 17540
+  en: Tramposo.
+- id: 17541
+  en: Afortunado.
+- id: 17542
+  en: >-
+    ¿Quieres un autógrafo?
+
+    Lo siento, estoy ocupado.{:clear }¿Por qué no vas hasta ese tablón?
+
+    Allí el árbitro explica las reglas.
+- id: 17543
+  en: >-
+    ¿Has venido para que el campeón
+
+    te dé algunos consejos?{:clear }Debes reunir las esferas más rápido
+
+    que tu adversario. El resto es suerte.
+- id: 17544
+  en: >-
+    El combate estuvo bien, pero no bajes
+
+    la guardia mientras recoges esferas.{:clear }Una estrategia es alejarte para que no te
+
+    ataquen. Pero contra mí eso no te servirá.
+- id: 17545
+  en: >-
+    En estos combates siempre
+
+    hay algo de azar.{:clear }¿Qué tal si luchamos, a ver qué pasa?
+
+    Pero no nos pasemos, ¿eh?
+- id: 17546
+  en: >-
+    Je, je, je...{:clear }Ro... Ro...
+
+    Rooxaaasss...
+- id: 17547
+  en: >-
+    ¿Por qué he participado en ese torneo?{:clear }¿Por qué ahora todos me
+
+    dan la espalda?
+- id: 17552
+  en: >-
+    ¡Todos los participantes deben
+
+    conocer las reglas!
+- id: 17553
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Escuchar las reglas?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay 09 00}Buena idea.
+- id: 17554
+  en: >-
+    ¡Cuando estés listo, sube al cuadrilátero
+
+    y habla con el organizador!
+- id: 17557
+  en: >-
+    ¡Primero deja que el árbitro
+
+    explique las reglas!{:clear }Luego comenzará el torneo. Cuando
+
+    sea tu turno, ven a hablar conmigo.
+- id: 17558
+  en: >-
+    Muy bien, ¡es hora de empezar! ¡Espero
+
+    que hayas practicado con alguien!
+- id: 17559
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Listo para luchar con Hayner?
+
+    {:chardelay 33 00}Todavía no.
+
+    {:chardelay 09 00}¡Estoy listo! ¡Comencemos!
+- id: 17560
+  en: >-
+    ¡Llegó el momento del combate final!
+
+    ¿Estás listo?
+- id: 17561
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Listo para luchar con Vivi?
+
+    {:chardelay 33 00}Todavía no.
+
+    {:chardelay 09 00}¡Estoy listo! ¡Comencemos!
+- id: 17562
+  en: >-
+    ¡Y ahora el combate por el título!
+
+    ¿Estáis preparados?
+- id: 17563
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Listo para luchar con Setzer?
+
+    {:chardelay 33 00}Todavía no.
+
+    {:chardelay 09 00}¡Estoy listo! ¡Comencemos!
+- id: 17587
+  en: >-
+    {:color #00F0F080}Con el botón START, puedes
+
+    abrir el menú principal.{:clear }{:reset}Allí puedes consultar la condición, los platines,
+
+    y cambiar la configuración.
+
+    En las batallas no podrás abrirlo.{:clear }El Diario de Roxas contiene {:color #00F0F080}pistas{:reset} sobre
+
+    cómo avanzar y crónicas del pasado.
+- id: 17588
+  en: >-
+    Mi perro anda siempre
+
+    de aquí para allá.{:clear }¿Dónde se habrá metido ahora?
+- id: 17589
+  en: >-
+    Esta ciudad está conectada
+
+    por varios túneles.{:clear }Cuando era niño me daban miedo,
+
+    pero jugaba allí todo el tiempo.
+- id: 17590
+  en: >-
+    ¡Hoy tengo que pegar carteles
+
+    para el próximo combate de Struggle!
+- id: 17593
+  en: >-
+    ¡Has estado genial!
+
+    ¡Gracias!{:clear }¡Quiero más! ¡Estoy deseando ver
+
+    el próximo combate de Struggle!
+- id: 17594
+  en: >-
+    ¿Vienes de la Estación Central?{:clear }Yo voy a tomar un tren para ir a
+
+    ver a mi nieto.
+- id: 17595
+  en: >-
+    No he oído nada más
+
+    sobre las Siete Maravillas...{:clear }Vosotros vais a la estación a tomar
+
+    el tren, ¿no? Yo no sé qué hacer...
+- id: 17596
+  en: >-
+    ¡Hay un montón de sitios donde
+
+    buscar, como callejones y túneles!
+- id: 17597
+  en: >-
+    Gente que deja bolas abandonadas,
+
+    el eco de la voz de Vivi...{:clear }¡Las ‛Siete Maravillas’ son más bien
+
+    ‛Siete Malentendidos’!
+- id: 17598
+  en: >-
+    Olvidémoslo. Las Siete Maravillas
+
+    no eran nada maravillosas.{:clear }Si no estás convencido,
+
+    ve tú mismo a esa mansión.
+- id: 17604
+  en: >-
+    Hayner dijo que averiguaría más
+
+    y se encargaría de todo.{:clear }Salió corriendo hacia
+
+    la Plaza de la Estación.
+- id: 17605
+  en: >-
+    ¿Cómo anda todo?{:clear }Este sitio me parece sospechoso,
+
+    por eso lo estoy inspeccionando.
+- id: 17606
+  en: >-
+    Y pensar que era un perro escondido
+
+    en un saco. ¡Pobrecito!{:clear }¡Aunque solo fuera mi propio reflejo
+
+    en el agua, no pude evitar sobresaltarme!
+- id: 17607
+  en: >-
+    Para ir a la mansión, hay que pasar por un
+
+    agujero en una pared y cruzar un bosque.{:clear }Dicen que es una casa embrujada,
+
+    pero es solo un rumor.
+- id: 17609
+  en: >-
+    Los combates de Struggle están bien,
+
+    ¡pero no hay nada como una pelea callejera!
+- id: 17610
+  en: >-
+    A Seifer le importan un rábano
+
+    los deberes.
+- id: 17611
+  en: Necio.
+- id: 17612
+  en: >-
+    La única forma de fortalecerse
+
+    es practicar.{:clear }Voy a seguir entrenando.
+- id: 17613
+  en: >-
+    Para ser fuerte como Seifer,
+
+    tengo que practicar.{:clear }Le encontrarás en el solar, pero
+
+    no creas que puedes vencerle.
+- id: 17615
+  en: >-
+    Ahora puedes ver la condición de los miembros
+
+    del grupo en el menú principal.{:clear }Todas las habilidades y platines de Roxas
+
+    han pasado a Sora.{:clear }En el Diario de Pepito, hay {:color #00F0F080}pistas sobre cómo avanzar{:reset}
+
+    y crónicas del pasado.
+- id: 17631
+  en: >-
+    ¿Has venido a buscar trabajo?{:clear }Yo no logro encontrar ninguno
+
+    que pueda hacer.
+- id: 17632
+  en: >-
+    A mi perro le gusta vagar,
+
+    pero siempre regresa a casa.
+- id: 17634
+  en: >-
+    ¡Cuantas más ahuyento,
+
+    más aparecen!{:clear }¿Qué voy a hacer?
+- id: 17635
+  en: >-
+    Espero encontrar actores pronto.
+
+    ¡No puedo esperar!
+- id: 17637
+  en: >-
+    He venido a ver el tren
+
+    que marcha sin conductor.{:clear }¡Estuve aquí el día entero, pero
+
+    no ha pasado ni un tren!
+- id: 17638
+  en: >-
+    ¿Cómo haré para traer eso
+
+    a este garaje?{:clear }¿Y encima con prisas? No
+
+    debería haber elegido este trabajo.
+- id: 17639
+  en: >-
+    ¡Caminar por los túneles es más
+
+    saludable que viajar en tren!
+- id: 17641
+  en: >-
+    ¡Los combates de Struggle siempre
+
+    atraen multitudes, y todo gracias a mí!{:clear }¡Nadie se enteraría sin estos
+
+    carteles! ¡Eso sí, estoy agotado!
+- id: 17643
+  en: >-
+    ¡Esta cuesta tan empinada hace
+
+    más difícil repartir las cartas!{:clear }¡Pero el cartero es muy rápido!
+
+    ¿En qué irá montado?
+- id: 17645
+  en: >-
+    Corren rumores sobre siete maravillas que
+
+    hay aquí en las Terrazas del Atardecer.{:clear }Tendrán su explicación, pero las cosas
+
+    no siempre son lo que parecen.
+- id: 17647
+  en: >-
+    No eres de aquí, ¿verdad? ¿Ya has
+
+    visto la puesta de sol desde la colina?{:clear }Es tan bonita... Y más si se va
+
+    con alguien a quien se ama.
+- id: 17648
+  en: >-
+    A veces se detiene aquí
+
+    un tren muy extraño.{:clear }Me pregunto adónde irá.
+
+    ¿Tú sabes algo al respecto?
+- id: 17649
+  en: >-
+    ¿¡Tienes ganas de luchar!? ¡Estupendo!
+
+    Antes querría probar tu habilidad...{:clear }Pero no tengo adversarios para ti,
+
+    tendrás que esperar. ¡Ve practicando!
+- id: 17651
+  en: >-
+    La gente joven camina por los túneles
+
+    en lugar de tomar el tren.{:clear }Pero yo estoy ya muy vieja para eso.
+- id: 17653
+  en: >-
+    Yo ya estoy viejo. Me vendría bien
+
+    que me echaran una mano.
+- id: 17654
+  en: >-
+    La estación está subiendo la cuesta.
+
+    Vayamos en tren a la Estación Central.{:clear }Creo que el tren local sigue siendo
+
+    gratis, ¡aprovechémoslo!
+- id: 17656
+  en: >-
+    ¡Vamos a resolver el misterio del tren
+
+    fantasma de la Colina del Atardecer!{:clear }¡Esto tiene que ser cierto! ¡Lo presiento!
+
+    Bueno, al menos eso creo...
+- id: 17657
+  en: >-
+    El agujero de la pared de la Plazoleta del
+
+    Tranvía conduce a la mansión encantada.{:clear }Pero es solo un rumor. No te hagas
+
+    muchas ilusiones.
+- id: 17659
+  en: >-
+    Has dormido tanto tiempo que tal vez
+
+    todavía estés algo aturdido, Sora.{:clear }No te preocupes. Si olvidas lo que debes
+
+    hacer, mira el Diario de Pepito.
+- id: 17660
+  en: >-
+    ¡Será un largo viaje, así que
+
+    habrá que prepararse bien!
+- id: 17661
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Subir al tren?
+
+    {:chardelay 33 00}Todavía no.
+
+    {:chardelay 09 00}Vale.
+- id: 17662
+  en: >-
+    No vuelvas a la mansión,
+
+    ¡podrías caer dormido otra vez!{:clear }Además, debemos averiguar qué clase
+
+    de lugar es este. ¡Estoy nervioso!
+- id: 17663
+  en: >-
+    ¡Hora de comenzar nuestra aventura!{:clear }Si todavía hay algo que quieras hacer
+
+    aquí, esta es tu última oportunidad.
+- id: 17664
+  en: >-
+    Si quieres saber cosas sobre esta ciudad,
+
+    ve al solar. Nosotros estamos ocupados.{:clear }Pero seguro que la pandilla
+
+    de Seifer te ayudará.
+- id: 17665
+  en: >-
+    El tío que te buscaba está en la estación.{:clear }Deberías ir a ver qué quiere.
+
+    La estación está encima de los Altos.
+- id: 17666
+  en: >-
+    Tenemos que hacer los deberes. Si tienes
+
+    tiempo, ¿por qué no consigues un empleo?{:clear }Un momento. No creo que nadie te
+
+    contrate ahora.
+- id: 17667
+  en: >-
+    ¡No perderé un combate contigo
+
+    ni en la calle ni en el Struggle!{:clear }¿Por qué no vuelves
+
+    dentro de diez años?
+- id: 17668
+  en: >-
+    No sé quién eres,{:clear }¡pero no podrás derrotar
+
+    a Seifer en el Struggle!
+- id: 17669
+  en: Aniquilación instantánea.
+- id: 17670
+  en: >-
+    He venido porque escuché que
+
+    habrá otro combate de Struggle.{:clear }El organizador está en el solar.
+
+    Él te dará más detalles.
+- id: 17671
+  en: >-
+    ¡Seifer es una máquina, tío!{:clear }¿Ha sonado a Trueno? ¿Eh?
+
+    ¡Quería imitar su forma de hablar!
+- id: 17672
+  en: >-
+    Siento haber sido tan frío,
+
+    pero hay algo que me trae de cabeza...{:clear }Tal vez no nos veamos en un tiempo.
+
+    Cuídate, ¿vale?
+- id: 17673
+  en: >-
+    ¡Qué raro! Siento que por alguna razón
+
+    debo despedirme de ti...{:clear }Como si tuviera que decir adiós a
+
+    alguien que esperé mucho para ver...
+- id: 17674
+  en: >-
+    Ah, Sora, ese monedero...
+
+    Bah, no importa.{:clear }Vuelve a visitarnos, ¿vale?
+
+    Estaremos donde siempre.
+- id: 17675
+  en: >-
+    Bueno, hemos venido hasta aquí en
+
+    tren tal como el rey nos dijo.{:clear }¿Dónde estaremos?
+
+    Este sitio es bastante extraño.
+- id: 17676
+  en: Pete llega tarde.{:clear }No sabe que hemos vencido a Maléfica.
+- id: 17677
+  en: >-
+    ¡Debemos leer ese libro
+
+    como nos dijo Yen Sid!{:clear }Hemos dormido un buen rato.
+
+    ¡Averigüemos qué ha estado ocurriendo!
+- id: 17678
+  en: >-
+    Hay alguien en la entrada del edificio.{:clear }Regla del aventurero número 17:
+
+    ¡recoge información!
+- id: 17679
+  en: >-
+    ¡Nunca imaginé que encontraríamos
+
+    a Pete aquí!{:clear }¡Se ve que no solo causa problemas
+
+    en nuestro mundo!
+- id: 17680
+  en: >-
+    ¡Qué torre más extraña!
+
+    ¿Para qué la habrán construido?{:clear }Regla del aventurero número 8:
+
+    ¡revisa cada rincón de un lugar nuevo!
+- id: 17681
+  en: >-
+    Ese libro contiene información
+
+    importante. Asegúrate de leerlo.
+- id: 17682
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Quieres preguntar algo?
+
+    {:chardelay 33 00}No, leeré un poco más.
+
+    {:chardelay 09 00}Sí, de hecho...
+- id: 17860
+  en: >-
+    En adelante, si la VT llega a cero, {:color #00F0F080}el juego termina{:reset}.
+
+    Asegúrate de recuperar VT cuando el indicador baje.
+- id: 17861
+  en: >-
+    {:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Fusión.{:reset}
+
+    El indicador en la parte inferior
+
+    derecha se consume con las transformaciones.{:clear }{:unk0f 00 00 00 00 00}Es muy poderoso, ya que absorbe la fuerza de tus aliados.
+
+    Mientras te transformas, tus amigos desaparecen.
+- id: 17906
+  en: >+
+    {:delayandfade 05 3C}Ten cuidado.
+
+
+
+
+
+
+
+
+
+
+- id: 17907
+  en: >+
+    {:delayandfade 05 3C}Tras esa puerta, aguarda un
+
+    mundo totalmente diferente.
+
+
+
+
+
+
+
+
+
+- id: 17908
+  en: >+
+    {:delayandfade 05 3C}Pero no temas.
+
+
+
+
+
+
+
+
+
+
+- id: 17909
+  en: >+
+    {:delayandfade 05 3C}No te detengas...
+
+
+
+
+
+
+
+
+
+
+- id: 17910
+  en: Tu moral ha aumentado (Fuerza +1).
+- id: 17911
+  en: Te has vuelto más sereno (Defensa +1).
+- id: 17912
+  en: Te has vuelto más astuto (Magia +1).
+- id: 17913
+  en: ' '
+- id: 17914
+  en: Te has vuelto algo más hábil (PH +1).
+- id: 17915
+  en: Te has vuelto bastante hábil (PH +2).
+- id: 17916
+  en: Recibes el poder del guerrero.
+- id: 17917
+  en: Recibes el poder del guardián.
+- id: 17918
+  en: Recibes el poder del místico.
+- id: 17945
+  en: >-
+    ¡Eh! ¿Cómo va tu viaje?
+
+    Por aquí no hay muchas novedades.{:clear }El organizador del Struggle está
+
+    preparando algo. Echa un vistazo.
+- id: 17946
+  en: >-
+    ¡Sora! ¡Donald! ¡Goofy!
+
+    ¡Me alegra veros de nuevo!{:clear }El taller de objetos está abierto.
+
+    Os servirá para vuestro viaje. ¡Id allí!
+- id: 17947
+  en: >-
+    ¡Has vuelto! ¡Me alegra
+
+    mucho verte!{:clear }Ahora hay ofertas de empleo. Tal vez
+
+    quieras trabajar mientras estés aquí.
+- id: 17948
+  en: >-
+    ¿Cómo va vuestro viaje hasta ahora?
+
+    Si os metéis en líos, volved al comienzo.{:clear }Os dejaré ese libro a mano para que
+
+    podáis leerlo en cualquier momento.
+- id: 17949
+  en: ¡Podrás partir cuando te cambies de ropa!
+- id: 17950
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Cambiar de ropa?
+
+    {:chardelay 33 00}Todavía no.
+
+    {:chardelay 09 00}¡Por favor!
+- id: 17951
+  en: >-
+    No estás listo para el último traje.
+
+    No funcionará, Sora.{:clear }Solo puede usarlo aquel que
+
+    haya superado todas las pruebas.
+- id: 17952
+  en: >-
+    Nos han hablado de ti. ¡Date prisa
+
+    y pruébate tus nuevas prendas!{:clear }Eso sí, antes debes estar
+
+    preparado para el viaje.
+- id: 17953
+  en: >-
+    Mmm...
+
+    A juzgar por tu cara, Sora...{:clear }¡Diría que eres capaz de
+
+    llevar las prendas mágicas!
+- id: 17954
+  en: >-
+    ¡Estas prendas te servirán a
+
+    medida que crezcas!{:clear }Aún no conoces su verdadero potencial.
+
+    ¡Deberás aprender a usarlo!
+- id: 17955
+  en: >-
+    ¿Qué tal tus prendas mágicas? Cada
+
+    una posee cuatro habilidades.{:clear }Estas son... Mmm... Oh,
+
+    ¿cuáles eran? ¡Flora tiene que saberlo!
+- id: 17958
+  en: >-
+    ¡Deprisa! ¡A la {:theme 0A}Plaza de la Estación!{:reset}
+
+    ¡Allí puedes averiguar más sobre Kairi!
+- id: 17960
+  en: >-
+    Esto no me gusta.{:clear }Quédate con el trofeo por
+
+    ahora, ¡ya me lo devolverás!
+- id: 17962
+  en: >-
+    ¡Sorprendiste a Seifer
+
+    con la guardia baja, colega!
+- id: 17964
+  en: Enojada.
+- id: 17970
+  en: >-
+    Apuesto a que puedes llegar a la otra
+
+    Villa Crepúsculo a través de esta mansión.
+- id: 17971
+  en: >-
+    No te preocupes, montaremos guardia
+
+    aquí. ¡Echa un vistazo en esa mansión!
+- id: 17972
+  en: >-
+    No puedo creer que en esta mansión
+
+    haya un ordenador tan asombroso.{:clear }Mira todas estas máquinas.
+
+    No entiendo nada de esto.
+- id: 17973
+  en: >-
+    ¡Yo me encargo de este mundo!
+
+    Si os metéis en líos, regresad.{:clear }Aquel aparato tendría que
+
+    poder traeros de vuelta.
+- id: 17974
+  en: >-
+    Esta mansión es aterradora. Seguro
+
+    que allí hay monstruos al acecho...
+- id: 17975
+  en: >-
+    Este sitio se cae a pedazos.{:clear }¿Habrá un ordenador en
+
+    esta mansión abandonada?
+- id: 17976
+  en: >-
+    ¡La contraseña es el nombre de ese helado!{:clear }Aseguraos de que esté bien. ¡No
+
+    funcionará con una incorrecta!
+- id: 17977
+  en: >-
+    {:unk13 00 01 31 01}{:unk08 02 00 06}El nombre del helado era...
+
+    {:chardelay 33 00}Helado de azúcar del cielo.
+
+    {:chardelay 09 00}Helado de sal marina.
+
+    {:chardelay 33 00}Helado de hígado con pimienta.
+- id: 17978
+  en: >-
+    También en el otro mundo
+
+    habrá un aparato como este.{:clear }¡Debería ser posible regresar
+
+    usándolo!
+- id: 17979
+  en: >-
+    ¡Adelante!{:clear }¡Este sitio debe de ocultar
+
+    algún secreto!
+- id: 17980
+  en: >-
+    No creo que esas cosas blancas
+
+    vayan a atacarnos durante un rato.{:clear }¡Aprovechad para registrar la mansión!
+- id: 17981
+  en: >-
+    ¿Un sabor de helado? ¿Será el de ese
+
+    helado que solíamos tomar siempre?{:clear }Dulce y salado... ¡Delicioso!
+
+    ¡Tiene que ser ese!
+- id: 17982
+  en: >-
+    Algo me dice que volveremos a verte.
+
+    Trae a Kairi contigo, ¿vale?{:clear }¡Te estaremos esperando!
+- id: 17983
+  en: >-
+    Riku se va a enfadar mucho conmigo.{:clear }¡Ahora debemos darnos prisa y
+
+    registrar la mansión!
+- id: 17984
+  en: >-
+    ¡En esta mansión, tiene que haber un
+
+    ordenador que nos lleve a otro mundo!{:clear }¡Estoy seguro de que lo encontraremos
+
+    si buscamos bien!
+- id: 17985
+  en: >-
+    ¡Eso es! El nombre del helado
+
+    es helado de sa...{:clear }No, mejor encárgate tú. Ve y dile
+
+    a Pence de qué sabor se trata. ¡Deprisa!
+- id: 17986
+  en: >-
+    ¿Listo?{:clear }¡Para ser transportado al otro mundo,
+
+    {:theme 0A}toca esta luz{:reset}!
+- id: 17987
+  en: >-
+    Puede que parezca igual, pero
+
+    este sitio es diferente al de antes.{:clear }¡El enemigo puede atacar en cualquier
+
+    momento, tened cuidado!
+- id: 17989
+  en: >-
+    Todo parece igual, pero tengo un
+
+    mal presentimiento.{:clear }Preparémonos para lo que sea,
+
+    aunque podríamos regresar...{:clear }al otro mundo utilizando la luz.
+- id: 17991
+  en: >-
+    Entonces sí había otra
+
+    Villa Crepúsculo.{:clear }Vamos, debemos encontrar la
+
+    entrada a la oscuridad.
+- id: 18070
+  en: ¡Derrota a todos los incorpóreos!
+- id: 18203
+  en: >-
+    Un secreto del Struggle:
+
+
+    Si le quitas toda la VT a tu adversario,
+
+    tendrás una gran oportunidad.
+- id: 18204
+  en: '"Tren local. ¡Gratis!"'
+- id: 18205
+  en: '"Tren local. ¡Gratis!"'
+- id: 18206
+  en: >-
+    Hay un símbolo dentro de los círculos.
+
+    Si al menos tuvieras una pista,
+
+    podrías continuar el dibujo.
+- id: 18207
+  en: >-
+    Aquí hay guardados innumerables
+
+    datos de Villa Crepúsculo.
+- id: 18208
+  en: Probablemente nunca vuelva a funcionar.
+- id: 18209
+  en: >-
+    Está destrozado y no tiene
+
+    arreglo.
+- id: 18210
+  en: Donald duerme dentro.
+- id: 18211
+  en: Goofy duerme dentro.
+- id: 18212
+  en: Esta es la cápsula donde dormía Donald.
+- id: 18213
+  en: Esta es la cápsula donde dormía Goofy.
+- id: 18214
+  en: >-
+    Este indicador permite observar las
+
+    condiciones dentro de las cápsulas.
+- id: 18215
+  en: >-
+    En tu mente, se dibuja una imagen de ti
+
+    mismo usando toda tu fuerza.
+- id: 18216
+  en: >-
+    En tu mente, se dibuja una imagen de ti
+
+    mismo usando toda tu magia.
+- id: 18217
+  en: >-
+    En tu mente, se dibuja una imagen de ti
+
+    mismo dominando todas las habilidades.
+- id: 18218
+  en: >-
+    En tu mente, se dibuja una imagen de la
+
+    llave espada desatando todo su poder.
+- id: 18219
+  en: >-
+    En tu mente, se dibuja una imagen de ti
+
+    mismo vencido por el poder de la oscuridad.
+- id: 18220
+  en: 3. Callejuela    4. Plazoleta del Tranvía
+- id: 18221
+  en: 2. Túnel    5. Plaza de la Estación
+- id: 18222
+  en: 2. Túnel    3. Callejuela
+- id: 18223
+  en: Ahora no se puede abrir.
+- id: 18318
+  en: El tiempo se ha detenido por completo.
+- id: 18323
+  en: >-
+    Conduce a algún sitio, pero el poder
+
+    de la oscuridad impide la entrada.
+- id: 18385
+  en: >-
+    {:unk13 FC 00 4C 01}{:unk08 01 01 02}¡Oh, pero si eres
+
+    tú, Roxas!{:clear }¿Has tirado tú una pelota?
+- id: 18386
+  en: >-
+    {:unk13 4F 01 39 00}{:unk08 01 00 06}La pelota apareció de la nada
+
+    y me asustó.{:clear }¡Eh, ya sé!{:clear }¡Esta debe de ser una
+
+    de las Siete Maravillas!
+- id: 18388
+  en: '{:unk13 C3 00 3C 00}{:unk08 01 00 05}¿Vivi?'
+- id: 18392
+  en: '{:unk13 39 01 6D 00}{:unk08 01 01 06}¿Qué pasa, Roxas?'
+- id: 18393
+  en: >-
+    {:unk13 4D 01 CE 00}{:unk08 01 00 07}¿Necesitabas esto, Roxas?{:clear }Seguro que pensabas
+
+    practicar un poco.
+- id: 18396
+  en: '{:unk13 5D 01 5E 00}{:unk06 02}{:unk08 03 00 05}¡Roxas!'
+- id: 18397
+  en: '{:unk13 8A 01 59 00}{:unk08 01 00 05}¿Estás bien?'
+- id: 18422
+  en: >-
+    ¿Sabes qué es el Struggle?
+
+    Lo verás en el cuadrilátero.{:clear }Anímate y participa. ¿Crees que
+
+    puedes ganarme? Soy el campeón.
+- id: 18423
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¡Ganas o pierdes! Sin rencor.
+
+    {:chardelay 33 00}No, gracias.
+
+    {:chardelay 09 00}Quiero desafiarle.
+- id: 18424
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¡Ganas o pierdes! Sin rencor.
+
+    {:chardelay 33 00}No, gracias.
+
+    {:chardelay 09 00}Quiero desafiarle.
+- id: 18425
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¡En guardia!
+
+    {:chardelay 33 00}No, gracias.
+
+    {:chardelay 09 00}Desafiarle.
+- id: 18430
+  en: Ves una escritura borrosa.
+- id: 18431
+  en: >-
+    ¿Luchar contra Hayner?{:chardelay 33 00}No.
+
+    {:chardelay 09 00}¡Luchemos!
+- id: 18432
+  en: Ves una escritura borrosa.
+- id: 18433
+  en: >-
+    ¿Luchar contra Setzer?{:chardelay 33 00}No.
+
+    {:chardelay 09 00}¡Luchemos!
+- id: 18434
+  en: Ves una escritura borrosa.
+- id: 18435
+  en: >-
+    ¿Luchar contra Seifer?{:chardelay 33 00}No.
+
+    {:chardelay 09 00}¡Luchemos!
+- id: 18436
+  en: >-
+    De cerca, puedes leer las reglas de Struggle.{:clear }No son las reglas del torneo, sino
+
+    las que tú inventaste. ¡Los participantes
+
+    se roban puntos entre sí!
+- id: 18478
+  en: >-
+    {:unk13 31 01 37 00}{:unk08 01 01 05}¡Qué susto!{:clear }Creí ver a alguien, pero
+
+    era solo mi reflejo.{:clear }¡Seguro que esta es una
+
+    de las Siete Maravillas!
+- id: 18514
+  en: '{:unk13 8F 00 5E 00}{:unk08 01 01 06}¡Anda!'
+- id: 18515
+  en: >-
+    {:unk13 7C 01 75 00}{:unk08 01 00 05}Oh, solo era
+
+    un perro.{:clear }Lo sacaste
+
+    del saco, ¿Roxas?
+- id: 18516
+  en: >-
+    {:unk13 E3 00 39 00}{:unk08 01 00 05}¡Esto explica una de
+
+    las Siete Maravillas!
+- id: 18588
+  en: >-
+    No pareces muy fuerte. Debes
+
+    golpear los objetos y cargarlos.{:clear }Pero ojo, son pesados. Si no lo
+
+    haces rápido, caerán cuesta abajo.
+- id: 18589
+  en: >-
+    Hay un montón de sitios para pegar
+
+    carteles aquí en la Plazoleta del Tranvía.{:clear }Si pudiera recordar qué lugares
+
+    llaman más la atención a la gente...
+- id: 18590
+  en: >-
+    ¿Estás aquí por el trabajo?{:clear }Coloca los carteles rápido, así
+
+    la gente podrá verlos.
+- id: 18591
+  en: >-
+    Si la golpeas, la basura desaparecerá
+
+    y arrastrará consigo lo que haya detrás.{:clear }¡No es una manera elegante de limpiar,
+
+    pero ahorra mucho tiempo!
+- id: 18596
+  en: １８５９６
+- id: 18597
+  en: >-
+    ¡Tienes que vencer a Seifer!
+
+    ¡Ejecuta ataques sucesivos y
+
+    lanzarás un poderoso combo!
+- id: 18598
+  en: １８５９８
+- id: 18599
+  en: １８５９９
+- id: 18600
+  en: >-
+    ¡Enfréntate al enemigo misterioso!
+
+    ¡Utiliza todos tus ataques y estrategias!
+- id: 18602
+  en: >-
+    ¡Acaba con el enemigo misterioso!
+
+    Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 18603
+  en: >-
+    ¡Utiliza ataques rápidos al
+
+    enfrentarte a Hayner!
+- id: 18604
+  en: >-
+    ¡Combate contra Vivi!
+
+    ¡Observa que baja la guardia
+
+    después de atacar!
+- id: 18605
+  en: >-
+    ¡Derrota a todos los enemigos misteriosos!
+
+    ¡Lucha con la singular llave espada!
+- id: 18606
+  en: >-
+    ¡Derrota al misterioso Axel!
+
+    ¡Lucha con la singular llave espada!
+- id: 18607
+  en: >-
+    ¡Enfréntate a Setzer!
+
+    ¡Observa sus movimientos y
+
+    busca su punto débil!
+- id: 18608
+  en: >-
+    Vence a los enemigos que te rodean.
+
+    Ya te encargarás luego de Axel.
+- id: 18609
+  en: >-
+    ¡Usa la misteriosa llave espada
+
+    para destruir a todos los enemigos!
+- id: 18610
+  en: >-
+    ¡Usa la misteriosa llave espada
+
+    para vencer a Axel!
+- id: 18611
+  en: >-
+    ¡Usa la llave espada para
+
+    destruir a todos los enemigos!
+- id: 18612
+  en: >-
+    ¡Lucha junto a tus amigos y
+
+    acaba con los sincorazón!
+- id: 18613
+  en: >-
+    ¡Lucha junto a tus amigos y
+
+    acaba con los sincorazón!
+- id: 18614
+  en: >-
+    ¡Lucha junto a tus amigos y
+
+    acaba con los sincorazón!
+- id: 18615
+  en: ¡Derrota a Seifer!
+- id: 18616
+  en: ¡Derrota a Seifer!
+- id: 18617
+  en: >-
+    ¡Lucha junto al rey Mickey y
+
+    derrota a todos los incorpóreos!!
+- id: 18618
+  en: >-
+    ¡Lucha junto a Axel y
+
+    derrota a todos los incorpóreos!
+- id: 18619
+  en: >-
+    ¡Salta encima de la bolsa y
+
+    evita que se mueva!
+
+    ¡Trata de usar el comando de
+
+    reacción para evitar obstáculos!
+- id: 18620
+  en: >-
+    ¡Enfréntate y derrota al otro Roxas!
+
+    ¡Observa sus movimientos con atención!
+- id: 18621
+  en: >-
+    ¡Esquiva las pelotas y ve hacia la pared!
+
+    ¡Puedes golpear las pelotas para evitarlas!
+- id: 18622
+  en: >-
+    ¡Tienes que derrotar a los Vivis!
+
+    ¡No dejes que se multipliquen!
+- id: 18623
+  en: ¡Tienes que vencer a Seifer!
+- id: 18624
+  en: >-
+    ¡Tienes que vencer a Seifer!
+
+    ¡Presta atención y espera
+
+    la oportunidad de atacarle!
+- id: 18625
+  en: ¡Tienes que vencer a Seifer!
+- id: 18626
+  en: >-
+    ¡Tienes que vencer a Seifer!
+
+    ¡Presta atención y espera
+
+    la oportunidad de atacarle!
+- id: 18627
+  en: VS Hayner
+- id: 18628
+  en: １８６２８
+- id: 18629
+  en: VS Seifer
+- id: 18630
+  en: １８６３０
+- id: 18631
+  en: VS Setzer
+- id: 18632
+  en: １８６３２
+- id: 18634
+  en: ¡No la sueltes, o recuperará energía!
+- id: 18706
+  en: １８７０６
+- id: 18707
+  en: >-
+    ¡Derrota a todos los incorpóreos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 18921
+  en: >-
+    ¿Quieres probar este monopatín?
+
+    Te servirá para tu trabajo.
+- id: 18922
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Patinar?
+
+    {:chardelay 33 00}Tengo otras cosas que hacer.
+
+    {:chardelay 52 00}¡Claro!
+- id: 18968
+  en: >-
+    ¿Que si he visto pasar alguien?
+
+    No, acabo de llegar.{:clear }Soy mayor, pero los túneles me siguen
+
+    asustando. Será mejor que siga mi camino.
+- id: 18969
+  en: >-
+    Tengo un mapa de las Siete Maravillas.
+
+    ¡Si te pierdes, ven a verme!
+- id: 18970
+  en: >-
+    Tengo un mapa de las Siete Maravillas.
+
+    ¡Si te pierdes, ven a verme!
+- id: 18971
+  en: >-
+    Tengo un mapa de las Siete Maravillas.
+
+    ¡Si te pierdes, ven a verme!
+- id: 18972
+  en: >-
+    Tengo un mapa de las Siete Maravillas.
+
+    ¡Si te pierdes, ven a verme!
+- id: 18975
+  en: ¡Recibes 100 platines!
+- id: 18976
+  en: ¡Recibes 60 platines!
+- id: 18977
+  en: ¡Recibes 30 platines!
+- id: 18978
+  en: ¡Recibes 100 platines!
+- id: 18979
+  en: ¡Recibes 60 platines!
+- id: 18980
+  en: ¡Recibes 30 platines!
+- id: 18981
+  en: ¡Recibes 100 platines!
+- id: 18982
+  en: ¡Recibes 60 platines!
+- id: 18983
+  en: ¡Recibes 30 platines!
+- id: 18984
+  en: ¡Recibes 100 platines!
+- id: 18985
+  en: ¡Recibes 60 platines!
+- id: 18986
+  en: ¡Recibes 30 platines!
+- id: 18987
+  en: ¡Recibes 100 platines!
+- id: 18988
+  en: ¡Recibes 60 platines!
+- id: 18989
+  en: ¡Recibes 30 platines!
+- id: 18990
+  en: ¡Recibes 100 platines!
+- id: 18991
+  en: ¡Recibes 60 platines!
+- id: 18992
+  en: ¡Recibes 30 platines!
+- id: 18997
+  en: >-
+    Podrás irte cuando te hayas cambiado
+
+    de ropa en el vestidor.{:clear }Tómate tu tiempo para prepararte.
+- id: 18998
+  en: >-
+    ¡Esas prendas tienen poderes que
+
+    dependen de la ayuda de tus aliados!{:clear }Al igual que tú, necesitan de
+
+    amigos para desarrollar sus poderes.
+- id: 18999
+  en: >-
+    Tendrás poderes asombrosos cuando te
+
+    transformes, pero el proceso lleva tiempo.{:clear }Aun así, ¡transformarte te ayudará
+
+    enormemente en tus aventuras!
+- id: 19000
+  en: >-
+    ¡Has ganado una nueva habilidad!
+
+    ¡Estas prendas fueron hechas para ti!{:clear }¡Esa transformación ayudará a
+
+    desarrollar todo tu potencial, Sora!
+- id: 19001
+  en: >-
+    {:unk13 AF 00 CE 00}{:unk08 01 01 01}Eh... no... es que...
+
+    había muchos tú...
+- id: 19002
+  en: >-
+    {:unk13 6B 01 A2 00}{:unk08 01 00 07}¿Eh?
+
+    ¿Muchos... yo?{:clear }No comprendo.{:clear }Da igual. Me basta
+
+    con esto, Roxas.{:clear }Tómate tu tiempo.
+- id: 19003
+  en: >-
+    {:unk13 53 01 6D 00}{:unk08 01 00 05}Así que la voz misteriosa
+
+    era Vivi practicando.
+- id: 19004
+  en: '{:unk13 1B 01 39 00}{:unk08 01 00 05}Otro... ¿yo?'
+- id: 19012
+  en: >-
+    Suficiente por hoy.
+
+    Estaba claro que ganaría.{:clear }¡Puedes volver a por más
+
+    cuando quieras!
+- id: 19013
+  en: >-
+    ¡Nadie puede con Siefer! ¡Te dará
+
+    estopa siempre que quiera, colega!
+- id: 19014
+  en: Lógico.
+- id: 19015
+  en: >-
+    Ejem. Has tenido suerte.
+
+    Por hoy te perdono la vida.
+- id: 19016
+  en: >-
+    ¿Hace falta decir algo? ¡No
+
+    me sirves ni para entrenar!{:clear }¡Si quieres otra paliza,
+
+    vuelve por aquí!
+- id: 19017
+  en: >-
+    ¡Seifer estaba hecho polvo!
+
+    ¡La próxima vez no perderá!
+- id: 19018
+  en: >-
+    ¡Seifer es un genio!
+
+    ¡Tú no eres rival para él!
+- id: 19019
+  en: A propósito.
+- id: 19020
+  en: Inevitable.
+- id: 19052
+  en: ¡Recibes 50 platines!
+- id: 19053
+  en: ¡Recibes 30 platines!
+- id: 19054
+  en: ¡Recibes 10 platines!
+- id: 19055
+  en: ¡Recibes 50 platines!
+- id: 19056
+  en: ¡Recibes 30 platines!
+- id: 19057
+  en: ¡Recibes 10 platines!
+- id: 19058
+  en: ¡Recibes 50 platines!
+- id: 19059
+  en: ¡Recibes 30 platines!
+- id: 19060
+  en: ¡Recibes 10 platines!
+- id: 19061
+  en: ¡Recibes 100 platines!
+- id: 19062
+  en: ¡Recibes 50 platines!
+- id: 19063
+  en: ¡Recibes 30 platines!
+- id: 19064
+  en: ¡Recibes 50 platines!
+- id: 19065
+  en: ¡Recibes 30 platines!
+- id: 19066
+  en: ¡Recibes 10 platines!
+- id: 19067
+  en: ¡Recibes 50 platines!
+- id: 19068
+  en: ¡Recibes 30 platines!
+- id: 19069
+  en: ¡Recibes 10 platines!
+- id: 19119
+  en: >-
+    {:unk08 02 00 06}{:chardelay 33 00}Ninguno.
+
+    {:chardelay 0A 00}Comienzo.
+
+    {:chardelay 0B 00}Interludio.
+
+    {:chardelay 0C 00}Lo que está por venir.
+- id: 19129
+  en: >-
+    {:unk13 00 01 D0 00}‛Comienzo’{:clear }En cada viaje ocurren
+
+    encuentros casuales, y
+
+    cada encuentro supone
+
+    una despedida.
+
+
+    Cuando una despedida da
+
+    paso a un viaje, los mundos
+
+    abren sus corazones.{:clear }Aquellos elegidos por la luz o
+
+    atrapados por la oscuridad...
+
+
+    Amigos que comparten
+
+    los mismos lazos, aunque
+
+    sus caminos se separen.{:clear }Cuando dudes del camino que
+
+    has recorrido, cuando pierdas
+
+    la mano que sostenías, mira de
+
+    nuevo el corazón que una vez fue...
+
+
+    pues allí hallarás las respuestas.
+- id: 19130
+  en: >-
+    {:unk13 00 01 D0 00}‛Interludio’{:clear }Un largo sueño.
+
+
+    Un triste adiós pende en el aire
+
+    de ese "mundo intersticial’.{:clear }¿Qué es realidad? ¿Qué es ilusión?
+
+    El camino elegido por el niño
+
+    conduce a sus recuerdos.{:clear }Cuando te atrape la corriente
+
+    de días y noches sucediéndose,
+
+    mira de nuevo tus pasos...
+
+
+    pues ahí la confusión cesará.
+- id: 19131
+  en: >-
+    {:unk13 00 01 D0 00}‛Lo que está por venir’{:clear }¿Veremos el día en que esta batalla, surgida
+
+    de la confusión, llegue a su fin?
+
+
+    Cada persona lo vive de forma diferente.{:clear }¿Acaso es la realidad aquello que se oculta?
+
+
+    La razón es el mero existir.
+
+    No obstante, puedes creer en los recuerdos.{:clear }No temas. Confía tu cuerpo a las
+
+    suaves olas de tu memoria.
+
+    Pronto, tu descanso habrá concluido...
+
+
+    y todo dará comienzo.
+- id: 19135
+  en: Preparativos para el combate de Struggle R.
+- id: 19136
+  en: 'Resultados de los combates:{:clear }Contra Hayner:   {:unk0d } triunfo(s)  {:unk0d } derrota(s)'
+- id: 19137
+  en: >-
+    Resultados de los combates:{:clear }Contra Hayner:   {:unk0d } triunfo(s)  {:unk0d } derrota(s)
+
+    Contra Setzer:   {:unk0d } triunfo(s)  {:unk0d } derrota(s)
+- id: 19138
+  en: >-
+    Resultados de los combates:{:clear }Contra Hayner:   {:unk0d } triunfo(s)  {:unk0d } derrota(s)
+
+    Contra Setzer:   {:unk0d } triunfo(s)  {:unk0d } derrota(s)
+
+    Contra Seifer:   {:unk0d } triunfo(s)  {:unk0d } derrota(s)
+- id: 19139
+  en: Preparativos para el combate de Struggle R.
+- id: 19140
+  en: ¿Quieres participar en el Struggle?
+- id: 19141
+  en: >-
+    {:unk08 02 00 06}{:chardelay 33 00}No.
+
+    {:chardelay 09 00}Luchar contra Hayner.
+- id: 19142
+  en: ¿Quieres participar en el Struggle?
+- id: 19143
+  en: >-
+    {:unk08 02 00 06}{:chardelay 33 00}No.
+
+    {:chardelay 09 00}Luchar contra Hayner.
+
+    {:chardelay 0A 00}Luchar contra Setzer.
+- id: 19144
+  en: ¿Quieres participar en el Struggle?
+- id: 19145
+  en: >-
+    {:chardelay 33 00}No.
+
+    {:chardelay 09 00}Luchar contra Hayner.
+
+    {:chardelay 0A 00}Luchar contra Setzer.
+
+    {:chardelay 0B 00}Luchar contra Seifer.
+- id: 19146
+  en: >-
+    ¡El Struggle R ha comenzado! Puedes
+
+    apuntarte en aquel tablón.{:clear }Las reglas son las mismas. ¡Pero aún te
+
+    falta experiencia para luchar con Seifer!
+- id: 19147
+  en: >-
+    Eres hábil, pero todavía no eres
+
+    rival para Seifer.{:clear }Tendrás que combatir
+
+    unas cuantas veces más.
+- id: 19148
+  en: >-
+    ¡Bravo! ¡Estás listo para
+
+    enfrentarte a Seifer!{:clear }Puedes luchar en el Struggle cuando
+
+    desees. ¡Me lo pasaré en grande!
+- id: 19325
+  en: >-
+    {:unk13 4F 01 46 00}{:unk08 01 00 04}Oye, había un montón
+
+    de Vivis aquí
+
+    hace un minuto...
+- id: 19390
+  en: >-
+    {:unk13 5E 01 50 00}{:unk08 01 00 05}¡Es fácil!{:clear }¡Cada uno tiene cien esferas!
+
+    Debéis atacar para quitarle
+
+    sus esferas al adversario.{:clear }Así de simple.{:clear }Si le asestáis un golpe, el
+
+    adversario dejará caer
+
+    esferas.{:clear }Pero si os golpean,
+
+    las perderéis vosotros.
+
+    ¡Así que cuidado!
+- id: 19391
+  en: >-
+    {:unk13 50 01 50 00}{:unk08 01 00 05}Debéis conseguir muchas
+
+    esferas.{:clear }Al terminar el combate,
+
+    el participante con más
+
+    esferas gana.{:clear }Cuando estéis listos, hablad
+
+    con el organizador del torneo.
+
+    Está en el cuadrilátero.
+- id: 19548
+  en: Está bloqueado y no se moverá.
+- id: 19553
+  en: Hayner y tú siempre jugáis con estos dardos.
+- id: 19554
+  en: >-
+    El sofá favorito de Pence y
+
+    Olette.
+- id: 19555
+  en: ¡Bienvenidos a Villa Crepúsculo!
+- id: 19556
+  en: En los dardos, se lee "Hayner" en letra pequeña.
+- id: 19557
+  en: >-
+    El sofá donde hablaban
+
+    Pence y Olette.
+- id: 19558
+  en: ¡Bienvenidos a Villa Crepúsculo!
+- id: 19560
+  en: Gracias.
+- id: 19569
+  en: ¡Utiliza Finta para esquivar ataques!
+- id: 19570
+  en: ¡Utiliza Finta para esquivar ataques!
+- id: 19583
+  en: >-
+    ¡Seifer es una máquina, tío!{:clear }¿Ha sonado a Trueno? ¿Eh?
+
+    ¡Quería imitar su forma de hablar!
+- id: 19584
+  en: >-
+    ¡Derrota a todos los incorpóreos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 19650
+  en: >-
+    Retazos de un sueño que
+
+    parecen recuerdos lejanos.{:delay F0 00}{:clear }Recuerdos lejanos que
+
+    parecen retazos de un sueño.{:delay F0 00}{:clear }Me gustaría unirlos todos... {:delay BE 00}{:clear }junto a ti.
+- id: 19654
+  en: Te estaba esperando.
+- id: 19655
+  en: He ido a verle...{:delay B4 00}{:clear }{:delay 49 00}{:clear }Se parece mucho a ti.
+- id: 19656
+  en: ¿Quién eres?
+- id: 19657
+  en: Soy lo que queda.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }O...{:delay 58 00}{:clear }quizá lo único que siempre hubo.
+- id: 19658
+  en: Me refería a tu nombre.
+- id: 19659
+  en: Nada importa mi nombre.{:delay DC 00}{:clear }¿Y tú?{:delay 9C 00}{:clear }¿Acaso recuerdas tu verdadero nombre?
+- id: 19660
+  en: Mi verdadero nombre... es...
+- id: 19661
+  en: ''
+- id: 19662
+  en: ¡Qué susto, Kai!...
+- id: 19663
+  en: ¿Te rindes tan rápido?
+- id: 19664
+  en: >-
+    Si hay otros mundos,
+
+    ¿por qué hemos acabado en este?
+- id: 19665
+  en: Este mundo ha sido conectado.
+- id: 19666
+  en: ¿Qui... quién anda ahí?
+- id: 19667
+  en: Está unido a la oscuridad...
+- id: 19668
+  en: Sora, no cambies nunca.
+- id: 19669
+  en: La puerta se ha abierto...
+- id: 19670
+  en: ¿Qué?
+- id: 19671
+  en: Hay tanto que aprender...
+- id: 19672
+  en: So... ra...
+- id: 19673
+  en: '{:delay 1E 00}{:clear }¿Dónde estoy?'
+- id: 19674
+  en: >-
+    ¿Qué le ha pasado
+
+    a mi casa, a mi isla?
+- id: 19675
+  en: ¡Riku!... Kai...
+- id: 19676
+  en: ¿Quién eres tú?
+- id: 19677
+  en: >-
+    Y seguirán apareciendo
+
+    mientras tengas la llave espada.
+- id: 19678
+  en: >-
+    ¡Ven con nosotros! Iremos a otros
+
+    mundos en nuestra nave.
+- id: 19679
+  en: >-
+    Sora, ve con ellos. Sobre todo
+
+    si quieres encontrar a tus amigos.
+- id: 19680
+  en: Pato Donald.
+- id: 19681
+  en: Me llamo Goofy.
+- id: 19682
+  en: Yo soy Sora.
+- id: 19683
+  en: Vale, iré con vosotros.
+- id: 19684
+  en: >-
+    Los sincorazón temen
+
+    a la llave espada.
+- id: 19685
+  en: Sí. La llave espada.
+- id: 19686
+  en: ¿Así que esta es la llave?
+- id: 19687
+  en: >-
+    Como poseedor de la llave,
+
+    sabrás que{:delay F0 00}{:clear }uno no puede entrometerse
+
+    en los asuntos de otro mundo.
+- id: 19688
+  en: >-
+    Quiero ver tantos lugares...
+
+    Sé que iré algún día.
+- id: 19689
+  en: >-
+    ... Por la presente os declaro
+
+    "aprendices de héroe"...
+- id: 19690
+  en: ¿Cómo que "aprendices de héroe"?
+- id: 19691
+  en: >-
+    No entendéis qué se necesita
+
+    para ser un verdadero héroe.
+- id: 19692
+  en: >-
+    Yo... deseo...
+
+    ...tu libertad, Genio.
+- id: 19693
+  en: ¡Al!
+- id: 19694
+  en: >-
+    Sally,
+
+    ¿por qué no te haría yo caso?
+- id: 19695
+  en: >-
+    Ánimo, Jack.{:delay 58 00}{:clear }Ya se nos ocurrirá otro plan
+
+    para Halloween.{:delay AC 00}{:clear }La próxima vez lo haremos juntos.
+- id: 19696
+  en: ¡Poder!
+- id: 19697
+  en: ¡Soy Mushu!
+- id: 19698
+  en: >-
+    ¿O ya no juegas ahora que eres
+
+    el héroe de la llave espada?
+- id: 19699
+  en: ¡Riku! ¿Qué.. qué haces aquí?
+- id: 19700
+  en: ¿La has encontrado?
+- id: 19701
+  en: >-
+    Todavía no me lo creo.{:delay A2 00}{:clear }¡He volado!{:delay C6 00}{:clear }¡Kai... no se lo va a creer
+
+    cuando se lo cuente!
+- id: 19702
+  en: Yo también estoy buscando.
+- id: 19703
+  en: >-
+    ¿Tu luz?
+
+    No la pierdas de vista.
+- id: 19704
+  en: Sora, ¿adónde vas?
+- id: 19705
+  en: >-
+    A buscar a mis amigos.
+
+    Me están esperando.
+- id: 19706
+  en: ¿Dónde están Donald y Goofy?
+- id: 19707
+  en: >-
+    En vez de preocuparte por ellos,
+
+    deberías preguntar por ella.
+- id: 19708
+  en: >-
+    Es tarea mía.{:delay 78 00}{:clear }Solo el elegido puede abrir la puerta
+
+    secreta y cambiar el mundo.
+- id: 19709
+  en: Pero tampoco voy a traicionar a Sora.
+- id: 19710
+  en: Uno para todos y todos para uno.
+- id: 19711
+  en: ¡Mis amigos son mi poder!
+- id: 19712
+  en: Tu corazón ha ganado esta batalla.
+- id: 19713
+  en: Soy Ansem,
+- id: 19714
+  en: el buscador de oscuridad.
+- id: 19715
+  en: ¡Sora!
+- id: 19716
+  en: >-
+    ¡Olvídalo!
+
+    ¡No te llevarás el corazón de Kairi!
+- id: 19717
+  en: Kairi...
+- id: 19718
+  en: >-
+    Quizás no volvamos a vernos,
+
+    pero jamás nos olvidaremos.
+- id: 19719
+  en: >-
+    Estemos donde estemos, nuestros
+
+    corazones volverán a reunirnos.
+- id: 19720
+  en: >-
+    Toma esto.{:delay 4B 00}{:clear }Es mi amuleto.
+
+    Tráemelo de vuelta, ¿eh?
+- id: 19721
+  en: No te preocupes. Lo haré.
+- id: 19722
+  en: ¿Lo prometes?
+- id: 19723
+  en: >-
+    Caray, ¿así quedan los mundos
+
+    invadidos por los sincorazón?
+- id: 19724
+  en: >-
+    Esos mundos se recuperarán
+
+    si derrotamos a Ansem, ¿verdad?{:delay A8 00}{:clear }Pero si los mundos se recuperan
+
+    y quedan desconectados,{:delay 55 01}{:clear }¿qué será de este lugar...
+
+    y de nosotros?
+- id: 19725
+  en: >-
+    El mundo empieza y acaba
+
+    en la oscuridad.{:delay 2C 01}{:clear }El corazón también.{:delay 8D 00}{:clear }La oscuridad es la verdadera esencia
+
+    del corazón.
+- id: 19726
+  en: >-
+    ¡Eso no es cierto!{:delay 34 00}{:clear }El corazón puede ser débil
+
+    y a veces ceder.{:delay 2C 01}{:clear }¡Pero ahora sé que en el fondo hay
+
+    una luz que nunca se apaga!
+- id: 19727
+  en: ¡Kingdom Hearts!{:delay 8C 00}{:clear }Dame el poder de la oscuridad...
+- id: 19728
+  en: Te equivocas,{:delay 5E 00}{:clear }ahora lo sé sin duda.{:delay 6B 00}{:clear }Kingdom Hearts... ¡es luz!
+- id: 19729
+  en: >-
+    ¡Vamos, Sora! ¡Cerremos
+
+    esta puerta para siempre!
+- id: 19730
+  en: Cuida de ella.
+- id: 19731
+  en: Kairi.
+- id: 19732
+  en: Sora.
+- id: 19733
+  en: >-
+    Kairi, ¿recuerdas lo que
+
+    dijiste antes?{:delay 96 00}{:clear }Yo también estoy siempre contigo.{:delay 67 00}{:clear }¡Volveré, te lo prometo!
+- id: 19734
+  en: Sé que lo harás.
+- id: 19735
+  en: Bueno, ¿y ahora qué?
+- id: 19736
+  en: >-
+    Tenemos que encontrar a Riku
+
+    y al rey Mickey.
+- id: 19737
+  en: >-
+    Pero, ¿dónde estará
+
+    la puerta hacia la luz?
+- id: 19738
+  en: ¿Pluto?
+- id: 19739
+  en: ¡Caramba, es el sello real!{:delay 96 00}{:clear }¡Eh! ¿Has visto al rey Mickey?
+- id: 19740
+  en: ¡Vamos, chicos!
+- id: 19741
+  en: >-
+    El chico sí es un problema.
+
+    Encontró una de las cerraduras.
+- id: 19744
+  en: No lo olvides.{:delay 54 00}{:clear }Siempre estoy contigo.
+- id: 19747
+  en: Villa Crepúsculo
+- id: 19863
+  en: ¿Qué?
+- id: 19890
+  en: Buscas respuestas.
+- id: 19891
+  en: No sientes nada. Nada es real.
+- id: 19892
+  en: Yo puedo darte un sentido.
+- id: 19893
+  en: Roxas...
+- id: 19894
+  en: Así es, el nuevo tú.
+- id: 19895
+  en: Allá va.
+- id: 19896
+  en: Vámonos.
+- id: 19897
+  en: ¿Irnos? ¿Adónde quieres que nos vayamos?{:delay 6E 00}{:clear } {:delay 0A 00}{:clear }Ni que tuviéramos un hogar al que volver.
+- id: 19898
+  en: No existimos, ¿recuerdas?
+- id: 19899
+  en: Es verdad. Quizá no tengamos un hogar...
+- id: 19900
+  en: pero sí hay un sitio al que me gustaría ir.{:delay A5 00}{:clear }Y alguien a quien quiero ver.
+- id: 19901
+  en: Y yo.
+- id: 19902
+  en: 'Bueno, ¿qué tal si nos dejas marchar? Ya sé que estás{:delay 96 00}{:clear }aquí para acabar con nosotros y tal, pero... '
+- id: 19903
+  en: ¿DiZ quiere eliminarme?
+- id: 19904
+  en: Marchaos.
+- id: 19905
+  en: ¿Estás seguro?
+- id: 19906
+  en: Estoy en deuda con vosotros.
+- id: 19907
+  en: ¿Por qué?
+- id: 19908
+  en: Nos ayudasteis en el Castillo del Olvido.
+- id: 19909
+  en: Je. No tendrás que repetírmelo.
+- id: 19910
+  en: Gracias.
+- id: 19911
+  en: ¿Has tenido dulces sueños?
+- id: 19912
+  en: Axel...
+- id: 19913
+  en: Igual me he equivocado.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Quizá sea hora de irse a la cama.{:delay 82 00}{:clear }Dentro de poco no podremos volver hablar como ahora.
+- id: 19914
+  en: Quieres decir que... {:delay 7D 00}{:clear }¿volveremos a ser como antes?
+- id: 19915
+  en: >-
+    He estado pensando sobre algo
+
+    que dijo Naminé.{:delay 0E 01}{:clear } {:delay 32 00}{:clear }Roxas... ¿estás seguro de que realmente
+
+    no tienes corazón?{:delay 68 01}{:clear }¿Y si todos nosotros tuviéramos uno?
+
+    Ella, tú, yo... Todos. {:delay 40 01}{:clear }Quizá no sean más que ilusiones mías.
+- id: 19916
+  en: No lo sé.{:delay A9 00}{:clear }No puedo ver en mi interior.
+- id: 19919
+  en: Venga, no me dejes a medias.
+- id: 19920
+  en: >-
+    Sora dará con las respuestas que buscamos.
+
+    Sé que lo hará... {:delay 1D 01}{:clear }Somos la misma persona.
+- id: 19921
+  en: Muy cierto.
+- id: 19922
+  en: >-
+    Tío, echo de menos los viejos tiempos.
+
+    ¿Lo captas?{:delay E3 00}{:clear }Cuando nos conocimos, recibiste tu nombre
+
+    y nos sentamos aquí,{:delay 2B 01}{:clear }a ver la puesta de sol.
+- id: 19923
+  en: Lo recuerdo. Este sitio es y será siempre mi hogar.{:delay C8 00}{:clear } {:delay 64 00}{:clear }¿Qué tal le irá a los chicos? Hayner, Pence, Olette... {:delay 39 01}{:clear }Me acuerdo mucho de ellos.
+- id: 19924
+  en: Cuando vuelvas a verlos, podrás averiguarlo por ti mismo.
+- id: 19925
+  en: >-
+    Tienes razón.{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Bueno, tengo que irme.
+
+    Ya sabes, Sora me espera.
+- id: 19926
+  en: Sí, supongo.{:delay 81 00}{:clear } {:delay 83 00}{:clear }Tío, este helado está que se sale.
+- id: 19927
+  en: Cuídate. ¿Vale, Axel?
+- id: 19928
+  en: Tú también, colega.
+- id: 19987
+  en: Supongo que no.
+- id: 20172
+  en: >-
+    {:unk08 02 00 06}Una Esencia intangible, un ente
+
+    oscuro ligado a un arma.
+
+    {:chardelay 33 00}Mejor no arriesgarse.
+
+    {:chardelay A1 00}¡Habrá que examinarla!
+- id: 20188
+  en: >-
+    Pero imagino... que si hay algo ahí, 
+
+    en nuestro interior, {:delay 13 01}{:clear } {:delay 0F 00}{:clear }lo sentiríamos, ¿no?
+- id: 20189
+  en: Y si fuese así... Bah, déjalo.
+- id: 20539
+  en: >-
+    El recuerdo de haber obtenido
+
+    un gran poder invade tu mente.
+- id: 20540
+  en: >-
+    ¡Has obtenido una pieza de puzle!
+
+
+    Hay piezas repartidas por todos los mundos,
+
+    aunque algunas solo serán accesibles
+
+    conforme Sora vaya desarrollando sus
+
+    habilidades.
+
+
+    Accede al Diario de Pepito para ver
+
+    las piezas que ya has encontrado.
+- id: 20594
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡No des cuartel a los enemigos!
+- id: 20596
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡Ataca y no dejes que caiga una vez en el aire!
+- id: 20598
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡Mucho cuidado con sus ataques!
+- id: 20687
+  en: >-
+    ¡Derrota a Axel!
+
+    ¡Procura no acercarte a las llamas!
+- id: 21374
+  en: "{:delayandfade 07 78} \nEl plan de ir a la playa es perfecto,\npero requiere de algunos platines.\nNada que Hayner no tenga ya\npensado, pues propone al grupo\nbuscar algún trabajillo de verano\npara ahorrar lo suficiente.\n \nNo resulta fácil, pero todos ponen\nde su parte animados ante la idea\nde pasar un gran día de playa...\n"
+- id: 21379
+  en: >-
+    {:unk13 2C 01 3C 00}{:unk08 01 01 06}¿Ajiah?
+
+    Sora, se te ha caído algo.
+- id: 21380
+  en: '{:unk13 4A 01 64 00}{:unk08 01 00 05}¿Eh?'
+- id: 21381
+  en: >-
+    {:unk13 72 01 BE 00}{:unk08 01 00 00}Se te habrá salido
+
+    del bolsillo.
+- id: 21382
+  en: >-
+    {:unk13 9B 00 3C 00}{:unk08 01 00 04}¿Qué es esto?
+
+    Parece una parte de un dibujo.
+- id: 21383
+  en: '{:unk13 AA 00 96 00}{:unk08 01 00 05}¿Será también un regalo?'
+- id: 21384
+  en: >-
+    {:unk13 04 01 E6 00}{:unk08 01 00 01}¡Ahí va!
+
+    A nosotras no nos mires.
+- id: 21385
+  en: >-
+    {:unk13 40 01 E6 00}{:unk08 01 00 02}Si estaba en la ropa que te
+
+    han regalado, algo tendrá que
+
+    ver con tu aventura, Sora.
+- id: 21386
+  en: >-
+    {:unk13 59 01 18 01}{:unk08 01 01 02}No lo pierdas, querido.{:clear }Si es una pieza de algo,
+
+    quizá reunir las demás
+
+    te traiga una alegría.
+- id: 21387
+  en: >-
+    {:unk13 C8 00 46 00}{:unk08 01 00 05}Siendo así, lo apuntaré
+
+    todo en mi diario.
+- id: 21473
+  en: "{:delayandfade 0A 78} \nDos individuos se encuentran a orillas\ndel Margen Oscuro. Uno de ellos\npregunta al otro en tono enigmático\nsi recuerda su verdadero nombre.\n \nPero antes de que pueda responder,\nel sueño cesa abruptamente y da\npaso a otro nuevo.\n \n \n"
+- id: 21474
+  en: "{:delayandfade 0A 78} \nEl mar trae aromas familiares y evoca\nlas imágenes de una playa en la que\nun joven llamado Sora solía jugar\njunto a sus amigos hasta el atardecer.\n \nEntonces, se abre una puerta a otro\nmundo y su hogar, las islas... todo\nes engullido por la oscuridad.\n \nTodo. Incluso su mejor amiga..."
+- id: 21475
+  en: "{:delayandfade 0A 78} \nLlega a una ciudad que no conoce\ny allí se encuentra con Donald y\nGoofy. Como él, buscan a un amigo\nperdido, por lo que deciden unirse\nen su búsqueda por los mundos.\n \nAlguien dijo una vez que aquella\nformidable arma, la llave espada que\nblande el joven, es la clave de todo.\n \n"
+- id: 21476
+  en: "{:delayandfade 0A 78} \nLos viajes por los mundos se suceden,\ntrayendo siempre aventuras y nuevos\namigos. Y con cada mundo visitado\nel corazón del joven crece y crece.\n \nSin embargo, ninguno de esos viajes\nle han llevado aún al lado de su\namiga perdida...\n \n \n"
+- id: 21477
+  en: "{:delayandfade 08 78} \nAl llegar al lugar de siempre,\nRoxas encuentra una nota\nde Hayner que dice:\n\"Nos vemos en la estación.\n¡Hoy nos vamos a la playa!\nLa pasta no es problema\".\n \nTras leerla, Roxas se marcha\ncamino de la estación.\n \n"
+- id: 21478
+  en: "{:delayandfade 0A 78} \nSólo el elegido de la llave espada\npuede abrir la puerta secreta y\ncambiar el el mundo.\n \nQuizá su destino sea luchar.\nSea como sea, tendrá que enfrentarse\na nuevos enemigos... El encapuchado\nde negro y también Ansem, el buscador\nde oscuridad."
+- id: 21479
+  en: "{:delayandfade 07 78} \nLa idea de Pence sobre los rumores\nparece buena y todos deciden\ninvestigar sobre las Siete Maravillas\npara su redacción de verano.\n \nHayner y Olette se marchan a la\nciudad en busca de más rumores,\nmientras que Roxas y Pence se\ndisponen a comprobar qué hay\nde verdad en ellos.\n"
+- id: 21480
+  en: "{:delayandfade 0A 78} \nRoxas y sus amigos comprueban\nlas Siete Maravillas una a una,\npero ni una de ellas parece tener\nrealmente nada de maravilloso.\n \n \n \n \n"
+- id: 21481
+  en: "{:delayandfade 0A 78} \nSegún Ansem, la oscuridad es\nla verdadera esencia del corazón.\n \nPero incluso en lo más profundo\nde las tinieblas, siempre hay una\nluz que nunca se apaga.\nKingdom Hearts es luz y alberga\nel poder de contrarrestar toda\noscuridad.\n \n"
+- id: 21482
+  en: "{:delayandfade 07 78} \nSegún el rey, el ordenador de la vieja\nmansión podría estar conectado con\nla otra Villa Crepúsculo. Desde allí,\nquizá podría llegarse hasta el Reino\nde la Oscuridad.\n \nIlusionado por la idea de reunirse\ncon su amigo, Sora registra cada\npalmo de la mansión. Y entonces...\n \n"
+- id: 21629
+  en: "{:delayandfade 0A 78} \nTras rescatar el corazón de Kairi, Sora\nse encamina a la batalla definitiva.\n \n\"Estemos donde estemos, nuestros\ncorazones volverán a reunirnos.\"\n \n\"No lo olvides. Siempre estoy contigo.\"\n \nAquellas promesas resuenan ahora\nmás fuerte si cabe en sus corazones."
+- id: 21630
+  en: "{:delayandfade 0A 78} \nSora deja a su amigo con la esperanza\nde que volverán a reunirse por muy\nlejos que acaben el uno del otro.\n \nEl viaje será largo y duro, pero no\nllegará a su fin hasta que todos estén\nde vuelta en su hogar.\n \nY así, comienza la aventura...\n \n"

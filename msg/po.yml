@@ -1,0 +1,1377 @@
+﻿- id: 4661
+  en: ¿Estará Pooh en casa?
+- id: 4662
+  en: ¡Ah!
+- id: 4663
+  en: >-
+    ¡Hola, oso Pooh! ¿Cómo estás?
+
+    ¿Encuentras mucha miel últimamente?
+- id: 4664
+  en: >-
+    Oh, sí.{:delay 4E 00}{:clear }De hecho, estaba a punto de hacer
+
+    mi gimnasia para la tripita.{:delay 1A 01}{:clear }¿Quieres acompañarme, Sora?
+- id: 4665
+  en: ¡Claro! ¡Me apunto!
+- id: 4666
+  en: ¿Eh?
+- id: 4667
+  en: ¡Pooh!
+- id: 4668
+  en: >-
+    ¡Cómo me alegra que estés bien,
+
+    Pooh!
+- id: 4669
+  en: >-
+    Y yo me alegro de tu visita.{:delay 90 00}{:clear }Pero ahora iba a hacer mi gimnasia
+
+    para la tripita.{:delay EA 00}{:clear }Si quieres nos vemos luego,
+
+    alguien que no conozco.
+- id: 4670
+  en: Ah... claro.
+- id: 4671
+  en: Bueno, ¿qué tal anda Piglet?
+- id: 4672
+  en: >-
+    No conozco a nadie
+
+    con ese nombre.{:delay 9C 00}{:clear }A ver, ¿por dónde iba yo?
+
+    Ay, sí. Mi gimnasia.
+- id: 4673
+  en: ¿Pooh?
+- id: 4674
+  en: Oye, ¿Pooh?
+- id: 4675
+  en: >-
+    Aquí está pasando algo muy raro.{:delay 8A 00}{:clear }{:delay 56 00}Será mejor que vuelva
+
+    para preguntárselo a Merlín.
+- id: 4676
+  en: Dime... ¿qué ocurre, hijo?
+- id: 4677
+  en: >-
+    Oh... solo estaba pensando...
+
+    y meditando.
+- id: 4678
+  en: Deberías salir pitando de aquí.
+- id: 4679
+  en: ¿Por qué?
+- id: 4680
+  en: >-
+    ¿Por qué? Porque es
+
+    el Día del Viento, claro.
+- id: 4681
+  en: >-
+    ¿En serio? Oh... Entonces...
+
+    ¡Feliz Día del Viento!
+- id: 4682
+  en: >-
+    Vaya, creo que le voy a desear a todo
+
+    el mundo un feliz Día del Viento.
+- id: 4683
+  en: >-
+    ¡Oh, qué lata!
+
+    ¿Y quién será "todo el mundo"?
+- id: 4684
+  en: ¡Ay!
+- id: 4685
+  en: ¿Estará Pooh por aquí?
+- id: 4686
+  en: >-
+    ¡Ah! ¡Socorro! ¡Socorro!
+
+    ¡Que alguien me-me-me salve!
+- id: 4687
+  en: ¡Piglet!
+- id: 4688
+  en: ¡Sora! ¡Ayúdame! ¡Por favor!
+- id: 4689
+  en: ¡Aguanta, pequeñajo!
+- id: 4690
+  en: '{:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 00 05}¡Ya no hay peligro!'
+- id: 4691
+  en: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}¡Menos mal!
+
+    Gracias, Sora.
+- id: 4692
+  en: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Oh, ahí viene
+
+    el oso Pooh.
+- id: 4693
+  en: '{:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}¡Pooh! ¡Estás bien!'
+- id: 4694
+  en: >-
+    {:unk13 4A 01 3C 00}{:unk06 00}{:unk08 01 01 05}Vaya, hola.
+
+    Encantado de conocerte.{:clear }{:delay 1E 00}Feliz Día del Viento.
+- id: 4695
+  en: >-
+    {:unk13 B2 00 03 01}{:unk06 02}{:unk08 01 01 06}¿Encantado de co-conocerme?
+
+    Pero, Pooh. Si soy yo, Piglet.{:clear }{:delay 1E 00}¿No te acuerdas de mí?
+- id: 4696
+  en: '{:unk13 4A 01 3C 00}{:unk06 00}{:unk08 01 00 05}¿Y de mí? ¡Somos amigos!'
+- id: 4697
+  en: >-
+    {:unk13 4A 01 46 00}{:unk06 00}{:unk08 01 01 05}¿De veras? Mmm...
+
+    Lo siento, no me acuerdo.
+- id: 4698
+  en: >-
+    {:unk13 96 00 82 00}{:unk06 00}{:unk08 01 00 06}Oh, Pooh...
+
+    ¡Esto es mu-muy triste!
+- id: 4699
+  en: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}¡Adiós, Sora!
+
+    ¡Adiós, Pooh!
+- id: 4700
+  en: '{:unk13 2C 01 C8 00}{:unk06 00}{:unk08 01 00 04}Piglet...'
+- id: 4701
+  en: >-
+    {:unk13 5E 01 E6 00}{:unk06 00}{:unk08 01 00 05}Oh, cielos. Esto es
+
+    bastante raro, ¿no?
+- id: 4702
+  en: >-
+    {:unk13 57 01 DE 00}{:unk06 00}{:unk08 01 00 05}¡Parece que estamos
+
+    en serios apuros!
+- id: 4703
+  en: ¡Salta, Piglet! ¡Yo te recojo!
+- id: 4704
+  en: ¡Oh, c-c-cielos!
+- id: 4705
+  en: >-
+    ¡Tú puedes, Piglet!
+
+    ¡Solo tienes que ser valiente!
+- id: 4706
+  en: Sora...
+- id: 4707
+  en: Está bien, S-Sora. Lo intentaré...
+- id: 4708
+  en: >-
+    Eso da bastante miedo.
+
+    Espero que estés bien, Piglet.
+- id: 4709
+  en: Oh, Pooh,{:delay 60 00}{:clear }¿te has acordado de mi nombre?{:delay 78 00}{:clear }¿De verdad que te has acordado?
+- id: 4710
+  en: >-
+    Pues claro, Piglet.{:delay 7D 00}{:clear }Pero creo que hoy te voy a llamar
+
+    "mi amigo Piglet el valiente".
+- id: 4711
+  en: >-
+    ¿Yo? ¿Valiente?{:delay 7A 00}{:clear }Es fácil serlo cuando tienes un amigo
+
+    tan maravilloso como tú, Pooh.
+- id: 4712
+  en: ¡Me alegro por vosotros!
+- id: 4713
+  en: >-
+    Ah, y gracias por rescatar
+
+    a mi amigo Piglet...{:delay A8 00}{:clear }alguien que no conozco.
+- id: 4714
+  en: Ah, eh... claro. De nada.
+- id: 4715
+  en: ¡Oh, ci-ci-ci-cielos!
+- id: 4716
+  en: ¡Vamos!
+- id: 4717
+  en: ¡Igor! ¡Pooh! ¿Estáis bien?
+- id: 4718
+  en: >-
+    ¡Vaya! ¡Qué pena, Igor!
+
+    Después de tanto trabajo...
+- id: 4719
+  en: >-
+    No importa. Seguro que se habría
+
+    caído de todas formas.
+- id: 4720
+  en: >-
+    Bueno, yo te ayudaré a arreglar
+
+    tu casa, Igor.
+- id: 4721
+  en: >-
+    Ah, hola, Piglet.{:delay A9 00}{:clear }Gracias por ofrecerte, pero no quiero
+
+    fastidiarte tu día de diversión.
+- id: 4722
+  en: Hola, Piglet.
+- id: 4723
+  en: Y hola, alguien que no conozco.
+- id: 4724
+  en: >-
+    Pooh, este es Igor.
+
+    Conoces a Igor, ¿verdad?
+- id: 4725
+  en: Mmm... ¿Le conozco?
+- id: 4726
+  en: Me pregunto qué le habrá pasado.
+- id: 4727
+  en: >-
+    ¡Ah, tengo una idea!{:delay 7E 00}{:clear }A lo mejor a Pooh le duele tanto
+
+    la tripita que se olvida de las cosas.{:delay F6 00}{:clear }Si le traemos miel,
+
+    seguro que recordará.
+- id: 4728
+  en: >-
+    Pues... Eh...
+
+    Nada se pierde por probar.
+- id: 4729
+  en: Puede que funcione. O quizá no.
+- id: 4730
+  en: >-
+    Primero hay que encontrar
+
+    un poco de miel.
+- id: 4731
+  en: >-
+    Si lo que buscáis es miel,
+
+    conozco el sitio perfecto.{:delay 18 01}{:clear }Seguidme.
+- id: 4732
+  en: ¡Simplemente estupendo!
+- id: 4733
+  en: Este es el sitio del que os hablaba.
+- id: 4734
+  en: ¡Vaya! ¡Mirad!
+- id: 4735
+  en: ¡Qué bueno para mi tripita!
+- id: 4736
+  en: Pero ¿de quién será toda esta miel?
+- id: 4737
+  en: '{:unk13 FA 00 4A 01}{:unk06 02}{:unk08 01 00 00}¡Oh, no!'
+- id: 4738
+  en: '{:unk13 FA 00 4A 01}{:unk06 02}{:unk08 01 00 00}¡Mi miel!'
+- id: 4739
+  en: >-
+    {:unk13 04 01 4A 01}{:unk06 01}{:unk08 01 00 00}Pooh, ¿¡te has comido
+
+    toda mi miel!?
+- id: 4740
+  en: >-
+    {:unk13 73 01 70 00}{:unk06 00}{:unk08 01 00 06}Eh, hola.
+
+    Encantado de conocerte.
+- id: 4741
+  en: '{:unk13 04 01 4A 01}{:unk06 00}{:unk08 01 00 00}¿Qué has dicho?'
+- id: 4742
+  en: '{:unk13 73 01 70 00}{:unk06 00}{:unk08 01 00 06}¿Eso es para mí también?'
+- id: 4743
+  en: >-
+    {:unk13 9A 00 58 00}{:unk06 00}{:unk08 01 01 05}Vaya, creía haberle
+
+    encontrado un lugar
+
+    seguro...
+- id: 4744
+  en: >-
+    {:unk13 4F 01 41 00}{:unk06 00}{:unk08 01 00 06}Lo siento. Es culpa nuestra.
+
+    Nosotros trajimos a Pooh aquí.
+- id: 4745
+  en: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Eh, hola, Sora...
+
+    Qué bueno volver a verte.
+- id: 4746
+  en: >-
+    {:unk13 7C 01 46 00}{:unk06 00}{:unk08 01 00 05}Igualmente...
+
+    En serio, discúlpanos.
+- id: 4747
+  en: >-
+    {:unk13 9C 00 43 00}{:unk06 00}{:unk08 01 01 05}Está bien. Ya sé que
+
+    cuando a Pooh le entra
+
+    hambre nada lo detiene.
+- id: 4748
+  en: >-
+    {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 01 06}Disculpa, alguien que no
+
+    conozco. ¿Queda un poco más?
+- id: 4749
+  en: >-
+    {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 01 06}¿Te encuentras bien,
+
+    Pooh?
+- id: 4750
+  en: >-
+    {:unk13 4A 01 46 00}{:unk06 00}{:unk08 01 01 06}¿De verdad te has olvidado
+
+    de mí por completo?
+
+    ¿Qué rayos está pasando?
+- id: 4751
+  en: >-
+    {:unk13 FF 00 64 00}{:unk06 00}{:unk08 01 01 06}¿Hay un poco más de miel?
+
+    Me suena la tripita.
+- id: 4752
+  en: >-
+    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 01 06}¡Es eso! ¡Tiene tanta hambre
+
+    que no puede recordar nada!
+- id: 4753
+  en: >-
+    {:unk13 52 01 38 01}{:unk06 00}{:unk08 01 00 04}¡Vaya, nosotros también
+
+    pensamos eso!
+- id: 4754
+  en: >-
+    {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 01 06}¡Pues vamos a darle
+
+    toda la miel que quiera!
+- id: 4755
+  en: >-
+    {:unk13 EB 00 B4 00}{:unk06 00}{:unk08 01 00 06}Yo no esperaría
+
+    mucho de eso.
+- id: 4756
+  en: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 00 05}Creía que Pooh se había
+
+    comido toda tu miel, Conejo...
+- id: 4757
+  en: >-
+    {:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 01 06}No, tengo más.{:clear }Siempre guardo raciones de
+
+    emergencia. Pero las escondo.
+- id: 4758
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Caray, qué situación...'
+- id: 4759
+  en: >-
+    Venga, Pooh.
+
+    Cómete toda la que quieras.
+- id: 4760
+  en: ¡Vaya, gracias!
+- id: 4761
+  en: >-
+    Perdóname, buen desconocido,{:delay 6F 00}{:clear }pero ¿no sabrás dónde puedo encontrar
+
+    un par de tarritos más de miel?
+- id: 4762
+  en: >-
+    Creo que mi tripita me dice que
+
+    ahí dentro hay un poco más de miel.
+- id: 4763
+  en: ¡Estoy atrapado!
+- id: 4764
+  en: >-
+    Ahh... Sigue sin acordarse.{:delay 85 00}{:clear }¿Se puede saber qué bicho
+
+    le ha picado al oso Pooh?
+- id: 4765
+  en: >-
+    Sea lo que sea,
+
+    más vale que le ayudemos.
+- id: 4766
+  en: ¡Sí, y rápido!
+- id: 4767
+  en: ¡Ah, qué lata más latosa!
+- id: 4768
+  en: ¡Uno,{:delay 46 00}{:clear }dos,{:delay 46 00}{:clear }tres!
+- id: 4769
+  en: Todo arreglado, Pooh.
+- id: 4770
+  en: >-
+    Yo que tú no estaría tan seguro
+
+    de eso.{:delay B6 00}{:clear }Pero míralo, no se acuerda ni
+
+    de quién soy yo.{:delay 26 01}{:clear }A lo mejor es por este viento
+
+    tan fuerte.{:delay A2 00}{:clear }O puede que necesite más miel.{:delay 99 00}{:clear }O que esté sonámbulo y vaya soñando...
+- id: 4771
+  en: >-
+    Pues si estoy soñando...
+
+    cosa que supongo que podría ser,{:delay 18 01}{:clear }espero llegar pronto a la parte{:delay 73 00}{:clear }en la que me vuelves a invitar
+
+    a comer, Conejo.
+- id: 4772
+  en: >-
+    ¡Es verdad!
+
+    ¡Tú siempre vienes a comer!{:delay C4 00}{:clear }¡Espera! ¡Pooh!{:delay 58 00}{:clear }¡Me has llamado Conejo!
+- id: 4773
+  en: ¡Pues claro, Conejo!
+- id: 4774
+  en: ¿Qué me dices de Igor?{:delay 58 00}{:clear }¿También te acuerdas de Igor, Pooh?
+- id: 4775
+  en: Ah, ¿qué tal, Igor?{:delay 8E 00}{:clear }Me alegro mucho de verte.
+- id: 4776
+  en: Gracias por reparar en mí, Pooh.
+- id: 4777
+  en: >-
+    Sí, ¿qué tal
+
+    alguien que no conozco?
+- id: 4778
+  en: >-
+    Bueno, al menos ya te acuerdas
+
+    de Conejo y de Igor.
+- id: 4779
+  en: ¡Hola!
+- id: 4780
+  en: Vaya, hola, Sora.
+- id: 4781
+  en: >-
+    Sí, ¿qué tal,
+
+    alguien que no conozco?
+- id: 4782
+  en: >-
+    Igor me ha dicho que Pooh
+
+    no se encontraba muy bien{:delay B4 00}{:clear }y he pensado que el pobre podría
+
+    necesitar esto.
+- id: 4783
+  en: >-
+    ¡Espero que con esto
+
+    Pooh se ponga mejor!
+- id: 4784
+  en: >-
+    ¡Un regalo! ¿Para mí?{:delay 99 00}{:clear }¡Los regalos es lo que más
+
+    le gusta a los tiggers!{:delay 7B 00}{:clear }¡Y ni siquiera es mi cumpleaños!
+
+    ¡Ju, ju, ju!
+- id: 4785
+  en: ¡Pero Tigger! ¡No es para ti!
+- id: 4786
+  en: ¡Espera, Tigger!
+- id: 4787
+  en: ¡Oh, cielos!
+- id: 4788
+  en: ¡Venga! ¡Vamos a por él!
+- id: 4789
+  en: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 05}¿¡Quieres decir que Pooh
+
+    se ha olvidado incluso de mí!?
+- id: 4790
+  en: '{:unk13 7C 01 04 01}{:unk06 00}{:unk08 01 00 05}Sí, Tigger.'
+- id: 4791
+  en: >-
+    {:unk13 C5 00 46 00}{:unk06 00}{:unk08 01 01 07}La botella que tú confundiste con
+
+    un regalo era una medicina
+
+    para curar a Pooh.
+- id: 4792
+  en: >-
+    {:unk13 BE 00 55 00}{:unk06 00}{:unk08 01 01 05}Eh, ¿¡quién necesita medicinas!?
+
+    ¡Dar unos "tiggeríficos" botes
+
+    seguro que le devuelve la memoria!
+- id: 4793
+  en: '{:unk13 FA 00 69 00}{:unk06 00}{:unk08 01 01 05}¿Y bien, Pooh?'
+- id: 4794
+  en: >-
+    {:unk13 AA 00 64 00}{:unk06 00}{:unk08 01 00 05}Eso suena divertido,
+
+    alguien que no conozco.
+- id: 4795
+  en: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Nada, ¿no? Mmm...{:clear }¡Ah! ¡Ya! ¡Tenemos que dar botes
+
+    todos juntos! ¡Ahí está el truco!
+- id: 4796
+  en: >-
+    {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}¿Alguien necesita una...{:clear }lección sobre cómo dar botes?
+
+    Pues esa es mi especialidad.
+- id: 4797
+  en: >-
+    ¡Ju, ju! ¿A que ya te acuerdas de mí?
+
+    ¿Verdad que sí, osito?
+- id: 4798
+  en: >-
+    Bueno, recuerdo que dar botes
+
+    siempre me da hambre.
+- id: 4799
+  en: >-
+    ¿Con tantos botes y sigue
+
+    sin acordarse de mí?
+- id: 4800
+  en: Por favor, ten cuidado con eso.
+- id: 4801
+  en: >-
+    Ah... Lo siento, Piglet...{:delay 5A 00}{:clear }pero como Pooh no se acordaba de mí,
+
+    me he quedado todo "confusionado".{:delay BD 00}{:clear }No tengo ganas de dar botes.
+- id: 4802
+  en: >-
+    Pero, Tigger,{:delay 30 00}{:clear }siempre había pensado que dar botes es
+
+    lo que mejor saben hacer los tiggers.
+- id: 4803
+  en: >-
+    ¡Pooh!{:delay 64 00}{:clear }¡Te acuerdas de mí!{:delay 76 00}{:clear }¡Al final te has acordado
+
+    de tu viejo amigo Tigger!
+- id: 4804
+  en: Me pregunto quién será.
+- id: 4805
+  en: >-
+    Ah, bueno...
+
+    Puede que me acuerde mañana.
+- id: 4806
+  en: '{:unk13 E6 00 50 00}{:unk06 00}{:unk08 01 01 06}Hola a todos...'
+- id: 4807
+  en: '{:unk13 E6 00 50 00}{:unk06 00}{:unk08 01 01 06}Oh, oh... ¿Dónde está Pooh?'
+- id: 4808
+  en: '{:unk13 04 01 5D 01}{:unk06 00}{:unk08 01 01 01}Ha entrado ahí.'
+- id: 4809
+  en: >-
+    {:unk13 E9 00 7F 00}{:unk06 00}{:unk08 01 00 04}¿Creéis que habrá un
+
+    monstruo escondido ahí dentro?
+- id: 4810
+  en: >-
+    {:unk13 DC 00 6B 00}{:unk06 00}{:unk08 01 00 05}Un monstruo... Caramba.{:clear }Eso me recuerda cuando mi
+
+    querido primo Alfonso...
+- id: 4811
+  en: >-
+    {:unk13 32 01 86 00}{:unk06 00}{:unk08 01 00 06}Eh, ¿y qué hacéis
+
+    todos aquí parados?{:clear }Si de verdad os preocupa el
+
+    oso Pooh, ¡vayamos a buscarle!
+- id: 4812
+  en: >-
+    {:unk13 4A 01 6E 00}{:unk06 00}{:unk08 01 01 05}¡Eso es justo lo que
+
+    estaba pensando!
+- id: 4813
+  en: '{:unk13 36 01 36 01}{:unk06 00}{:unk08 01 01 07}¡Sí, andando!'
+- id: 4814
+  en: >-
+    {:unk13 04 01 82 00}{:unk06 00}{:unk08 01 00 04}Pero si realmente hay un monstruo,
+
+    será mejor tomar precauciones.
+- id: 4815
+  en: >-
+    {:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 00 05}Parece que tenemos
+
+    algo de tiempo.{:clear }¿Por qué no sigo
+
+    desde donde lo dejé?{:clear }Mi primo, o sea, el hijo
+
+    de la hermana menor de mi...
+- id: 4816
+  en: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Sora, ¿tú qué crees que
+
+    debemos hacer?
+- id: 4817
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Bueno, no hay por qué alterarse...{:clear }No tenéis que ir, si no queréis.{:clear }Pero... antes de partir...'
+- id: 4818
+  en: ¡Pooh! ¡Estás aquí!
+- id: 4819
+  en: ¡Eh! ¡Te hemos estado buscando!
+- id: 4820
+  en: >-
+    Estaba buscando a un amigo
+
+    muy querido{:delay 91 00}{:clear }al que recuerdo que le hice una
+
+    promesa muy importante.
+- id: 4821
+  en: ¿Y lo has encontrado?
+- id: 4822
+  en: >-
+    No. He buscado y buscado, pero
+
+    no parece estar por ninguna parte.
+- id: 4823
+  en: ¡Ah, Pooh! ¡Conque estás aquí!
+- id: 4824
+  en: >-
+    Pero Tigger... ¿tenías que darme
+
+    ese bote tan botón?
+- id: 4825
+  en: >-
+    ¡Vaya! Creía que te había pillado
+
+    un monstruo.
+- id: 4826
+  en: >-
+    ¡Ay, cielos!{:delay 67 00}{:clear }No había pensado en eso.{:delay A0 00}{:clear }¡Espero que un monstruo no se
+
+    haya zampado a mi amigo!
+- id: 4827
+  en: Intenta acordarte, Pooh.{:delay 79 00}{:clear }¿No es a Sora a quien estás buscando?
+- id: 4828
+  en: ¡Oohh! ¡El monstruo!
+- id: 4829
+  en: >-
+    No, son los ruidos de tu tripita.{:delay AA 00}{:clear }Debes de estar hambriento.{:delay 7E 00}{:clear }Vámonos a casa, a ver si te
+
+    encontramos un poco de miel.
+- id: 4830
+  en: Eso me gustaría, Sora.
+- id: 4831
+  en: ¡Pooh! ¡Por fin te has acordado!
+- id: 4832
+  en: ¿Acordarme de qué, Sora?
+- id: 4833
+  en: Pooh...
+- id: 4834
+  en: Me encanta cuando estás alegre, Sora.
+- id: 4835
+  en: Y a mí, Pooh.
+- id: 4836
+  en: Oohh... la tripita me está sonando.
+- id: 4837
+  en: ¡Muy bien! ¡Vámonos a casa!
+- id: 4838
+  en: '{:unk13 A1 00 5A 00}{:unk06 02}{:unk08 03 00 05}¡Oh, cielos!'
+- id: 4839
+  en: '{:unk13 7B 00 7B 00}{:unk06 02}{:unk08 03 00 05}¿Estás bien?'
+- id: 4840
+  en: '{:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}¿Sora? ¿Eres tú?{:clear }¡Ayúdame!'
+- id: 4841
+  en: >-
+    {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Sí. Ya he vivido esta
+
+    situación antes. Sé lo
+
+    que hay que hacer.{:clear }Escuchad bien...
+- id: 4842
+  en: ¿Qué estabas haciendo aquí?
+- id: 4843
+  en: >-
+    Estaba pensando...{:delay 5A 00}{:clear }A lo mejor hay una forma de hacer
+
+    que no te vayas.
+- id: 4844
+  en: ¿Quieres decir para que me quede?
+- id: 4845
+  en: >-
+    Sí.{:delay 57 00}{:clear }¿Habrá alguna forma posible de hacer
+
+    que no te vuelvas a marchar?
+- id: 4846
+  en: Pooh...
+- id: 4847
+  en: >-
+    No te preocupes...{:delay 28 00}{:clear }{:delay 48 00}{:clear }Prometo que volveré a visitarte
+
+    de vez en cuando.
+- id: 4848
+  en: >-
+    ¿Y no podría ser
+
+    "de ahora en ahora"?{:delay D9 00}{:clear }Eso me parece un poco mejor.{:delay B8 00}{:clear }Sora, si voy a buscarte,
+
+    ¿te encontraré?
+- id: 4849
+  en: >-
+    Yo siempre estaré contigo... aquí.{:delay C8 00}{:clear }No hace falta que vayas
+
+    a ninguna parte.{:delay 78 00}{:clear }Tú quédate aquí y podrás verme
+
+    siempre que quieras.
+- id: 4850
+  en: >-
+    Entonces,
+
+    ¿solo tengo que quedarme aquí?
+- id: 4851
+  en: Sí, eso es todo.
+- id: 4852
+  en: ¿Me lo prometes?
+- id: 4853
+  en: ¡Lo prometo!
+- id: 4854
+  en: Yo también lo prometo.
+- id: 4855
+  en: Y Rito y yo también.
+- id: 4856
+  en: ¡Desde luego!
+- id: 4857
+  en: >-
+    Ven a visitarnos cuando quieras,
+
+    Sora.
+- id: 4858
+  en: Gracias.
+- id: 4859
+  en: >-
+    Además, tengo que contarte las
+
+    aventuras en el mar de mi tío Albert.
+- id: 4860
+  en: Pues te quedarás un buen rato.
+- id: 4862
+  en: Adiós, Sora.
+- id: 4863
+  en: Gracias, Topo.
+- id: 4864
+  en: >-
+    ¡Si alguna vez te sientes solo,{:delay 56 00}{:clear }empieza a dar botes y piensa
+
+    en tu amigo Tigger!
+- id: 4865
+  en: ¡Lo haré, Tigger!
+- id: 4866
+  en: ¿Te vas?
+- id: 4867
+  en: Sí. Me tengo que ir.
+- id: 4868
+  en: >-
+    Bueno, no me pondré triste,{:delay 95 00}{:clear }porque tú siempre, siempre,
+
+    estarás aquí.{:delay AB 00}{:clear }¿Verdad, Sora?
+- id: 4869
+  en: Y todos vosotros...{:delay 3F 00}{:clear }también estáis aquí.
+- id: 4870
+  en: ¡Adiós!
+- id: 4871
+  en: ''
+- id: 4872
+  en: ''
+- id: 4873
+  en: ''
+- id: 4874
+  en: ''
+- id: 4875
+  en: ''
+- id: 4876
+  en: ''
+- id: 4877
+  en: ''
+- id: 4878
+  en: ''
+- id: 4879
+  en: ''
+- id: 4880
+  en: ''
+- id: 4881
+  en: ''
+- id: 4882
+  en: ''
+- id: 4883
+  en: ''
+- id: 4884
+  en: ''
+- id: 4885
+  en: ''
+- id: 4886
+  en: ''
+- id: 4887
+  en: ''
+- id: 4888
+  en: ''
+- id: 4889
+  en: ''
+- id: 4890
+  en: ''
+- id: 4891
+  en: ''
+- id: 4892
+  en: ''
+- id: 4893
+  en: ''
+- id: 4894
+  en: ''
+- id: 4895
+  en: ''
+- id: 4896
+  en: ''
+- id: 4897
+  en: ''
+- id: 4898
+  en: ''
+- id: 4899
+  en: ''
+- id: 4900
+  en: ''
+- id: 4901
+  en: ''
+- id: 4902
+  en: ''
+- id: 4903
+  en: ''
+- id: 4904
+  en: ''
+- id: 4905
+  en: ''
+- id: 7896
+  en: >-
+    ¡Esta es la enésima vez que veo
+
+    a Pooh así!{:clear }Sora, no te detengas.
+
+    Ve y quítale ese tarro.
+- id: 7897
+  en: >-
+    ¿Sora? ¿Eres tú, Sora?
+
+    ¡Socorro!
+- id: 7898
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Estará comiendo miel?
+
+    {:chardelay 33 00}Déjale en paz.
+
+    {:chardelay 09 00}¡Ayudémosle!
+- id: 7899
+  en: >-
+    Hola, alguien que no conozco.
+
+    Hoy es un día hermoso, ¿no te parece?
+- id: 7900
+  en: >-
+    Hola, Sora. Hace un día precioso.
+
+    ¡Perfecto para comer miel!{:clear }Y para hacer ejercicio.
+
+    ¡Hoy también podríamos jugar!
+- id: 7901
+  en: >-
+    En realidad, todavía queda miel,
+
+    pero yo no llego.
+- id: 7902
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Alcanzarle la miel?
+
+    {:chardelay 33 00}Puede que yo tampoco llegue.
+
+    {:chardelay 09 00}¡Yo me encargo!
+- id: 7903
+  en: >-
+    No es fácil recoger miel
+
+    a espaldas de Pooh.{:clear }Pero al verlo tan feliz,
+
+    me digo: ‛¡qué más da!’.
+- id: 7904
+  en: >-
+    Si puedo comer miel,
+
+    te seguiré adonde sea.{:clear }Pero prométeme que me ayudarás si me
+
+    meto en líos, alguien que no conozco.
+- id: 7905
+  en: >-
+    Pooh teme a las abejas. Trata de
+
+    evitar que se meta en una colmena.{:clear }Mantente a su lado y no dejes que
+
+    se aleje demasiado.
+- id: 7906
+  en: >-
+    Vamos, sígueme.{:clear }Pasa delante, si quieres.
+
+    Yo voy muy despacio.
+- id: 7907
+  en: >-
+    Parece que Topo se adelantó
+
+    para hacer algunos preparativos.{:clear }Algún día, él nos
+
+    protegerá a todos.
+- id: 7908
+  en: >-
+    ¡Hoy voy a construir una casa! Aunque
+
+    estoy seguro de que algo va a salir mal.
+- id: 7909
+  en: >-
+    No hagas ninguna tontería
+
+    mientras recoges la miel.{:clear }Puedes ir por miel cuantas veces
+
+    quieras, pero elige un camino seguro.
+- id: 7910
+  en: >-
+    Mira a esa persona flotando por ahí.
+
+    ¡Debe de ser muy divertido!
+- id: 7911
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Se estará divirtiendo?
+
+    {:chardelay 33 00}Sí, ¡qué envidia!
+
+    {:chardelay 09 00}¡Está en apuros! ¡Debemos ayudarle!
+- id: 7912
+  en: >-
+    Me alegra que Pooh se haya
+
+    acordado de mí.{:clear }Es horrible que un amigo al que quieres
+
+    tanto te olvide completamente.
+- id: 7913
+  en: >-
+    Esquiva y rompe las cosas que
+
+    vuelan hacia ti.{:clear }Algunas cosas no se rompen fácilmente y
+
+    deberás probar algo distinto.
+- id: 7914
+  en: >-
+    ¡Jo, jo! No todo se
+
+    soluciona fácilmente.{:clear }Si estás atascado, tómate tu
+
+    tiempo para buscar una solución.
+- id: 7915
+  en: >-
+    Si alguno de los otros está
+
+    en apuros, ayúdale, por favor.{:clear }Yo ayudaré en lo que pueda.
+- id: 7916
+  en: >-
+    ¿Qué hacéis todos aquí?
+
+    ¿Va a suceder algo especial?{:clear }¿Un concurso de miel, acaso?
+
+    ¿O una carrera?
+- id: 7917
+  en: >-
+    Esté donde esté, Tigger
+
+    siempre anda dando botes.{:clear }Solíamos hacerlo todos juntos, pero
+
+    se ve que Pooh también lo ha olvidado.
+- id: 7918
+  en: >-
+    Si Tigger prestara
+
+    más atención...{:clear }Esto es terrible. Debemos
+
+    recuperar esa medicina.
+- id: 7919
+  en: >-
+    Pisa sobre los globos. Al estallar,
+
+    te elevarán por los aires.{:clear }También puedes hablar con Rito.
+
+    Él conoce otras formas de saltar.
+- id: 7920
+  en: >-
+    ¡Debes detener a Tigger enseguida
+
+    o se la tomará toda!
+- id: 7921
+  en: >-
+    Tigger me enseñó el
+
+    secreto de dar botes.{:clear }Si saltas de nuevo en cuanto
+
+    aterrices, ¡podrás dar un salto diferente!
+- id: 7923
+  en: >-
+    ¿Todavía no se acuerda? Es raro...{:clear }¡Ya sé! ¡Demos botes todos juntos!
+
+    ¡Eso le refrescará la memoria!
+- id: 7924
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Dar botes?
+
+    {:chardelay 33 00}No puedo.
+
+    {:chardelay 09 00}¡Probemos!
+- id: 7925
+  en: >-
+    ¡Ju, ju, ju, ju!
+
+    Soy el mejor del mundo dando botes.♩{:clear }¡Tú también puedes hacerlo! ¡Verás que
+
+    es la solución a todos los problemas! ♩
+- id: 7927
+  en: >-
+    ¿Quieres decir que Pooh
+
+    vino solo a este sitio?{:clear }Bah, no importa.
+
+    ¡Deprisa! ¡Vamos a buscarle!
+- id: 7928
+  en: >-
+    ¡Este sitio es oscuro y
+
+    parece un laberinto!{:clear }Si me pierdo, me encontrarás,
+
+    ¿verdad? ¡Cuento contigo!
+- id: 7929
+  en: >-
+    Por más que le busco,
+
+    no le encuentro.{:clear }El suelo está resbaladizo. Espero
+
+    no caerme y perder mi cola.
+- id: 7930
+  en: >-
+    Puedo oír un zumbido de alas.
+
+    Espero que no haya abejas por aquí.{:clear }Sora, si nos atacan las abejas,
+
+    ocúpate de ellas, por favor.
+- id: 7931
+  en: >-
+    Mmm...
+
+    Este sitio parece peligroso.{:clear }Vale, pandilla, estad alerta
+
+    mientras vamos por aquí.
+- id: 7932
+  en: >-
+    No imaginaba que aquí hubiera
+
+    la miel que le gusta a Pooh.{:clear }Las paredes son duras, pero se desmoronan.
+
+    Cuidado con las rocas que caen.
+- id: 7933
+  en: >-
+    Eh, Sora, quizá deberíamos
+
+    ir a buscar a Pooh.
+- id: 7934
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Ir a buscar a Pooh?
+
+    {:chardelay 33 00}Pensémoslo dos veces.
+
+    {:chardelay 09 00}Claro que sí. Vamos.
+- id: 13954
+  en: >-
+    ¿Adónde me llevas, amable
+
+    alguien que no conozco?{:clear }Dondequiera que sea, espero
+
+    que haya un montón de miel.
+- id: 13955
+  en: >-
+    A Igor siempre se le
+
+    cae la cola.{:clear }Muchas veces tenemos que
+
+    ayudarle a buscarla.
+- id: 13956
+  en: >-
+    Si saltas bien, puedes pisar
+
+    sobre los globos.{:clear }Cuantos más pises, más alto llegarás.
+
+    ¿Quién sabe qué encontrarás allá arriba?
+- id: 13972
+  en: >-
+    ¿Quieres que dé botes con ese alguien
+
+    que no conozco? ¿Encontraré algo de miel?{:clear }Me parece oler algo rico
+
+    que viene del cielo.
+- id: 16084
+  en: >-
+    Conozco esa voz. Eres tú, Sora, ¿verdad?
+
+    ¡Estoy atascado otra vez! ¡Ayúdame!
+- id: 16085
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Parece ser Pooh.
+
+    {:chardelay 33 00}Veamos un poco más.
+
+    {:chardelay 09 00}¡Vamos a ayudarlo!
+- id: 16086
+  en: >-
+    Hola, Sora.
+
+    ¿Quieres conseguir más miel?
+- id: 16087
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Ir a por un poco de miel?
+
+    {:chardelay 33 00}Ahora no la necesito.
+
+    {:chardelay 09 00}¡Sí, vamos!
+- id: 16088
+  en: >-
+    Hoy sí que hay mucho viento. Si no
+
+    tienes cuidado, ¡puedes salir volando!
+- id: 16089
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Intentar ir volando?
+
+    {:chardelay 33 00}Prefiero ir andando.
+
+    {:chardelay 09 00}¡Volemos!
+- id: 16090
+  en: >-
+    ¡Ju, ju, ju, ju! ¡Dar botes te va
+
+    a animar! ¡Vamos, Sora, inténtalo!
+- id: 16091
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Dar botes con Tigger?
+
+    {:chardelay 33 00}Lo siento, estoy ocupado.
+
+    {:chardelay 09 00}¡Sí, venga!
+- id: 16092
+  en: >-
+    Quiero ir con todos a echar un vistazo.
+
+    ¿Vas a ayudar tú también, Sora?
+- id: 16093
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Ir a buscarle?
+
+    {:chardelay 33 00}Tengo cosas que hacer.
+
+    {:chardelay 09 00}¡Claro que sí!
+- id: 18087
+  en: >-
+    Lo pasé muy bien flotando por ahí,
+
+    alguien que no conozco.{:clear }Recuerdo haber flotado antes
+
+    en un globo...
+- id: 18088
+  en: >-
+    El otro día estaba encantado de
+
+    tener toda esa miel.{:clear }Podríamos ir a buscar en otra
+
+    ocasión, alguien que no conozco.
+- id: 18089
+  en: >-
+    Una vez, todos nos vestimos como
+
+    Tigger y nos pusimos a dar botes.{:clear }Si quieres, un día podemos repetirlo,
+
+    alguien que no conozco.
+- id: 18090
+  en: >-
+    Es divertido dar botes
+
+    todos juntos.{:clear }Pero, no sé por qué, todos
+
+    caen siempre encima de mi casa.
+- id: 18091
+  en: >-
+    Estoy tan contento de que Pooh
+
+    se haya acordado de ti, Sora.{:clear }Pero me pregunto por qué
+
+    no te recordaba al principio.
+- id: 18092
+  en: >-
+    Si la próxima vez que nos veamos
+
+    mi casa está terminada, te invitaré.{:clear }Aunque dudo que la termine...
+- id: 18093
+  en: >-
+    Hay otros amigos en el
+
+    Bosque de los Cien Acres.{:clear }Pero no los he visto últimamente.
+
+    Espero que todos estén bien.
+- id: 18094
+  en: >-
+    Puede que a Tigger le guste dar botes,
+
+    pero le dan miedo las alturas.{:clear }Tal vez suene contradictorio, pero
+
+    ¿acaso no es contradictorio el mundo? ¡Jo, jo!
+- id: 18095
+  en: >-
+    Me alivia que Pooh haya
+
+    recobrado la memoria.{:clear }Quería cantar para celebrarlo, pero no
+
+    sé por qué los demás no me dejaron.
+- id: 18096
+  en: >-
+    Los días de perezosear, como hoy,
+
+    son los mejores.{:clear }¡Los días de tormenta, el árbol donde tengo
+
+    mi nido cruje tanto que no puedo ni pensar!
+- id: 18097
+  en: >-
+    Mmm... ¿Qué haré si explota el globo
+
+    mientras estoy recogiendo miel?{:clear }¡No te preocupes! ¡Soy tan fuerte
+
+    que algo así no me detendría!
+- id: 18098
+  en: >-
+    Piglet puede parecer un miedica, ¡pero
+
+    cuando se compromete con algo, cumple!{:clear }¡Me sorprendió que entrara a buscar a Pooh
+
+    por un agujero que hasta a mí me asustaba!
+- id: 18099
+  en: >-
+    Mi sueño es construir
+
+    el túnel supremo.{:clear }¡Si alguna vez llego a hacerlo
+
+    realidad, te enviaré una invitación, Sora!
+- id: 18100
+  en: >-
+    Búho nunca se queda sin palabras.
+
+    ¡A veces también dice cosas muy extrañas!
+- id: 18101
+  en: >-
+    ¡Tigger me va a enseñar un
+
+    nuevo salto bien guay!{:clear }¡Se llama el ‛requete molinete
+
+    volador’ o algo así!
+- id: 18102
+  en: >-
+    Explorar puede dar un poquito de miedo,
+
+    ¡pero es muy divertido!{:clear }Todos están siempre buscando amorcitos
+
+    o cosas así, ¡y yo también quiero ir!
+- id: 18103
+  en: >-
+    El otro día, cuando estaba explorando
+
+    yo solo, conocí a un nuevo amigo.{:clear }Es divertido tener amigos.
+- id: 18104
+  en: >-
+    Si Pooh no está bien,
+
+    todos lo pasamos mal.{:clear }Somos un grupo muy unido y
+
+    queremos que todos estén bien.
+- id: 18324
+  en: Desde este árbol, se ve toda la colina.
+- id: 18325
+  en: >-
+    Seguro que desde aquí la luna
+
+    se ve muy bien.
+- id: 18326
+  en: >-
+    Debe querer decir:
+
+    ‛Toca la campana’.
+- id: 18327
+  en: Ves una bonita cortina.
+- id: 18328
+  en: Percibes el dulce aroma de la miel.
+- id: 18329
+  en: 'Debería decir: ‛Zanahoria’.'
+- id: 18330
+  en: 'Han querido poner: ‛Repollo’.'
+- id: 18331
+  en: 'Parece que dice: ‛Calabaza’.'
+- id: 18332
+  en: Esta es la entrada a la casa de Conejo.
+- id: 18333
+  en: 'En este buzón se lee: ‛Conejo’.'
+- id: 18334
+  en: Ropa tendida a secar.
+- id: 18335
+  en: Está muy crecido para pescar.
+- id: 18336
+  en: 'En este buzón pone: ‛Piglet’.'
+- id: 18337
+  en: Solo Piglet podría pasar por esta puerta.
+- id: 18338
+  en: Debe de ser el nombre del abuelo de Piglet.
+- id: 18339
+  en: 'En estos buzones se lee: ‛Cangu’ y ‛Rito’.'
+- id: 18340
+  en: 'En este buzón pone: ‛Cangu’.'
+- id: 18521
+  en: >-
+    {:unk13 64 01 DA 00}{:unk06 00}{:unk08 01 01 05}¡Qué divertido!
+
+    ¿Lo hacemos otra vez?
+- id: 18522
+  en: >-
+    {:unk13 CD 00 5A 00}{:unk06 00}{:unk08 01 01 06}¡Si Pooh come de esa manera,
+
+    tendremos que encontrar más miel!
+- id: 18523
+  en: >-
+    {:unk13 2E 01 3F 00}{:unk06 00}{:unk08 01 01 05}Caray, tus botes podrían ser
+
+    más "botones".
+- id: 18524
+  en: '{:unk13 37 01 83 00}{:unk06 00}{:unk08 01 00 05}¿Dónde se ha metido el oso...?'
+- id: 18525
+  en: '{:unk13 9B 01 69 00}{:unk06 00}{:unk08 01 00 05}Genial...'
+- id: 18722
+  en: Golpear
+- id: 18723
+  en: Acelerar
+- id: 18996
+  en: '{:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}¿Sora? ¿Eres tú?{:clear }¡Ayúdame!'
+- id: 19374
+  en: >-
+    {:unk13 67 01 DC 00}{:unk06 00}{:unk08 01 01 05}¡Parece que estamos
+
+    en serios apuros!{:clear }Sora, ¿te importaría
+
+    ocuparte del pobre Piglet?
+- id: 19396
+  en: >-
+    Pues supongo que dar botes
+
+    no es la solución.{:delay B8 00}{:clear }Casi me dan ganas de no volver
+
+    a dar botes nunca más.
+- id: 19754
+  en: Bosque de los Cien Acres
+- id: 19888
+  en: '{:delay B4 00}¡Es genial!{:delay 4E 00}{:clear }'
+- id: 21520
+  en: "{:delayandfade 07 78} \nSora salva a Piglet, ¡pero no parece\nque Pooh tenga ni la más remota\nidea de quién es su amigo!\n \nDesconcertado y apenado por la\nmala memoria de Pooh, poco más\npuede decir, pues una fuerte\nráfaga de viento vuelve a llevárselo\npor los aires.\n \n"
+- id: 21521
+  en: "{:delayandfade 0A 78} \nCuando Pooh anda terminándose\nla miel, Conejo aparece claramente\nairado, pues había trabajado mucho\npara reunir toda esa miel.\n \nTodo cambia cuando ve lo raro\nque se comporta Pooh, por lo\nque sugiere darle aún más miel.\n¡Quizá Pooh se recupere si\ntiene la tripita bien llena!\n \n"
+- id: 21522
+  en: "{:delayandfade 0A 78} \nTigger está convencido de que\nPooh recuperará la memoria si\ntodos se ponen a brincar con\nalegría.\n \nA Sora, Donald y Goofy les\nparece una buena idea y,\nsin dudarlo, se apuntan al\nfestival de brincos.\n \n"
+- id: 21523
+  en: "{:delayandfade 0A 78} \nPooh se ha adentrado solo en\nuna cueva. ¡Ay, este Pooh!\n \nEse es un sitio muy peligroso,\nasí que Sora y sus amigos no se\nlo piensan y salen en su busca.\n \n \n"
+- id: 21524
+  en: "{:delayandfade 08 78} \nAl llegar a la Colina de las estrellas,\nSora se encuentra a Pooh con\nla cabecita atascada en un gran\ntarro de miel.\n \nAunque al principio Sora no está\nmuy seguro de si debería intervenir,\nacaba por echar una mano al apurado\nPooh.\n \n"

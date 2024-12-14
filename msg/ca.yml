@@ -1,0 +1,2101 @@
+﻿- id: 6208
+  en: Abrir menú
+- id: 6209
+  en: Port Royal
+- id: 6210
+  en: La "Perla Negra"
+- id: 6211
+  en: Isla de Muerta
+- id: 6212
+  en: Cementerio de barcos
+- id: 6217
+  en: Zarpar
+- id: 6218
+  en: Salir
+- id: 7781
+  en: ¡Will, mira!
+- id: 7782
+  en: ¿Y ahora qué?
+- id: 7783
+  en: Me pregunto qué haría Jack.
+- id: 7784
+  en: No sé...{:delay 6B 00}{:clear }Supongo que huiría.
+- id: 7785
+  en: ¿Y a qué esperamos?
+- id: 7786
+  en: ¡Will!
+- id: 7787
+  en: ¡Todos al suelo!
+- id: 7788
+  en: ¡Pues tendremos que pelear!
+- id: 7789
+  en: >-
+    ¡Vamos a intentarlo otra vez!{:delay 90 00}{:clear }Hemos devuelto hasta la
+
+    última pieza del oro azteca.
+- id: 7790
+  en: >-
+    ¡Y ahora{:delay 36 00}{:clear }repondremos la sangre para liberarnos
+
+    de esta maldición de una vez por todas!
+- id: 7791
+  en: ¡Esta vez funcionará!
+- id: 7792
+  en: ¡Mirad! ¡El tesoro, compañeros!
+- id: 7793
+  en: Es imposible.
+- id: 7794
+  en: >-
+    Yo diría improbable.
+
+    ¡Estamos vivos y somos piratas!
+- id: 7795
+  en: Capitán Jack Sparrow.
+- id: 7796
+  en: Sora.
+- id: 7797
+  en: El pato Donald.
+- id: 7798
+  en: Y yo Goofy.
+- id: 7799
+  en: >-
+    ¡Conque queréis jugar a los piratas!{:delay 66 00}{:clear }Mejor dejad los jueguecitos
+
+    para la guardería. ¡A por ellos!
+- id: 7800
+  en: Jueguecitos, ¿eh?
+- id: 7801
+  en: Gracias, Sora.
+- id: 7802
+  en: ¿Y Jack?
+- id: 7803
+  en: ¡Jack! ¡Es tuyo!
+- id: 7804
+  en: ¿Eh?
+- id: 7805
+  en: ¡Jack!
+- id: 7806
+  en: Eres un necio, Jack Sparrow.
+- id: 7807
+  en: Jack...
+- id: 7808
+  en: >-
+    ¡Sal de ahí, Pete!
+
+    ¡La cosa se pone fea!
+- id: 7809
+  en: >-
+    ¿Ves? Te dije que ibas a
+
+    necesitar al viejo Pete.
+- id: 7879
+  en: >-
+    La Srta. Swann es la hija del gobernador.
+
+    Cuesta imaginarlo, ¿verdad?{:clear }Yo soy un humilde herrero, pero a ella
+
+    no le importa la diferencia de clases.
+- id: 7880
+  en: >-
+    Me encantaría poder ir con vosotros, pero...
+
+    Por favor, salvad a Will.{:clear }Probablemente le hayan encerrado
+
+    en {:theme 0A}esa cueva{:reset} donde me tuvieron a mí.
+- id: 7881
+  en: >-
+    ¡Debemos darnos prisa y rescatar
+
+    a la Srta. Swann! ¿Listos para zarpar?
+- id: 7882
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Partimos ya?
+
+    {:chardelay 33 00}Aún no estoy listo.
+
+    {:chardelay 09 00}Estoy listo.
+- id: 7883
+  en: >-
+    Luché con Jack una vez y
+
+    luego le enviaron a la cárcel.{:clear }Pero no estuvo allí mucho tiempo.
+
+    Jack es un pirata hasta la médula.
+- id: 7884
+  en: >-
+    Si quieres que cambiemos de rumbo,
+
+    ¿por qué no lo dices?{:clear }Aunque cuesta mucho mover
+
+    un barco, ¡y yo estoy hecho polvo!
+- id: 7885
+  en: >-
+    Si te cansas, puedes descansar
+
+    abajo, en la bodega.{:clear }Además, es un lugar seguro
+
+    si los enemigos nos atacan.
+- id: 7886
+  en: >-
+    Cuando era niña, el barco en el que viajaba
+
+    encontró a Will en medio del mar.{:clear }Mientras le rescataban descubrí que
+
+    llevaba... Mmm... Bah, no importa.
+- id: 7887
+  en: >-
+    ¡Han llenado el barco
+
+    de {:theme 0A}explosivos{:reset}!{:clear }¡Debes arrojarlos por la borda
+
+    en cuanto llegues a la cubierta!{:clear }¿Quién sabe qué más habrán hecho?
+
+    ¡Por favor, ten cuidado!
+- id: 7888
+  en: >-
+    Este barco puede parecer viejo,
+
+    pero es rápido.{:clear }Si necesitas descansar, puedes bajar
+
+    al camarote del capitán.
+- id: 7889
+  en: >-
+    Jack quiere a este barco
+
+    como a un amigo.{:clear }Será mejor que nos preparemos
+
+    para evitar que sufra daño alguno.
+- id: 7890
+  en: >-
+    ¿De dónde han salido esos monstruos?
+
+    Podría haber {:theme 0A}más por aquí cerca{:reset}.{:clear }Disculpadme, pero necesito un descanso.
+
+    Manteneos alerta.
+- id: 7891
+  en: >-
+    No puedo creer que estén intentando
+
+    aprovechar el poder del oro azteca.{:clear }Esos monstruos serán invencibles hasta
+
+    que devolvamos todo el oro. ¡Deprisa!
+- id: 7892
+  en: >-
+    ¡Tenemos que ir a Port Royal!{:clear }¡No podemos dejar que anden
+
+    sueltos por la ciudad!
+- id: 7893
+  en: >-
+    ¿¡Cómo se le ocurrió a Will ir solo a la
+
+    {:theme 0A}Isla de Muerta{:reset}!? Espero que esté bien...
+- id: 7894
+  en: >-
+    Jack está más raro que nunca,
+
+    pero al menos Will está a salvo.{:clear }Hay algo extraño
+
+    que me tiene intranquila...
+- id: 7895
+  en: >-
+    {:theme 0A}La Isla de Muerta, el cementerio de barcos...{:reset}
+
+    ¡Menudos sitios frecuentan esos monstruos!{:clear }Se sentirán como en casa en lugares
+
+    así. ¡A mí me ponen la carne de gallina!
+- id: 8117
+  en: ¡Lucha contra los piratas!
+- id: 8119
+  en: ¡Vence a los piratas!
+- id: 8120
+  en: >-
+    ¡Vence a los piratas!
+
+    ¡Usa magia y la batalla será más fácil!
+- id: 8121
+  en: ¡Vence a todos los sincorazón!
+- id: 8122
+  en: >-
+    ¡Vence a todos los sincorazón!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 8123
+  en: ¡Defiéndete durante un minuto mientras esperas la señal!
+- id: 8124
+  en: >-
+    ¡Defiéndete durante un minuto
+
+    mientras esperas la señal!
+
+    ¡Si usas la luz de la luna,
+
+    la batalla será más fácil!
+- id: 8125
+  en: ¡Vence a todos los piratas y protege el medallón!
+- id: 8126
+  en: >-
+    ¡Vence a todos los piratas y
+
+    protege el medallón!
+
+    ¡Si usas los cañones,
+
+    la batalla será más fácil!
+- id: 8127
+  en: ¡Deshazte de los barriles encendidos!
+- id: 8128
+  en: >-
+    ¡Deshazte de los barriles encendidos!
+
+    ¡Un ataque de los sincorazón
+
+    puede hacerlos explotar!
+- id: 8129
+  en: ¡Vence a todos los piratas!
+- id: 8130
+  en: >-
+    ¡Vence a todos los piratas!
+
+    ¡Si usas magia, será más fácil!
+- id: 8131
+  en: ¡Recupera la pieza de oro que tiene el incorpóreo!
+- id: 8132
+  en: >-
+    ¡Vence al incorpóreo y
+
+    recupera la pieza de oro!
+- id: 9927
+  en: ¡Un sincorazón está tratando de volar un barril!
+- id: 9935
+  en: ¡Recupera la pieza de oro antes de que el incorpóreo escape!
+- id: 9936
+  en: ¡Recupera la pieza de oro que tenía el incorpóreo oculto!
+- id: 9937
+  en: ¡El incorpóreo aparecerá cuando hayas vencido a todos los piratas!
+- id: 9938
+  en: ¡Busca al incorpóreo oculto en la oscuridad y recupera la pieza de oro!
+- id: 9939
+  en: ¡Recupera el oro antes de que el incorpóreo escape!
+- id: 9940
+  en: ¡Recupera el oro antes de que el incorpóreo escape!
+- id: 9946
+  en: ¡Vaya!
+- id: 9947
+  en: Este sitio es...
+- id: 9948
+  en: '... muy peculiar.'
+- id: 9949
+  en: ¿¡Qué ocurrirá!?
+- id: 9950
+  en: ¿La Organización {XIII}?
+- id: 9951
+  en: ¡O los sincorazón!
+- id: 9952
+  en: ¡Vamos a averiguarlo!
+- id: 9953
+  en: ¿El oro azteca?
+- id: 9954
+  en: >-
+    ¡Así es! No pertenecemos al
+
+    mundo de los vivos,{:delay BE 00}{:clear }así que no podemos morir.
+
+    Pero tampoco estamos muertos.
+- id: 9955
+  en: >-
+    ¿En serio? Pues a mí me
+
+    parecéis piratas normales.
+- id: 9957
+  en: ¡Uaagh! ¡Ahora lo entiendo!
+- id: 9958
+  en: >-
+    Bueno, si veis a dos monigotes y
+
+    un mocoso con una llave espada,{:delay 0A 01}{:clear }alejaos de ellos. La magia que
+
+    utilizan no es de este mundo, ¿me oís?{:delay 54 01}{:clear }Y quién sabe qué podrían haceros,
+
+    sobre todo cuando la luna{:delay 0D 01}{:clear }revele lo que sois de verdad.
+- id: 9959
+  en: ¿Rivales para Barbossa, dices?
+- id: 9960
+  en: ¡Eh!
+- id: 9961
+  en: >-
+    ¿Lo ves? ¡Lo sabía!{:delay 78 00}{:clear }Esos son los mocosos de los
+
+    que te estaba hablando.
+- id: 9962
+  en: >-
+    ¿A quién has llamado mocoso? ¡Somos
+
+    Sora, Donald y Goofy! ¡No lo olvidéis!
+- id: 9963
+  en: >-
+    A fe que no lo haremos,{:delay 4A 00}{:clear }pues grabados en vuestras lápidas
+
+    quedarán para siempre.
+- id: 9964
+  en: ¡Me gusta tu estilo!
+- id: 9965
+  en: >-
+    Muchachos, quedaos unos cuantos
+
+    entreteniendo a esta escoria.{:delay D2 00}{:clear }Y el resto, ¡traedme ese medallón!
+- id: 9966
+  en: ¡A la orden!
+- id: 9967
+  en: >-
+    ¿Solo tendremos que pelear
+
+    con unos pocos?
+- id: 9968
+  en: >-
+    ¡Es inútil!
+
+    ¡Nuestros ataques no sirven!
+- id: 9969
+  en: Ya, ¿y qué esperabas?
+- id: 9971
+  en: Ya podéis empezar a rezar.
+- id: 9972
+  en: ¡Eh, cuidado! ¡Pueden veros!{:delay 72 00}{:clear } ¡Manteneos lejos de su magia!
+- id: 9973
+  en: ¿Para qué?
+- id: 9974
+  en: ¿Es que no me habéis escuchado antes?
+- id: 9975
+  en: ¡Eh, Pete, gracias por el consejo!
+- id: 9976
+  en: '{:unk13 16 01 51 00}{:unk08 01 01 06}¡Eh! ¡Esto no ha terminado!'
+- id: 9977
+  en: >-
+    {:unk13 45 01 C6 00}{:unk08 01 00 01}Si Pete anda por aquí, quiere
+
+    decir que tenemos trabajo.
+- id: 9978
+  en: >-
+    {:unk13 54 01 0E 01}{:unk08 01 00 02}Sí.{:clear }Y ese capitán pirata no
+
+    me ha gustado ni un pelo.
+- id: 9979
+  en: >-
+    {:unk13 45 01 C6 00}{:unk08 01 00 01}Tíos, no me gustaría verle
+
+    convertido en un sincorazón.
+- id: 9980
+  en: '{:unk13 C8 00 AF 00}{:unk08 01 00 05}¡Pues ya estamos aquí!'
+- id: 9981
+  en: >-
+    {:unk13 B1 00 32 00}{:unk08 01 01 06}¡Tal vez podamos tomar prestado
+
+    un barco pirata y dar un paseo!
+- id: 9982
+  en: >-
+    {:unk13 C5 00 37 00}{:unk08 01 01 06}¡Era una broma!{:clear }Esos tipos se dirigían
+
+    a la ciudad, ¿no?
+- id: 9983
+  en: >-
+    {:unk13 24 01 E6 00}{:unk08 01 00 01}Sí. Deben de estar
+
+    buscando algún tesoro.
+- id: 9984
+  en: ¿Adónde me llevas? ¡Suéltame!
+- id: 9985
+  en: ¡Elizabeth!
+- id: 9986
+  en: ¡Deteneos!
+- id: 9987
+  en: ¿¡Qué diablos!?
+- id: 9988
+  en: ¡Los sincorazón! ¡Cuidado!
+- id: 9989
+  en: ¡Déjanos a nosotros!
+- id: 9990
+  en: ¡Rápido! ¡Escóndete!
+- id: 9991
+  en: >-
+    {:unk13 A9 00 39 00}{:unk08 01 01 06}¡Bien hecho!{:clear }Mis habilidades de espadachín
+
+    son más que dignas...{:clear }pero nunca me había enfrentado
+
+    con enemigos como estos.
+- id: 9992
+  en: '{:unk13 09 01 F3 00}{:unk08 01 00 00}¿De verdad crees que somos tan buenos?'
+- id: 9993
+  en: '{:unk13 16 01 F6 00}{:unk08 01 00 01}¿Has encontrado a tu amiga?'
+- id: 9994
+  en: >-
+    {:unk13 D5 00 39 00}{:unk08 01 01 06}Cuando llegué, ya era tarde.
+
+    ¡Pero debo rescatarla!{:clear }¿Podríais
+
+    ayudarme?
+- id: 9996
+  en: >-
+    {:unk13 B6 00 39 00}{:unk08 01 01 06}Yo soy William Turner,
+
+    pero llamadme Will.
+- id: 9997
+  en: >-
+    {:unk13 9F 00 04 01}{:unk08 01 00 02}Vale, Will.
+
+    ¡Vámonos!
+- id: 9998
+  en: >-
+    {:unk13 C1 00 39 00}{:unk08 01 01 06}Bien. ¡Tenemos que ir
+
+    a los muelles!
+- id: 9999
+  en: ¡Demasiado tarde!
+- id: 10000
+  en: ¿Eh?
+- id: 10001
+  en: >-
+    Esos piratas han secuestrado
+
+    a la Srta. Swann{:delay 78 00}{:clear }y se la han llevado a su barco.
+
+    ¡Y ya han zarpado!{:delay D8 00}{:clear }¡Nunca podremos encontrarla!
+- id: 10002
+  en: >-
+    Entonces ya está lejos.
+
+    La "Perla Negra" es casi inalcanzable.
+- id: 10003
+  en: >-
+    Harías bien en buscarte
+
+    otra chica, muchacho.
+- id: 10004
+  en: >-
+    ¡Eh!
+
+    ¿Qué haces a bordo del "Interceptor"?{:delay E7 00}{:clear }No se permite el acceso a civiles.
+- id: 10005
+  en: >-
+    Mi trabajo.
+
+    Me propongo tomar esta nave.{:delay BE 00}{:clear }Será un magnífico barco pirata.
+- id: 10006
+  en: ¡Un pirata!
+- id: 10007
+  en: Capitán Jack Sparrow, por favor.
+- id: 10008
+  en: >-
+    Llévame contigo.
+
+    Tenemos que ir tras la "Perla Negra" y{:delay C8 00}{:clear }salvar a la Srta. Swann. Yo te saqué
+
+    del calabozo, Sparrow.{:delay F0 00}{:clear }Ayúdame y salda tu deuda.
+- id: 10009
+  en: >-
+    Deberás conquistar a la
+
+    dama tú solito, amigo.{:delay 9D 00}{:clear }No veo en qué puedo beneficiarme.
+- id: 10010
+  en: ¡Vamos, Capitán!
+- id: 10011
+  en: >-
+    ¿Seguro que puedes manejar
+
+    el barco... tú solo?
+- id: 10012
+  en: Ahí le has dado.
+- id: 10013
+  en: Gracias, Sparrow.
+- id: 10014
+  en: Capitán Sparrow.
+- id: 10015
+  en: Somos Sora, Donald y Goofy.
+- id: 10016
+  en: Yo soy Will Turner.
+- id: 10017
+  en: >-
+    Supongo que es el diminutivo de William.{:delay 69 00}{:clear }Un buen nombre. Te lo pusieron
+
+    por tu padre, ¿verdad?
+- id: 10018
+  en: Sí.
+- id: 10019
+  en: >-
+    Bueno, Sr. Turner. {:delay 46 00}{:clear }Prepara el barco para zarpar.{:delay 63 00}{:clear }Tengo ciertos efectos personales
+
+    que recuperar.
+- id: 10020
+  en: ¡De acuerdo! Pero date prisa.
+- id: 10021
+  en: Naturalmente.
+- id: 10022
+  en: Sora...
+- id: 10023
+  en: ¿De verdad quieres ser un pirata?
+- id: 10024
+  en: ¡Claro que no!
+- id: 10025
+  en: ¿Qué piensas de ese Will?
+- id: 10026
+  en: No sé. Acabamos de conocerle.
+- id: 10027
+  en: >-
+    Mmm... Creo que mi suerte
+
+    está a punto de cambiar.
+- id: 10028
+  en: '{:unk13 01 01 D1 00}{:unk08 01 00 05}¿Todo listo para zarpar?'
+- id: 10029
+  en: >-
+    Pues soltadme.{:delay 9C 00}{:clear }Tenéis vuestra baratija.
+
+    Ya no valgo nada para vos.
+- id: 10030
+  en: >-
+    No es una baratija, señorita.
+
+    Esto es oro azteca maldito.{:delay 35 01}{:clear }Una de las ochocientas ochenta y dos
+
+    piezas idénticas que le entregaron{:delay 02 01}{:clear }a Cortés en un arca de piedra.
+- id: 10031
+  en: >-
+    Ya no creo en las historias de
+
+    fantasmas, capitán Barbossa.
+- id: 10032
+  en: >-
+    Eso es lo que pensé yo cuando me lo contaron.{:delay A2 00}{:clear }Estaba en la Isla de Muerta,
+
+    isla imposible de encontrar,{:delay C7 00}{:clear }excepto para los que
+
+    ya saben dónde está.{:delay 81 00}{:clear }Lo encontramos. Allí estaba
+
+    el arca. Y dentro, el oro.{:delay 03 01}{:clear }¡Y lo cogimos todo!
+
+    Comerciamos con él.{:delay BD 00}{:clear }Lo malgastamos en bebida,
+
+    comida y agradables compañías.{:delay F6 00}{:clear }Cuanto más gastábamos,
+
+    más nos dábamos cuenta de que...{:delay FD 00}{:clear }la bebida no nos satisfacía,{:delay AB 00}{:clear }la comida se convertía en
+
+    ceniza en nuestras bocas...{:delay E7 00}{:clear }Era a causa de la maldición,
+
+    Srta. Turner.{:delay 9D 00}{:clear }Sucumbimos a la codicia, y ahora...
+
+    estamos consumidos por ella.
+- id: 10033
+  en: No sabéis cuánto lo lamento...
+- id: 10034
+  en: >-
+    {:delay 74 00}{:clear }Solo hay un modo de
+
+    acabar con la maldición:{:delay BA 00}{:clear }devolviendo todas las piezas dispersas
+
+    del oro azteca a su arca...{:delay 33 01}{:clear }y reparando el agravio por la sangre
+
+    derramada de todos aquellos{:delay 14 01}{:clear }que osaron tocar
+
+    una pieza del tesoro.
+- id: 10035
+  en: >-
+    ¡Srta. Turner!{:delay 78 00}{:clear }Durante diez años hemos registrado
+
+    hasta la última legua de estas aguas,{:delay 14 01}{:clear }cada pueblo y ciudad,
+
+    acechando a marineros y colonos.{:delay 14 01}{:clear }Teníamos ochocientas ochenta y una piezas,{:delay BD 00}{:clear }pero habíamos perdido toda
+
+    esperanza de encontrar la última.{:delay EA 00}{:clear }Todos esos años vos estabais
+
+    a salvo en vuestra cama,{:delay F0 00}{:clear }leyendo relatos de piratas,
+
+    soñando con aventuras en alta mar...{:delay 08 01}{:clear }¡Nosotros hemos soportado tormentos
+
+    peores que la propia muerte!
+- id: 10036
+  en: >-
+    Y ahora, gracias a vos,{:delay BA 00}{:clear }tenemos la última pieza...
+
+    por fin.{:delay 1A 01}{:clear }Cuando devolvamos este
+
+    medallón al arca,{:delay 9C 00}{:clear }seremos libres para vagar
+
+    por los mares como hombres.{:delay F6 00}{:clear }¡Dejaremos de ser fantasmas!
+- id: 10037
+  en: ¿Y el... desagravio por la sangre?
+- id: 10038
+  en: Por eso no tiene sentido mataros...{:delay D2 00}{:clear }{:delay 4C 00}aún.
+- id: 10039
+  en: >-
+    La luz de la luna nos muestra
+
+    tal y como somos en realidad.{:delay 44 01}{:clear }No pertenecemos al reino de los vivos,{:delay B4 00}{:clear }así que no podemos morir;{:delay A8 00}{:clear }pero tampoco estamos muertos.{:delay D6 00}{:clear }¡He sufrido demasiado tiempo!
+- id: 10040
+  en: >-
+    Ya podéis creer en las historias
+
+    de fantasmas, Srta. Turner.{:delay 5D 01}{:clear }Porque esta noche...{:delay A0 00}{:clear }estáis viviendo una.
+- id: 10041
+  en: >-
+    {:unk13 F2 00 9F 00}{:unk08 01 00 05}¿Por qué estás tan obsesionado
+
+    con esa brújula?
+- id: 10042
+  en: >-
+    {:unk13 73 01 38 00}{:unk08 01 00 05}Es la que nos llevará
+
+    hasta la Isla de Muerta.{:clear }Allí se dirige Barbossa.
+
+    ¿Comprendes?
+- id: 10043
+  en: '{:unk13 1E 01 90 00}{:unk08 01 01 06}¿Cómo lo sabes?'
+- id: 10044
+  en: >-
+    {:unk13 A4 00 DA 00}{:unk08 01 01 01}Ay, muchacho...{:clear }Una vez, los dos perseguimos
+
+    un tesoro... el oro azteca.{:clear }Estaba escondido
+
+    en la Isla de Muerta.{:clear }Pero él me traicionó
+
+    y robó mi barco.
+- id: 10045
+  en: >-
+    {:unk13 7A 01 99 00}{:unk08 01 00 01}Entonces va tras
+
+    ese tesoro.
+- id: 10046
+  en: >-
+    {:unk13 A2 00 FC 00}{:unk08 01 01 00}El tesoro ya
+
+    es suyo.{:clear }Y también la maldición.{:clear }Yo no tengo interés
+
+    en un botín tan traicionero.{:clear }Pero quiero recuperar
+
+    lo que me pertenece,{:clear }la "Perla Negra".
+- id: 10047
+  en: >-
+    {:unk13 3D 01 FA 00}{:unk08 01 01 01}Vosotros
+
+    esperad aquí.{:clear }El joven Turner y yo
+
+    rescataremos a la dama.
+- id: 10048
+  en: '{:unk13 87 00 2D 00}{:unk08 01 00 05}¿Quedarnos esperando?'
+- id: 10049
+  en: >-
+    {:unk13 3D 01 FA 00}{:unk08 01 01 01}Vosotros custodiaréis
+
+    el barco, por supuesto.{:clear }Una tarea a la altura
+
+    de los piratas más valientes.
+- id: 10050
+  en: '{:unk13 B1 00 50 00}{:unk08 01 00 05}De acuerdo...'
+- id: 10051
+  en: '{:unk13 20 01 E2 00}{:unk08 01 01 02}¡Estad alerta!'
+- id: 10052
+  en: '{:unk13 F7 00 A7 00}{:unk08 01 00 01}¿Listo?'
+- id: 10053
+  en: >-
+    {:unk13 0E 01 39 00}{:unk08 01 00 05}Creo que nos la ha dado
+
+    con queso...
+- id: 10054
+  en: '{:unk13 1B 01 A6 00}{:unk08 01 00 05}Y tú le creíste.'
+- id: 10055
+  en: '{:unk13 E1 00 2C 00}{:unk08 01 00 05}Ya hace rato que se fueron.'
+- id: 10056
+  en: '{:unk13 1C 01 3F 00}{:unk08 01 01 06}Sí, tardan demasiado...'
+- id: 10057
+  en: >-
+    {:unk13 0F 01 39 00}{:unk08 01 00 05}Si Pete anda merodeando por aquí,
+
+    también estarán los sincorazón.{:clear }Y Jack y Will no sabrían
+
+    cómo enfrentarse a ellos...
+- id: 10058
+  en: '{:unk13 D6 00 2C 00}{:unk08 01 00 05}Echemos un vistazo.'
+- id: 10059
+  en: >-
+    Todas y cada una de las piezas que
+
+    sustrajimos han sido devueltas,{:delay 08 01}{:clear }excepto esta.
+- id: 10060
+  en: >-
+    Y ahora, la sangre será devuelta,
+
+    y nos libraremos de la maldición{:delay 38 01}{:clear }para siempre.
+- id: 10061
+  en: ¡Aprisa, nos persiguen!
+- id: 10062
+  en: >-
+    ¡Les entretendremos! Haznos una señal
+
+    cuando el barco esté listo.
+- id: 10063
+  en: Bien. Encenderé un fuego de señal.
+- id: 10064
+  en: ¡La señal!
+- id: 10065
+  en: '{:unk13 DD 00 74 00}{:unk08 01 01 06}¿Dónde está Jack?'
+- id: 10066
+  en: '{:unk13 C4 00 85 00}{:unk08 01 00 05}Pues...'
+- id: 10067
+  en: >-
+    Y ahora, la sangre será devuelta,
+
+    y nos libraremos de la maldición...{:delay 38 01}{:clear }para siempre.
+- id: 10068
+  en: ¡No! Aún no.{:delay 47 00}{:clear }{:delay 44 00}{:clear }Esperaremos el momento oportuno.
+- id: 10069
+  en: >-
+    ¿Cuándo crees que podremos
+
+    sacar mayor provecho?
+- id: 10070
+  en: Voy a hacerte una pregunta.
+- id: 10071
+  en: >-
+    ¿Te he dado alguna razón
+
+    para no confiar en mí?{:delay 91 00}{:clear }Quédate aquí...
+
+    y no intentes hacer nada absurdo.
+- id: 10072
+  en: >-
+    Con sangre empezó...
+
+    y terminará con sangre.
+- id: 10073
+  en: >-
+    ¡Vos! ¡Criada! Vuestro padre cómo
+
+    se llamaba... ¿Era William Turner?
+- id: 10074
+  en: No.
+- id: 10075
+  en: ¿Qué está pasando?
+- id: 10076
+  en: ¿Quién trajo a esta mujer?
+- id: 10077
+  en: Dijo que su apellido era Turner.
+- id: 10078
+  en: ¡Rápido!
+- id: 10079
+  en: ¡Alto!
+- id: 10080
+  en: ¡El medallón!
+- id: 10081
+  en: ¡A por ellos, atajo de ingratos!
+- id: 10082
+  en: >-
+    {:unk13 0A 01 39 00}{:unk08 01 00 05}Tuve que hacerlo.{:clear }Jack no es un pirata
+
+    de cuento.{:clear }Y no puedes confiar
+
+    en un pirata de verdad.
+- id: 10083
+  en: >-
+    {:unk13 11 01 39 00}{:unk08 01 00 05}Zarpamos hacia Port Royal.
+
+    Yo llevaré el timón.
+- id: 10084
+  en: >-
+    Así que le dijisteis a Barbosa
+
+    que mi apellido era el vuestro.
+- id: 10085
+  en: ¿Por qué mi nombre?
+- id: 10086
+  en: No lo sé.
+- id: 10087
+  en: >-
+    Elizabeth...
+
+    ¿de dónde habéis sacado eso?
+- id: 10088
+  en: >-
+    Es tuyo. Lo cogí cuando te
+
+    encontramos a la deriva en el mar.
+- id: 10089
+  en: >-
+    Ha pasado tanto tiempo...{:delay 3C 00}{:clear }{:delay 58 00}{:clear }Creía que lo había perdido. {:delay 66 00}{:clear } {:delay 64 00}{:clear }Era un regalo de mi padre.
+
+    Él me lo envió.
+- id: 10090
+  en: Lo siento.
+- id: 10091
+  en: ¿Por qué lo cogisteis?
+- id: 10092
+  en: >-
+    Porque...{:delay 60 00}{:clear }temía que fueras
+
+    un pirata.{:delay B4 00}{:clear }Habría sido horrible.
+- id: 10093
+  en: >-
+    Ahora lo entiendo... {:delay 94 00}{:clear }¿No lo veis?{:delay 2A 00}{:clear } {:delay 85 00}{:clear }No necesitaban vuestra sangre,
+
+    sino la de mi padre...
+- id: 10094
+  en: Mi sangre...{:delay BE 00}{:clear }La sangre...{:delay 3C 00}{:clear }{:delay BA 00}{:clear }de un pirata...
+- id: 10095
+  en: >-
+    Jack, ¿cómo diablos
+
+    conseguiste salir de la isla?
+- id: 10096
+  en: >-
+    Cuando partiste en mi barco y me
+
+    abandonaste en aquella inmunda tierra{:delay D3 00}{:clear }dejada de la mano de Dios, {:delay 67 00}{:clear }sin otra cosa que una pistola
+
+    con una sola bala,{:delay B8 00}{:clear }olvidaste algo muy importante:{:delay A4 00}{:clear }soy el capitán Jack Sparrow.
+- id: 10097
+  en: No volveré a cometer ese error.
+- id: 10098
+  en: >-
+    Entonces, ¿qué tal si
+
+    olvidamos el pasado,{:delay B1 00}{:clear }me desatas y dejas que negocie
+
+    la devolución de ese medallón? ¿Eh?{:delay 18 01}{:clear }¿Qué te parece?
+- id: 10099
+  en: >-
+    Considerando que ahora
+
+    la "Perla Negra" es mía, Jack,{:delay DE 00}{:clear }no creo que soltarte sea algo...
+
+    conveniente.
+- id: 10100
+  en: >-
+    ¡No es precisamente tu conveniencia
+
+    lo que me preocupa ahora!{:delay 0B 01}{:clear }¡Devuélveme la "Perla"!
+- id: 10102
+  en: ¡Muy bien! ¡Llevadle al calabozo!
+- id: 10103
+  en: Nos acercamos al "Interceptor".{:delay 8A 00}{:clear }¿Qué hacemos, Capitán?
+- id: 10104
+  en: ¿Tú qué crees, idiota?
+- id: 10105
+  en: ¡Hurra!
+- id: 10106
+  en: ¡Hemos vencido a los piratas!
+- id: 10107
+  en: ¿No me digas, muchacho?
+- id: 10108
+  en: ¡Jack!
+- id: 10109
+  en: ''
+- id: 10110
+  en: >-
+    ¡Y ahora, quiero que me
+
+    entregues ese medallón!
+- id: 10111
+  en: >-
+    Si es que estimas
+
+    en algo sus vidas.
+- id: 10112
+  en: ¡Barbossa!
+- id: 10113
+  en: ¡Liberadla!
+- id: 10114
+  en: >-
+    Adelante, chico, dispara.
+
+    Nosotros no podemos morir.
+- id: 10115
+  en: Vosotros, no...{:delay B9 00}{:clear }pero yo sí.
+- id: 10116
+  en: >-
+    ¡Me llamo Will Turner!{:delay 7C 00}{:clear }¡Mi padre era Bill el Botas!
+
+    ¡Su sangre corre por mis venas!
+- id: 10117
+  en: >-
+    Os doy mi palabra: haced lo que os digo{:delay 74 00}{:clear }o apretaré el gatillo y
+
+    me perderé en el fondo del mar.
+- id: 10118
+  en: >-
+    Decid vuestras condiciones...
+
+    Sr. Turner.
+- id: 10119
+  en: >-
+    Liberad a Elizabeth...
+
+    y a Sora, Donald{:delay A4 00}{:clear }y Goofy también.
+- id: 10120
+  en: ¿Alguna otra?
+- id: 10121
+  en: ¡Que os vayáis!
+- id: 10122
+  en: Trato hecho. Nos marcharemos...
+- id: 10123
+  en: '... ¡pero los sincorazón se quedan!'
+- id: 10125
+  en: ¡No vale!
+- id: 10126
+  en: >-
+    {:unk13 7B 01 97 00}{:unk08 01 00 02}¡Buen trabajo,
+
+    Barbossa!{:clear }¿Quién hubiera dicho que
+
+    iba a ser tan fácil?
+- id: 10127
+  en: >-
+    {:unk13 5D 00 9C 00}{:unk08 01 01 04}Barbossa,
+
+    ¡sois un cobarde!
+- id: 10128
+  en: >-
+    {:unk13 1F 01 B9 00}{:unk08 01 00 05}¡Es la última vez
+
+    que confío en un pirata!
+- id: 10129
+  en: >-
+    {:unk13 C3 00 57 00}¡Los barriles de pólvora
+
+    están listos, Capitán!
+- id: 10130
+  en: '{:unk13 12 01 77 00}{:unk08 01 01 02}¡La hora del adiós!'
+- id: 10131
+  en: '{:unk13 17 01 48 00}{:unk08 01 01 05}¿¡Qué hacemos ahora!?'
+- id: 10132
+  en: >-
+    {:unk13 8A 01 02 01}{:unk08 01 00 01}¡Volaremos
+
+    en pedazos!
+- id: 10133
+  en: >-
+    {:unk13 55 01 0B 01}{:unk08 01 00 01}¿Para qué luchar, muchachos?{:clear }Un pirata sabe
+
+    cuándo rendirse.
+- id: 10134
+  en: '{:unk13 88 00 7A 00}{:unk08 01 01 05}¿Hablas en serio, Jack?'
+- id: 10135
+  en: '{:unk13 39 01 1C 01}{:unk08 01 00 02}Como cualquier pirata.'
+- id: 10136
+  en: >-
+    {:unk13 64 01 A3 00}{:unk08 01 00 02}Primero, debemos
+
+    encargarnos de la pólvora.{:clear }¡No pienso perder
+
+    este barco por nada!
+- id: 10137
+  en: >-
+    {:unk13 FE 00 DD 00}{:unk08 01 00 05}Nunca más volveré
+
+    a confiar en un pirata.
+- id: 10138
+  en: '{:unk13 47 01 87 00}{:unk08 01 01 01}Sabia decisión, muchacho.'
+- id: 10139
+  en: ¡Despejado!
+- id: 10140
+  en: >-
+    Es la segunda vez que veo a
+
+    ese hombre partir con mi nave,{:delay D8 00}{:clear }pero pronto será él quien
+
+    me vea siguiéndole.
+- id: 10141
+  en: >-
+    {:unk13 4C 01 50 00}{:unk08 01 00 05}¡Tú te quedas
+
+    en el barco, nena!
+- id: 10142
+  en: >-
+    {:unk13 E8 00 39 00}{:unk08 01 00 05}¡Ni hablar de eso!
+
+    Will está en peligro.
+- id: 10143
+  en: >-
+    {:unk13 4C 01 50 00}{:unk08 01 00 05}Tu querido William
+
+    está muy bien. Créeme.
+- id: 10144
+  en: '{:unk13 EB 00 25 00}{:unk08 01 00 05}No soy tonta, Jack.'
+- id: 10145
+  en: >-
+    {:unk13 A0 01 76 00}{:unk08 01 00 05}¡Puedes confiar
+
+    en mí entonces!
+- id: 10146
+  en: >-
+    {:unk13 33 01 30 00}{:unk08 01 00 05}Sora, Donald, Goofy, ¡debéis
+
+    traer a Will sano y salvo!
+- id: 10147
+  en: ¡Esto no ha terminado!
+- id: 10148
+  en: >-
+    ¡En fin! Puedes rendirte,
+
+    Barbossa.
+- id: 10149
+  en: ¿Es que no te cansas?
+- id: 10150
+  en: >-
+    ¿Qué tal si lo dejamos...
+
+    en empate?
+- id: 10151
+  en: >-
+    Jack, ¿cuántas veces
+
+    he de decirte que...?
+- id: 10153
+  en: ¡Ríete mientras puedas, Barbossa!
+- id: 10154
+  en: Tengo...{:delay B0 00}{:clear }frío.
+- id: 10155
+  en: ¿Y ahora qué, Jack?
+- id: 10156
+  en: >-
+    Aquello que desee.
+
+    La "Perla Negra" vuelve a ser mía.
+- id: 10157
+  en: Te entiendo. {:delay 3C 00}{:clear }{:delay 3C 00}{:clear } Gracias, Jack.
+- id: 10158
+  en: >-
+    Pensaba que me ibas a atizar
+
+    otra vez, compañero.
+- id: 10159
+  en: Eh, Jack, buena suerte.
+- id: 10160
+  en: Y, recuerda, ¡sé bueno!
+- id: 10161
+  en: He de partir.
+- id: 10162
+  en: ¡Will!
+- id: 10163
+  en: Me alegro.
+- id: 10164
+  en: Ajá.
+- id: 10165
+  en: Oye, Sora,{:delay 54 00}{:clear }¿te estás poniendo colorado?
+- id: 10166
+  en: ¿Qué? ¡De eso nada!
+- id: 10167
+  en: Ah, sé en quién estás pensando.
+- id: 10168
+  en: ''
+- id: 10169
+  en: >-
+    ¿Sabéis?...{:delay 5A 00}{:clear }Por un momento...{:delay 54 00}{:clear }temí perder a Donald a causa
+
+    de la maldición del oro.
+- id: 10170
+  en: Sí. También yo.
+- id: 10171
+  en: ¿¡Qué!?
+- id: 10172
+  en: '{:unk13 86 01 50 01}{:unk08 01 00 00}Viene del puerto.'
+- id: 10173
+  en: '{:unk13 FD 00 88 00}{:unk08 01 00 05}Vayamos a ver.'
+- id: 10174
+  en: ¡Jack!
+- id: 10175
+  en: Ehhh... ¡Sola! ¡Una ayudita!
+- id: 10176
+  en: ¡Somos Sora, Donald y Goofy!
+- id: 10177
+  en: ¿Vais a dejar morir a un compañero?
+- id: 10178
+  en: Vale, vale...
+- id: 10180
+  en: >-
+    {:unk13 0C 01 2F 00}{:unk08 01 00 04}A alguna sabandija le habrá
+
+    podido la codicia.
+- id: 10181
+  en: >-
+    {:unk13 C8 00 39 00}{:unk08 01 00 05}Oh, ya veo...{:clear }No confiáis en mí,
+
+    ¿verdad?
+- id: 10182
+  en: >-
+    {:unk13 CF 00 39 00}{:unk08 01 00 05}Y bien que hacéis.
+
+    Pues soy un pirata, amigos.
+- id: 10183
+  en: '{:unk13 6B 00 39 01}{:unk08 01 00 04}{:unk06 02}¡Jack! ¡Sora!'
+- id: 10184
+  en: '{:unk13 16 01 9E 00}{:unk08 01 01 06}¡Elizabeth!'
+- id: 10185
+  en: >-
+    {:unk13 87 00 1D 01}{:unk08 02 01 01}Esto no me huele
+
+    nada bien.
+- id: 10187
+  en: >-
+    {:unk13 01 01 39 00}{:unk08 01 01 06}Ay, lo sabía.{:clear }Si quieres rescatarlo,
+
+    será mejor que lo
+
+    hagas sola, muchacha.
+- id: 10188
+  en: >-
+    {:unk13 30 01 31 00}{:unk08 01 00 04}¿Sola? ¿Lo dices en serio?{:clear }¿Navegar hasta la isla y encargarme
+
+    de esos piratas?
+- id: 10189
+  en: '{:unk13 49 01 2D 00}{:unk08 01 01 06}Caray, cualquier muchacha podría...'
+- id: 10190
+  en: '{:unk13 E4 00 23 00}{:unk08 01 01 05}¿Estás segura de que corre peligro?'
+- id: 10191
+  en: >-
+    {:unk13 F7 00 39 00}{:unk08 01 00 05}No, segura, no. Pero
+
+    está tardando demasiado.{:clear }Yo quería ir con él.{:clear }Pero insistió en que
+
+    me quedara.{:clear }¡No puedo sentarme a esperar!{:clear }Debo saber si
+
+    se encuentra bien.
+- id: 10192
+  en: '{:unk13 07 01 2E 00}{:unk08 01 01 07}Un hombre afortunado...'
+- id: 10193
+  en: >-
+    {:unk13 C5 00 39 00}{:unk08 01 00 05}Por favor, Jack.
+
+    ¡Llévame con él!
+- id: 10194
+  en: >-
+    {:unk13 FA 00 39 00}{:unk08 01 01 07}Un momento.{:clear }No veo en qué puede
+
+    beneficiarme.
+- id: 10195
+  en: >-
+    {:unk13 FA 00 39 00}{:unk08 01 00 05}Yo te recompensaré.{:clear }Aunque... tú le
+
+    debes una a Will.{:clear }Él te salvó la
+
+    vida, ¿recuerdas?
+- id: 10196
+  en: '{:unk13 CD 00 27 00}{:unk08 01 01 06}Cierto es. ¿Estáis listos?'
+- id: 10197
+  en: ¡El "Interceptor" a babor!
+- id: 10198
+  en: ¡Will!
+- id: 10199
+  en: Ya basta, Jack.
+- id: 10200
+  en: ¡Tenemos que rescatarle!
+- id: 10201
+  en: Will, despierta.
+- id: 10202
+  en: '{:delay 0F 01}{:clear }Elizabeth...'
+- id: 10203
+  en: ¿Qué ha pasado?
+- id: 10204
+  en: >-
+    El oro...{:delay 5F 00}{:clear }y... el arca de piedra...
+
+    alguien se los ha llevado. {:delay E5 00}{:clear } {:delay 4B 00}{:clear }Nos atacaron por sorpresa, {:delay 9C 00}{:clear } {:delay 38 00}{:clear }pero no pude ver quién era.
+
+    Ocultaba su rostro...{:delay EE 00}{:clear }con una capucha negra.
+- id: 10205
+  en: ¡La Organización!
+- id: 10206
+  en: >-
+    Encontramos una salida en la cueva...{:delay 5B 00}{:clear }pero ese bellaco envió una horda de
+
+    terribles criaturas a por nosotros... {:delay 21 01}{:clear } {:delay 2F 00}{:clear }Nunca había visto algo semejante. {:delay 73 00}{:clear } {:delay 3D 00}{:clear }Creo que soy el único que
+
+    ha logrado llegar al barco.
+- id: 10207
+  en: Will...
+- id: 10208
+  en: Elizabeth... {:delay 3C 00}{:clear } {:delay 36 00}{:clear }estoy un poco...
+- id: 10209
+  en: Nos toca, chicos.
+- id: 10210
+  en: >-
+    Más vale que vayáis preparados.
+
+    No sabemos lo que hay ahí fuera.
+- id: 10211
+  en: >-
+    Mis disculpas, muchachos, {:delay 72 00}{:clear }pero vuestro capitán no quiere
+
+    saber nada de monstruos hoy. {:delay AE 00}{:clear }Gracias. Nos vamos a casa.
+- id: 10212
+  en: ¿Así de fácil?
+- id: 10213
+  en: Así de fácil.
+- id: 10214
+  en: No recuerdo haberte invitado.
+- id: 10215
+  en: >-
+    Conque la Organización.
+
+    ¡Nosotros nos ocuparemos!
+- id: 10216
+  en: >-
+    El oro maldito atrae la oscuridad que
+
+    albergan los corazones de los hombres.{:delay 13 01}{:clear }Y este sincorazón es un
+
+    auténtico maestro de la avaricia. {:delay 1C 01}{:clear }Me pregunto... si son dignos
+
+    de servir a la Organización {XIII}.
+- id: 10217
+  en: ¿Quieres ahora la respuesta?
+- id: 10218
+  en: ¡Así es!
+- id: 10219
+  en: ¡Ahí va!
+- id: 10220
+  en: ¡Esto no ha terminado!
+- id: 10221
+  en: ¡Tiradlo por la borda!
+- id: 10222
+  en: ¡Sí, Capitán!
+- id: 10223
+  en: ¡Parlamento!
+- id: 10224
+  en: ¿Cómo?
+- id: 10225
+  en: ¿Charlamento?
+- id: 10226
+  en: >-
+    Está en el Código de los piratas. {:delay 69 00}{:clear } {:delay 1E 00}{:clear }Cualquiera que invoque el "parlamento"
+
+    no debe sufrir daño alguno hasta que{:delay B0 00}{:clear }se acaben las negociaciones.
+- id: 10227
+  en: ¡A quién le importa un código ahora!
+- id: 10228
+  en: >-
+    Cierto. Pero como piratas
+
+    honorables que somos, {:delay A2 00}{:clear }hemos de respetar el Código. {:delay B4 00}{:clear }De acuerdo, habla.
+- id: 10229
+  en: >-
+    Os entrego el arca con mis
+
+    más humildes disculpas.
+- id: 10230
+  en: A fe que eso os honra, amigo. {:delay 84 00}{:clear }¿Y qué quieres a cambio?
+- id: 10231
+  en: >-
+    Solo unos cuantos souvenirs...
+
+    como recuerdo.
+- id: 10232
+  en: ¿Eh?
+- id: 10233
+  en: >-
+    ¡Oh, no!{:delay 3C 00}{:clear }¡No podemos acabar con la maldición
+
+    si no tenemos todo el oro!
+- id: 10234
+  en: >-
+    Nuestro amigo sabrá lo que pasa
+
+    cuando se traiciona a un pirata.
+- id: 10235
+  en: ¿Eh?
+- id: 10236
+  en: ¡Sora! ¡Donald! ¡Goofy! Es vuestro.
+- id: 10237
+  en: ¡Fuego!
+- id: 10238
+  en: >-
+    ¡Has vuelto a birlar
+
+    una pieza del oro!
+- id: 10239
+  en: Ojalá hubiese tenido oportunidad.
+- id: 10240
+  en: ¿Ojalá dices?
+- id: 10241
+  en: >-
+    Entonces...
+
+    ¿por qué estás en los huesos?
+- id: 10242
+  en: >-
+    Me habrá contagiado algo ese
+
+    monstruo que nos ha atacado. Pero...{:delay FF 00}{:clear }
+
+    ¿por qué vosotros tres sí tenéis piel?
+- id: 10243
+  en: ¡Porque no somos avariciosos!
+- id: 10244
+  en: ¿Qué estáis mirando?
+- id: 10245
+  en: Eso sigue sin aclarar nada.
+- id: 10246
+  en: >-
+    ¡Ahí va!{:delay 4E 00}{:clear }A lo mejor estamos bien porque
+
+    no somos de este mundo.
+- id: 10247
+  en: Pues habrá otras leyes.
+- id: 10248
+  en: Sí...{:delay 72 00}{:clear }Siempre estamos de paso.
+- id: 10249
+  en: Me pregunto cuándo volveremos a casa.
+- id: 10250
+  en: Sora...
+- id: 10251
+  en: Era una broma.{:delay 78 00}{:clear }Al menos no nos afecta la maldición.
+- id: 10252
+  en: >-
+    ¡Dejad de cotorrear, muchachos!{:delay 46 00}{:clear }¡Tenemos que agenciarnos
+
+    un barco que flote!
+- id: 10253
+  en: ¡Mirad!
+- id: 10254
+  en: ¡Una de las piezas! ¡A por él!
+- id: 10255
+  en: ¡Ya solo faltan tres!
+- id: 10256
+  en: ¿Cómo lo sabes?
+- id: 10257
+  en: >-
+    Un pirata debe tener buena vista...{:delay 78 00}{:clear }o no navegará en libertad
+
+    mucho tiempo. ¿Comprendes?
+- id: 10258
+  en: ¿Qué es eso?
+- id: 10259
+  en: ¡Hola, compañeros!
+- id: 10260
+  en: >-
+    Una imitación ridícula,
+
+    pero me siento halagado.
+- id: 10261
+  en: >-
+    {:unk13 6F 01 96 00}{:unk08 01 01 00}Jack, ¿¡qué ha ocurrido!?
+
+    ¡Esto es horrible!
+- id: 10262
+  en: >-
+    {:unk13 4E 01 39 00}{:unk08 01 00 05}Ja, ¿y a quién habríamos
+
+    de culpar, eh?
+- id: 10263
+  en: '{:unk13 E7 00 E3 00}{:unk08 01 00 01}No a Elizabeth, por supuesto.'
+- id: 10264
+  en: >-
+    {:unk13 68 01 5E 01}{:unk08 01 00 02}Es la Organización {XIII}.{:clear }Ellos son quienes
+
+    andan detrás de esto.
+- id: 10265
+  en: '{:unk13 CA 00 0A 01}{:unk08 01 01 01}¿Adónde habrán ido?'
+- id: 10266
+  en: >-
+    {:unk13 94 00 AD 00}{:unk08 01 01 01}El hombre encapuchado se
+
+    llevó con él a sus criaturas
+
+    y a los piratas a través...{:clear }de un extraño agujero.{:clear }Los vimos marcharse
+
+    desde el interior del
+
+    camarote del capitán.
+- id: 10267
+  en: >-
+    {:unk13 22 01 A7 00}{:unk08 01 01 02}¿Y no se te ocurrió
+
+    enfrentarte a ellos, amigo?
+- id: 10268
+  en: >-
+    {:unk13 8D 00 9F 00}{:unk08 01 01 01}No soy tan necio.{:clear }Sabía que no era
+
+    rival para ellos.
+- id: 10269
+  en: '{:unk13 27 01 A0 00}{:unk08 01 01 02}Eso sí me lo creo.'
+- id: 10270
+  en: >-
+    {:unk13 01 01 39 00}{:unk08 01 00 04}Sora, creo que vamos
+
+    a necesitar tu ayuda.
+- id: 10271
+  en: '{:unk13 86 01 5A 00}{:unk08 01 01 05}Eso está hecho.'
+- id: 10272
+  en: >-
+    {:unk13 07 01 2D 00}{:unk08 01 00 04}Primero, encontremos
+
+    todas las piezas de oro.{:clear }Si no, la maldición
+
+    seguirá su curso...{:clear }y las criaturas continuarán
+
+    siendo invencibles.
+- id: 10273
+  en: >-
+    ¡Cuatro piezas!
+
+    ¡Las tenemos todas!
+- id: 10274
+  en: ¿Pero dónde está el arca?
+- id: 10275
+  en: >-
+    La hallaremos cuando demos
+
+    con el encapuchado.
+- id: 10276
+  en: Quizá en Port Royal.
+- id: 10277
+  en: ¿Y eso por qué?
+- id: 10278
+  en: >-
+    La Organización necesita
+
+    corazones humanos,{:delay A8 00}{:clear }así que irá donde haya más gente.
+- id: 10279
+  en: ¿Harán daño a los ciudadanos?
+- id: 10280
+  en: >-
+    No, les van a llevar flores, chico. {:delay 8E 00}{:clear }No sé quiénes son esos
+
+    de la Organización, {:delay 78 00}{:clear }pero te diré qué hacen que los
+
+    piratas parezcamos gente de bien.
+- id: 10281
+  en: Jack... {:delay 3C 00}{:clear }{:delay 54 00}{:clear }Entonces... tenemos que ayudar.
+- id: 10282
+  en: ¡Pues vayamos a toda vela!
+- id: 10283
+  en: ¡De este me encargo yo!
+- id: 10284
+  en: ¡Y ahora, a romper la maldición!
+- id: 10285
+  en: ¡La maldición ha desaparecido!
+- id: 10286
+  en: Pues explicadme esto...
+- id: 10287
+  en: >-
+    Oh, ya entiendo.{:delay 7E 00}{:clear }Jack debe de estar maldito por
+
+    culpa del monstruo, no por el oro.
+- id: 10288
+  en: ¡Vaya! Entonces, sin problemas.
+- id: 10289
+  en: >-
+    Tranquilo, Jack.{:delay 42 00}{:clear }Solo tenemos que vencer al
+
+    monstruo, nada más.
+- id: 10290
+  en: ¡Coged el oro!
+- id: 10291
+  en: Mucho mejor.
+- id: 10292
+  en: No del todo, compañero.
+- id: 10293
+  en: Sora... ¡Bravo!
+- id: 10295
+  en: ¿Pero quién era ese gañán?
+- id: 10296
+  en: >-
+    Es miembro de una organización
+
+    que se dedica a reunir corazones.{:delay CC 00}{:clear }Primero sueltan a los sincorazón
+
+    en distintos mundos,{:delay BA 00}{:clear }nosotros los derrotamos,
+
+    y luego se llevan los corazones.{:delay 8C 00}{:clear }Así no los detendremos nunca.
+- id: 10297
+  en: ¿Y cuál es el plan?
+- id: 10298
+  en: >-
+    Tenemos que encontrar su guarida y
+
+    acabar con ellos de una vez por todas.
+- id: 10299
+  en: >-
+    Navegando por estas aguas he oído
+
+    muchos relatos, pero ninguno como este.
+- id: 10300
+  en: ¿Podemos ayudaros en algo?
+- id: 10301
+  en: Mmm...
+- id: 10302
+  en: ¿Nada que podamos hacer?
+- id: 10303
+  en: Sí que hay algo.
+- id: 10304
+  en: >-
+    Está claro que no
+
+    nos interesa tener por aquí{:delay 88 00}{:clear }a esos encapuchados
+
+    ni a los sincorazón.{:delay 8A 00}{:clear }Arruinarían el negocio
+
+    a los honrados piratas.
+- id: 10305
+  en: >-
+    Por eso fuiste a Port Royal.{:delay 87 00}{:clear }Y nosotros pensando que
+
+    querías salvar a todos...
+- id: 10306
+  en: >-
+    Un pirata siempre busca
+
+    sacar tajada, Srta. Swann.
+- id: 10307
+  en: >-
+    ¡Qué pena! Nos tenías engañados.
+
+    Creíamos que habías pasado página.
+- id: 10308
+  en: >-
+    La cuestión es...
+
+    ¿qué hay tras la página? ¿Comprendes?
+- id: 10309
+  en: >-
+    Ah, claro...
+
+    Una recompensa. ¿En qué has pensado?
+- id: 10310
+  en: La bella espada de Sora.
+- id: 10311
+  en: ¿Eh?
+- id: 10312
+  en: Bueno, vale.
+- id: 10313
+  en: Espera. Ha sido demasiado fácil. {:delay A9 00}{:clear }¿Dónde está la pega?
+- id: 10314
+  en: Ohh, ya veo...
+- id: 10315
+  en: Siempre tendrás la "Perla", Jack.
+- id: 10316
+  en: >-
+    Así es. {:delay 50 00}{:clear }Pero algún día reuniré a
+
+    la tripulación más sanguinaria{:delay 78 00}{:clear }que se haya visto y vendré
+
+    a quitarte esa espada. {:delay 8E 00}{:clear }Para entonces,
+
+    espero saber cómo he de empuñarla.
+- id: 10317
+  en: >-
+    Y si lo consigo,
+
+    tal vez os pida que vengáis conmigo.{:delay E1 00}{:clear }Esa sería mi recompensa.
+- id: 10318
+  en: Hecho.
+- id: 10319
+  en: >-
+    Puede que algún día
+
+    Jack consiga blandir la llave espada{:delay B0 00}{:clear }después de todo.
+- id: 10320
+  en: ¿Y eso?
+- id: 10321
+  en: >-
+    ¡Ajiah! Jack y Sora se parecen
+
+    un poco, ¿no creéis?
+- id: 10322
+  en: ¡Qué va!
+- id: 10323
+  en: >-
+    Hay quien dice que Jack Sparrow
+
+    es el peor pirata que jamás{:delay 82 00}{:clear }haya navegado por aguas del Caribe.
+- id: 10324
+  en: Nadie puede decir eso en serio.
+- id: 10325
+  en: >-
+    Cierto. Nosotros sabemos
+
+    que es el mejor.
+- id: 10326
+  en: Espero que volvamos a verle.
+- id: 10427
+  en: Ah, pero a la luz de la luna...
+- id: 10431
+  en: ¡Es una emboscada! ¡Tendrás que vencerlos a todos o huir al interior del barco!
+- id: 10432
+  en: >-
+    Cuando Barbossa me capturó,
+
+    no quería que supiera...{:clear }que era la hija del gobernador.{:clear }Por eso le di el nombre de Turner.
+
+    ¡No sabía que nos llevaría a esto!
+- id: 14156
+  en: ¡Vence a Barbossa con ayuda de Jack!
+- id: 14157
+  en: >-
+    ¡Vence a Barbossa con ayuda de Jack!
+
+    ¡Derrota al sincorazón que causa la
+
+    oscuridad, y luego lucha con Barbossa!
+
+    ¡Si usas magia, será más fácil!
+- id: 15191
+  en: ¡Queda una pieza! ¡Busca a los incorpóreos en otros lugares!
+- id: 15192
+  en: ¡Quedan dos piezas! ¡Busca a los incorpóreos en otros lugares!
+- id: 15193
+  en: ¡El incorpóreo ha escapado!
+- id: 15229
+  en: >-
+    ¡Vence al incorpóreo y recupera el oro
+
+    antes de que escape!
+- id: 15230
+  en: >-
+    ¡Busca al incorpóreo oculto en la
+
+    oscuridad y recupera la pieza de oro!
+- id: 15231
+  en: >-
+    ¡Busca al incorpóreo oculto
+
+    y recupera la pieza de oro!
+- id: 15232
+  en: >-
+    ¡El incorpóreo aparecerá cuando hayas
+
+    vencido a todos los piratas!
+
+    ¡Si usas la luz de la luna,
+
+    te resultará más fácil!
+- id: 15233
+  en: >-
+    ¡Vence al incorpóreo y recupera el oro
+
+    antes de que escape!
+- id: 15234
+  en: >-
+    ¡Vence al incorpóreo y recupera el oro
+
+    antes de que escape!
+- id: 15851
+  en: >-
+    ¿Quieres alcanzar a la {:theme 0A}"Perla Negra"{:reset}?
+
+    Entonces déjate de rodeos y vámonos.
+- id: 15852
+  en: >-
+    Será mejor que {:theme 0A}volvamos a Port Royal{:reset}.
+
+    Allí estaremos a salvo.
+- id: 15853
+  en: ¡Eh! ¡Quita tus manos de mi timón!
+- id: 15854
+  en: >-
+    Yo tampoco confío en piratas,
+
+    pero espero que Jack sea majo.{:clear }Debemos llevar a casa a Elizabeth,
+
+    así que volvamos {:theme 0A}a Port Royal{:reset}.
+- id: 15855
+  en: >-
+    Asociarse a los sincorazón... ¡Eso es 
+
+    caer muy bajo, incluso para un pirata!{:clear }¡No queda más remedio que
+
+    poner rumbo a la Isla de Muerta!
+- id: 15856
+  en: >-
+    Seguro que Jack estará bien.{:clear }Es uno de esos tipos que sale bien
+
+    de todos los líos.
+- id: 15857
+  en: >-
+    Will fue capturado mientras trataba
+
+    de ayudarnos.{:clear }¡Sé que nuestros enemigos están
+
+    al acecho, pero no podemos abandonarle!
+- id: 15858
+  en: >-
+    A saber dónde estarán esos tipos.
+
+    ¡Habrá que buscarles por todas partes!{:clear }Dudo que estén en la ciudad.
+
+    A ver, ¿por dónde empezamos?
+- id: 15859
+  en: >-
+    Los incorpóreos han robado
+
+    cuatro piezas de oro, ¿no?{:clear }Mmm... Me pregunto dónde
+
+    pueden estar.
+- id: 15860
+  en: >-
+    Si alguien invoca "parlamento", se deben
+
+    suspender las hostilidades y negociar.{:clear }Así de simple.
+
+    Hasta los piratas tenemos un código.
+- id: 15861
+  en: >-
+    Fuimos arrojados de la "Perla Negra"
+
+    al "Interceptor" por ese sincorazón.{:clear }Si el "Interceptor" no fuera tan sólido,
+
+    nos habríamos hundido antes de llegar aquí.
+- id: 15862
+  en: >-
+    Este parece ser el sitio al que llegan
+
+    los barcos naufragados.{:clear }Quizá haya un bote en buen estado
+
+    que podamos usar. {:theme 0A}Echemos un vistazo.{:reset}
+- id: 15863
+  en: >-
+    ¡Apuesto a que esos sincorazón
+
+    nos esperan en la ciudad!{:clear }Están usando el poder del oro azteca...
+
+    ¡Tendremos que confiar en nuestra magia!
+- id: 15864
+  en: >-
+    Bueno, ya tenemos las piezas de oro.
+
+    Ahora solo queda devolverlas.{:clear }Probablemente, la Organización {XIII} esté en
+
+    la ciudad. El arca debe de estar allí.
+- id: 15865
+  en: >-
+    ¡Es una emboscada! ¡Tendrás que vencerlos a
+
+    todos o huir al interior del barco!
+- id: 15900
+  en: >-
+    No quiero oír hablar de monstruos
+
+    ni de maldiciones.{:clear }Pienso zarpar de todos modos,
+
+    así que daos prisa. A vuestros puestos.
+- id: 15901
+  en: >-
+    Jack no quiere ayudarnos.{:clear }Debemos enfrentarnos a la Organización {XIII},
+
+    pero necesitamos un barco.
+- id: 15902
+  en: >-
+    La Organización {XIII} está ahora
+
+    en este mundo, ¿no?{:clear }Seguro que no traman nada bueno.
+
+    Será mejor que estemos en guardia.
+- id: 15904
+  en: >-
+    ¿Quieres probar esa
+
+    tabla deslizante otra vez?
+- id: 15905
+  en: >-
+    A pesar de todo, me sigue
+
+    fascinando la vida en altamar.{:clear }Creo que me gustaría
+
+    viajar un poco más.
+- id: 15916
+  en: Parece que hay brisita, ¿no?
+- id: 15917
+  en: >-
+    Temía que Donald acabara maldito
+
+    por culpa de ese oro.{:clear }Seguro que se enfada conmigo por
+
+    pensarlo... Ya sabes cómo es Donald.
+- id: 15960
+  en: >-
+    Vamos ya tras el barco de Will,
+
+    por favor. Temo por él.
+- id: 15961
+  en: >-
+    ¡Esas malditas piezas de oro nos han
+
+    causado un montón de problemas!{:clear }¡Y todo porque hay gente que intenta
+
+    robar tesoros! ¡Diantres!
+- id: 16669
+  en: '{:unk13 9F 00 04 01}{:unk08 01 00 02}¡Por supuesto!{:clear }Yo soy Sora.'
+- id: 16670
+  en: >-
+    {:unk13 9F 00 04 01}{:unk08 01 00 02}Estos son Donald
+
+    y Goofy.
+- id: 17009
+  en: >-
+    {:unk13 97 01 46 00}{:unk08 01 00 06}Esos piratas
+
+    estaban malditos.
+- id: 17010
+  en: >-
+    {:unk13 1B 01 39 00}{:unk08 01 01 06}Creí que habíamos visto el fin
+
+    de la maldición del oro azteca...{:clear }¿Por qué entonces...?
+- id: 17011
+  en: >-
+    {:unk13 3D 01 42 00}{:unk08 01 00 05}¡Espera, Jack!
+
+    Necesito tu ayuda.
+- id: 17012
+  en: >-
+    {:unk13 51 01 3B 00}{:unk08 01 00 05}Los piratas malditos
+
+    han regresado. Will
+
+    quería saber por qué...{:clear }así que fue a la Isla
+
+    de Muerta...{:clear }a inspeccionar
+
+    el oro azteca.{:clear }Temo que algo le haya
+
+    ocurrido. Tienes que
+
+    llevarme con él.
+- id: 17105
+  en: >-
+    Barbossa estará en la Isla de Muerta,
+
+    intentando deshacer la maldición. ¡Deprisa!
+- id: 17106
+  en: >-
+    ¿Qué diablos haré yo regresando
+
+    a la Isla de Muerta...?
+- id: 17107
+  en: >-
+    Vamos a tener que navegar por todo
+
+    el lugar para dar con el maldito oro.
+- id: 17108
+  en: >-
+    Entonces volvemos a la ciudad, ¿no?
+
+    Partiremos en cuanto estéis listos.
+- id: 17109
+  en: >-
+    ¡No puedo creer que Will haya vuelto a
+
+    {:theme 0A}la Isla de Muerta{:reset}! ¿¡Qué pretende!?
+- id: 17110
+  en: >-
+    Elizabeth está muy preocupada.
+
+    Hay que encontrar a Will pronto.
+- id: 17352
+  en: ¡Se te ha caído la pieza de oro!
+- id: 17353
+  en: ¡Han robado el medallón! ¡Recupéralo rápido!
+- id: 17354
+  en: ¡Recupera el medallón! ¡Rápido!
+- id: 17426
+  en: >-
+    Parece que Barbossa ha hecho
+
+    de las suyas...{:clear }Pero ya tengo la información
+
+    que necesito. Cuando queráis.
+- id: 17427
+  en: >-
+    Will es un herrero, y la chica
+
+    que han secuestrado es la hija...{:clear }de uno de sus
+
+    mejores clientes.{:clear }Pero, si me preguntas, diría que Will
+
+    parece más un espadachín que un herrero.
+- id: 17428
+  en: >-
+    Parece que el pirata que estaba
+
+    con Pete se llama Barbossa.{:clear }La gente dice que cuando quiere algo
+
+    nada le detiene. ¿Qué andará buscando?
+- id: 17687
+  en: >-
+    Aunque me pese, he de reconocer
+
+    que no todos los pirata son iguales.{:clear }Muchas gracias a ti, Sora.
+
+    Y, por supuesto, a Jack.
+- id: 17688
+  en: >-
+    No es la primera vez que veo piratas
+
+    malditos, no me sorprende.{:clear }Esos miembros de la Organización {XIII}
+
+    no son personas reales.{:clear }Son... otra cosa,
+
+    ¿no?
+- id: 18341
+  en: >-
+    ‛Para usar en caso de ataque pirata.
+
+    Comodoro Norrington."
+- id: 18342
+  en: '"Un presente para los piratas."'
+- id: 18343
+  en: >-
+    "Un símbolo de paz y prosperidad
+
+    en Port Royal."
+- id: 18344
+  en: Timón del "Interceptor", un navío de la marina.
+- id: 18345
+  en: Para usar contra piratas.
+- id: 18346
+  en: >-
+    Manejar este cañón es peligroso.
+
+    Fue instalado con sumo cuidado.
+- id: 18347
+  en: Aquí hay muchas raciones.
+- id: 18348
+  en: >-
+    Este barco está listo
+
+    para el combate.
+- id: 18349
+  en: >-
+    Puedes percibir un leve olor
+
+    a grasa y pólvora.
+- id: 18350
+  en: >-
+    El timón de la "Perla Negra",
+
+    el barco más rápido jamás construido.
+- id: 18351
+  en: >-
+    La campana está abollada.
+
+    Habrá sido cosa de los piratas.
+- id: 18352
+  en: >-
+    Hay riquezas y abalorios de todo tipo,
+
+    pero el arca está vacía.
+- id: 18353
+  en: >-
+    Parece el botín de las corredurías
+
+    de Barbossa. El arca está vacía.
+- id: 18354
+  en: >-
+    Jack no ha perdido el tiempo pirateando.
+
+    El arca, eso sí, está vacía.
+- id: 18355
+  en: >-
+    Aquellos que roben el oro serán
+
+    maldecidos con la inmortalidad.
+- id: 18356
+  en: Esto es lo que queda del "Interceptor".
+- id: 18405
+  en: Este lugar no es accesible ahora.
+- id: 18710
+  en: >-
+    ¡Trata de usar ataques mágicos y físicos
+
+    para derrotar al sincorazón!
+- id: 18711
+  en: >-
+    ¡Puedes usar magia para recoger las piezas
+
+    de oro en poder del sincorazón!
+
+    ¡Devuélvelas al arca para ayudar
+
+    a vencer a los enemigos!
+- id: 18918
+  en: >-
+    He encontrado algo extraño. Es una
+
+    tabla con ruedas. ¿Sabrás usarla?
+- id: 18919
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Parece divertido. ¿Quieres probar?
+
+    {:chardelay 33 00}Mmm, creo que no.
+
+    {:chardelay 52 00}Sí, me la llevo.
+- id: 18920
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Parece un monopatín.
+
+    ¿Lo pruebo?
+
+    {:chardelay 33 00}Mmm, creo que no.
+
+    {:chardelay 52 00}Sí, me lo llevo.
+- id: 19109
+  en: >-
+    Parece que esta campana se
+
+    usa para indicar las horas.
+- id: 19110
+  en: >-
+    Este barco está muy bien equipado
+
+    para ser un navío de la marina.
+- id: 19111
+  en: >-
+    Este cañón es una prueba
+
+    de las intenciones de Barbossa.
+- id: 19347
+  en: ¡Trata de usar magia para recoger las piezas de oro en poder del sincorazón, y devuélvelas al arca!
+- id: 19348
+  en: ¡El jefe sincorazón está robando el oro! ¡Detenlo!
+- id: 19619
+  en: ¡Derrota al sincorazón que causa la oscuridad!
+- id: 19745
+  en: Port Royal
+- id: 19877
+  en: ¡No lo entiendo!
+- id: 19878
+  en: ¡Vamos!
+- id: 19879
+  en: ¿Por qué no funciona?
+- id: 19880
+  en: ¡Necesitas más sangre!
+- id: 19881
+  en: ¡Acaba de una vez!
+- id: 20187
+  en: >-
+    {:unk08 02 00 06}Una Esencia intangible, un ente
+
+    oscuro ligado a un arma.
+
+    {:chardelay 33 00}Mejor no arriesgarse.
+
+    {:chardelay A1 00}¡Habrá que examinarla!
+- id: 20614
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡Identifica al original y no le des tregua!
+- id: 21548
+  en: "{:delayandfade 07 78} \nSora y sus amigos dan buena\ncuenta de los rivales y obligan a\nPete a poner tierra de por medio.\n \nSin embargo, Barbossa y sus\nesbirros parecen tener otro\nobjetivo en mente y se apresuran\nhacia el corazón de Port Royal.\n \n \n"
+- id: 21549
+  en: "{:delayandfade 07 78} \nSora y Will no tardan en hacer\nbuenas migas y juntos se proponen\nsalvar a la Srta. Elizabeth Swann,\nhija del gobernador de Port Royal.\n \nDecididos, se apresuran hacia\nel puerto, donde está fondeado\nel barco de los piratas.\n \n"
+- id: 21550
+  en: "{:delayandfade 07 78} \nEl valiente grupo arriba a\nla Isla de Muerta.\n \nNada más llegar, tanto Jack,\nalentado por la idea de recuperar\nsu amada \"Perla Negra\", como\nWill, que solo piensa en salvar\na Elizabeth, se adentran sin\ncontemplaciones en la isla.\n \n"
+- id: 21551
+  en: "{:delayandfade 0A 5A} \nQuedarse vigilando la retaguardia\nno es un plan que guste a Sora,\npor lo que decide ir en auxilio\nde sus camaradas.\n \n \n \n \n \n \n"
+- id: 21552
+  en: "{:delayandfade 0A 78} \nAl volver al barco, Sora se\npercata de la ausencia de Jack.\nEs entonces cuando Will narra\ntodo lo sucedido en la isla...\n \n \n \n \n"
+- id: 21553
+  en: "{:delayandfade 0A 78} \nWill no se fía de los piratas,\ny mucho menos de uno como Jack.\nEsa es la razón de que decidiera\nabandonarlo en la isla y volver\na Port Royal.\n \n \n \n"
+- id: 21554
+  en: "{:delayandfade 07 78} \nAtrapados en la bodega del navío\ny rodeados de barriles de pólvora,\ntodos parecen condenados a acabar\nen el fondo de los mares.\n \nPero gracias a la astucia del\nlegendario Jack y a la destreza\nde Sora con su llave espada,\nel grupo sale ileso una vez más.\n \n"
+- id: 21555
+  en: "{:delayandfade 0A 78} \nLas cosas no parecen estar\nnada tranquilas en Port Royal\ncuando Sora y los suyos\nllegan de nuevo a puerto.\n \n \n \n"
+- id: 21556
+  en: "{:delayandfade 07 78}La maldición del oro azteca\nsigue afectando a los piratas,\nrazón por la que Will se ha\nmarchado a la Isla de Muerta\nen busca de respuestas.\n \nSora y los suyos abordan de\nnuevo la \"Perla Negra\" y siguen\nlos pasos del valeroso joven.\n \n"
+- id: 21557
+  en: "{:delayandfade 08 78} \n¡La Organización {XIII} no puede\nsalirse con la suya!\n \nAunque Sora y sus amigos desean\nplantar cara a su enemigo, saben \nque sin las piezas de oro que\nfaltan no tienen ninguna oportunidad,\npor lo que no pierden el tiempo\ny dan caza a quienes se\nlas llevaron.\n"

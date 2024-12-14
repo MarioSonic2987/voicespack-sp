@@ -1,0 +1,1881 @@
+﻿- id: 3018
+  en: >-
+    Din Don ha ido a los
+
+    aposentos del amo.{:clear }Por favor, Sora, ve con él.{:theme 0A}
+
+    El amo{:reset} está solo.
+- id: 3019
+  en: >-
+    ¡No permitiremos que nadie sospechoso
+
+    merodee por el castillo!{:clear }Aunque usted, por supuesto,
+
+    siempre será bienvenido.
+- id: 3020
+  en: >-
+    Estoy seguro de que el amo
+
+    se arrepiente de lo que ha dicho.{:clear }Por favor, {:theme 0A}
+
+    ayúdele a recuperar la rosa{:reset}.
+- id: 3021
+  en: >-
+    El hombre de negro huyó
+
+    {:theme 0A}hacia el jardín{:reset}.{:clear }Prepárense para lo que venga
+
+    y tengan mucho cuidado.
+- id: 3022
+  en: >-
+    El salón de baile y los jardines
+
+    son lo mejor de este castillo.{:clear }Espero que esos intrusos
+
+    no causen daños...
+- id: 3023
+  en: >-
+    Si pudiera, me encantaría
+
+    ofrecerles un té...{:clear }Traten de descansar un poco.
+
+    Este sitio parece bastante seguro.
+- id: 3024
+  en: >-
+    Tendríais que poder llegar al
+
+    sótano por el {:theme 0A}corredor oeste{:reset}.{:clear }Probablemente estén todos
+
+    encerrados abajo, en la mazmorra.
+- id: 3025
+  en: >-
+    Bestia es una persona de buen corazón.
+
+    Estoy segura de que todo saldrá bien.
+- id: 3026
+  en: >-
+    Por favor...
+
+    me gustaría estar a solas...
+- id: 3027
+  en: >-
+    Esperaré aquí.
+
+    ¡Por favor, vayan a rescatar a los otros!
+- id: 3028
+  en: >-
+    ¿Buscan a Bella? Se fue
+
+    tras el hombre de negro.{:clear }Me preocupa que el amo vaya solo.
+
+    ¿Podrían ayudarle a {:theme 0A}encontrar a Bella{:reset}?
+- id: 3029
+  en: >-
+    Este castillo cambió
+
+    totalmente cuando llegó Bella.
+- id: 3030
+  en: >-
+    Me temo que Bella no está.{:clear }Pero su ropa sigue aquí,
+
+    así que dudo que haya salido.{:clear }¿Por qué no la buscan en
+
+    {:theme 0A}los aposentos del amo{:reset}?
+- id: 3031
+  en: >-
+    Bella lleva así demasiado tiempo.{:clear }Y no hay nada que yo pueda
+
+    hacer para animarla...
+- id: 3032
+  en: >-
+    Ahora que lo dice, he visto por la
+
+    ventana a un hombre vestido de negro.{:clear }Parecía dirigirse al {:theme 0A}jardín{:reset}.
+- id: 3033
+  en: >-
+    Las armaduras del corredor oeste
+
+    deberían dejarle pasar ahora.{:clear }¡Por favor, {:theme 0A}vaya a ver a Bella{:reset}!
+
+    ¡Deprisa!
+- id: 3034
+  en: >-
+    ¿Qué sucede?{:clear }¿Deberíamos ir tras Bella
+
+    también?
+- id: 3035
+  en: ¡Oh, esto es horrible!{:clear }Creo que el amo se va a {:theme 0A}sus aposentos{:reset}.
+- id: 3036
+  en: >-
+    ¿¡Entonces esas cosas nos atacaron
+
+    solo para distraernos!?
+- id: 3037
+  en: >-
+    Nunca había visto al amo
+
+    tan furioso.{:clear }Cuando el hombre de negro dijo ‛algo
+
+    muy preciado para ti’, no se referiría a...
+- id: 3038
+  en: >-
+    ¿Sabíais que Din Don también
+
+    puede hacer sonar su alarma?{:clear }¡Es tan fuerte que
+
+    despertaría a cualquiera!
+- id: 3039
+  en: >-
+    Parece que todas las estatuas del
+
+    castillo se han vuelto malas.{:clear }Por favor, tengan cuidado.
+- id: 3040
+  en: >-
+    Por favor, vayan arriba {:theme 0A}y pregunten{:reset}
+
+    a Din Don por el pasadizo secreto.
+- id: 3044
+  en: ¡Derrota a los sincorazón!
+- id: 3046
+  en: ¡Ayuda a Bestia a entrar en razón!
+- id: 3049
+  en: ¡Vence a todos los incorpóreos!
+- id: 3050
+  en: ¡Vence a todos los incorpóreos!
+- id: 3066
+  en: ¿Eh? ¿Qué sitio es este?
+- id: 3067
+  en: ¡Es enorme!
+- id: 3068
+  en: Y un poco siniestro, ¿no creéis?
+- id: 3069
+  en: ¿Quién vivirá aquí?
+- id: 3070
+  en: ''
+- id: 3071
+  en: Oye, ¿no os suena ese rugido?
+- id: 3072
+  en: ¡Eh! ¡Es Bestia!
+- id: 3073
+  en: ¡Sí!
+- id: 3074
+  en: ¿Y si vamos a ver qué le pasa?
+- id: 3075
+  en: ¡Mirad!
+- id: 3076
+  en: ¡Vamos!
+- id: 3077
+  en: ¿Dónde se ha metido?
+- id: 3078
+  en: ¡Está aquí!
+- id: 3079
+  en: ''
+- id: 3080
+  en: Oh, vamos, basta ya.
+- id: 3081
+  en: ¡Que alguien nos ayude!
+- id: 3082
+  en: ¡Justo a tiempo!
+- id: 3083
+  en: >-
+    ¡Ahí va! ¿Creéis que
+
+    se ha olvidado de nosotros?
+- id: 3084
+  en: >-
+    Con tantos sincorazón sueltos,
+
+    algo ha debido pasar.
+- id: 3085
+  en: ¿Por qué habrá hecho eso?
+- id: 3086
+  en: ''
+- id: 3087
+  en: >-
+    {:unk13 5E 01 18 01}{:unk08 01 00 02}Si Bestia está aquí,
+
+    Bella debería de estar
+
+    cerca, ¿no?
+- id: 3088
+  en: >-
+    {:unk13 18 01 2C 01}{:unk08 01 00 01}Cierto.
+
+    Quizá Bella sepa algo
+
+    sobre lo que está pasando.
+- id: 3089
+  en: '{:unk13 C8 00 5E 01}{:unk08 01 01 02}¡Vamos a buscarla!'
+- id: 3090
+  en: '{:unk13 9A 01 64 00}{:unk08 01 00 05}¿Qué ocurre?'
+- id: 3091
+  en: >-
+    {:unk13 AA 00 96 00}{:unk08 01 01 05}Me ha parecido ver
+
+    a una mujer al final
+
+    de esas escaleras...
+- id: 3094
+  en: ¡Donald!
+- id: 3095
+  en: ¡Me alegra tanto que estéis aquí!
+- id: 3096
+  en: ¡Donald!
+- id: 3097
+  en: ¡Sora! ¡Goofy!
+- id: 3098
+  en: ¿Qué tal?
+- id: 3099
+  en: ¡Bájame! ¡Bájameee!
+- id: 3100
+  en: ¿Qué puedo hacer?
+- id: 3101
+  en: ¡Shhh!
+- id: 3102
+  en: ¡Allá voy!
+- id: 3103
+  en: ¡Eh! ¿Quién ha abierto la puerta?
+- id: 3104
+  en: '{:unk13 A0 00 DC 00}{:unk08 01 01 06}¿Dónde está Bestia?'
+- id: 3105
+  en: >-
+    {:unk13 36 01 46 00}{:unk08 01 00 05}Quizá esté en el ala oeste.
+
+    Últimamente no hablamos mucho.
+- id: 3106
+  en: '{:unk13 6D 00 8F 00}{:unk08 01 01 06}¿Ha pasado algo?'
+- id: 3107
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}Sí.{:clear }¿Es que no estáis
+
+    aquí por eso?
+- id: 3108
+  en: >-
+    {:unk13 FA 00 32 00}{:unk08 01 00 05}No exactamente. ¡Pero
+
+    podemos echar una mano!
+- id: 3109
+  en: '{:unk13 0E 01 32 00}{:unk08 01 01 06}Ya que estamos aquí...'
+- id: 3110
+  en: '{:unk13 A0 00 A0 00}{:unk08 01 01 06}¿Bestia no te habla?'
+- id: 3111
+  en: '{:unk13 4A 01 50 00}{:unk08 01 00 05}Últimamente está muy raro.'
+- id: 3112
+  en: >-
+    {:unk13 4A 01 46 00}{:unk08 01 00 05}Los únicos que podrían
+
+    saber la razón están
+
+    encerrados en la mazmorra.{:clear }Quisiera ayudarlos,
+
+    pero...
+- id: 3113
+  en: >-
+    {:unk13 0E 01 3C 00}{:unk08 01 01 06}Un momento.
+
+    ¿Quién ha encerrado a quién?
+- id: 3114
+  en: >-
+    {:unk13 FA 00 2C 01}{:unk08 01 00 01}Bestia encerró
+
+    a sus sirvientes.
+- id: 3115
+  en: '{:unk13 40 01 A0 00}{:unk08 01 00 05}Pero ¿por qué?'
+- id: 3116
+  en: '{:unk13 FA 00 32 00}{:unk08 01 00 05}Eso quisiera saber yo.'
+- id: 3117
+  en: '{:unk13 49 01 2A 01}{:unk08 01 00 00}Mmm.{:clear }¿Dónde está la mazmorra?'
+- id: 3118
+  en: >-
+    {:unk13 4A 01 46 00}{:unk08 01 00 05}Podéis acceder al sótano
+
+    por el corredor oeste.
+
+    La mazmorra está allí.
+- id: 3119
+  en: '{:unk13 2C 01 2C 01}{:unk08 01 00 00}Corredor oeste. Vale.'
+- id: 3120
+  en: '{:unk13 A0 00 46 00}{:unk08 01 01 06}¡Tened cuidado!'
+- id: 3121
+  en: >-
+    {:unk13 5E 01 32 00}{:unk08 01 00 05}Debería de haber un camino
+
+    al sótano por aquí...
+- id: 3122
+  en: '{:unk06 02}{:unk13 8C 00 C8 00}{:unk08 03 01 06}¡Aquí está!'
+- id: 3123
+  en: >-
+    {:unk06 02}{:unk13 B4 00 46 00}{:unk08 03 01 06}¡Con su
+
+    permiso!
+- id: 3124
+  en: >-
+    {:unk13 F3 00 BE 00}{:unk08 01 01 01}Justo cuando
+
+    empezaba a
+
+    ponerme cómoda...
+- id: 3125
+  en: '{:unk13 7C 01 32 00}{:unk08 01 00 05}¿Puedo ayudarles?'
+- id: 3126
+  en: >-
+    {:unk13 7C 01 50 00}{:unk08 01 00 05}¿Eh?{:clear }¿Qué?{:clear }Oh, sí.
+
+    Bella nos ha pedido
+
+    que vayamos al sótano.
+- id: 3127
+  en: >-
+    {:unk13 AB 00 33 00}{:unk08 01 01 06}¡Cielos!{:clear }¿Quieren ayudar a mis amigos?
+
+    Haberlo dicho antes...
+- id: 3128
+  en: '{:unk13 DC 00 5E 01}{:unk08 01 00 01}Eehh...'
+- id: 3129
+  en: >-
+    {:unk13 86 01 32 00}{:unk08 01 00 05}Lamento
+
+    haberles asustado.{:clear }Yo antes era
+
+    humana, hasta...{:clear }que una hechicera
+
+    me lanzó un hechizo.
+- id: 3130
+  en: >-
+    {:unk13 2C 01 78 00}{:unk08 01 00 06}Me convirtió en un armario,
+
+    y al príncipe en una bestia.
+- id: 3131
+  en: '{:unk13 2C 01 46 00}{:unk08 01 00 05}¿¡El príncipe es Bestia!?'
+- id: 3132
+  en: '{:unk13 B4 00 E6 00}{:unk08 01 01 00}¿¡Bestia es un príncipe!?'
+- id: 3133
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}Así es.{:clear }Aunque no solía comportarse
+
+    como un príncipe.
+- id: 3134
+  en: >-
+    {:unk13 72 01 32 00}{:unk08 01 00 05}Cuéntanos más sobre
+
+    ese... hechizo.
+- id: 3135
+  en: '{:unk13 2B 01 2E 00}{:unk08 01 00 05}Bien. Era una fría noche de invierno...'
+- id: 3136
+  en: >-
+    {:unk13 C8 00 36 00}{:unk08 01 01 06}Y eso es todo por ahora.{:clear }Oirán el resto cuando
+
+    hayan rescatado a los demás.{:clear }Eso les servirá
+
+    de incentivo.
+- id: 3137
+  en: '{:unk13 FA 00 B4 00}{:unk08 01 00 05}Pues vaya...'
+- id: 3138
+  en: >-
+    {:unk13 3E 01 4A 00}Aprisa. La mazmorra
+
+    es húmeda y fría.{:clear }¡No es un buen sitio para un reloj!
+- id: 3139
+  en: '{:unk13 F1 00 29 00}{:unk08 01 00 05}¿Un reloj?'
+- id: 3140
+  en: '{:unk13 FA 00 32 00}{:unk08 01 01 06}Pronto lo descubrirán.'
+- id: 3141
+  en: >-
+    {:unk13 E6 00 32 00}{:unk08 01 01 06}Vale.
+
+    En marcha.
+- id: 3142
+  en: Debe de ser aquí.
+- id: 3143
+  en: ¡Oh, oh!
+- id: 3144
+  en: >-
+    {:unk13 65 01 A9 00}{:unk08 01 01 05}¿Creéis que la mazmorra
+
+    está tras esa puerta?
+- id: 3145
+  en: >-
+    {:unk13 8B 00 A7 00}{:unk08 01 01 06}¡Vamos, tenemos que
+
+    liberar a los sirvientes!
+- id: 3146
+  en: '{:unk13 5E 01 C8 00}{:unk08 01 00 05}Tienes razón. Adelante.'
+- id: 3147
+  en: Aquí no hay nadie.
+- id: 3148
+  en: Entonces, ¿no hay rescate?
+- id: 3149
+  en: ¿Alguien ha dicho "rescate"?
+- id: 3150
+  en: >-
+    Sshh.{:delay 36 00}{:clear }Quietos.
+
+    Podrían ser los malos.
+- id: 3151
+  en: A mí me parecen buenos chicos.
+- id: 3152
+  en: Sí, somos buenos. Somos amigos.
+- id: 3153
+  en: Sí.{:delay 19 00}{:clear }{:delay 1E 00}{:clear }Bella nos envía a buscaros.
+- id: 3154
+  en: ''
+- id: 3155
+  en: Soy Sora.
+- id: 3156
+  en: Donald.
+- id: 3157
+  en: Goofy.
+- id: 3158
+  en: Yo... me doy cuerda solo, señor.
+- id: 3159
+  en: Me alegra que estéis bien.
+- id: 3160
+  en: >-
+    ¡Nosotros sí que
+
+    nos alegramos de verles!
+- id: 3161
+  en: >-
+    ¿Es que también os han
+
+    hechizado a vosotros?
+- id: 3162
+  en: Oh. Sí, eso es.{:delay 78 00} {:clear }¿Cómo lo ha sabido? Fue una bruja.
+- id: 3163
+  en: ¿Cuántos años hace ya...?
+- id: 3164
+  en: Fue una fría noche de invierno...
+- id: 3165
+  en: >-
+    Una anciana vino al castillo y pidió
+
+    permiso para refugiarse del frío.
+- id: 3166
+  en: >-
+    Pero al amo del castillo,
+
+    es decir, el príncipe...
+- id: 3167
+  en: >-
+    ¡Basta!
+
+    ¡Suélteme ahora mismo!
+- id: 3168
+  en: >-
+    {:unk13 2C 01 46 00}{:unk08 01 01 06}El amo no la dejó entrar.{:clear }La repudió por su... ejem...
+
+    aspecto humilde.
+- id: 3169
+  en: '{:unk13 90 01 FA 00}{:unk08 01 00 05}¡Qué malvado!'
+- id: 3170
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 05}Oui. Era un príncipe malcriado, tan
+
+    egoísta y... ¿cómo decirlo?...
+
+    Cruel.
+- id: 3171
+  en: '{:unk06 02}{:unk13 A4 01 FA 00}{:unk08 03 00 02}¡Lumiere!'
+- id: 3172
+  en: >-
+    {:unk13 C8 00 46 00}{:unk08 01 00 05}La anciana le dijo a nuestro
+
+    amo que no debía dejarse
+
+    engañar por las apariencias...{:clear }Pero él no le
+
+    hizo caso.
+- id: 3173
+  en: >-
+    {:unk13 2C 01 50 00}{:unk08 01 01 06}Entonces la anciana
+
+    se transformó.{:clear }En realidad era una
+
+    hermosa hechicera.
+- id: 3174
+  en: >-
+    {:unk13 DC 00 46 00}{:unk08 01 00 05}Y luego convirtió al príncipe
+
+    en una bestia, para que su aspecto
+
+    fuera tan horrendo como su corazón.
+- id: 3175
+  en: >-
+    {:unk13 4A 01 50 00}{:unk08 01 01 06}Y para que el castigo fuera mayor,
+
+    nos hechizó a todos los del castillo.
+- id: 3176
+  en: >-
+    {:unk13 90 01 2C 01}{:unk08 01 00 01}Vaya...
+
+    Menuda historia.
+- id: 3177
+  en: >-
+    {:unk13 FA 00 3C 00}{:unk08 01 00 05}¿Hay algo que podamos
+
+    hacer para ayudar?
+- id: 3178
+  en: '{:unk06 02}{:unk13 2C 01 96 00}{:unk08 03 00 05}¡Vayamos a por la hechicera!'
+- id: 3179
+  en: '{:unk06 02}{:unk13 AA 00 78 00}{:unk08 03 00 05}Oh, no.'
+- id: 3180
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}Ya sabemos lo que hay
+
+    que hacer, pero tal y como
+
+    se comporta el amo ahora...
+- id: 3181
+  en: >-
+    {:unk13 DC 00 3C 00}{:unk08 01 01 06}Algo raro le
+
+    pasa, ¿no?
+- id: 3182
+  en: >-
+    {:unk13 96 00 64 00}{:unk08 01 00 06}Es como si no pudiera
+
+    confiar en nadie.
+- id: 3183
+  en: >-
+    {:unk13 4A 01 5A 00}{:unk08 01 01 06}No creeréis que se ha convertido
+
+    en un sincorazón, ¿verdad?
+- id: 3184
+  en: '{:unk06 02}{:unk13 18 01 A0 00}{:unk08 03 00 06}¿¡Un sincorazón!?'
+- id: 3185
+  en: >-
+    {:unk13 D2 00 3C 00}{:unk08 01 01 06}Si ellos están metidos en esto,
+
+    es preferible que estemos aquí.
+- id: 3186
+  en: >-
+    {:unk13 96 00 96 00}{:unk08 01 01 06}¡Encontremos
+
+    a Bestia!
+- id: 3187
+  en: '{:unk06 02}{:unk13 72 01 46 00}{:unk08 03 00 06}¡De acuerdo!'
+- id: 3188
+  en: >-
+    {:unk13 FA 00 C8 00}{:unk08 01 00 06}Síganme, messieurs.
+
+    Conozco un atajo.
+- id: 3189
+  en: >-
+    {:unk13 AA 00 C8 00}{:unk08 01 01 06}¡Dejad paso a nuestros
+
+    huéspedes!
+- id: 3190
+  en: '{:unk13 A0 00 D2 00}{:unk08 01 01 05}Adelante, por favor.'
+- id: 3192
+  en: >-
+    {:unk13 A6 00 69 00}{:unk08 01 01 06}Bueno, debo revisar el
+
+    castillo. Temo que mi ausencia
+
+    haya sido demasiado larga.
+- id: 3193
+  en: '{:unk13 B3 00 D0 00}{:unk08 01 01 06}Yo también debo irme, queridos.'
+- id: 3194
+  en: '{:unk13 FA 00 3C 00}{:unk08 01 01 06}¡Cuidado con los sincorazón!'
+- id: 3195
+  en: >-
+    {:unk13 5E 01 96 00}{:unk08 01 00 05}Los aposentos del amo
+
+    están justo al final
+
+    del ala oeste.{:clear }Iré delante
+
+    y les esperaré allí.
+- id: 3196
+  en: Ahora debes encargarte... de Bella.
+- id: 3197
+  en: >-
+    Pretende arrebatarte todo
+
+    aquello que posees.
+- id: 3198
+  en: El castillo, tu preciada rosa...{:delay A0 00}{:clear }{:delay 32 00}{:clear }Y por último... tu vida.
+- id: 3199
+  en: No confíes en nadie. ¡Alimenta tu ira!
+- id: 3200
+  en: Solo ella acrecentará tu poder.
+- id: 3201
+  en: >-
+    No es poder lo que quiero.
+
+    Ahora solo ansío...
+- id: 3202
+  en: ¿Qué? ¿Amar y ser amado a cambio?{:delay E6 00}{:clear }{:delay 3D 00}{:clear }¿Quién podría amar a una bestia?
+- id: 3203
+  en: Ahí tienes, ¡sus cómplices!
+- id: 3204
+  en: ¡Eh, príncipe!
+- id: 3205
+  en: ¡Ay, cielos! ¡Amo!
+- id: 3206
+  en: Din Don... ¿qué ha pasado?
+- id: 3207
+  en: >-
+    Pues, amo... eh... veréis... esto...
+
+    ¿cómo diría yo?... En realidad...
+- id: 3208
+  en: >-
+    ¡Te enfureciste contra todos y
+
+    los encerraste en un calabozo!
+- id: 3209
+  en: ¿Eso hice?
+- id: 3210
+  en: '... Así es.'
+- id: 3211
+  en: Ese tipo de negro con el que hablabas.{:delay 84 00}{:clear }¿Quién era?
+- id: 3212
+  en: >-
+    Xaldin.{:delay 49 00}{:clear }{:delay 77 00}Así se llama.{:delay 62 00}{:clear }Surgió de la oscuridad...
+
+    y ha usado mi ira para controlarme.
+- id: 3213
+  en: >-
+    Ha hecho aflorar todo mi pesar,
+
+    mi tristeza, mi dolor...{:delay 08 01}{:clear }y lo ha transformado en rabia.
+- id: 3214
+  en: >-
+    Me dejó indefenso... Era incapaz
+
+    de distinguir la verdad.
+- id: 3215
+  en: >-
+    ¡Ahí va! Por eso encerraste a todos
+
+    tus amigos en el calabozo.
+- id: 3216
+  en: >-
+    Querías estar seguro de que no
+
+    les harías daño, ¿verdad?
+- id: 3217
+  en: Espero que realmente fuera por eso...
+- id: 3218
+  en: >-
+    Claro. Sabemos que
+
+    en el fondo eres bueno.
+- id: 3219
+  en: >-
+    Tiene razón, amo.
+
+    Hemos visto que podéis ser bueno.{:delay 14 01}{:clear }Después de todo...
+- id: 3220
+  en: >-
+    Bella conoce la bondad de vuestro
+
+    corazón, pero, aun así, me temo que...
+- id: 3221
+  en: ¡Bella!
+- id: 3222
+  en: >-
+    Estoy avergonzado... La he tratado
+
+    mal y he sido un egoísta.
+- id: 3223
+  en: Ella no ha dicho nada de eso.
+- id: 3224
+  en: >-
+    Ella nunca le hablaría a nadie
+
+    mal de mí... Es demasiado buena.
+- id: 3225
+  en: >-
+    Verá, el amo se juzga a sí mismo
+
+    con demasiada dureza.
+- id: 3226
+  en: ¿Por qué no vas a hablar con ella?
+- id: 3227
+  en: Pero...
+- id: 3228
+  en: ¡Nada de peros! Iremos todos contigo.
+- id: 3229
+  en: '{:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}¡Amo!'
+- id: 3230
+  en: '{:unk13 72 01 96 00}{:unk08 01 00 06}Ahora todos están bien.'
+- id: 3231
+  en: >-
+    {:unk13 5B 00 7D 00}{:unk08 01 01 03}¡Estupendo!
+
+    ¡Gracias!
+- id: 3232
+  en: '{:unk13 36 01 64 00}{:unk08 01 00 05}¿Dónde está Bella?'
+- id: 3233
+  en: >-
+    {:unk13 4A 01 DC 00}{:unk08 01 00 01}Oh, salió a toda prisa.
+
+    Iba tras los pasos de un
+
+    hombre de negro o algo así...
+- id: 3234
+  en: >-
+    {:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}¿¡Qué!?{:clear }¿¡Por qué nunca
+
+    me hace caso!?
+- id: 3235
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}¡Es todo un carácter!{:clear }Es su espíritu lo que
+
+    la hace tan especial.
+- id: 3236
+  en: '{:unk13 7C 01 50 00}{:unk08 01 01 05}¡Hay que dar con ella!'
+- id: 3237
+  en: ¡Te lo advierto! ¡Te arrepentirás!
+- id: 3238
+  en: ¡Bella! ¿Dónde estás?
+- id: 3239
+  en: >-
+    ¡Bestia! ¡Socorro!
+
+    ¡Estoy en el salón de baile!
+- id: 3240
+  en: ¡Bella!
+- id: 3241
+  en: ¡Estoy bien!
+- id: 3242
+  en: ¡Lo conseguimos!
+- id: 3243
+  en: Permíteme discrepar.
+- id: 3244
+  en: ¡Xaldin!
+- id: 3245
+  en: ¡Nos veremos!
+- id: 3246
+  en: ¿Qué busca ese aquí?
+- id: 3247
+  en: Debe de ser de la Organización {XIII}.
+- id: 3248
+  en: ¿Has oído hablar de los incorpóreos?
+- id: 3249
+  en: >-
+    Cuando una persona
+
+    se convierte en un sincorazón,{:delay 83 00}{:clear }también se crea un incorpóreo.
+- id: 3250
+  en: >-
+    Verás, la Organización tiene el
+
+    control de todos los incorpóreos.
+- id: 3251
+  en: >-
+    Eso es.
+
+    Iban a convertirte en un sincorazón.{:delay D8 00}{:clear }Su objetivo era conseguir un nuevo
+
+    incorpóreo y controlarlo.
+- id: 3252
+  en: ¡Estáis bien!
+- id: 3253
+  en: ¡Bella!
+- id: 3254
+  en: Bella... Lo siento. No era yo mismo.{:delay 50 01}{:clear }Espero no haberte hecho daño.
+- id: 3255
+  en: Perdóname.
+- id: 3256
+  en: >-
+    Sé que no eras tú mismo.
+
+    No tienes que disculparte.
+- id: 3257
+  en: >-
+    Pero sí esperaba...
+
+    que hubieras cambiado un poquito.
+- id: 3258
+  en: Ojalá aprendieras a confiar en mí.
+- id: 3259
+  en: >-
+    Oh, me temo que se
+
+    nos acaba el tiempo.
+- id: 3260
+  en: ¿Qué quieres decir?
+- id: 3261
+  en: ¿Recuerdan la rosa?
+- id: 3262
+  en: ¿La del cuarto de Bestia?
+- id: 3263
+  en: >-
+    Exacto. Verán.
+
+    Si el amo aprende a amar y{:delay DC 00}{:clear }a ganarse el amor de alguien antes
+
+    de que caiga el último pétalo...
+- id: 3264
+  en: '... se romperá el hechizo.'
+- id: 3265
+  en: >-
+    ¿De verdad?
+
+    ¿Creéis que lo conseguirá?
+- id: 3266
+  en: Confiamos en ello.
+- id: 3267
+  en: Ajiah. Creo que tenéis razón.
+- id: 3268
+  en: Espero que así sea.
+- id: 3269
+  en: ¿Qué ha pasado?
+- id: 3270
+  en: ¡La puerta se ha abierto!
+- id: 3271
+  en: ¿Debéis partir?
+- id: 3272
+  en: Sí.
+- id: 3273
+  en: Y nada de discutir, ¿vale?
+- id: 3274
+  en: Nos encargaremos de ello.
+- id: 3275
+  en: Cuídense, queridos.
+- id: 3276
+  en: ¡Aquí siempre serán bienvenidos!
+- id: 3277
+  en: >-
+    Si oís algo sobre Riku o el rey,{:delay A2 00}{:clear }los sincorazón, la Organización...
+
+    lo que sea, ¡avisadnos!
+- id: 3278
+  en: ¡Bueno, nos vamos!
+- id: 3279
+  en: Ojalá todo vaya bien.
+- id: 3280
+  en: Pero ¿por qué estará tan nervioso?
+- id: 3281
+  en: El amo tiene su lado tímido, ¿sabe?
+- id: 3282
+  en: '{:unk06 02}{:unk13 64 00 40 01}{:unk08 03 00 05}¡Eh!'
+- id: 3283
+  en: '{:unk13 5E 01 FA 00}{:unk08 01 00 05}¡Ni sincorazón ni incorpóreos!'
+- id: 3284
+  en: '{:unk13 96 00 B4 00}{:unk08 01 00 05}No deben de estar lejos...'
+- id: 3285
+  en: '{:unk13 C6 00 B6 00}{:unk08 01 00 06}Hay que ir con cuidado.'
+- id: 3286
+  en: '{:unk13 68 01 C8 00}{:unk08 01 00 05}Pareces algo nervioso.'
+- id: 3287
+  en: '{:unk13 C8 00 3C 00}{:unk08 01 01 06}¿Qué hacéis aquí?'
+- id: 3288
+  en: >-
+    {:unk13 C8 00 78 00}{:unk08 01 00 06}El mundo de los incorpóreos
+
+    tiene que estar en algún sitio.{:clear }Estamos buscando una entrada.
+- id: 3289
+  en: '{:unk13 7C 01 32 00}{:unk08 01 00 05}Mmm.'
+- id: 3290
+  en: Esta noche es muy importante.
+- id: 3291
+  en: >-
+    ¡Huy! Quizá hemos venido
+
+    en mal momento.
+- id: 3292
+  en: Bueno, solo hay una forma de saberlo.
+- id: 3293
+  en: ¡Donald!
+- id: 3294
+  en: >-
+    Ahora, Monsieur, Mademoiselle...
+
+    por favor... disfruten de la velada.
+- id: 3295
+  en: >-
+    Y también damos la bienvenida a
+
+    nuestros honorables invitados.
+- id: 3296
+  en: ¡Cuán grato recibimiento!
+- id: 3297
+  en: ¡La Organización!
+- id: 3298
+  en: No aprendéis la lección.
+- id: 3299
+  en: ¡Oh, claro! ¡Ahora verás!
+- id: 3300
+  en: ¡Fuera!
+- id: 3301
+  en: ¡Esta noche no!
+- id: 3302
+  en: >-
+    Vengo a reclamar algo
+
+    muy preciado para ti.
+- id: 3303
+  en: Así me gusta. Deja que crezca tu ira.
+- id: 3304
+  en: >-
+    ¡Bestia! ¡Primero tenemos
+
+    que librarnos de estos!
+- id: 3305
+  en: >-
+    {:unk06 02}{:unk13 5E 01 64 00}{:unk08 03 01 06}¿¡Dónde está
+
+    Bella!?
+- id: 3306
+  en: '{:unk06 02}{:unk13 64 00 32 00}{:unk08 03 00 05}¡Aquí!'
+- id: 3307
+  en: '{:unk13 E0 00 26 00}{:unk08 01 00 04}Ufff, está a salvo.'
+- id: 3308
+  en: '{:unk13 36 01 32 00}{:unk08 01 01 06}Al final Xaldin no se llevó nada.'
+- id: 3309
+  en: '{:unk13 B4 00 AA 00}{:unk08 01 00 01}¿Qué sucede?'
+- id: 3310
+  en: '{:unk13 96 00 0E 01}{:unk08 01 01 06}¿Bella?'
+- id: 3311
+  en: '{:unk13 DC 00 32 00}{:unk08 01 01 06}¿Qué les pasa?'
+- id: 3312
+  en: >-
+    {:unk13 C8 00 46 00}{:unk08 01 00 05}Quizá Bella no sea lo único
+
+    valioso para Bestia.
+- id: 3313
+  en: '{:unk13 FA 00 FA 00}{:unk08 01 00 05}¡Vamos!'
+- id: 3314
+  en: ¿Qué ocurre?
+- id: 3315
+  en: ¡Cálmate, por favor!
+- id: 3316
+  en: ¿¡Que me calme!?
+- id: 3317
+  en: ''
+- id: 3318
+  en: >-
+    Tenías que montar una fiesta, ¿verdad?
+
+    ¿No ves lo que ha pasado?
+- id: 3319
+  en: ¡Eh! ¿Qué te pasa?
+- id: 3320
+  en: La rosa... Mi preciada rosa...
+- id: 3321
+  en: ¿Qué pasa? ¿Se la ha llevado?
+- id: 3322
+  en: >-
+    Pero si el castillo está
+
+    lleno de rosas...
+- id: 3323
+  en: ¡Silencio! ¡No tienes ni idea!
+- id: 3324
+  en: >-
+    Eso no está bien, Bestia.
+
+    No lo pagues con Bella.{:delay E4 00}{:clear }¡Ella no la ha robado!
+- id: 3325
+  en: Lo siento.
+- id: 3326
+  en: No tienes que disculparte.
+- id: 3327
+  en: Pero...
+- id: 3328
+  en: >-
+    Bella... Sora...
+
+    Quiero que os vayáis del castillo.
+- id: 3329
+  en: >-
+    Mírame. ¿No lo ves?
+
+    Esto es lo que soy.
+- id: 3330
+  en: >-
+    Me he esforzado por cambiar...
+
+    desde tu llegada.
+- id: 3331
+  en: >-
+    Pero... solo me engañaba a mí mismo.
+
+    No puedo ser distinto.
+- id: 3332
+  en: >-
+    Siempre seré una bestia.
+
+    Por eso he de vivir como tal.{:delay 32 01}{:clear }Solo. Sin nadie.
+- id: 3333
+  en: Adiós, Bella.
+- id: 3334
+  en: ¿Hablas en serio?
+- id: 3335
+  en: >-
+    Vaya, creo que ya ha
+
+    tomado su decisión.
+- id: 3336
+  en: Sí.
+- id: 3337
+  en: >-
+    Mira, Bella. Déjanos a nosotros.{:delay 7E 00}{:clear }Si recuperamos su rosa,
+
+    Bestia se calmará.
+- id: 3338
+  en: '{:unk13 36 01 C8 00}{:unk08 01 00 05}Pobrecilla...'
+- id: 3339
+  en: >-
+    {:unk13 5E 01 8C 00}{:unk08 01 00 05}No me explico cómo
+
+    se ha llegado a esto...
+- id: 3340
+  en: >-
+    {:unk13 5E 01 64 00}{:unk08 01 00 05}Y pensar que esperaban esta
+
+    noche con tantas ganas...
+- id: 3341
+  en: >-
+    {:unk13 A0 00 A8 00}{:unk08 01 01 04}Bueno, bueno... no hay razón
+
+    para ponerse tan triste.
+- id: 3342
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 01 05}Cuando la rosa esté a salvo,
+
+    esto habrá terminado.
+- id: 3343
+  en: >-
+    {:unk13 36 01 78 00}{:unk08 01 00 06}¿Por qué es esa rosa
+
+    tan especial?
+- id: 3344
+  en: >-
+    {:unk13 40 01 C8 00}{:unk08 01 00 02}Si el amo consigue amar y ser
+
+    amado, el hechizo se romperá.
+
+    Y todos volveremos a ser humanos.
+- id: 3345
+  en: '{:unk13 78 00 E6 00}{:unk08 01 01 05}Sí. Nos lo dijisteis.'
+- id: 3346
+  en: >-
+    {:unk13 DC 00 C8 00}{:unk08 01 01 01}Pero hay un
+
+    límite de tiempo.
+- id: 3347
+  en: >-
+    {:unk13 FA 00 4A 01}Debe encontrar su verdadero
+
+    amor antes de que caiga
+
+    el último pétalo de esa rosa.
+- id: 3348
+  en: '{:unk13 5E 01 46 00}Ah, pero eso no es todo...'
+- id: 3349
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}Con el tiempo, cuidar de esa rosa
+
+    se ha vuelto algo muy importante
+
+    en la vida diaria del amo.
+- id: 3350
+  en: >-
+    {:unk13 5E 01 96 00}{:unk08 01 00 05}Es como si todos sus sueños
+
+    y esperanzas estuvieran ligados
+
+    a esa sola flor...
+- id: 3351
+  en: '{:unk06 02}{:unk13 C8 00 32 00}{:unk08 03 01 06}¡Pobre Bestia!'
+- id: 3352
+  en: '{:unk13 B4 00 2D 00}{:unk08 01 01 06}Tenemos que recuperarla.'
+- id: 3353
+  en: '{:unk13 5E 01 C8 00}{:unk08 01 00 05}¡Se lo rogamos!'
+- id: 3354
+  en: >-
+    {:unk13 DC 00 3C 00}{:unk08 01 01 05}Pero no podemos
+
+    hacerlo sin Bestia.{:clear }Si es tan importante para él,
+
+    debe hacerlo por sí mismo.
+- id: 3355
+  en: ¡Eh! ¡Bestia!
+- id: 3356
+  en: Déjame en paz.
+- id: 3357
+  en: Vamos, tienes que escucharme.
+- id: 3358
+  en: >-
+    Antes no conocías el miedo. Habrías
+
+    dado tu vida para salvar a Bella.
+- id: 3359
+  en: >-
+    ¿No sabes lo que significó eso?
+
+    Tu valor nos inspiró a todos.
+- id: 3360
+  en: >-
+    ¡Um! Tal vez deberías haber
+
+    guardado algo para ti mismo.
+- id: 3361
+  en: >-
+    ¿De verdad piensas tirar
+
+    por la borda tu felicidad?
+- id: 3362
+  en: >-
+    La rosa es tu única esperanza,
+
+    ¿verdad?
+- id: 3363
+  en: >-
+    No solo se trata de ti, es la salvación
+
+    para Din Don y los demás.
+- id: 3364
+  en: >-
+    Así que no desperdicies
+
+    tu última oportunidad.{:delay 96 00}{:clear }¿Recuerdas cómo era esto antes
+
+    de que Bella viviera aquí?
+- id: 3365
+  en: ¿Ves?{:delay 4E 00}{:clear }No puedes rendirte, ahora no.
+- id: 3366
+  en: Una cosa tengo clara...
+- id: 3367
+  en: ¿Qué?
+- id: 3368
+  en: ¡Este castillo me pertenece!{:delay BA 00}{:clear }¡Xaldin jamás será bienvenido aquí!
+- id: 3369
+  en: Vaya, Bestia, al final has venido.
+- id: 3370
+  en: >-
+    Me tenías preocupado. 
+
+    Temía que te hubieras rendido.
+- id: 3371
+  en: ¿Qué rayos queréis?
+- id: 3372
+  en: ¡Kingdom Hearts!
+- id: 3373
+  en: >-
+    Cuando Kingdom Hearts nos pertenezca...
+
+    nuestra existencia será plena.
+- id: 3374
+  en: >-
+    ¿Lo entiendes, Bestia?{:delay 8C 00}{:clear }¡He ahí la razón de que necesitemos
+
+    tu sincorazón y tu incorpóreo!
+- id: 3375
+  en: '{:unk13 64 00 3C 00}{:unk08 01 00 05}Bella...'
+- id: 3376
+  en: '{:unk13 C8 00 46 00}{:unk08 01 00 05}Lleva así horas y horas.'
+- id: 3377
+  en: >-
+    {:unk13 96 00 64 00}{:unk08 01 00 06}Después de lo que Bestia
+
+    le dijo, no me sorprende.
+- id: 3378
+  en: '{:unk13 2C 01 46 00}{:unk08 01 01 06}Lo siento.'
+- id: 3379
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 06}Bella, Bestia va a
+
+    recuperar la rosa.{:clear }Ya verás, todo se va
+
+    a arreglar muy pronto.
+- id: 3380
+  en: >-
+    {:unk13 54 01 3C 00}{:unk08 01 00 05}No, Bella ya ha sufrido
+
+    bastante por mí...
+- id: 3381
+  en: '{:unk13 64 00 FA 00}{:unk08 01 01 06}¡Shhh!'
+- id: 3382
+  en: >-
+    {:unk13 5E 01 4A 01}{:unk08 01 01 06}Primero recuperemos la rosa.
+
+    Cada cosa a su tiempo.
+- id: 3383
+  en: Si es...
+- id: 3384
+  en: ¡Mirad! ¡Es la rosa!
+- id: 3385
+  en: ¡Bella!
+- id: 3386
+  en: ¡Rápido!
+- id: 3387
+  en: ''
+- id: 3388
+  en: ¡Tú! ¡Fuera de mi castillo!
+- id: 3389
+  en: >-
+    Como desees...
+
+    pero la carga es excesiva.{:delay F0 00}{:clear }¿Qué debería dejar aquí?
+- id: 3390
+  en: ¿A Bella?{:delay 4E 00}{:clear } ¿O la rosa?
+- id: 3391
+  en: ¡Bella!
+- id: 3392
+  en: ''
+- id: 3393
+  en: ¡Bien, Bella!
+- id: 3394
+  en: Toma. Aquí tienes.
+- id: 3395
+  en: Bella...
+- id: 3396
+  en: >-
+    Lo sé.
+
+    Quieres que me vaya del castillo.
+- id: 3397
+  en: >-
+    Lo importante es... que Xaldin
+
+    no te ha hecho daño. Estás a salvo.
+- id: 3398
+  en: >-
+    Además...{:delay 78 00}{:clear }te estoy muy agradecido...
+
+    por devolverme la rosa...{:delay B0 01}{:clear }Gracias.
+- id: 3399
+  en: >-
+    Es lo menos que podía hacer.{:delay 73 00}{:clear }Has sido bueno conmigo.
+
+    Y no tenías por qué.
+- id: 3400
+  en: Escucha, Bella...
+- id: 3401
+  en: ¿Sí?
+- id: 3402
+  en: ¡Dilo!
+- id: 3403
+  en: ¡Adelante!
+- id: 3404
+  en: ¡Venga!
+- id: 3405
+  en: ¡Ánimo, señor!
+- id: 3406
+  en: Confiamos en usted.
+- id: 3407
+  en: No te hagas el tímido ahora.
+- id: 3408
+  en: Bella, quiero que te quedes...
+- id: 3409
+  en: '... conmigo.'
+- id: 3410
+  en: Te lo ruego.
+- id: 3411
+  en: Lo haré.
+- id: 3412
+  en: ¡Maestro, música!
+- id: 3413
+  en: >-
+    Oye, ¿habéis visto la cara que ha
+
+    puesto Bella al coger la rosa?
+- id: 3414
+  en: Caray, estaba disfrutando de lo lindo.
+- id: 3415
+  en: No hay nadie como ella, ¿verdad?
+- id: 3416
+  en: Siempre lista para vivir una aventura.
+- id: 3417
+  en: Parecen hechos el uno para el otro.
+- id: 3418
+  en: ¡Sí, no hay duda!
+- id: 7526
+  en: '{:unk13 4A 01 A0 00}{:unk08 01 00 05}¿Todos listos?'
+- id: 7527
+  en: >-
+    {:unk13 8C 00 8C 00}Oui. La puerta secreta
+
+    debería abrirse ahora.
+- id: 7528
+  en: >-
+    {:unk13 7C 01 A0 00}{:unk08 01 01 05}Yo no veo ninguna
+
+    puerta secreta.
+- id: 7529
+  en: >-
+    {:unk13 4A 01 A0 00}{:unk08 01 01 05}No hay de qué
+
+    preocuparse.
+- id: 7530
+  en: >-
+    {:unk13 54 01 C8 00}{:unk08 01 01 05}Solo empuje ese bloque de ahí,
+
+    el que sobresale.
+- id: 7531
+  en: '{:unk13 C8 00 A0 00}{:unk08 01 01 06}Entendido.'
+- id: 7534
+  en: >-
+    {:unk13 E6 00 5A 00}{:unk08 01 01 05}A ver...{:clear }Si Bestia está aquí
+
+    en el castillo, esa mujer
+
+    tiene que ser Bella, ¿verdad?
+- id: 7535
+  en: >-
+    {:unk13 72 01 50 00}{:unk08 01 00 06}Sí, debería.{:clear }Y seguro que ella sabe
+
+    qué le pasa a Bestia.
+- id: 7536
+  en: '{:unk13 B4 00 6E 00}{:unk08 01 01 06}¡Pues vamos a buscarla!'
+- id: 7576
+  en: >-
+    {:unk13 96 00 64 00}{:unk08 01 01 05}A ver, ¿cómo
+
+    salimos de aquí?
+- id: 7577
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}Me temo que no será
+
+    tan fácil.{:clear }Verán, la puerta que lleva
+
+    al otro lado está oculta por
+
+    un dispositivo.
+- id: 7578
+  en: '{:unk13 96 00 6E 00}{:unk08 01 01 05}¿Qué clase de dispositivo?'
+- id: 7579
+  en: '{:unk13 64 00 64 00}{:unk08 01 00 05}Observen.'
+- id: 7580
+  en: >-
+    {:unk13 96 00 0E 01}{:unk08 01 00 06}¡El farol ha
+
+    bajado!
+- id: 7581
+  en: >-
+    {:unk13 B4 00 78 00}{:unk08 01 01 05}Así es.{:clear }Tenemos que encender todos
+
+    los faroles de este pasaje.{:clear }Solo así se abrirá
+
+    la puerta secreta.
+- id: 7582
+  en: >-
+    {:unk13 40 01 82 00}{:unk08 01 00 06}Pero, como pueden ver, los
+
+    faroles ya están iluminados
+
+    con una llama encantada.
+- id: 7583
+  en: >-
+    {:unk13 B3 00 74 00}{:unk08 01 01 05}Deben apagar la llama encantada
+
+    para que yo pueda encender
+
+    las luces como es debido.
+- id: 7584
+  en: >-
+    {:unk13 75 01 CD 00}{:unk08 01 00 06}¿No basta con echarles
+
+    un poco de agua?
+- id: 7585
+  en: >-
+    {:unk13 18 01 8C 00}{:unk08 01 01 05}Me temo que no
+
+    sería suficiente.{:clear }Pero quizá con
+
+    el poder de la luz...
+- id: 7586
+  en: >-
+    {:unk13 D2 00 A0 00}{:unk08 01 01 05}Mmm...{:clear }¿Qué tal si lo intento con
+
+    la llave espada?
+- id: 7587
+  en: '{:unk06 02}{:unk13 82 00 B4 00}{:unk08 03 01 06}¡Fantástico!'
+- id: 7588
+  en: >-
+    Acércate a los faroles y usa el comando
+
+    de reacción Rociar para apagarlos.
+- id: 7589
+  en: >-
+    {:unk13 4A 01 B4 00}{:unk08 01 00 06}¡Solo quedan tres faroles!{:clear }¡Si trabajamos en equipo,
+
+    abriremos esa puerta enseguida!
+- id: 7590
+  en: '{:unk13 7C 01 C8 00}{:unk08 01 00 04}¡Está chupado!'
+- id: 7592
+  en: >-
+    {:unk06 02}{:unk13 BE 00 64 00}{:unk08 03 01 06}¿Qué? ¿Por qué?
+
+    ¡Lumiere! Tú...
+- id: 7593
+  en: >-
+    {:unk13 BE 00 82 00}{:unk08 01 01 05}Si se cansa y se cae,
+
+    los faroles no encendidos
+
+    subirán otra vez al techo.
+- id: 7594
+  en: >-
+    {:unk13 4A 01 82 00}{:unk08 01 00 06}Antes de alejarse, debe
+
+    ayudar a Din Don.{:clear }Cuando recobre su fuerza,
+
+    volverá a sostener
+
+    la palanca.
+- id: 7595
+  en: >-
+    Ayuda a Din Don a recobrar fuerzas con
+
+    el comando de reacción Restablecer.
+- id: 7596
+  en: '{:unk13 B4 00 78 00}{:unk08 01 01 06}¡Vale! ¡Intentémoslo!'
+- id: 7597
+  en: >-
+    {:unk13 A0 00 AA 00}{:unk08 01 01 05}Pues no es tan
+
+    sencillo, mon ami.
+- id: 7598
+  en: >-
+    {:unk13 40 01 78 00}{:unk08 01 01 05}No esperará que Din Don se
+
+    quede colgado de esa palanca
+
+    eternamente.
+- id: 7599
+  en: NOT USED
+- id: 7600
+  en: NOT USED
+- id: 7601
+  en: NOT USED
+- id: 7743
+  en: >-
+    ¡Ayuda a Bestia a entrar en razón!
+
+    ¡Pide a Din Don que haga sonar
+
+    su alarma para espabilar a Bestia!
+- id: 7744
+  en: >-
+    ¡Vence a todos los incorpóreos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle},la batalla será más fácil!
+- id: 7745
+  en: >-
+    ¡Vence a todos los incorpóreos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle},la batalla será más fácil!
+- id: 7746
+  en: ¡Trata de mover a Armario!
+- id: 7747
+  en: Inténtalo mientras duerme. No hagas ruido.
+- id: 7748
+  en: ¡Enciende todos los faroles!
+- id: 7749
+  en: ¡Din Don está agotado! ¡Ayúdale a recuperar energía!
+- id: 7750
+  en: ¡Quedan dos faroles!
+- id: 7751
+  en: ¡Queda un farol!
+- id: 8305
+  en: ¡Ayuda a Din Don a reunir energía con cargas sucesivas!
+- id: 8306
+  en: ¡Aprovecha cualquier momento de flaqueza!
+- id: 12935
+  en: ¡Todos deben ayudar a encender el farol!
+- id: 12936
+  en: ¡Tiene sed! ¡La Sra. Potts puede darle agua!
+- id: 15718
+  en: >-
+    Si quieren llegar a la {:theme 0A}mazmorra{:reset},
+
+    vayan por esta puerta.{:clear }Yo volveré al cuarto de Bella.
+
+    Por favor, ayuden a los demás.
+- id: 15719
+  en: >-
+    Vamos, chicos.
+
+    No hay que perder las esperanzas.{:clear }¡Sora y sus amigos están aquí!
+
+    ¡Seguro que ellos lo arreglarán!
+- id: 15720
+  en: >-
+    Estás viajando por todas
+
+    partes, ¿verdad, Sora?{:clear }Ya me contarás tus aventuras
+
+    algún día. Me encantaría.
+- id: 15721
+  en: >-
+    ¡Oh, Lumiere no se toma
+
+    nada en serio!{:clear }Si el hechizo se rompe, se va
+
+    a enterar de lo que es trabajar.
+- id: 15722
+  en: >-
+    Sin esa rosa, ni el amo ni ninguno
+
+    de nosotros volverá a ser humano.{:clear }¡Por favor, haga que ese hombre nos
+
+    devuelva nuestra única esperanza!
+- id: 15723
+  en: >-
+    Podríamos preparar
+
+    otra velada agradable,{:clear }pues antes nos han interrumpido
+
+    muy groseramente.
+
+    ¿Qué tal una cena élégant?
+
+    Nos levantaría el ánimo.
+- id: 15724
+  en: >-
+    ¡Cómo ha cambiado todo de pronto!{:clear }¡Con lo entusiasmada que estaba
+
+    Bella con el baile de hoy!
+- id: 15725
+  en: >-
+    Gracias a vosotros, el amo y Bella
+
+    han hecho las paces.{:clear }Ha sido una gran ayuda.
+
+    Gracias.
+- id: 15726
+  en: >-
+    ¿Por qué?...
+
+    ¿Por qué tenía que pasar esto...?
+- id: 15727
+  en: >-
+    Me gustaría volver a mi cuerpo.{:clear }Aunque, a decir verdad, ¡he llegado
+
+    a encariñarme con este aspecto!
+- id: 15728
+  en: >-
+    Estoy segura de que olvidaremos
+
+    todo esto rápidamente.{:clear }Hubo un momento que sentí miedo,
+
+    pero, sabiendo que cuento con{:clear }vosotros, siempre estaré bien.
+- id: 15732
+  en: >-
+    ¡Eh! ¿Sucede algo especial
+
+    en el castillo hoy?{:clear }Bella está feliz y todos andan
+
+    ocupados preparando algo.
+- id: 15733
+  en: >-
+    No es mala idea preparar
+
+    algo romántico para ellos.{:clear }Sería cosa mía, claro está.
+
+    ¡Soy primer mayodormo!
+- id: 15734
+  en: >-
+    Tengo una impression
+
+    positive sobre el día de hoy.{:clear }Ni siquiera el amo podría rechazar
+
+    la petición de Bella.
+- id: 15735
+  en: >-
+    ¿Y bien? ¿{:theme 0A}Cómo está el amo{:reset}?{:clear }Ja. Conociéndole, ¡probablemente
+
+    esté nervioso como un flan!
+- id: 15736
+  en: ¿Por qué gritó el amo a Bella?{:clear }¿Se lo podéis preguntar de mi parte?
+- id: 15737
+  en: >-
+    Cuando ya casi habíamos roto el
+
+    hechizo, ¡tiene que pasar esto!
+- id: 15738
+  en: >-
+    El amo a veces puede ser un poco...
+
+    ¿cómo decirlo? Exagerado.{:clear }¿Podrían {:theme 0A}hablar con él {:reset}
+
+    por nosotros, por favor?
+- id: 15739
+  en: >-
+    Estoy segura de que todo irá bien
+
+    entre ellos, pero me preocupan.
+- id: 15742
+  en: >-
+    Me tranquiliza saber que todos están bien.
+
+    Ahora solo falta que Bestia...{:clear }Me gustaría ir con vosotros, pero solo
+
+    sería un estorbo. ¡Confío en ti, Sora!
+- id: 15743
+  en: >-
+    Probablemente el amo
+
+    esté en {:theme 0A}sus aposentos{:reset}.{:clear }Pero tengan cuidado.
+
+    Ha cambiado mucho últimamente.
+- id: 15744
+  en: La puerta está cerrada.
+- id: 15746
+  en: La rosa ha desaparecido.
+- id: 15747
+  en: >-
+    Alguien debe de haber destrozado
+
+    la habitación.
+- id: 15749
+  en: La puerta está cerrada.
+- id: 15750
+  en: >-
+    Al principio, Bella y el amo
+
+    apenas se hablaban.{:clear }¡Ahora son inseparables! ¡Oh, l'amour!
+
+    ¡En la vida nunca se sabe!
+- id: 15751
+  en: >-
+    Parece que alguien temible
+
+    andaba tras el amo.{:clear }Sé que les espera una tarea
+
+    difícil, pero no se exijan demasiado.
+- id: 15752
+  en: >-
+    ¿Han encontrado a Bella?{:clear }¿Qué? ¿La han oído gritar desde el
+
+    {:theme 0A}salón de baile{:reset}? ¡Oh, no! ¡Tienen que ayudarla!
+- id: 15753
+  en: >-
+    ¿¡Qué!?
+
+    ¿¡Bella necesita nuestra ayuda!?{:clear }¡No la hagamos esperar!
+
+    Andando, ¡al {:theme 0A}salón de baile!{:reset} ¡Deprisa!
+- id: 15762
+  en: >-
+    ¡He oído un grito de Bella
+
+    que viene del {:theme 0A}salón de baile{:reset}!{:clear }¡Debe de estar en peligro!
+
+    ¿¡Qué hacemos, Sora!?
+- id: 15763
+  en: >-
+    Una damisela en peligro.
+
+    ¡Es momento de entrar en acción, amo!
+- id: 15764
+  en: >-
+    Sé que no quieren perder tiempo,
+
+    pero no imaginan lo que les espera.{:clear }Prepárense bien
+
+    antes de partir.
+- id: 15766
+  en: >-
+    No debí hacerlo, pero entré a hurtadillas.
+
+    Me alegra que el amo esté mejor.{:clear }Si pudieras {:theme 0A}hablar con Bella{:reset},
+
+    seguro que hacen las paces.
+- id: 16664
+  en: >-
+    ¡Ese armario tan raro nos
+
+    está bloqueando el camino!{:clear }Mmm... Debería moverse si lo
+
+    empujamos {:theme 0A}por el lado izquierdo{:reset}.
+- id: 16665
+  en: >-
+    Oh. La puerta que lleva a la {:theme 0A}mazmorra{:reset}
+
+    está detrás del armario.{:clear }Con cuidado. A ver si lo movemos
+
+    sin que se despierte.
+- id: 16666
+  en: >-
+    Din Don bajará la lámpara y podrás
+
+    romper el hechizo con la llave espada.{:clear }Después, la Sra. Potts y Lumiere
+
+    la encenderán.
+- id: 16667
+  en: >-
+    Esa caja de madera bloquea el paso.
+
+    Vamos a romperla y listo.{:clear }Si Din Don se cansa, tráelo
+
+    para que la Sra. Potts le cuide.
+- id: 16793
+  en: >-
+    ¡Muy bien!
+
+    ¡El amo vuelve a ser el mismo!{:clear }Ahora deberíamos hablar {:theme 0A}con Bella{:reset}.
+
+    ¡Venga, vamos a verla!
+- id: 16865
+  en: >-
+    ¿Conque era eso? La cara de Bella
+
+    me decía que algo no iba bien.{:clear }Odio tener que involucrarles en esto,
+
+    pero ¿me harían el favor {:theme 0A}de hablar con el amo{:reset}?
+- id: 16960
+  en: >-
+    Es difícil saber quién es la persona
+
+    que aparece en este viejo retrato.
+- id: 16961
+  en: Esta rosa emite un fulgor misterioso.
+- id: 16962
+  en: Un armario con una extraña forma.
+- id: 16963
+  en: >-
+    Esos salientes no permiten
+
+    moverlo desde este lado.
+- id: 16964
+  en: >-
+    No hay quien pase por delante
+
+    de esas armaduras.
+- id: 16965
+  en: Las armaduras ni se inmutan.
+- id: 16966
+  en: >-
+    No hay quien pase por delante
+
+    de esas armaduras.
+- id: 16967
+  en: Las armaduras ni se inmutan.
+- id: 16968
+  en: El portón está cerrado.
+- id: 17323
+  en: ¡No es suficiente! ¡Necesitas cargar más rápido!
+- id: 17627
+  en: >-
+    {:unk0f 03 64 00 6D 01}{:color #00F0F080}Se ha agregado el comando Grupo.{:reset}
+
+    Permite cambiar con rapidez a los miembros del grupo.{:clear }Úsalo para intercambiar miembros del grupo en las
+
+    batallas, incluso si no es posible abrir los menús.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+    Pulsa {:unk16 02} para ver el Límite y luego selecciónalo.{:clear }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Sora y se ejecutan junto a miembros del grupo.
+- id: 17628
+  en: >-
+    {:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+    Pulsa {:unk16 02} para ver el Límite y luego selecciónalo.{:clear }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Sora y se ejecutan junto a miembros del grupo.
+- id: 17709
+  en: >-
+    He visto un humo negro y espeso
+
+    alrededor de esas estatuas.{:clear }¿Es eso lo que las hace moverse?{:clear }¡Me asusta que
+
+    ataquen así a la gente!
+- id: 17710
+  en: >-
+    ¡Así que habéis llegado a la mazmorra
+
+    por el corredor oeste! Y pensar que...{:clear }¡Armario estaba bloqueando la puerta!
+
+    ¡No habrá sido nada fácil!
+- id: 18733
+  en: >-
+    ¡Debes derrotar al sincorazón
+
+    que controla la puerta!
+- id: 18734
+  en: >-
+    ¡Vence al sincorazón!
+
+    ¡Cuando se esconda, atácale y
+
+    luego usa un comando de reacción!
+- id: 18735
+  en: >-
+    ¡Vence al sincorazón!
+
+    ¡Cuando desaparezca, usa el
+
+    poderoso comando de reacción!
+- id: 18736
+  en: >-
+    ¡Derrota a Xaldin de la Organización {XIII}!
+
+    Con Aprender conseguirás Saltar:
+
+    ¡úsalo y te será más fácil!
+- id: 18753
+  en: El armario bloquea de nuevo la puerta.
+- id: 18754
+  en: >-
+    {:unk08 02 00 06}¿Mover el armario?
+
+    {:chardelay 33 00}Mejor no.
+
+    {:chardelay 09 00}¡A empujar!
+- id: 19077
+  en: >-
+    La chimenea es impresionante.
+
+    Habrá costado una fortuna.
+- id: 19078
+  en: >-
+    Ya no es posible mover la
+
+    manivela de los faroles.
+- id: 19079
+  en: >-
+    La lámpara arde a tope y
+
+    no tendría por qué apagarse.
+- id: 19208
+  en: >-
+    El hombre que ha huido por el jardín parecía
+
+    muy fuerte, Sora. ¿Podrás con él?{:clear }Si te haces el duro,
+
+    quizá no se meta contigo.
+- id: 19750
+  en: Castillo de Bestia
+- id: 19873
+  en: ¡Gracias!
+- id: 19882
+  en: ¡Adiós!
+- id: 19883
+  en: ¿Eh?
+- id: 19886
+  en: ¿Eh?
+- id: 20186
+  en: >-
+    {:unk08 02 00 06}Una Esencia intangible, un ente
+
+    oscuro ligado a un arma.
+
+    {:chardelay 33 00}Mejor no arriesgarse.
+
+    {:chardelay A1 00}¡Habrá que examinarla!
+- id: 20602
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡Hazte con los premios que deja caer!
+- id: 21494
+  en: "{:delayandfade 07 F0} \nBella confiesa que Bestia se porta de forma\nextraña últimamente y que ha encerrado\na sus sirvientes en la mazmorra del castillo.\n \nEl grupo se apresura a liberarlos, pero se \ntopa con una sorpresa en su camino... \n¡un armario parlante que resulta ser una\nseñora bajo el efecto de un vil embrujo!\n"
+- id: 21495
+  en: "{:delayandfade 07 B4} \nLa señora cuenta que también Bestia fue en\nsu día un humano, el príncipe del castillo.\n \nObtener más respuestas pasa por liberar\na los pobres sirvientes aún recluidos en\nla mazmorra, por lo que Sora y sus amigos\nsiguen adentrándose en el castillo.\n \n \n \n"
+- id: 21496
+  en: "{:delayandfade 07 C8} \nEl príncipe, un noble consentido\ny nada amigable, negó a una pobre\nanciana refugio en su castillo en\nuna noche de tormenta.\n \nPor desgracia para él, la anciana\nresultó ser una bruja, que debido\na su frialdad y egoísmo, lo tornó\nen una horrible bestia y también\nhechizó a todos sus sirvientes.\n \n"
+- id: 21497
+  en: "{:delayandfade 07 B4} \nSora y los demás logran derrotar\na sus enemigos y proteger a Bella,\naquello tan preciado de lo que habló\nel miembro de la Organización {XIII}...\nO eso creen ellos.\n \nSin embargo, Bestia no reacciona\ncon alegría, sino que se marcha\ncon gran inquietud... ¿Acaso hay\nalgo aún más preciado para él?\n"
+- id: 21498
+  en: "{:delayandfade 0A 78} \nLa rosa mágica es la clave para\nromper el maléfico conjuro que\ntiene embrujados a Bestia y a\ntodos los habitantes del castillo,\nde ahí su preocupación.\n \nSiendo así...\n¡todavía hay esperanzas!\n \n \n"
+- id: 21631
+  en: "{:delayandfade 07 C8} \nSi los héroes quieren romper\nel hechizo y devolver a todos los\nhabitantes del castillo a su forma\noriginal, antes tendrán que hacer\nentrar en razón a Bestia.\n \nSiguiendo las indicaciones de\nlos sirvientes, Sora y los suyos\nse encaminan al cuarto de Bestia.\n \n"

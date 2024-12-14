@@ -1,0 +1,813 @@
+﻿- id: 5348
+  en: >-
+    Por favor, escóltame hasta la
+
+    sala de audiencias.
+- id: 5349
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Escoltar a Minnie?
+
+    {:chardelay 33 00}Un momento, por favor.
+
+    {:chardelay 09 00}¡Vale, vamos!
+- id: 5350
+  en: >-
+    La Sala de la Piedra Angular está
+
+    debajo de la {:theme 0A}sala de audiencias{:reset}.{:clear }Tras esa puerta,
+
+    deberías encontrar la forma{:clear }de salvar el castillo.
+
+    Por favor, ten cuidado, Sora.
+- id: 5351
+  en: >-
+    Encontré un lugar encantador.
+
+    Seguro que a Donald le gustará.{:clear }Así que regresad rápido, ¿de acuerdo?
+
+    ¡Y volved sin un rasguño!
+- id: 5352
+  en: >-
+    Estoy segura de que Merlín
+
+    nos echará una mano.{:clear }Por favor, id a Bastión Hueco
+
+    y contadle lo que pasa aquí.
+- id: 5353
+  en: >-
+    En ese mundo, habrá
+
+    una puerta idéntica a esta.{:clear }¡Debes usar tu poder
+
+    para cerrarla!
+- id: 5354
+  en: >-
+    ¡Oh, no!
+
+    ¡El castillo está en peligro!{:clear }¡Ve de inmediato a ver a la reina!
+
+    ¡La encontrarás en la biblioteca!
+- id: 5355
+  en: >-
+    Este es el Hangar gumi.
+
+    Por lo general, es un caos.{:clear }Si atraviesas el jardín,
+
+    llegarás a la entrada del castillo.
+- id: 5368
+  en: >-
+    Ah... Mmm... Me pregunto dónde
+
+    estará ese viejo álbum...
+- id: 5369
+  en: ¡Reina Minnie!
+- id: 5370
+  en: ¡Es terrible!
+- id: 5371
+  en: >-
+    ¡Algo va mal en el
+
+    Salón de la Piedra Angular!
+- id: 5372
+  en: >-
+    ¡Están creciendo zarzas
+
+    por todos lados!
+- id: 5373
+  en: >-
+    Ay, rey Mickey, si pudieras oírme.{:delay BA 00}{:clear }¡El castillo está en peligro!
+
+    ¡Tenemos que hacer algo pronto!
+- id: 5374
+  en: Donald... Goofy...
+- id: 5375
+  en: ¿Dónde estáis?
+- id: 5376
+  en: ¿Es vuestro castillo?
+- id: 5377
+  en: Da gusto volver a casa, ¿eh?
+- id: 5378
+  en: ¿Eh?
+- id: 5379
+  en: >-
+    ¿Sabes? Hay algo que
+
+    no acaba de encajar...
+- id: 5380
+  en: Sí.
+- id: 5381
+  en: ¡Habéis vuelto!
+- id: 5382
+  en: ¡Moveos! ¡Vamos!
+- id: 5383
+  en: ¡La reina Minnie quiere veros!
+- id: 5384
+  en: >-
+    ¡El castillo corre peligro!
+
+    ¡A la biblioteca! ¡Rápido!
+- id: 5385
+  en: >-
+    ¡Majestad! ¡Reina Minnie!
+
+    ¡Hemos vuelto!
+- id: 5386
+  en: ¡Estáis aquí!
+- id: 5387
+  en: Alteza, ¿acaso nos habíais llamado?
+- id: 5388
+  en: Así es.
+- id: 5389
+  en: ¿Dónde está el rey?
+- id: 5390
+  en: >-
+    Disculpadle.
+
+    Él es nuestro amigo Sora.
+- id: 5391
+  en: ¡Sora!
+- id: 5392
+  en: >-
+    El rey me ha hablado mucho
+
+    de ti en sus cartas.{:delay A8 00} {:clear }Dice que eres un joven muy valiente.
+- id: 5393
+  en: ¿Sabéis dónde está?
+- id: 5394
+  en: >-
+    Majestad, ¿qué hacen los
+
+    sincorazón en vuestro castillo?
+- id: 5395
+  en: >-
+    Oh, señor... entonces,
+
+    esos son los sincorazón.
+- id: 5396
+  en: Nos encargaremos de ellos, Majestad.
+- id: 5397
+  en: >-
+    Sé que puedo contar contigo, Sora.{:delay B4 00}{:clear }Bien, hay algo que quiero que veáis.{:delay DE 00}{:clear }¿Podéis escoltarme hasta
+
+    la sala de audiencias?
+- id: 5398
+  en: ¡Ar!
+- id: 5399
+  en: ''
+- id: 5400
+  en: >-
+    ¡He olvidado advertir del peligro
+
+    a todos los habitantes del castillo!{:delay B6 00}{:clear }¡Hemos de decirles que se
+
+    oculten en un lugar seguro!
+- id: 5401
+  en: Nosotros les avisaremos.
+- id: 5402
+  en: ¿A todo el castillo?
+- id: 5403
+  en: Tendremos que separarnos, Donald.
+- id: 5404
+  en: >-
+    Yo me encargo de
+
+    que todos se enteren.
+- id: 5405
+  en: ¡No, Sora, te puedes perder!
+- id: 5406
+  en: >-
+    Bueno. Entonces me
+
+    quedaré con la reina.
+- id: 5407
+  en: ¡Bien!
+- id: 5408
+  en: ¡De acuerdo! ¡Hasta luego!
+- id: 5409
+  en: >-
+    Mmm... a la sala de
+
+    audiencias, ¿no es así?
+- id: 5410
+  en: >-
+    Sí, Sora.
+
+    Démonos prisa.
+- id: 5415
+  en: Aguarda un momento.
+- id: 5416
+  en: >-
+    Cuando empezaron los problemas,
+
+    yo misma hice sellar esta sala.
+- id: 5417
+  en: Muy bien. Adelante.
+- id: 5418
+  en: ¡No! ¡Aquí también!
+- id: 5419
+  en: Yo me encargo.
+- id: 5420
+  en: Vamos, dadme un respiro.
+- id: 5421
+  en: ¿Eh?
+- id: 5422
+  en: ¡Alucinante!
+- id: 5423
+  en: >-
+    A esa estancia la llamamos
+
+    el Salón de la Piedra Angular.
+- id: 5424
+  en: >-
+    Nuestro castillo siempre ha estado
+
+    a salvo de todo mundo maligno...
+- id: 5425
+  en: >-
+    gracias a la Piedra Angular de Luz
+
+    que guardamos ahí abajo.
+- id: 5426
+  en: ¿La Piedra Angular... de Luz?
+- id: 5427
+  en: >-
+    Esta es nuestra apreciada
+
+    Piedra Angular.{:delay FC 00}{:clear }Sin embargo...
+- id: 5428
+  en: Esas zarzas...
+- id: 5429
+  en: Me pregunto qué significa esto...
+- id: 5430
+  en: ¡Maléfica!
+- id: 5431
+  en: ¡Es imposible!
+- id: 5432
+  en: >-
+    Vaya, vaya, vaya...
+
+    ¿Qué tenemos aquí?
+- id: 5433
+  en: >-
+    ¡Pero si es el miserable elegido de la
+
+    llave espada y sus patéticos lacayos!
+- id: 5434
+  en: ¡Aaak! ¡Ahora te las verás conmigo!
+- id: 5435
+  en: Todo a su tiempo.
+- id: 5436
+  en: >-
+    Os aseguro que todos
+
+    podréis participar de mi venganza,{:delay B6 00}{:clear }pero debéis tener paciencia.
+- id: 5437
+  en: ¿Qué haces aquí, Maléfica?
+- id: 5438
+  en: >-
+    Ah, reina Minnie.
+
+    Tan radiante como siempre.
+- id: 5439
+  en: >-
+    Sin embargo, es un pelín "brillante"
+
+    para lo que tengo en mente.{:delay 26 01}{:clear }Tendré que llenar
+
+    todas las habitaciones{:delay C6 00}{:clear }con mi "oscuro" toque personal.
+- id: 5440
+  en: >-
+    ¡Será mejor que desistas,
+
+    si sabes lo que te conviene!
+- id: 5441
+  en: Uuuhh... ¡Qué miedo!
+- id: 5442
+  en: Muy bien. Pararé...
+- id: 5443
+  en: ¡Vaya bruja!
+- id: 5444
+  en: >-
+    Nunca había ocurrido nada parecido.{:delay 96 00}{:clear }He repasado todos
+
+    los archivos de la biblioteca{:delay 93 00}{:clear }y no he encontrado ni una pista.
+- id: 5446
+  en: ¡Ohhh!
+- id: 5447
+  en: ''
+- id: 5448
+  en: >-
+    ¡Deberíamos preguntar a alguien{:delay 60 00}{:clear }que sepa de cosas que
+
+    no salen en los libros!
+- id: 5449
+  en: ¡El mago Merlín!
+- id: 5450
+  en: ¡Sí! ¡Es perfecto!
+- id: 5451
+  en: >-
+    Puede que Merlín sepa
+
+    algo sobre todo este lío.{:delay F0 00}{:clear }¡Vamos a pedirle consejo!
+- id: 5452
+  en: Le vimos en Bastión Hueco, ¿cierto?
+- id: 5453
+  en: Sí. ¡Pues vamos!
+- id: 5454
+  en: >-
+    ... ¡Los sincorazón están
+
+    por todo el castillo!
+- id: 5455
+  en: ¡La reina Minnie está en peligro!
+- id: 5456
+  en: ''
+- id: 5457
+  en: Una imagen vale más que mil palabras.
+- id: 5458
+  en: Interesante.
+- id: 5459
+  en: ¿Qué está pasando, Merlín?
+- id: 5460
+  en: >-
+    Nada bueno. De hecho, me temo
+
+    que es bastante peliagudo.
+- id: 5461
+  en: ''
+- id: 5462
+  en: ¿Qué es eso?
+- id: 5463
+  en: >-
+    Pequeño, eso es un portal
+
+    a un mundo muy especial.
+- id: 5464
+  en: >-
+    Alguien de ese mundo es
+
+    responsable de lo que está ocurriendo{:delay C6 00}{:clear }en este castillo.
+
+    De eso estoy seguro.
+- id: 5465
+  en: ¡Madre mía!
+- id: 5466
+  en: >-
+    ¡Sabíamos que podíamos
+
+    contar contigo, Merlín!
+- id: 5467
+  en: ¡Pues vamos a por él!
+- id: 5468
+  en: ¡Un momento!
+- id: 5469
+  en: >-
+    Sin duda hay que
+
+    detener a los culpables,{:delay A2 00}{:clear }pero primero tenemos
+
+    que hacer otra cosa.
+- id: 5470
+  en: >-
+    En alguna parte de ese mundo tiene
+
+    que haber otro portal idéntico a este.
+- id: 5471
+  en: >-
+    Creo que nuestros enemigos
+
+    están utilizando ese portal.{:delay FC 00}{:clear }Mientras siga abierto,
+
+    el castillo estará en peligro.
+- id: 5472
+  en: >-
+    Así que escúchame bien, Sora.{:delay 72 00}{:clear }Debes encontrar ese portal
+
+    y sellarlo con tu llave espada.
+- id: 5473
+  en: Vale.
+- id: 5474
+  en: ¡Cuenta con nosotros!
+- id: 5475
+  en: >-
+    Y una cosa más. Os adentraréis
+
+    en un mundo muy especial.
+- id: 5476
+  en: >-
+    Allí, la naturaleza de ese mundo puede
+
+    tentaros para que hagáis algo oscuro;{:delay FC 00}{:clear }incluso malvado. ¡Debéis resistir
+
+    esa tentación a toda costa!
+- id: 5477
+  en: ¿Qué quieres decir?
+- id: 5478
+  en: >-
+    Pronto lo sabréis.
+
+    ¡Tengo fe en vosotros, muchachos!
+- id: 5479
+  en: ¡Las zarzas han desaparecido!
+- id: 5480
+  en: >-
+    ¡Por todos mis conjuros!
+
+    Los chicos han cumplido la misión.
+- id: 5481
+  en: ¡Hurra!
+- id: 5482
+  en: >-
+    ¡Démonos un banquete de
+
+    avellanas para celebrarlo!
+- id: 5483
+  en: ¡Bienvenidos a casa!
+- id: 5484
+  en: >-
+    Gracias a vuestro valor, el castillo
+
+    está a salvo y vuelve a estar protegido.{:delay 0E 01}{:clear }¡Muchas gracias por todo!
+- id: 5485
+  en: ¡Buen trabajo, chicos!
+- id: 5486
+  en: >-
+    Bueno, espero que no hayáis hecho
+
+    ninguna tontería mientras estabais allí.
+- id: 5487
+  en: ¡Pues claro que no!
+- id: 5488
+  en: ¡Daisy!
+- id: 5489
+  en: ¡Daisy, he vuelto!
+- id: 5490
+  en: ¿Quién?
+- id: 5491
+  en: Daisy es el amorcito de Donald.
+- id: 5492
+  en: ¿En serio?
+- id: 5493
+  en: ''
+- id: 5494
+  en: >-
+    ¡Donald, me prometiste que
+
+    tendríamos una cita!{:delay A2 00}{:clear }¡Más vale que tengas una
+
+    buena excusa esta vez!
+- id: 5495
+  en: Pero, Daisy, yo...
+- id: 5496
+  en: >-
+    Sé que es una misión importante,{:delay 90 00}{:clear }pero podrías dar señales
+
+    de vida de vez en cuando.
+- id: 5497
+  en: Sora...
+- id: 5498
+  en: ¡Donald!
+- id: 5499
+  en: ¡Ahora vuelvo!
+- id: 5500
+  en: ¿Vas a alguna parte?
+- id: 5501
+  en: ¡Claro que no!
+- id: 5502
+  en: ¡Donald!
+- id: 5503
+  en: ¡Mirad!
+- id: 5504
+  en: ''
+- id: 5505
+  en: >-
+    Daisy, necesitamos a tu
+
+    Donald un poquito más.
+- id: 5506
+  en: ¿Cuánto más?
+- id: 5507
+  en: Ehm... Pues...
+- id: 5508
+  en: ¡Volveré muy pronto, Daisy!
+- id: 5509
+  en: >-
+    No os preocupéis, reina Minnie.
+
+    Volveremos.
+- id: 5510
+  en: >-
+    Por favor, decidle al rey
+
+    que le seguimos buscando.
+- id: 5511
+  en: ¡Lo haré!
+- id: 5512
+  en: ¡Hasta pronto!
+- id: 5513
+  en: ¡Que la sabiduría os guíe!
+- id: 7778
+  en: >-
+    He venido por un
+
+    asunto de propiedades.{:delay 7A 00}{:clear }Veréis, me he encaprichado
+
+    de este castillo.
+- id: 7779
+  en: >-
+    ¡En cuanto el castillo
+
+    me pertenezca!
+- id: 7780
+  en: >-
+    Esto ha de ser obra de
+
+    alguien muy perverso.
+- id: 7973
+  en: >-
+    El rey está en algún sitio
+
+    haciendo todo lo que puede.{:clear }Yo misma ayudaré en lo que pueda,
+
+    pero, ante todo, ¡necesitamos tu ayuda!
+- id: 8095
+  en: ¡Protege a Minnie de camino al trono!
+- id: 8096
+  en: >-
+    ¡Protege a Minnie de camino al trono!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, será más fácil!
+- id: 13874
+  en: >-
+    ¡Sabía que Merlín nos ayudaría!{:clear }Pero nuestro problema sigue sin
+
+    resolverse. ¡Confío en ti, Sora!
+- id: 13949
+  en: >-
+    En una batalla gumi, si vences rápido
+
+    al enemigo, a veces aparece otro.{:clear }Es más trabajo para ti, ¡pero puedes
+
+    encontrarte con enemigos especiales!
+- id: 13950
+  en: >-
+    Mientras tú buscas gumis,
+
+    diseñaremos una nave.{:clear }Recoge tantos como te sea posible. Te
+
+    avisaremos cuando el plano esté listo.
+- id: 14274
+  en: ¡Protege a Minnie de camino a la sala de audiencias!
+- id: 14275
+  en: >-
+    ¡Protege a Minnie de camino
+
+    a la sala de audiencias!
+
+    ¡Usa los comandos de reacción
+
+    con {:icon button-triangle}, y te resultará más fácil!
+- id: 14422
+  en: ¡Minnie está en peligro!
+- id: 14423
+  en: ¡Minnie está en peligro!
+- id: 16042
+  en: >-
+    Si la Sala de la Piedra Angular está así,
+
+    ¡es que el problema es serio!{:clear }¡Si al menos estuviera aquí el rey!
+
+    Aunque, contigo cerca, me siento mejor.
+- id: 16043
+  en: >-
+    ¡Vaya! ¡Merlín puede crear
+
+    puertas a otros mundos!{:clear }¡Por favor, ve deprisa a la Sala de la
+
+    Piedra Angular y salva el castillo!
+- id: 16044
+  en: >-
+    Vamos a ver a Merlín, ¿no?{:clear }La nave gumi ya está lista para volar.
+
+    ¡Vamos a Bastión Hueco!
+- id: 16045
+  en: >-
+    Anda, otro mundo...
+
+    A mí también me gustaría ir.
+- id: 16122
+  en: >-
+    La sala de audiencias está
+
+    tras {:theme 0A}la gran puerta {:reset}del corredor.{:clear }¡Date prisa, Sora!
+- id: 16123
+  en: >-
+    Multitud de enemigos se
+
+    interponen en mi camino.{:clear }Ayúdame a
+
+    combatirlos, Sora.
+- id: 16124
+  en: >-
+    Ahora debemos ir a la
+
+    {:theme 0A}sala de audiencias{:reset}. ¡Deprisa, Sora!
+- id: 16969
+  en: Esta estatua te resulta familiar.
+- id: 16970
+  en: Esta estatua te resulta familiar.
+- id: 16971
+  en: Este debe de ser el trono del rey.
+- id: 16972
+  en: Esto debe de ser de Pluto.
+- id: 16973
+  en: Ves una carta para alguien.
+- id: 16974
+  en: >-
+    "El Castillo Disney está protegido
+
+    por poderes mágicos."
+- id: 16975
+  en: >-
+    "Desde su trono, el rey
+
+    vigila el salón cerrado."
+- id: 16976
+  en: >-
+    "Si la luz sagrada se pierde, el castillo
+
+    será engullido por la oscuridad."
+- id: 16977
+  en: ¿Será este el rey?
+- id: 16978
+  en: ¿Será un antepasado del rey?
+- id: 16979
+  en: Parece que te quiere llevar a algún sitio.
+- id: 16980
+  en: >-
+    {:unk08 02 00 06}¿Le sigues?
+
+    {:chardelay 33 00}No, gracias.
+
+    {:chardelay 09 00}¡Sí, muéstrame el camino!
+- id: 16981
+  en: Está cerrada con un hechizo.
+- id: 16982
+  en: Emite una extraña luz.
+- id: 16983
+  en: Brilla con intensidad.
+- id: 18407
+  en: NOT IN GAME
+- id: 19207
+  en: >-
+    El criado está tan ocupado
+
+    limpiando que no hablará contigo.
+- id: 19757
+  en: 'Castillo Disney'
+- id: 20218
+  en: >-
+    {:unk08 02 00 06}¿Adónde conducirá esto?
+
+    No da buena espina...
+
+    {:chardelay 33 00}Mejor dejarlo.
+
+    {:chardelay A1 00}¡Echemos un vistazo!
+- id: 20219
+  en: >-
+    {:unk08 02 00 06}El tipo de la armadura estará
+
+    al otro lado.
+
+    {:chardelay 33 00}Mejor no molestarlo
+
+    {:chardelay A1 00}¡Quiero enfrentarme a él!
+- id: 20332
+  en: >-
+    Siento una fuerza muy intensa,
+
+    pero dudo que sea Maléfica.{:clear }No creo que sea un peligro para
+
+    el castillo, pero id con cuidado.
+- id: 20333
+  en: >-
+    ¡Algo pasa en el {:theme 0A}Salón de la Piedra Angular{:reset}!
+
+    ¿Podrías investigarlo con Donald?{:clear }Goofy, como capitán de la guardia,
+
+    debes defender el castillo.
+- id: 20334
+  en: >-
+    Un increíble poder fluye de
+
+    la abertura.{:clear }Ignoro qué es, pero te aconsejo
+
+    que vayas con mucho cuidado.
+- id: 20335
+  en: >-
+    ¡Mira, Sora! ¡Ese enorme agujero
+
+    ha aparecido en mitad de la sala!{:clear }¿No se suponía que el castillo
+
+    estaba ya fuera de peligro?
+- id: 20336
+  en: >-
+    Parece más nerviosa de lo normal.
+
+    Algo no marcha bien en el {:theme 0A}castillo{:reset}.
+- id: 20548
+  en: >-
+    ¡Derrota al individuo misterioso!
+
+    ¿Podrás plantar cara al más
+
+    temible de los adversarios?
+- id: 21409
+  en: Aqua... Ventus...
+- id: 21410
+  en: ¿Una llave espada?...{:delay 73 00}{:clear }¿Quién eres?
+- id: 21411
+  en: >-
+    No es la primera vez que nos
+
+    encontramos.{:delay B9 00}{:clear }Pero entonces...
+- id: 21412
+  en: No, aquel no eras tú...{:delay 73 00}{:clear }No fue a ti a quien elegí...
+- id: 21413
+  en: ¿Dónde está el otro?
+- id: 21414
+  en: Xe... ha... nort...
+- id: 21415
+  en: ¿Eres tú?
+- id: 21416
+  en: ''
+- id: 21417
+  en: Xeha... nort...
+- id: 21418
+  en: ¡Xehanort!
+- id: 21419
+  en: ¡Esto no ha acabado aún!
+- id: 21420
+  en: Ahora lo veo. Tu fuerza...{:delay 78 00}{:clear }Eso es lo que sentí en ti...
+- id: 21421
+  en: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Has vuelto, joven portador de
+
+    la llave espada.
+- id: 21422
+  en: >-
+    {:unk13 76 01 3C 00}{:unk06 01}{:unk08 03 00 05}Nada queda ya que pueda
+
+    ofrecerte.{:clear }Solo el rencor hacia Xehanort
+
+    tiene cabida en mi ser.{:clear }¿Acaso estarías dispuesto a
+
+    ser partícipe de esta, mi carga?
+- id: 21425
+  en: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}¡Ey, Sora!
+
+    ¡Justo a tiempo!
+- id: 21426
+  en: >-
+    {:unk13 86 01 DC 00}{:unk06 02}{:unk08 03 00 05}Algo no va bien.
+
+    ¡Mira eso!
+- id: 21427
+  en: >-
+    {:unk13 68 01 D2 00}{:unk06 00}{:unk08 01 00 07}Me di cuenta de que
+
+    estaba ahí cuando vine
+
+    a ver la Piedra Angular.
+- id: 21428
+  en: >-
+    {:unk13 F0 00 E6 00}{:unk06 00}{:unk08 01 01 06}Creo que podría estar
+
+    conectado con otro lugar...
+- id: 21429
+  en: >-
+    {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 05}¿Y si fuera otro portal
+
+    hacia el pasado?
+- id: 21430
+  en: >-
+    {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 00 06}¡A mí me huele a trampa
+
+    de la Organización {XIII}!
+- id: 21431
+  en: >-
+    {:unk13 54 01 50 00}{:unk06 00}{:unk08 01 01 05}Sea lo que sea, mejor
+
+    investigarlo con cuidado.
+- id: 21625
+  en: ¡Los comandos están bloqueados! ¡Haz algo!
+- id: 21626
+  en: ¡Ya puedes usar algunos comandos!
+- id: 21627
+  en: ¡Algunos comandos están bloqueados! ¡Haz algo!
+- id: 21628
+  en: ¡Ya puedes usar los comandos!

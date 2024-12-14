@@ -1,0 +1,1117 @@
+﻿- id: 849
+  en: >-
+    Hay que reunir datos sobre el cierre
+
+    de las puertas y colgar el ordenador.{:clear }El problema es que no tenemos
+
+    forma de extraer los datos.
+- id: 850
+  en: >-
+    ¡Los usuarios son asombrosos!
+
+    ¡Nunca he visto un programa así!{:clear }¡Gracias al navegador solar, ya
+
+    puedo acceder al PCM!
+- id: 855
+  en: ¡Sora!
+- id: 856
+  en: ¡Vamos, enséñales quién manda!
+- id: 857
+  en: ¿Quién eres?
+- id: 858
+  en: Soy el comandante Sark.
+- id: 859
+  en: ¿Un sincorazón comandante?
+- id: 860
+  en: Mmm... Observa.
+- id: 861
+  en: ¡Vale, tú mandas! Entendido.
+- id: 862
+  en: ¡Vaya! ¿Qué clase de mundo es este?
+- id: 863
+  en: >-
+    Estáis dentro de un sistema
+
+    informático central.
+- id: 864
+  en: ¿Un qué?
+- id: 865
+  en: >-
+    Un sistema informático...
+
+    para procesar datos.{:delay A2 00}{:clear }{:delay 3C 00}{:clear }Este sistema es la copia de uno
+
+    creado por la corporación ENCOM. {:delay E6 00}{:clear }{:delay 2A 00}{:clear }El programa original fue destruido.
+- id: 866
+  en: >-
+    Esta copia fue adquirida
+
+    por otro usuario.
+- id: 867
+  en: >-
+    El nuevo usuario actualizó
+
+    los programas{:delay 82 00}{:clear }y rebautizó el sistema como
+
+    "S.O. Bastión Hueco".
+- id: 868
+  en: >-
+    Usaba el sistema para el
+
+    mantenimiento de la ciudad{:delay 9D 00}{:clear }y para sus investigaciones privadas.
+- id: 869
+  en: Me llamo Tron. {:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Soy un programa de seguridad...{:delay 61 00}{:clear }{:delay 2A 00}{:clear }pero estoy detenido, como vosotros.
+- id: 870
+  en: ¿Os habéis enterado de algo?
+- id: 871
+  en: ¡Ahí va! {:delay 42 00}{:clear }¿Y si nos presentamos?
+- id: 872
+  en: Yo soy Sora.
+- id: 873
+  en: Y yo Donald.
+- id: 874
+  en: >-
+    Encantado, Tron.
+
+    Yo soy Goofy.
+- id: 875
+  en: >-
+    Con esa configuración,
+
+    debéis de ser usuarios.
+- id: 876
+  en: ¿Usuarios?
+- id: 877
+  en: >-
+    Será mejor que salgáis
+
+    de aquí enseguida.{:delay 5A 00}{:clear }{:delay 27 00}{:clear }¿Quién sabe lo que os hará el PCM?
+- id: 878
+  en: ¿PCM?
+- id: 879
+  en: El Programa de Control Maestro.
+- id: 880
+  en: >-
+    Controla todo el sistema.
+
+    Si os quedáis aquí, intentará borraros.
+- id: 881
+  en: ¿Borrarnos?
+- id: 882
+  en: ¿Y cómo salimos de aquí?
+- id: 883
+  en: >-
+    Este terminal os devolvería
+
+    al mundo de los usuarios.
+- id: 884
+  en: >-
+    Pero el PCM cortó la corriente
+
+    hace 50 microciclos.
+- id: 885
+  en: >-
+    Si pudiéramos activar el núcleo
+
+    de energía del cañón, {:delay A0 00}{:clear }conseguiríamos reiniciarlo.
+- id: 886
+  en: >-
+    Lo malo es que...
+
+    estamos atrapados en esta celda.
+- id: 887
+  en: >-
+    No iremos a ninguna parte si no
+
+    inutilizamos estos campos de energía.
+- id: 888
+  en: >-
+    Control Maestro,
+
+    ¿por qué no borramos a Tron?
+- id: 889
+  en: >-
+    Aún no he localizado la contraseña
+
+    de ese entorno de datos.
+- id: 890
+  en: >-
+    ¿Y una sonda lógica? Con toda tu
+
+    capacidad de procesamiento...
+- id: 891
+  en: >-
+    Imposible.{:delay 4D 00}{:clear }{:delay 2E 00}{:clear }El entorno actual limita la
+
+    capacidad de procesamiento{:delay 9C 00}{:clear }necesaria para semejante análisis.
+- id: 892
+  en: >-
+    Puedes retirarte, Sark.{:delay 60 00}{:clear }Elimina cualquier otra anomalía
+
+    en el sistema o...{:delay D2 00}{:clear }Fin del mensaje.
+- id: 893
+  en: Entendido.
+- id: 894
+  en: >-
+    {:unk13 5E 01 96 00}{:unk08 01 00 05}Notable...{:clear }Parece que tienes algunas
+
+    funciones únicas.
+- id: 895
+  en: >-
+    {:unk13 F0 00 46 00}{:unk08 01 01 06}Os acompañaré
+
+    hasta el cañón.{:clear }Vais a necesitar a alguien
+
+    que pueda conectarse
+
+    con el núcleo de energía, ¿no?
+- id: 896
+  en: '{:unk13 96 00 78 00}{:unk08 01 01 05}Si tú lo dices...{:clear }Gracias, Tron.'
+- id: 897
+  en: Este es el núcleo de energía.
+- id: 898
+  en: '{:unk13 0E 01 64 00}{:unk08 01 01 06}¿Misión cumplida?'
+- id: 899
+  en: '{:unk13 DC 00 50 00}{:unk08 01 00 05}Sí.'
+- id: 900
+  en: '{:unk13 FA 00 46 00}{:unk08 01 00 05}Ahora... ¿podríais hacer algo por mí?'
+- id: 901
+  en: '{:unk13 04 01 5A 00}{:unk08 01 01 06}¡Dalo por hecho!'
+- id: 902
+  en: '{:unk13 1F 01 2A 00}{:unk08 01 00 05}¿No queréis antes saber de qué se trata?'
+- id: 903
+  en: >-
+    {:unk13 9D 00 A9 00}{:unk08 01 01 04}¡Tú nos ayudaste!
+
+    Ahora nos toca a nosotros.
+- id: 904
+  en: >-
+    {:unk13 5E 01 32 00}{:unk08 01 00 04}No cabe duda de que
+
+    sois usuarios.{:clear }Vuestras acciones son
+
+    totalmente ilógicas.
+- id: 905
+  en: >-
+    {:unk13 7C 01 3C 00}{:unk08 01 00 05}Démonos prisa en
+
+    volver a la celda.
+- id: 906
+  en: '{:unk13 A0 00 C8 00}{:unk08 01 01 06}¿Por dónde estaba?'
+- id: 907
+  en: >-
+    {:unk13 5E 01 64 00}{:unk08 01 00 05}Es el sector donde
+
+    nos encontramos.
+- id: 908
+  en: '{:unk13 E6 00 28 00}{:unk08 01 01 06}¡Entendido!'
+- id: 909
+  en: Bueno, ¿qué quieres que hagamos?
+- id: 910
+  en: >-
+    Buscad a mi usuario. Os dará la
+
+    contraseña para acceder al DTD.
+- id: 911
+  en: ¡Hecho!
+- id: 912
+  en: Pero... eh...
+- id: 913
+  en: >-
+    DTD es el nombre que le puso mi
+
+    usuario al entorno de datos.{:delay D2 00}{:clear }Allí se guardan copias de todos los
+
+    programas del sistema original{:delay CD 00}{:clear }y datos secretos o restringidos.
+- id: 914
+  en: >-
+    ¿Hay algo sobre los sincorazón
+
+    o la Organización {XIII}?
+- id: 915
+  en: Mmm... Es muy probable.
+- id: 916
+  en: >-
+    Perdí varias de mis funciones la
+
+    última vez que me enfrenté al PCM.{:delay FA 00}{:clear }Por eso necesito la contraseña.
+- id: 917
+  en: >-
+    Si logro entrar en el DTD, podré
+
+    acceder a mi backup original{:delay D2 00}{:clear }y restaurar todas mis funciones.
+- id: 918
+  en: >-
+    Entonces volveré a dejar el
+
+    sistema tal y como era{:delay 92 00}{:clear }antes de que el PCM se hiciera con
+
+    el control y lo cambiara todo.{:delay ED 00}{:clear }Como debería ser, un sistema libre
+
+    para vosotros, los usuarios.
+- id: 919
+  en: >-
+    Oye, Tron, ¿el PCM no es
+
+    uno de esos programas también?
+- id: 920
+  en: ¿Sabes quién fue su creador?
+- id: 921
+  en: En realidad...
+- id: 922
+  en: No lo sé.
+- id: 923
+  en: >-
+    Pues habrá que encontrar a tu usuario
+
+    y preguntarle. ¿Cómo se llama?
+- id: 924
+  en: >-
+    ¿Es que no lo sabéis?{:delay 48 00}{:clear }{:delay 54 00}{:clear }Mi usuario es el usuario
+
+    de este sistema: {:delay 7E 00}{:clear }{:delay 30 00}{:clear }Ansem el Sabio.
+- id: 925
+  en: ¿Ansem?
+- id: 926
+  en: Creo que el PCM nos ha descubierto.
+- id: 927
+  en: >-
+    Yo mantendré este terminal activado.
+
+    Vosotros salid ya del sistema.
+- id: 928
+  en: Claro... pero Tron... Ansem...
+- id: 929
+  en: ¡Te traeremos la contraseña!
+- id: 930
+  en: Vale.{:delay 3C 00}{:clear }Ya podéis iros.{:delay 58 00}{:clear }¡Rápido!
+- id: 931
+  en: >-
+    {:unk13 AA 00 64 00}{:unk08 01 01 06}Ahí va, me pregunto
+
+    dónde estará Tron.
+- id: 932
+  en: '{:unk06 02}{:unk13 90 01 AA 00}{:unk08 03 00 06}¡No toques eso!'
+- id: 933
+  en: '{:unk13 C8 00 64 00}{:unk08 01 01 06}¿Eh?'
+- id: 934
+  en: '{:unk06 02}{:unk13 AA 00 3C 00}{:unk08 03 00 05}¡Goofy!'
+- id: 935
+  en: '{:unk13 68 01 50 00}{:unk08 01 00 05}Eh... ¡no he sido yo!'
+- id: 936
+  en: ¡Yo no he tocado nada!
+- id: 937
+  en: Bienvenidos a la rejilla de juego.
+- id: 938
+  en: ¿Rejilla de juego?
+- id: 939
+  en: >-
+    Así es. Habéis sido escogidos para
+
+    participar en algunos juegos. {:delay 02 01}{:clear }Si perdéis, seréis borrados. {:delay 84 00}{:clear }Y si ganáis...
+- id: 940
+  en: Bueno...{:delay 3C 00}{:clear }{:delay 66 00}Nadie gana.
+- id: 941
+  en: ¡No pensamos participar en esto!
+- id: 942
+  en: No tenéis alternativa.
+- id: 943
+  en: ¡Pues entonces, adelante!
+- id: 944
+  en: ¡Tron!
+- id: 945
+  en: No lo entiendo. ¿Por qué estáis aquí?
+- id: 946
+  en: Venimos a darte la contraseña.
+- id: 947
+  en: >-
+    ¿Por qué no habéis
+
+    transmitido los datos?
+- id: 948
+  en: ¿Transmitir?
+- id: 949
+  en: Oye, ¿estás bien?
+- id: 950
+  en: >-
+    Estaré bien...
+
+    cuando accedamos al DTD.
+- id: 951
+  en: '{:unk13 B6 00 96 00}{:unk08 01 01 06}Muy bien, ¿cuál es la contraseña?'
+- id: 952
+  en: '{:unk13 80 01 4B 00}{:unk08 01 00 06}A ver...{:clear }Bella, Blancanieves...'
+- id: 953
+  en: >-
+    {:unk13 54 01 3C 00}{:unk08 01 01 06}Aurora, Alicia, Yasmín,
+
+    Cenicienta...
+- id: 954
+  en: '{:unk13 18 01 82 00}{:unk08 01 01 06}Kairi.'
+- id: 955
+  en: '{:unk13 0E 01 32 00}{:unk08 01 00 05}Y Kairi. Vale.'
+- id: 956
+  en: '{:unk06 02}{:unk13 D2 00 3C 00}{:unk08 03 00 05}¡Funciona!'
+- id: 957
+  en: >-
+    {:unk13 FF 00 3C 00}Cambiando el DTD de
+
+    hibernación a modo activo.{:clear }Este proceso llevará algún tiempo.{:clear }Por favor, diviértase jugando
+
+    mientras finaliza el proceso.
+- id: 958
+  en: '{:unk06 02}{:unk13 2C 01 46 00}{:unk08 03 00 05}¡Oh, no!'
+- id: 959
+  en: '{:unk13 C8 00 46 00}{:unk08 01 00 05}¡Más juegos, no!'
+- id: 960
+  en: >-
+    {:unk13 B4 00 3C 00}{:unk08 01 01 06}No, es la rutina de seguridad
+
+    final del DTD.{:clear }No es un juego.
+
+    ¡Estad atentos!
+- id: 961
+  en: >-
+    ¡Estoy como nuevo! ¡Todas mis
+
+    funciones han sido restauradas!
+- id: 963
+  en: >-
+    Por fin. {:delay 72 00}{:clear }Tengo acceso total al DTD. {:delay C0 00}{:clear }{:delay 2A 00}{:clear }Mi control sobre el
+
+    sistema es absoluto.{:delay DE 00}{:clear }Nunca me habría imaginado
+
+    una contraseña tan sencilla.
+- id: 964
+  en: >-
+    ¿Qué tenemos aquí?{:delay 4C 00}{:clear }Un programa de destrucción
+
+    de emergencia para la ciudad.{:delay C8 00}{:clear }Veamos qué tal funciona.
+- id: 965
+  en: ¡No!
+- id: 966
+  en: >-
+    ¡Programa!
+
+    ¡Has cambiado la contraseña!
+- id: 967
+  en: Vale. Eso nos dará un tiempo.
+- id: 968
+  en: ¡Tron! ¡Dinos qué está pasando!
+- id: 969
+  en: >-
+    El PCM está cargando un
+
+    programa hostil en la Torre I/O.
+- id: 970
+  en: ¿Qué hacemos?
+- id: 971
+  en: >-
+    Hay que proteger la ciudad
+
+    de los usuarios.
+- id: 972
+  en: ¡Vamos hacia la torre!
+- id: 973
+  en: '{:unk13 3B 01 30 00}{:unk08 01 00 05}Fuera debe de haber un caos total.'
+- id: 974
+  en: >-
+    {:unk13 BE 00 AC 00}{:unk08 01 01 04}Creo que también vamos a tener
+
+    problemas aquí dentro...
+- id: 975
+  en: >-
+    Estoy decepcionado, programa.{:delay 72 00}{:clear }{:delay 18 00}¿Por qué insistes en aliarte
+
+    con esos egoístas usuarios?
+- id: 976
+  en: >-
+    Porque quiero ayudarlos.{:delay 8A 00}{:clear }{:delay 2E 00}Una parte de mi código matriz
+
+    me ordena hacer lo correcto.
+- id: 977
+  en: ¿En serio? {:delay 36 00}{:clear }¿Y qué parte del código sería esa?
+- id: 978
+  en: No estoy seguro del todo.
+- id: 979
+  en: Los amigos...{:delay 2F 00}{:clear }se ayudan unos a otros, eso es todo.{:delay 72 00}{:clear }{:delay 53 00}¡Oh! ¡Cuidado!
+- id: 980
+  en: >-
+    Estoy en deuda con vosotros.{:delay 4A 00}{:clear }{:delay 2A 00}{:clear }Con todas mis funciones operativas,
+
+    creo que tengo posibilidades de{:delay C8 00}{:clear }quitarle el control al PCM.
+- id: 981
+  en: Será mejor que me ponga a trabajar.{:delay 7A 00}{:clear }{:delay 5D 00}{:clear }Es lo que querría mi usuario.
+- id: 982
+  en: Lo que querría Ansem...
+- id: 983
+  en: Escucha, Tron.{:delay 43 00}{:clear }{:delay 33 00}{:clear }La contraseña no nos la dio Ansem.{:delay 89 00}{:clear }{:delay 31 00}{:clear }La encontramos{:delay 5E 00}{:clear }{:delay 11 00}{:clear }en el mundo de los usuarios...{:delay 62 00}{:clear }por casualidad.
+- id: 984
+  en: Y una cosa más...{:delay 54 00}{:clear }{:delay 18 00}{:clear }Ansem...{:delay 2A 00}{:clear }{:delay 1A 00}{:clear }era nuestro enemigo.
+- id: 985
+  en: Es decir, lo es aún... supongo.
+- id: 986
+  en: Bueno, en realidad... {:delay 3C 00}{:clear }{:delay 42 00}{:clear }también es mi enemigo.
+- id: 987
+  en: ¿Cómo es eso?
+- id: 988
+  en: >-
+    Ansem usó el sistema original de
+
+    ENCOM y lo personalizó. {:delay 04 01}{:clear }{:delay 36 00}{:clear }Yo formaba parte del sistema original
+
+    y Ansem me modificó.
+- id: 989
+  en: Y eso le convierte en mi usuario.
+- id: 990
+  en: >-
+    Pero Ansem fue también
+
+    quien trajo el PCM.{:delay D6 00}{:clear }{:delay 5E 00}{:clear }El Ansem que conocía
+
+    no habría hecho eso.{:delay 9D 00}{:clear }{:delay 40 00}Siento no habéroslo dicho.
+- id: 991
+  en: >-
+    No importa...
+
+    pero ahora sí que no entiendo nada.
+- id: 992
+  en: >-
+    Yo tampoco lo entiendo.{:delay 96 00}{:clear }{:delay 66 00}{:clear }Creo que sois vosotros los usuarios
+
+    quienes acabaréis por averiguarlo.
+- id: 993
+  en: >-
+    Tenéis la capacidad de
+
+    seguir pautas ilógicas{:delay AA 00}{:clear }y aun así llegar a las respuestas.
+- id: 994
+  en: >-
+    Marchaos ya, antes de que
+
+    el PCM vuelva a las andadas.
+- id: 995
+  en: >-
+    Podéis acceder a
+
+    cualquier dato del DTD{:delay 88 00}{:clear }directamente desde el
+
+    terminal de mi usuario.{:delay AA 00}{:clear }Dejaré abierta una ruta
+
+    de acceso para vosotros.
+- id: 996
+  en: >-
+    He cambiado la contraseña,{:delay 48 00}{:clear }así que el PCM no os
+
+    molestará en una temporada.
+- id: 997
+  en: ¿Ruta de acceso?
+- id: 998
+  en: Sabía que lo preguntarías.
+- id: 999
+  en: >-
+    Es un enlace muy importante
+
+    entre nuestros mundos.{:delay 99 00}{:clear }Es lo que nos mantiene conectados.
+- id: 1000
+  en: >-
+    Vosotros... amigos míos...
+
+    sois la nueva contraseña.
+- id: 1001
+  en: ¡Gracias, Tron! ¡Cuídate!
+- id: 1002
+  en: >-
+    ¡Igualmente!
+
+    ¡Y dad recuerdos a los usuarios!
+- id: 1003
+  en: ¡Ahí va! Espero que Tron esté bien.
+- id: 1004
+  en: Y yo. Vamos a la rejilla de juego.
+- id: 1005
+  en: ¡Bien! ¡El terminal funciona!
+- id: 1006
+  en: ¡Vamos!
+- id: 1007
+  en: ¡Tron!
+- id: 1008
+  en: ¡Cuidado! ¡Cubríos!
+- id: 1009
+  en: ¡Aguanta!
+- id: 1010
+  en: '{:unk13 D2 00 3C 00}{:unk08 01 00 05}Me habéis salvado.'
+- id: 1011
+  en: '{:unk13 90 01 64 00}{:unk08 01 00 05}Bah. No es nada.'
+- id: 1012
+  en: '{:unk13 AA 00 C8 00}{:unk08 01 01 06}¿Qué ocurre aquí?'
+- id: 1013
+  en: >-
+    {:unk13 AA 00 46 00}{:unk08 01 01 06}El PCM está listo para
+
+    desatar una guerra
+
+    contra los usuarios.{:clear }¿Cómo van las cosas
+
+    en el exterior?
+- id: 1014
+  en: >-
+    {:unk13 B4 00 46 00}{:unk08 01 01 06}Bueno, la máquina que
+
+    fabrica a los sincorazón ha
+
+    enloquecido por completo...{:clear }Y también hay problemas con el
+
+    sistema de control de la ciudad.
+- id: 1015
+  en: >-
+    {:unk13 18 01 46 00}{:unk08 01 01 06}Pero Cid está creando un
+
+    programa que puede borrar
+
+    al PCM.{:clear }Una vez que lo recojamos en la
+
+    Torre I/O, cree que podremos
+
+    usarlo para terminar con el PCM.
+- id: 1016
+  en: '{:unk06 02}{:unk13 82 00 3C 00}{:unk08 03 01 06}¡Probémoslo!'
+- id: 1017
+  en: '{:unk06 02}{:unk13 40 01 78 00}{:unk08 03 01 06}¡Genial!'
+- id: 1018
+  en: '{:unk13 FA 00 32 00}{:unk08 01 00 05}¿Y quién es ese Cid?'
+- id: 1019
+  en: >-
+    {:unk13 AA 00 3C 00}{:unk08 01 01 06}Uno de nuestros amigos.{:clear }León, Merlín,
+
+    Aerith, Yuffie...{:clear }Todos ellos están ahí fuera,
+
+    y se preocupan por ti, Tron.
+- id: 1020
+  en: >-
+    {:unk13 36 01 3C 00}{:unk08 01 00 05}Debo de tener un montón
+
+    de usuarios amigos.
+- id: 1021
+  en: >-
+    {:unk13 FA 00 50 00}{:unk08 01 00 05}Ese programa ya
+
+    estará terminado,
+
+    ¿no creéis?
+- id: 1022
+  en: '{:unk06 02}{:unk13 90 01 B4 00}{:unk08 03 00 05}¡A la torre!'
+- id: 1023
+  en: '{:unk13 64 00 50 00}{:unk08 01 01 05}¡Adelante!'
+- id: 1024
+  en: ¡Casi estamos!
+- id: 1025
+  en: ¡Quitaos de en medio!
+- id: 1026
+  en: Sigue sin aparecer nada.
+- id: 1027
+  en: ¡León, vamos!
+- id: 1028
+  en: ¡Ya llega!
+- id: 1029
+  en: ¡Bien!
+- id: 1030
+  en: ¿Qué te parece?
+- id: 1031
+  en: Esto es muy raro...
+- id: 1032
+  en: ¡Es la magia de Merlín!
+- id: 1033
+  en: ¿Eh?
+- id: 1035
+  en: Entonces... ¿estamos listos?
+- id: 1036
+  en: >-
+    Bueno, como decís los usuarios...
+
+    ¡no lo sabremos hasta que lo intentemos!
+- id: 1037
+  en: >-
+    ¡Necesitamos un navegador
+
+    para llegar hasta el PCM!{:delay 78 00}{:clear }Vamos al hangar de simulación.
+- id: 1038
+  en: >-
+    Tenemos que estar atentos.{:delay 5C 00}{:clear }El PCM no dejará que
+
+    entremos por las buenas.
+- id: 1039
+  en: Ya casi hemos llegado.
+- id: 1040
+  en: Es hora de zanjar las cosas.
+- id: 1041
+  en: ¿Quién era ese?
+- id: 1042
+  en: Sark.{:delay 3F 00}{:clear }El segundo del PCM.
+- id: 1043
+  en: >-
+    ¡Molestos programillas!
+
+    Estáis acabados.{:delay B8 00}{:clear }{:delay 32 00}¡Preparaos para ser desintegrados!
+- id: 1044
+  en: Eres muy perseverante, Tron.
+- id: 1045
+  en: Y mucho mejor que tú.
+- id: 1046
+  en: '{:delay 3C 00}Habríamos formado... un gran equipo.'
+- id: 1047
+  en: ¡Y ahora, a por el PCM!
+- id: 1048
+  en: ¿Esta cosa es el PCM?
+- id: 1049
+  en: Pues sí. Es feo, ¿verdad?
+- id: 1050
+  en: >-
+    Tron...{:delay 3E 00}{:clear }¿no lo entiendes?{:delay 78 00}{:clear }Nosotros no necesitamos usuarios.{:delay 99 00}{:clear }Hemos evolucionado,
+
+    ya no nos sirven.{:delay F0 00}{:clear }Únete a mí, ¡juntos
+
+    controlaremos el mundo entero!
+- id: 1051
+  en: >-
+    PCM... sigues sin entenderlo,
+
+    ¿verdad?
+- id: 1052
+  en: Sark...
+- id: 1053
+  en: ¡Sark! {:delay 30 00}{:clear }{:delay 24 00}¡Ahora todas mis funciones son tuyas!
+- id: 1054
+  en: ¡Lo hicimos!
+- id: 1055
+  en: >-
+    ¡Ya veo! Tron también
+
+    tiene un lado tontín.
+- id: 1056
+  en: Lo aprendí de vosotros...
+- id: 1057
+  en: Pero tengo mis propios límites.
+- id: 1058
+  en: >-
+    De acuerdo. Retocaré tu programa
+
+    cuando vuelva al mundo de los usuarios.
+- id: 1059
+  en: ¿Tú? Mejor lo dejas como está.
+- id: 1060
+  en: ¿Qué os parece, chicos?{:delay 6E 00}{:clear }{:delay 17 00}{:clear }Tron, el alma de las fiestas. {:delay 78 00}{:clear }{:delay 1A 00}{:clear }¿Suena bien?
+- id: 1061
+  en: ¡Eso!
+- id: 1062
+  en: >-
+    {:delay 5A 00}Bueno, vale.
+
+    Pero antes de que me quede colgado...
+- id: 1063
+  en: Sora, Donald, Goofy...{:delay A6 00}{:clear }{:delay 1F 00}y todos los demás usuarios...{:delay 78 00}{:clear }{:delay 6E 00}Gracias.
+- id: 1064
+  en: >-
+    Me habéis ayudado mucho.
+
+    Soy más fuerte gracias a vosotros.
+- id: 1065
+  en: >-
+    Me habéis enseñado que
+
+    la amistad es la clave de todo.
+- id: 1066
+  en: >-
+    Y nunca lo olvidaré.{:delay 5A 00}{:clear }{:delay 23 00}En cuanto os conocí,
+
+    supe que venceríamos al PCM y{:delay A9 00}{:clear }liberaríamos el sistema.
+- id: 1067
+  en: >-
+    ¿No es esto lo que hacen los usuarios
+
+    cuando les da pena despedirse?
+- id: 1068
+  en: Ehh... Yo nunca lo hago.
+- id: 1069
+  en: >-
+    ¡Ahí va, Tron! Es como una promesa de
+
+    que volveremos a vernos muy pronto.
+- id: 1070
+  en: Bueno, entonces...
+- id: 1071
+  en: Lo prometo.
+- id: 1072
+  en: ¿Adónde vas?
+- id: 1073
+  en: ¡Tron!
+- id: 1074
+  en: '{:icon button-triangle}Diario'
+- id: 1075
+  en: Laboratorio
+- id: 1076
+  en: Moto de luz
+- id: 1077
+  en: Guía
+- id: 1078
+  en: Prueba 1
+- id: 1079
+  en: >-
+    Transporta al usuario
+
+    al laboratorio.
+- id: 1080
+  en: Prueba 2
+- id: 1081
+  en: Moto de luz
+- id: 1082
+  en: >-
+    Comenzar juegos de
+
+    Motos de luz.
+- id: 1083
+  en: 'Minijuego de Moto de luz, Guía #2'
+- id: 1084
+  en: 'Guía de la guía #0'
+- id: 1085
+  en: >-
+    Confirmar controles de
+
+    Moto de luz.
+- id: 1086
+  en: 'Guía de la guía #2'
+- id: 1087
+  en: Sí
+- id: 1088
+  en: No
+- id: 1089
+  en: Selecciona.
+- id: 1090
+  en: ¿Ejecutar esta selección?
+- id: 8053
+  en: Moto de luz
+- id: 8054
+  en: 'Misión de Moto de luz, Guía #0'
+- id: 8055
+  en: >-
+    Transporta al usuario
+
+    a la rejilla de juego.
+- id: 8056
+  en: 'Misión de Moto de luz, Guía #2'
+- id: 8133
+  en: ¡Busca la pieza verdadera!
+- id: 8134
+  en: >-
+    ¡Busca la pieza verdadera
+
+    entre las falsas!
+- id: 8135
+  en: ¡Llena el indicador y detén todos los monitores!
+- id: 8136
+  en: >-
+    ¡Llena el indicador para que se
+
+    cuelguen todos los monitores!
+- id: 8137
+  en: 'Desafío: ¡derrota a todos los enemigos!'
+- id: 8138
+  en: >-
+    ¡Derrota a todos los sincorazón!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 8139
+  en: ¡Derrota a todos los sincorazón y ve a la Torre I/O!
+- id: 8140
+  en: ¡Derrota a todos los sincorazón y ve a la Torre I/O!
+- id: 8141
+  en: ¡El navegador solar está sobrecargado! ¡Deshazte de los enemigos!
+- id: 8142
+  en: >-
+    ¡El navegador solar está al límite!
+
+    ¡Acaba con los enemigos para seguir volando!
+- id: 10446
+  en: ¡Una recarga de energía para mí!
+- id: 10447
+  en: >-
+    ¡Y rutinas de vuelo para
+
+    el navegador solar!
+- id: 13002
+  en: ¡Toma ya!
+- id: 15145
+  en: >-
+    ¡Mirad! Creo que podemos
+
+    escapar por ahí.
+- id: 16135
+  en: ¡Dale duro a las piezas!
+- id: 16136
+  en: ¡Presta atención a las piezas que cambian de color!
+- id: 16137
+  en: ¡Detén el monitor!
+- id: 16138
+  en: ¡Quedan dos!
+- id: 16139
+  en: ¡Queda uno!
+- id: 16838
+  en: ¡El navegador solar no podrá volar con todo este peso!
+- id: 16997
+  en: Está apagado.
+- id: 16998
+  en: No sabes cómo usar esto.
+- id: 16999
+  en: >-
+    Está bloqueado y no puede
+
+    usarse desde aquí.
+- id: 17324
+  en: ¡La habilidad Borrar requiere la ayuda de Tron!
+- id: 17873
+  en: >-
+    El PCM era un programa
+
+    de adquisición de datos.{:clear }Si no me hubierais rescatado,
+
+    habría robado todos mis datos.
+- id: 17874
+  en: >-
+    ¡Cuac! ¿A qué lugar nos
+
+    han traído?{:clear }¡Todo brilla tanto
+
+    que me dan náuseas!
+- id: 17875
+  en: >-
+    ¿No es este el cuarto donde
+
+    estábamos encerrados al llegar?{:clear }Y luego tuvimos que reunir datos
+
+    para poder salir, ¿verdad?
+- id: 17876
+  en: >-
+    ¡Desde el terminal, llegaremos a la
+
+    {:theme 0A}rejilla de juego{:reset}, donde está Tron! ¡Rápido!
+- id: 17877
+  en: >-
+    ¿Dices que esa especie de puerta que
+
+    bloquea la salida está cerrada?{:clear }¿Y no podríamos abrirla
+
+    con la llave espada, Sora?
+- id: 17878
+  en: >-
+    Parece que se puede llegar al
+
+    entorno de datos desde el {:theme 0A}cañón{:reset}.{:clear }La pared roja nos guiará.
+- id: 17879
+  en: >-
+    Hasta ahora, Tron ha mantenido
+
+    a raya al PCM, ¿verdad?{:clear }¡Pero si el PCM ha actuado en el
+
+    exterior, quizá Tron esté en peligro!
+- id: 17880
+  en: >-
+    Esa cosa del centro es el {:theme 0A}núcleo
+
+    de energía{:reset}. Tratemos de entrar.{:clear }Entre los desechos, tal vez haya
+
+    partes que podamos reiniciar.
+- id: 17881
+  en: >-
+    Según Tron, este es una especie
+
+    de depósito de desechos.{:clear }¿Qué sería antes toda esta basura
+
+    que ha venido a parar aquí?
+- id: 17882
+  en: >-
+    Ese tal PCM controla
+
+    este mundo, ¿no?{:clear }Será mejor que encontremos el
+
+    {:theme 0A}núcleo de energía{:reset} cuanto antes.
+- id: 17883
+  en: >-
+    He anulado la seguridad. El ascensor
+
+    de la {:theme 0A}Torre I/O {:reset}ya debe funcionar.{:clear }¡Deprisa! ¡Al salir de este cuarto,
+
+    veréis el ascensor justo enfrente!
+- id: 17884
+  en: >-
+    ¡Con los sincorazón y los incorpóreos
+
+    ya hay bastantes problemas!{:clear }¡Un solo problema más, y la
+
+    ciudad se vendrá abajo!
+- id: 17885
+  en: >-
+    Ya extraeremos los datos luego.
+
+    ¡Vamos a la {:theme 0A}Torre I/O{:reset}!
+- id: 17886
+  en: >-
+    Vendrán otros programas peligrosos.
+
+    Para conseguir eliminarlos...{:clear }hay que borrar los datos enemigos
+
+    y así limitar sus movimientos.
+- id: 17887
+  en: >-
+    Me quedaré aquí para evitar que
+
+    el PCM cause más daños.{:clear }El {:theme 0A}mundo de los usuarios {:reset}está en peligro.
+
+    Volved cuanto antes por este terminal.
+- id: 17888
+  en: >-
+    Debemos atraparlos
+
+    antes de que escapen.{:clear }¡Deprisa, a la sala contigua!
+
+    ¡Allí los detendremos!
+- id: 17889
+  en: >-
+    Se acabaron los juegos.{:clear }¿Cómo será el navegador solar?
+
+    ¡Qué ganas tengo de verlo!
+- id: 17890
+  en: >-
+    ¡Podemos volver a Bastión Hueco
+
+    por ese terminal!{:clear }Pero antes hay que ayudar a Tron.
+- id: 17891
+  en: >-
+    Si salimos y seguimos todo derecho,
+
+    llegaremos al {:theme 0A}hangar de simulación{:reset}.
+- id: 17892
+  en: >-
+    El PCM está bien protegido.
+
+    Primero hay que destruir sus defensas,{:clear }y luego borrarlo por completo.
+
+    En definitiva, son solo datos.
+- id: 17893
+  en: >-
+    Si vencemos al PCM, la ciudad
+
+    volverá a la normalidad.{:clear }Si no, León y los otros no
+
+    tendrán nada que hacer.
+- id: 17894
+  en: >-
+    Por fin ha llegado el momento de
+
+    ajustar cuentas con el PCM.{:clear }Tiene muchos secuaces,
+
+    así que debemos tener cuidado.
+- id: 17895
+  en: >-
+    El navegador solar no tiene
+
+    un sistema de defensa.{:clear }Habrá que defenderlo. El PCM
+
+    no es tonto y atacará la simulación.
+- id: 17896
+  en: >-
+    ¿Habéis oído? El navegador solar
+
+    se mueve sobre ondas de luz.{:clear }Si pesa demasiado, se saldrá de
+
+    las ondas y puede que caiga.
+- id: 17897
+  en: >-
+    Una vista magnífica, pero me siento
+
+    un blanco fácil para el enemigo.
+- id: 17898
+  en: >-
+    Para llegar al núcleo del sistema,
+
+    tuve que saltar ahí abajo.{:clear }Perdonad, si os he
+
+    confundido.
+- id: 17899
+  en: >-
+    Es genial que el PCM haya desaparecido.
+
+    ¡Seguro que Tron también está aliviado!
+- id: 17900
+  en: >-
+    ¡Hemos visitado muchos mundos,
+
+    pero este se lleva la palma!{:clear }¡No acabo de creerme que todo
+
+    cuanto hay aquí no son más que datos!
+- id: 18381
+  en: >-
+    Necesitamos una contraseña
+
+    para acceder al DTD.{:clear }Por favor, tratad de encontrarla
+
+    en el mundo exterior.
+- id: 18712
+  en: >-
+    ¡Derrota al programa hostil!
+
+    ¡Llena el indicador y usa Colgar!
+- id: 18713
+  en: >-
+    ¡Acaba con Sark!
+
+    ¡Defiéndete y contraataca!
+- id: 18714
+  en: >-
+    ¡Destruye el PCM!
+
+    ¡Atraviesa los muros de protección
+
+    y borra el PCM!
+- id: 18729
+  en: Atacar
+- id: 18730
+  en: Cargar
+- id: 18731
+  en: Bloqueo
+- id: 18732
+  en: Técnica letal
+- id: 18951
+  en: Tron ha aprendido una nueva habilidad.
+- id: 18952
+  en: Tron ha aprendido una nueva habilidad.
+- id: 19112
+  en: >-
+    No se puede usar sin el
+
+    navegador solar.
+- id: 19544
+  en: ¡Derrota a cinco sincorazón!
+- id: 19545
+  en: ¡Elimina a los enemigos y dirígete a la meta!
+- id: 19567
+  en: >-
+    ¡Trata de usar Atacar, Carga y Bloqueo
+
+    para vencer a cinco sincorazón!
+- id: 19568
+  en: >-
+    ¡Utiliza Atacar, Carga y Bloqueo para
+
+    eliminar a los enemigos y llegar a la meta!
+- id: 19760
+  en: Espacio Paranoico
+- id: 21558
+  en: "{:delayandfade 0A 78} \nSora logra escapar de su celda\njunto con Tron y todos se\nencaminan hacia el núcleo de\nenergía para reiniciarlo.\n \n \n \n \n \n"
+- id: 21559
+  en: "{:delayandfade 0A 78} \nEl núcleo de energía ya vuelve\na estar en marcha.\n \nParece que Tron tiene algo\nque pedirle a Sora, pero antes\ndeben volver a la celda para\nque el grupo pueda regresar\nal mundo real.\n \n"
+- id: 21560
+  en: "{:delayandfade 0A 78} \nAl llegar al DTD, Sora da a Tron\nla contraseña, que resulta ser\nlos nombres de las Siete Princesas,\nempezando por el de Kairi.\n \n \n \n"
+- id: 21561
+  en: "{:delayandfade 08 78} \nSora y Tron se reencuentran al fin,\npero la situación es crítica:\nel PCM está listo para comenzar\nsu guerra contra los usuarios.\n \nLa única esperanza es llegar hasta\nla Torre I/O y cargar en el sistema\nel programa de Erradicación del PCM.\n \n"

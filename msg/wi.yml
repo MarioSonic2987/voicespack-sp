@@ -1,0 +1,965 @@
+﻿- id: 5517
+  en: >-
+    ¡Acabo de ver pasar a Pete, y luego
+
+    a otro Pete persiguiéndole!{:clear }¿¡Qué pasa aquí!?
+- id: 5518
+  en: >-
+    Encontrarás a Pete en el {:theme 0A}muelle{:reset}.{:clear }Si no está allí, seguro que ha salido
+
+    en su barco. ¡Es su gran orgullo!
+- id: 5519
+  en: >-
+    ¿Qué es esto? Parece una ventana,
+
+    pero tiene una extraña marca...{:clear }Me gustaría echar un vistazo,
+
+    aunque da un poco de miedo.
+- id: 5520
+  en: >-
+    Ay, me duele la cabeza...
+
+    ¿Por qué me habéis atacado así?{:clear }¡Si estáis arrepentidos, daos prisa y
+
+    atrapad al tipo que robó mi barco!
+- id: 5521
+  en: >-
+    Hay un cuarto al otro lado de esa
+
+    ventana, y eso no es todo.{:clear }Están lanzando fuera los muebles.
+
+    Pronto solo será un cuarto vacío.
+- id: 5522
+  en: ¡Mirad! ¡Ahí está la Piedra Angular!
+- id: 5523
+  en: >-
+    ¿Qué pasa?
+
+    Todo está en blanco y negro.
+- id: 5524
+  en: >-
+    Eh, esto me parece como...
+
+    Ah... Mm... Ehhh...
+- id: 5525
+  en: ¿Conocido?
+- id: 5526
+  en: ¡Sí, eso es!
+- id: 5527
+  en: ¿Sí? ¿Habíais estado aquí antes?
+- id: 5528
+  en: >-
+    ¡Eh, vosotros! ¿Habéis visto
+
+    a alguien con pinta de malo?
+- id: 5529
+  en: ¡Cómo que yo!
+- id: 5530
+  en: >-
+    ¡Bah! No tengo tiempo para
+
+    lidiar con patanes,{:delay C6 00}{:clear }así que pasaré de vosotros.
+- id: 5531
+  en: He aquí nuestro malo.
+- id: 5532
+  en: >-
+    ¿Qué os pasa, canijos?
+
+    ¿Tenéis algo contra mí?
+- id: 5533
+  en: ¡Claro que sí!
+- id: 5534
+  en: ¡Veo que buscáis pelea!
+- id: 5535
+  en: ¡Oh!
+- id: 5536
+  en: ¡No tan rápido!
+- id: 5537
+  en: ¡Eso!
+- id: 5538
+  en: ¿Pero qué tenéis contra mí?
+- id: 5539
+  en: ¿Quiénes sois? ¿Sois nuevos por aquí?
+- id: 5540
+  en: ¡Déjate de rollos!
+- id: 5541
+  en: ¡Caray!
+- id: 5542
+  en: ¡Ay, ay, ay!
+- id: 5543
+  en: >-
+    Oye, aquí hay algo que no
+
+    encaja muy bien.{:delay 06 01}{:clear }¿Seguro que él es Pete?
+- id: 5544
+  en: >-
+    Pues claro que soy Pete.
+
+    El capitán del barco de vapor.{:delay E4 00}{:clear }¡Así que dejad de molestarme!
+- id: 5545
+  en: ¡Largo de aquí!
+- id: 5546
+  en: ¡Caray! A lo mejor hemos metido la pata.
+- id: 5547
+  en: >-
+    Empiezo a pensar lo mismo.{:delay B0 00}{:clear }Ni siquiera ha llamado
+
+    a los sincorazón.
+- id: 5548
+  en: >-
+    Perdone que le hayamos
+
+    atacado así, capitán Pete.
+- id: 5549
+  en: >-
+    Claro, claro. Si lo sentís de verdad,
+
+    id y traedme mi barco.
+- id: 5550
+  en: ¡Sí, señor!
+- id: 5551
+  en: Uuhh... ¡Mi espalda!
+- id: 5552
+  en: >-
+    {:unk13 6F 01 72 00}{:unk06 00}{:unk08 01 00 06}Estaba seguro de que
+
+    Pete era el malo.
+- id: 5553
+  en: >-
+    {:unk13 76 00 14 01}{:unk06 00}{:unk08 01 01 07}Ah, eso sería
+
+    demasiado simple.
+- id: 5554
+  en: >-
+    {:unk13 D8 00 69 00}{:unk06 00}{:unk08 01 00 05}Vamos, chicos. Busquemos
+
+    ese barco de vapor.
+- id: 5555
+  en: >-
+    {:unk13 82 01 7C 00}{:unk06 00}{:unk08 01 00 06}Bueno, dijimos que
+
+    lo haríamos, pero...
+- id: 5556
+  en: >-
+    {:unk13 7A 00 F6 00}{:unk06 00}{:unk08 01 01 05}¡Eh! ¡Tenemos
+
+    una puerta que
+
+    encontrar!
+- id: 5557
+  en: '{:unk13 8F 01 90 00}{:unk06 00}{:unk08 01 00 05}¡Eso es!'
+- id: 5558
+  en: '{:unk13 AF 00 C8 00}{:unk06 00}{:unk08 01 01 06}No veo ninguna puerta.'
+- id: 5559
+  en: '{:unk13 51 01 7D 00}{:unk06 00}{:unk08 01 01 05}¿Eh? ¿Qué es eso?'
+- id: 5560
+  en: '{:unk13 6A 01 9E 00}{:unk06 00}{:unk08 01 01 04}No veo nada de nada...'
+- id: 5561
+  en: ¡Mirad! ¡Ahí está la Piedra Angular!
+- id: 5562
+  en: >-
+    ¿Qué pasa?
+
+    Todo está en blanco y negro.
+- id: 5563
+  en: >-
+    Eh, esto me parece como...
+
+    Ah... Mm... Ehhh...
+- id: 5564
+  en: ¿Conocido?
+- id: 5565
+  en: ¡Sí, eso es!
+- id: 5566
+  en: ¿Sí? ¿Habíais estado aquí antes?
+- id: 5567
+  en: '{:unk13 E1 00 C2 00}{:unk06 00}{:unk08 01 01 05}¿Qué ha sido eso?'
+- id: 5568
+  en: >-
+    {:unk13 8E 01 82 00}{:unk06 00}{:unk08 01 01 05}Los sincorazón
+
+    salen...
+- id: 5569
+  en: '{:unk13 18 01 F5 00}{:unk06 00}{:unk08 01 01 07}... y nosotros entramos.'
+- id: 5570
+  en: '{:unk13 31 01 A5 00}{:unk06 00}{:unk08 01 01 05}¿Y eso qué significa?'
+- id: 5571
+  en: '{:unk13 B3 01 85 00}{:unk06 00}{:unk08 01 00 05}¿Eh?'
+- id: 5572
+  en: '{:unk13 3B 01 40 00}{:unk06 00}{:unk08 01 01 06}¡Librémonos de ellos!'
+- id: 5573
+  en: '{:unk13 9D 00 6D 00}{:unk06 00}{:unk08 01 01 06}Y entonces, ¿qué haremos?'
+- id: 5574
+  en: '{:unk13 4A 01 43 00}{:unk06 00}{:unk08 01 01 06}¡Ya lo pensaremos luego!'
+- id: 5575
+  en: ¡El rey!
+- id: 5576
+  en: ¡Vaya! Parece algo cambiado, ¿no?...
+- id: 5577
+  en: ¡Venga! ¡Tenemos que ayudarle!
+- id: 5578
+  en: ¡Necesita nuestra ayuda!
+- id: 5579
+  en: ¡Uufff!
+- id: 5580
+  en: ¿Eh?
+- id: 5581
+  en: ¡Fuego!
+- id: 5582
+  en: ¡El rey!
+- id: 5583
+  en: ¡Vaya! Parece algo cambiado, ¿no?...
+- id: 5584
+  en: ¡Venga! ¡Tenemos que ayudarle!
+- id: 5585
+  en: ¡Fuego!
+- id: 5586
+  en: ¡Necesita nuestra ayuda!
+- id: 5587
+  en: ¡Majestad!
+- id: 5588
+  en: ¡Un problema menos!
+- id: 5589
+  en: ¡Eh!
+- id: 5590
+  en: ''
+- id: 5591
+  en: ¡La ciudad ha encogido!
+- id: 5592
+  en: O quizá nosotros hemos crecido.
+- id: 5593
+  en: >-
+    ¡Eh! ¡Mirad qué cañoncitos
+
+    de juguete!
+- id: 5594
+  en: ¡Ouch!
+- id: 5595
+  en: ¡El rey!
+- id: 5596
+  en: ¡Vaya! Parece algo cambiado, ¿no?...
+- id: 5597
+  en: ¿Qué creéis que intenta decirnos?
+- id: 5598
+  en: ¡Oh! ¡Son los sincorazón!
+- id: 5599
+  en: ''
+- id: 5600
+  en: ¡La ciudad ha encogido!
+- id: 5601
+  en: O quizá nosotros hemos crecido.
+- id: 5602
+  en: >-
+    ¡Eh! ¡Mirad qué cañoncitos
+
+    de juguete!
+- id: 5603
+  en: ¡Ouch!
+- id: 5604
+  en: ¿Qué está diciendo?
+- id: 5605
+  en: ¡Oh! ¡Son los sincorazón!
+- id: 5606
+  en: ¡Tío, qué cosa más rara!
+- id: 5607
+  en: ¡Mira, Sora! ¡Allí!
+- id: 5608
+  en: ¿Qué están construyendo?
+- id: 5609
+  en: ''
+- id: 5610
+  en: ¡Cuidado!
+- id: 5611
+  en: ¡Sincorazón! ¡Lo sabía!
+- id: 5612
+  en: ¡El rey!
+- id: 5613
+  en: ¡Vaya! Parece algo cambiado, ¿no?...
+- id: 5614
+  en: ¡Nos habéis salvado!
+- id: 5615
+  en: ¡Y ahora, a por los sincorazón!
+- id: 5616
+  en: ¿Qué están construyendo?
+- id: 5617
+  en: ''
+- id: 5618
+  en: ¡Cuidado!
+- id: 5619
+  en: ¡Sincorazón! ¡Lo sabía!
+- id: 5620
+  en: ¡Gracias, Majestad!
+- id: 5621
+  en: ¡Y ahora, a por los sincorazón!
+- id: 5622
+  en: ¡Ahí lo lleváis!
+- id: 5623
+  en: ¡Eh, mirad!
+- id: 5624
+  en: ¡Eres un idiota!{:delay 8B 00}{:clear }¡No has dado una a derechas!
+- id: 5625
+  en: >-
+    Y lo que es más... has tenido
+
+    la ridícula idea de que podías{:delay F9 00}{:clear }ocupar mi lugar en mi ausencia.
+- id: 5626
+  en: >-
+    Puedes darte por acabado.{:delay AE 00}{:clear }¡Recuerda mis palabras,{:delay 47 00}{:clear }no habrá sitio para ti cuando
+
+    consigamos la victoria!
+- id: 5627
+  en: Maldito inútil.
+- id: 5628
+  en: Pe... pero yo...
+- id: 5629
+  en: >-
+    ¡Por todos los santos!
+
+    No hacía falta que dijera eso.
+- id: 5630
+  en: >-
+    Vale que haya metido la pata
+
+    de vez en cuando,{:delay B5 00}{:clear }pero alguna cosa bien habré hecho.
+- id: 5631
+  en: Recuerdo que hace ya muchos años...
+- id: 5632
+  en: >-
+    Ah... ¡Cómo echo de menos
+
+    aquellos tiempos!{:delay C5 00}{:clear }Lo que daría por volver atrás...
+- id: 5633
+  en: Lo que daría yo...
+- id: 5634
+  en: '{:delay 78 00}{:clear }¿Eh?'
+- id: 5635
+  en: ''
+- id: 5636
+  en: Fascinante...{:delay 8B 00}{:clear }¡Esto parece un portal al pasado!
+- id: 5637
+  en: ¡Sí! ¡Ha sido de lo más raro!
+- id: 5638
+  en: >-
+    ¡Deja de contemplarlo!{:delay 94 00}{:clear }{:delay 14 00}{:clear }¡Y empieza a pensar en
+
+    la forma de utilizarlo!
+- id: 5639
+  en: Vale...
+- id: 5640
+  en: >-
+    Quizá considere darte
+
+    una oportunidad para redimirte.
+- id: 5641
+  en: >-
+    ¡Oh, gracias!
+
+    ¡Puedes contar conmigo!{:delay C7 00}{:clear }Pero... ¿qué hago?
+- id: 5642
+  en: Paciencia, querido...
+- id: 5643
+  en: >-
+    ¿Qué tenemos aquí? Vaya, pero
+
+    si es la Piedra Angular de Luz...
+- id: 5644
+  en: >-
+    Mmm... Si actuamos con cautela,{:delay D4 00}{:clear }conseguiremos arrebatar
+
+    el castillo a esos necios.
+- id: 5645
+  en: Escúchame bien.
+- id: 5646
+  en: >-
+    Al otro lado de este portal,{:delay 78 00}{:clear }comenzarán en breve la remodelación
+
+    de ese miserable castillo.
+- id: 5647
+  en: >-
+    Mientras, su preciada Piedra Angular
+
+    de Luz yace desprotegida,{:delay 66 01}{:clear }albergando aún todo su poder.
+- id: 5648
+  en: ¿La Piedra Angular... de Luz?
+- id: 5649
+  en: >-
+    ¡Sí! Es esa esfera maldita la que
+
+    nos impide entrar en el castillo.
+- id: 5650
+  en: Oohh...
+- id: 5651
+  en: ¿Lo vas entendiendo?
+- id: 5652
+  en: Ehhh...
+- id: 5653
+  en: >-
+    Pues vete. ¡Es hora de demostrar tu valía!
+
+    ¡Y no me falles otra vez!
+- id: 5654
+  en: Que no vuelva a fallar, dice...
+- id: 5655
+  en: ¡Ya sé!{:delay 3C 00}{:clear }¡Reduciré a arenilla esa Piedra Angular!
+- id: 5656
+  en: >-
+    Pero antes...
+
+    tengo que recuperar mi viejo barco.
+- id: 5657
+  en: '{:unk13 A0 01 52 00}{:unk06 00}{:unk08 01 00 05}¿Qué era eso?'
+- id: 5658
+  en: >-
+    {:unk13 D4 00 5B 00}{:unk06 00}{:unk08 01 01 05}Alguien tenía
+
+    un buen enfado.
+- id: 5659
+  en: '{:unk13 7B 00 C1 00}{:unk06 00}{:unk08 01 01 05}No entiendo nada.'
+- id: 5660
+  en: >-
+    {:unk13 49 01 63 00}{:unk06 00}{:unk08 01 00 07}Vamos a ocuparnos
+
+    primero de los sincorazón.{:clear }Este lugar está limpio, pero
+
+    quedan tres sitios por revisar.
+- id: 5661
+  en: '{:unk13 67 00 6D 00}{:unk06 00}{:unk08 01 01 05}¿Una puerta?'
+- id: 5662
+  en: '{:unk13 02 01 26 01}{:unk06 00}{:unk08 01 00 05}Me resulta familiar...'
+- id: 5663
+  en: >-
+    {:unk13 63 01 59 00}{:unk06 00}{:unk08 01 01 05}Sí, ¡es el portal
+
+    que Merlín creó!
+- id: 5664
+  en: >-
+    {:unk13 97 00 52 00}{:unk06 00}{:unk08 01 01 05}Entonces debería venir
+
+    directo aquí, ¿no?
+- id: 5665
+  en: '{:unk13 6A 01 67 00}{:unk06 00}{:unk08 01 01 05}¡Seguro que sí! O eso creo...'
+- id: 5666
+  en: '{:unk13 99 00 54 00}{:unk06 00}{:unk08 01 01 05}¡Echemos un vistazo!'
+- id: 5667
+  en: '{:unk13 E5 00 E5 00}{:unk06 02}{:unk08 03 01 06}¡Maléfica!'
+- id: 5668
+  en: '{:unk13 42 01 45 00}{:unk06 00}{:unk08 01 01 05}¡Debe de haberlo sabido siempre!'
+- id: 5669
+  en: >-
+    {:unk13 D0 00 60 00}{:unk06 00}{:unk08 01 00 05}Veamos... si esa puerta está
+
+    conectada al pasado...
+- id: 5670
+  en: >-
+    {:unk13 24 01 DC 00}{:unk06 01}{:unk08 01 01 05}¡No, no, no!
+
+    Da aquí.
+- id: 5671
+  en: '{:unk13 4B 01 3F 00}{:unk06 00}{:unk08 01 01 06}¿Eh?'
+- id: 5672
+  en: >-
+    {:unk13 FA 00 5D 00}{:unk06 00}{:unk08 01 00 05}¡Entonces estamos
+
+    en el pasado!
+- id: 5673
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}¿¡Qué!?'
+- id: 5674
+  en: '{:unk13 1A 01 45 00}{:unk06 00}{:unk08 01 01 06}¡Vaya!'
+- id: 5675
+  en: >-
+    {:unk13 F9 00 41 00}{:unk06 00}{:unk08 01 01 06}Si estamos
+
+    en el pasado...
+- id: 5676
+  en: >-
+    {:unk13 6E 01 D9 00}{:unk06 00}{:unk08 01 00 05}... ¡podemos cambiar
+
+    el futuro!
+- id: 5677
+  en: >-
+    {:unk13 CD 00 42 00}{:unk06 00}{:unk08 01 00 06}¡Un momento, chicos!
+
+    ¿Recordáis lo que dijo Merlín?{:clear }Que confiaba en nosotros.{:clear }¡Y que debíamos resistir
+
+    la tentación!
+- id: 5678
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}'
+- id: 5679
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}'
+- id: 5680
+  en: '{:unk13 DE 00 5D 01}{:unk06 00}{:unk08 01 01 03}Eh, era en broma.'
+- id: 5681
+  en: >-
+    {:unk13 FF 00 69 00}{:unk06 00}{:unk08 01 01 05}Además, ¿quién querría
+
+    cambiar el futuro?
+- id: 5682
+  en: '{:unk13 39 01 71 00}{:unk06 00}{:unk08 01 01 05}Bueno... ¿qué hacemos?'
+- id: 5683
+  en: >-
+    {:unk13 E8 00 48 00}{:unk06 00}{:unk08 01 00 05}Puertas, villanos...
+
+    ¡Uff! ¡Me duele la cabeza!
+- id: 5684
+  en: >-
+    {:unk13 DC 00 1B 01}{:unk06 00}{:unk08 01 01 07}¡Al menos sabemos que
+
+    vamos por el buen camino!
+- id: 5685
+  en: ¡O sea, que sí era Pete!
+- id: 5686
+  en: ¡Ah! ¡Nos engañó!
+- id: 5687
+  en: Pero hay algo que sigue sin encajar.
+- id: 5688
+  en: ''
+- id: 5689
+  en: >-
+    El Pete que conocimos aquí tenía algo
+
+    de mal genio, pero no parecía un mal tío...
+- id: 5690
+  en: ¡Mirad!
+- id: 5691
+  en: '{:delay BC 00}{:clear }¡El castillo ya es nuestro!'
+- id: 5692
+  en: ¡Ese es el Pete que conocemos!
+- id: 5693
+  en: ¡Es él!
+- id: 5694
+  en: ¡Oh, no!
+- id: 5695
+  en: ¡La Piedra Angular no está!
+- id: 5696
+  en: Pero eso significa...
+- id: 5697
+  en: >-
+    ¡La oscuridad se apoderará del
+
+    castillo! ¡Debemos apresurarnos!
+- id: 5698
+  en: ¡Eh, alto ahí!
+- id: 5699
+  en: >-
+    ¡De eso nada, majo!{:delay 71 00}{:clear }¡Mira por dónde he encontrado
+
+    al patán que me robó el barco!
+- id: 5700
+  en: ¡Pero si fuiste tú!
+- id: 5701
+  en: ¡Exacto! ¡Yo!{:delay 6B 00}{:clear }¡Bueno, yo, yo no! ¡Alguien que se parece a mí!
+- id: 5702
+  en: Oh, menudo lío.
+- id: 5703
+  en: ¡Esperaaaa!
+- id: 5704
+  en: ¡Cállate!
+- id: 5705
+  en: >-
+    ¡Tu futuro está en juego, amigo,
+
+    así que aparta y dame el barco!
+- id: 5706
+  en: ¡La Piedra Angular!
+- id: 5707
+  en: ¡A por él!
+- id: 5708
+  en: ¡Bien!
+- id: 5709
+  en: ¡Pagaréis por esto!
+- id: 5710
+  en: ¡Es la Piedra Angular!
+- id: 5711
+  en: >-
+    ¡Donald, ya volveremos
+
+    a por ella luego!
+- id: 5712
+  en: ¡Pete se dirige hacia el portal!
+- id: 5713
+  en: ¡Ay, ay, ay, ay, ay!
+- id: 5714
+  en: ¡Ja! ¡Sigues siendo un pardillo!
+- id: 5715
+  en: ¡Lucha contra nosotros!
+- id: 5716
+  en: ''
+- id: 5717
+  en: ¡Te lo mereces!
+- id: 5718
+  en: ¡Jun!
+- id: 5719
+  en: ¡El portal!
+- id: 5720
+  en: ¡Y no vuelvas nunca!
+- id: 5721
+  en: ¡Sora!
+- id: 5722
+  en: ¡Sí, lo sé!
+- id: 5723
+  en: >-
+    ¿Puede decirme alguien qué ha pasado
+
+    aquí? ¿Y quién narices era ese tipejo?
+- id: 5724
+  en: ¿Cómo? ¡Ese tipejo era...
+- id: 5725
+  en: ¡Sora, es un secreto!
+- id: 5726
+  en: ¿Secreto? ¿Qué secreto? Bah, da igual.{:delay CD 00}{:clear } Siento haberos metido en todo este lío.
+- id: 5727
+  en: ¡Está bien, pero no te acostumbres!
+- id: 5728
+  en: >-
+    Y para demostraros mi agradecimiento,{:delay 91 00}{:clear }os dejo pilotar mi barco de vapor.
+
+    ¡Es la mejor nave del río!
+- id: 5729
+  en: >-
+    Vamos, mi contramaestre
+
+    Mickey llega tarde.
+- id: 5730
+  en: ''
+- id: 5731
+  en: >-
+    Supongo que el castillo
+
+    ya está a salvo.
+- id: 5732
+  en: Deberíamos volver.
+- id: 5733
+  en: >-
+    ¡Esperad!
+
+    Ya que estamos en el pasado...
+- id: 5734
+  en: ¡Donald!
+- id: 5735
+  en: ''
+- id: 5736
+  en: ₓₓₓₓₓ
+- id: 5737
+  en: ₓₓₓₓₓₓ
+- id: 5738
+  en: ₓₓₓₓₓₓ
+- id: 5739
+  en: ₓₓₓ
+- id: 5740
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5741
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5742
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5743
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5744
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5745
+  en: ₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5746
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5747
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5748
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5749
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5750
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5751
+  en: ₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5752
+  en: ₓₓₓₓₓₓ１
+- id: 5753
+  en: ₓₓₓₓₓₓ２
+- id: 5754
+  en: ₓₓₓₓₓₓ３
+- id: 5755
+  en: ₓₓₓₓₓₓₓₓ
+- id: 5756
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5757
+  en: ₓₓₓₓₓₓₓₓₓ
+- id: 5758
+  en: ₓₓₓₓₓₓₓ
+- id: 5759
+  en: ₓₓₓₓₓ
+- id: 5760
+  en: ₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5761
+  en: ₓₓₓₓₓ
+- id: 5762
+  en: ₓₓₓₓ１
+- id: 5763
+  en: ₓₓₓₓ２
+- id: 5764
+  en: ₓₓₓₓ３
+- id: 5765
+  en: ₓₓₓₓ４
+- id: 8097
+  en: ¡Derrota a todos los sincorazón y protege los muebles!
+- id: 8098
+  en: >-
+    ¡Derrota a todos los sincorazón
+
+    y protege los muebles!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, te será más fácil!
+- id: 8099
+  en: ¡Derrota a todos los sincorazón y evita que el edificio arda!
+- id: 8100
+  en: >-
+    ¡Derrota a todos los sincorazón y
+
+    evita que el edificio arda!
+- id: 8101
+  en: ¡Acaba con todos los sincorazón y protege la ciudad!
+- id: 8102
+  en: >-
+    ¡Derrota a todos los sincorazón
+
+    y protege la ciudad!
+
+    ¡Puedes usar el cañón!
+- id: 8103
+  en: ¡Derrota a los sincorazón antes de que se caigan los andamios!
+- id: 8104
+  en: >-
+    ¡Acaba con todos los sincorazón
+
+    antes de que se caigan los andamios!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, será más fácil!
+- id: 10376
+  en: >-
+    ¡Tengo que encontrar al sinvergüenza
+
+    que me ha robado el barco!
+- id: 13138
+  en: ¡Se ha roto el cable!
+- id: 15223
+  en: >-
+    Ese tío debe de tener agallas para
+
+    haber robado así mi barco...{:clear }Es extraño. Me resultaba
+
+    bastante familiar...
+- id: 16032
+  en: ¡Rompe la jaula antes de que Pete escape!
+- id: 16033
+  en: >-
+    ¡Rompe la jaula antes de que Pete escape
+
+    y recupera la Piedra Angular de Luz!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, será más fácil!
+- id: 16839
+  en: >-
+    Parece que a Pete le han robado
+
+    el barco.{:clear }Lo que no entiendo es por qué
+
+    haría alguien algo así.
+- id: 16840
+  en: >-
+    ¡Pete ha recuperado su barco!
+
+    Y ha vuelto a ser el viejo Pete.{:clear }Nada es lo mismo sin el
+
+    sonido del silbato de su vapor.
+- id: 16841
+  en: >-
+    ¡Oh, no! ¡Hay fuego al otro lado
+
+    de esa ventana! ¡Debemos apagarlo!{:clear }¿Pero cómo lo haremos? ¿Bastará
+
+    con echar agua a la ventana?
+- id: 16842
+  en: >-
+    Desde esta colina puedes llegar al
+
+    muelle, al embarcadero o al canal.{:clear }Es un sitio genial para caminar. Estés
+
+    dónde estés, siempre acabas aquí.
+- id: 16843
+  en: >-
+    Es genial que construyan un castillo,
+
+    pero echaré de menos este paseo.{:clear }Tal vez les pida que hagan un jardín
+
+    para salir a caminar dentro del castillo.
+- id: 16844
+  en: >-
+    Aquí es donde se construirá
+
+    el Castillo Disney.{:clear }Ahora solo es un campo vacío, ¡pero
+
+    seguro que será un edificio enorme!
+- id: 16845
+  en: >-
+    Sueles venir mucho, ¿no? Si piensas
+
+    comprar terrenos, es el momento.{:clear }Cuando construyan el castillo, ¡el precio
+
+    de la tierra se pondrá por las nubes!
+- id: 16846
+  en: >-
+    No podemos dejar que Pete escape
+
+    de este mundo.{:clear }Además, algo extraño ocurre
+
+    con esa Piedra Angular de Luz...
+- id: 16847
+  en: >-
+    Hay una ciudad tras esa ventana.
+
+    ¿Qué clase de truco es este?{:clear }Hay un cañón en medio de la ciudad.
+
+    ¡Podemos disparar a todo el que venga!
+- id: 16848
+  en: >-
+    Yo también quiero alcanzar al barco de
+
+    Pete, pero antes están los sincorazón.
+- id: 16852
+  en: >-
+    ¡Acabo de ver a Pete persiguiéndose
+
+    a sí mismo otra vez!{:clear }Ventanas misteriosas, más de un
+
+    Pete... ¿¡Qué ocurre en este mundo!?
+- id: 16853
+  en: >-
+    Estoy cansada de mirar esta extraña
+
+    ventana. Necesito otro pasatiempo.{:clear }He visto a Pete correr hacia el canal.
+
+    ¿Estará pasando algo allí?
+- id: 16854
+  en: >-
+    Pete pasó corriendo hacia el
+
+    {:theme 0A}embarcadero{:reset}.{:clear }Nunca he visto a nadie correr así.
+
+    ¿Estará entrenando para una carrera?
+- id: 16855
+  en: >-
+    Bueno, ¿a qué tanta prisa?
+
+    Se te ve agotado.{:clear }Si no te tomas un descanso de
+
+    vez en cuando, puedes acabar mal.
+- id: 16992
+  en: Brilla con una luz radiante.
+- id: 16993
+  en: Aquí se construirá el Castillo Disney.
+- id: 16994
+  en: Willy, el barco de vapor de Pete.
+- id: 18487
+  en: >-
+    Ese era Pete, ¿no?{:clear }¿Me parece a mí o
+
+    se le ve algo cambiado?
+- id: 18488
+  en: >-
+    Por esa ventana, se ve una obra
+
+    en construcción. ¡Es muy extraño!{:clear }Además parece bastante inestable. ¡Si
+
+    se rompe esa cuerda, se vendrá abajo!
+- id: 18489
+  en: >-
+    Resolviendo los entuertos de las
+
+    ventanas, parece que podemos ver...{:clear }lo sucedido en el pasado inmediato.{:clear }Veamos qué ocurre si los resolvemos
+
+    todos.
+- id: 18748
+  en: ¡Líbrate de Pete!
+- id: 18749
+  en: >-
+    ¡Líbrate de Pete!
+
+    ¡El otro Pete te ayudará en la batalla!
+- id: 19086
+  en: La Piedra Angular ha desaparecido.
+- id: 19087
+  en: Taquilla de billetes de barco.
+- id: 19088
+  en: Un pequeño puerto.
+- id: 19089
+  en: Está asegurada con piezas de metal.
+- id: 19090
+  en: >-
+    Prohibida la entrada
+
+    a causa del fuego.
+- id: 19091
+  en: >-
+    Parece que los tiraron fuera
+
+    a toda prisa.
+- id: 19092
+  en: >-
+    Este es el coche de bomberos
+
+    que entró corriendo en la escena.
+- id: 19093
+  en: >-
+    Debe mantener caliente al amo
+
+    cuando está en casa.
+- id: 19094
+  en: >-
+    Está firmemente asegurado,
+
+    así que no se moverá.
+- id: 19095
+  en: >-
+    Un precioso árbol de Navidad.
+
+    ¿Quién lo habrá decorado?
+- id: 19758
+  en: Río Eterno
+- id: 19861
+  en: >-
+    ¡Eh! ¿¡Qué hacéis!?
+
+    ¡Soltadme! ¡Soltadme!
+- id: 20610
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! Ataca hasta que el contador llegue a cero.
+- id: 21365
+  en: ¡Hay que proteger los muebles!
+- id: 21366
+  en: ¡Y casi no quedan muebles!
+- id: 21367
+  en: ¡Protege el edificio de las llamas!
+- id: 21368
+  en: ¡El edificio no aguantará mucho más!
+- id: 21369
+  en: ¡Están atacando la ciudad! ¡Páralos usando Pisotón!
+- id: 21370
+  en: ¡La ciudad va a caer!
+- id: 21371
+  en: ¡Se ha roto un cable! ¡Los andamios se van a caer!
+- id: 21372
+  en: ¡Si se rompe otro cable, caerán los andamios!
+- id: 21373
+  en: Se han roto todos los cables...
+- id: 21536
+  en: "{:delayandfade 08 78} \nSegún Merlín, en este extraño mundo\ntendría que haber otro portal como\nel del Castillo Disney...\n \nSin embargo, en lugar de una puerta,\nlo que Sora encuentra es una ventana...\n¡en la que se ve al grupo\nthe past.\ninstantes antes de llegar al mundo\nen blanco y negro!\n \n"
+- id: 21537
+  en: "{:delayandfade 0A 78} \nY ahí no acaba todo.\nTras eso, surgen otras cuatro ventanas.\nDecididos a averiguar más, Sora y los demás\nno dudan en adentrarse en la primera\nde ellas.\n \n \n \n \n \n"
+- id: 21538
+  en: "{:delayandfade 0A 78} \nLa ventana muestra a Maléfica\ndándole una buena reprimenda\na alguien, aunque el blanco de\nsus iras es un misterio.\n \nHabría que seguir asomándose\nal resto de ventanas para poder\naveriguar más cosas.\n \n \n \n"
+- id: 21539
+  en: "{:delayandfade 0A 78} \nLa ventana muestra un portal\nidéntico al que Merlín conjuró\nen el Castillo Disney.\n \nCon el misterio a medio resolver,\nSora y sus amigos no tienen más\nremedio que seguir su periplo\na través de las ventanas.\n \n \n"
+- id: 21540
+  en: "{:delayandfade 0A 78} \n¡El portal conecta con el pasado!\n \nEl plan de Maléfica es modificar\nel pasado para adueñarse del\nCastillo Disney.\n \nCon las ideas ya más claras,\nparece que ha llegado el momento\nde ver qué depara la cuarta ventana.\n \n"

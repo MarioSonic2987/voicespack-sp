@@ -1,0 +1,91 @@
+﻿- id: 16794
+  en: ¡Kairi! ¡Espera!
+- id: 16795
+  en: >-
+    Oye, ¿te apetece ir a la isla? {:delay AA 00}{:clear } {:delay 32 00}{:clear }Tidus y Wakka están liados con su
+
+    partido y no quieren ir conmigo.
+- id: 16796
+  en: Hoy no, lo siento.
+- id: 16797
+  en: Vaya... ¿Por qué no?
+- id: 16798
+  en: >-
+    ¿Te acuerdas de aquellos chicos
+
+    que venían por aquí con nosotras?
+- id: 16799
+  en: ¿Riku?
+- id: 16800
+  en: Sí.
+- id: 16801
+  en: Me pregunto qué habrá sido de él.{:delay 78 00}{:clear }{:delay 3C 00}Le echo mucho de menos.
+- id: 16802
+  en: >-
+    Está muy lejos, pero sé
+
+    que le volveremos a ver.
+- id: 16803
+  en: ¡Claro! Claro que sí.
+- id: 16804
+  en: ¿Y el otro chico?
+- id: 16805
+  en: ¿Qué otro chico?
+- id: 16806
+  en: >-
+    Ese que siempre estaba
+
+    con Riku y conmigo.{:delay BF 00}{:clear }Jugábamos en esa isla. {:delay 5B 00}{:clear } {:delay 4B 00}{:clear }Antes recordaba su voz...{:delay 9A 00}{:clear }pero ya no. {:delay A1 00}{:clear }Tampoco su cara ni su nombre.{:delay 7C 00}{:clear } {:delay 41 00}{:clear }Me da rabia. {:delay 43 00}{:clear } {:delay 58 00}{:clear }Así que he decidido{:delay 79 00}{:clear }no volver a esa isla hasta que
+
+    lo recuerde todo sobre él.
+- id: 16807
+  en: ¿Seguro que no te lo has inventado?
+- id: 16808
+  en: ¿Naminé?
+- id: 16809
+  en: ¿Estás bien?
+- id: 16810
+  en: ¿Kairi...?
+- id: 16811
+  en: ¿Qué es eso?
+- id: 16812
+  en: >-
+    Una carta...{:delay 6B 00}{:clear }Se la escribí ayer... {:delay 61 00}{:clear }al chico que no recuerdo. {:delay 76 00}{:clear }Yo sé que, esté donde esté,
+
+    le encontraré...{:delay D1 00}{:clear }algún día. {:delay 68 00}{:clear }Y cuando terminé de escribirla, recordé
+
+    que hicimos una promesa,{:delay EE 00}{:clear }algo importante.{:delay 77 00}{:clear }Esta carta es el comienzo. Lo sé.
+- id: 16813
+  en: Vaya...{:delay 89 00}{:clear }Espero que le llegue.
+- id: 16814
+  en: Seguro que sí.
+- id: 16815
+  en: Empezaba por "S"...
+- id: 16816
+  en: ¿No?...{:delay 43 00}{:clear }¡Sora!
+- id: 16817
+  en: Restauración al 79 por ciento.
+- id: 16818
+  en: Puede que...{:delay 30 00}{:clear }{:delay 1B 00}con esperar no baste.
+- id: 16819
+  en: >-
+    ¡Eso mismo pensaba yo! {:delay 76 00}{:clear }Si tienes un sueño, no esperes, actúa.{:delay BC 00}{:clear }Es una de las reglas de
+
+    la vida.{:delay 88 00}{:clear }¿Lo captas?
+- id: 16820
+  en: ¿Quién eres tú?
+- id: 16821
+  en: Axel. {:delay 3C 00}{:clear }{:delay 33 00}Resulta que soy un conocido de Sora.
+- id: 16822
+  en: ¿Por qué no vamos a verle?
+- id: 16823
+  en: ¿Sora?
+- id: 16824
+  en: >-
+    Tenemos algo en común, Kairi. {:delay AF 00}{:clear }Tú y yo echamos de menos
+
+    a alguien que nos importa. {:delay ED 00}{:clear }¡Eh! Siento como si
+
+    ya fuéramos amigos.
+- id: 16825
+  en: ¡Pues no te portas como un amigo!

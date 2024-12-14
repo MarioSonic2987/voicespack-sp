@@ -1,0 +1,1727 @@
+﻿- id: 4105
+  en: ¿Qué pasa? ¿Abandonáis a la misión?
+- id: 4106
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Rechazarla?
+
+    {:chardelay 33 00}¡No, señor!
+
+    {:chardelay 0A 00}Necesito descansar más.
+- id: 4107
+  en: >-
+    La misión es vigilar el sendero a la cumbre
+
+    para que nuestra compañía pueda avanzar.{:clear }He dado órdenes de que os permitan
+
+    llegar hasta allí. ¡No me falléis!
+- id: 4108
+  en: >-
+    Camino a la cumbre, veréis un puesto de
+
+    control. Detrás hay un sendero.{:clear }El lugar está plagado de enemigos.
+
+    Por favor, tened cuidado.
+- id: 4109
+  en: >-
+    Un torbellino me lanzó por los aires y
+
+    aparecí sobre la torreta.{:clear }Si hizo eso conmigo, imaginad
+
+    lo que podría hacerles a otros.
+- id: 4110
+  en: >-
+    Hay explosivos dentro de las tiendas,
+
+    así que tened cuidado.{:clear }Si hacéis alguna tontería cerca
+
+    de una tienda... ¡Bum! ¿Queda claro?
+- id: 4111
+  en: >-
+    Aquí todo está en calma. Será mejor que
+
+    os toméis en serio vuestra misión.{:clear }Si no os dais prisa, el capitán
+
+    Shang os arrancará el pellejo.
+- id: 4113
+  en: >-
+    No sabemos dónde está el enemigo ni
+
+    qué trampas pudo haber colocado.{:clear }Estad preparados para cualquier cosa.
+- id: 4114
+  en: >-
+    Podéis alcanzar la cumbre
+
+    si subís por aquí.{:clear }A nadie se le ocurriría ir allí,
+
+    a menos que lo obligaran.
+- id: 4115
+  en: >-
+    Está todo tan tranquilo
+
+    que me da hambre...
+- id: 4116
+  en: >-
+    ¿Veis esa cueva de ahí detrás?{:clear }Me asusta. ¡Da la impresión de que
+
+    algo fuera a salir de allí de repente!
+- id: 4117
+  en: >-
+    El país entero está aterrado
+
+    por la brutalidad de Shan Yu.{:clear }Tengo órdenes, pero no
+
+    quiero correr tantos riesgos.
+- id: 4119
+  en: >-
+    Estaré bien. Es solo un
+
+    rasguño.{:clear }¡Que no escapen! Se dirigen hacia la
+
+    cumbre. Tened cuidado; son muy fuertes.
+- id: 4120
+  en: >-
+    Mirad lo que han hecho con esta aldea.
+
+    ¿Cómo puede haber alguien tan salvaje?{:clear }No podemos permitir algo así.
+
+    ¡Ahora verán con quién se han metido!
+- id: 4121
+  en: >-
+    Shan Yu atacó la aldea con algunas
+
+    criaturas que yo no había visto nunca.{:clear }Hasta nos atacó un halcón...
+- id: 4122
+  en: >-
+    ¡He visto a Shan Yu con mis propios ojos!
+
+    Llevaba un halcón sobre los hombros y se reía.{:clear }¡Los ojos le brillaban de un modo
+
+    que me ponía la piel de gallina!
+- id: 4123
+  en: >-
+    Dicen que Shan Yu posee
+
+    un halcón temible.{:clear }¿Habéis visto la aldea quemada?
+
+    ¡Pues imaginad lo que nos haría!
+- id: 4125
+  en: >-
+    Cada vez que visito esta aldea, recuerdo
+
+    aquella invasión como si fuera ayer.{:clear }Me alegra que salváramos al país. ¡Y
+
+    eso que éramos unos soldados harapientos!
+- id: 4126
+  en: >-
+    No sabía que Ping... digo...
+
+    Mulán era una chica.{:clear }¡No sé qué me sorprende más, que sea
+
+    mujer o que haya vencido a Shan Yu!
+- id: 4127
+  en: >-
+    Nuestro destacamento ayudó en la
+
+    defensa contra la invasión de Shan Yu.{:clear }Nunca habríamos logrado tantas cosas
+
+    de no haber sido por el Capitán.
+- id: 4130
+  en: >-
+    ¿Qué era esa sombra enorme?
+
+    Parecía dirigirse hacia el {:theme 0A}palacio{:reset}.{:clear }Para ir allí, id por el camino de la
+
+    derecha desde el puesto de control.
+- id: 4131
+  en: >-
+    Tened cuidado, cualquier cosa puede
+
+    ocurrir en una batalla.{:clear }Estad atentos a lo que encontréis
+
+    y tratad de usarlo para sacar ventaja.
+- id: 4132
+  en: >-
+    Mmm... Para combatir a un adversario
+
+    que vuela, debes volar tú también.{:clear }La altura ofrece ventajas. Desde lo
+
+    alto descubriréis puntos débiles.
+- id: 4133
+  en: >-
+    Gracias por salvar
+
+    al Emperador.
+- id: 4134
+  en: >-
+    Protegeremos al Emperador
+
+    con nuestras vidas.{:clear }Tenedlo por seguro.
+- id: 4135
+  en: >-
+    Debemos patrullar la {:theme 0A}montaña{:reset},
+
+    ¡pero hace frío y hay viento!{:clear }Bueno, también podemos vigilar la
+
+    montaña desde aquí.
+- id: 4136
+  en: >-
+    ¡Oh, no! ¡Un monstruo gigante se
+
+    dirige hacia la capital!{:clear }Sí, suelo quedarme dormido, ¡pero
+
+    esto no ha sido un sueño! ¡Lo juro!
+- id: 4137
+  en: >-
+    El Capitán no está aquí, así que,
+
+    si viene el enemigo, huiremos.{:clear }No creo que nos persigan mucho.
+
+    Soldado que huye, sirve para otra batalla.
+- id: 4138
+  en: >-
+    ¿Habéis oído? Dicen que han visto un
+
+    monstruo volador. ¡Lo habrán soñado!{:clear }¿El palacio? Sí, id hasta el puesto de
+
+    control. La entrada está río abajo.
+- id: 4166
+  en: ¡Al ataque!
+- id: 4167
+  en: ''
+- id: 4168
+  en: ¡Atrás!
+- id: 4169
+  en: ¡Esto es cosa nuestra!
+- id: 4170
+  en: ¡Trae!{:delay 3C 00}
+- id: 4171
+  en: ¡Bien!{:delay 3C 00}
+- id: 4172
+  en: ¿Capitán?
+- id: 4173
+  en: ¡Cuidado!{:delay 2D 00}
+- id: 4174
+  en: Gracias, Ping.
+- id: 4175
+  en: No... ha sido nada.
+- id: 4176
+  en: >-
+    Nunca debí dudar de ti.{:delay 6C 00}{:clear }A partir de ahora,
+
+    tienes mi confianza.
+- id: 4178
+  en: ¡Gracias, Capitán!
+- id: 4180
+  en: ¡Mmm! Primero me usa de mechero{:delay 84 00}{:clear }y luego de bala de cañón. {:delay 5A 00}{:clear }Pienso chivarme al ancestro mayor.{:delay 42 00}
+- id: 4181
+  en: >-
+    ¡Se acabó! ¡Me rindo!
+
+    Ya no aguanto más.{:delay 90 00}{:clear }Venga, Mulán, basta de payasadas,
+
+    este no es lugar para una chica.
+- id: 4183
+  en: ¡Mushu!
+- id: 4184
+  en: ''
+- id: 4185
+  en: ¿Mulán?{:delay 42 00}{:clear }¿Una mujer?{:delay 3C 00}{:clear }¡No puede ser!
+- id: 4186
+  en: ¡Ping! ¡Capitán!
+- id: 4187
+  en: ¡Caramba! ¡Estáis bien!
+- id: 4188
+  en: >-
+    Lo sabíais todos, ¿verdad?{:delay 90 00}{:clear }Sabíais que Ping era
+
+    una mujer disfrazada.
+- id: 4191
+  en: ¿Cómo has podido mentirme?
+- id: 4192
+  en: >-
+    La pena por alta traición y
+
+    por deshonrar al ejército es...{:delay DE 00}{:clear }la muerte.{:delay 3C 00}
+- id: 4193
+  en: Fuera de mi vista...{:delay 3C 00}{:clear }¡Ya! Quedáis todos expulsados.
+- id: 4195
+  en: Pero Capitán...
+- id: 4196
+  en: Mi deuda está saldada.
+- id: 4197
+  en: ¡El Emperador aguarda!{:delay 78 00}{:clear }¡En marcha!
+- id: 4198
+  en: Mulán... he metido la pata.
+- id: 4199
+  en: Gracias a todos.{:delay 76 00}{:clear }Siento haberos metido en un lío.
+- id: 4201
+  en: No pasa nada.
+- id: 4202
+  en: Entonces, Ping...{:delay 4E 00}{:clear }digo... je... Mulán...{:delay AE 00}{:clear }¿qué vas a hacer ahora?
+- id: 4203
+  en: Volver a casa.
+- id: 4204
+  en: >-
+    Sabes que a tu padre le va a salir
+
+    el humo por las orejas.{:delay 3C 00}
+- id: 4205
+  en: >-
+    Tranquila, diremos que
+
+    fue culpa nuestra.
+- id: 4206
+  en: Gracias.{:delay 30 00}{:clear }Sois unos amigos maravillosos.
+- id: 4207
+  en: ''
+- id: 4208
+  en: ''
+- id: 4209
+  en: ¡Por ahí no eeeeees!
+- id: 4210
+  en: ''
+- id: 4211
+  en: ¡Mulán!
+- id: 4212
+  en: ¡Así se hace!
+- id: 4213
+  en: >-
+    ¿Ves eso, Mulán? Es Shan Yu,
+
+    jefe del ejército huno.
+- id: 4214
+  en: >-
+    ¡Vamos, chica!
+
+    ¡Es tu gran oportunidad!
+- id: 4215
+  en: >-
+    ¡Ya lo estoy viendo! "¡Fa Mulán machaca
+
+    al enemigo público número uno!"{:delay B4 00}{:clear }¡Serás famosa!
+
+    ¡Estarás entre los mejores!
+- id: 4216
+  en: Mushu, no sé si...
+- id: 4217
+  en: >-
+    Ni siquiera me he alistado
+
+    aún en el ejército.{:delay 8A 00}{:clear }Tengo que ocupar el lugar de mi padre{:delay 5A 00}{:clear }para preservar el honor
+
+    de la familia Fa.
+- id: 4218
+  en: Solo espero que no me descubran.
+- id: 4219
+  en: ¡Vaya! Tienes miedo, reconócelo.
+- id: 4220
+  en: ¿Y tú no?
+- id: 4221
+  en: ''
+- id: 4222
+  en: ¿Eh?
+- id: 4223
+  en: ¿Un sincorazón?
+- id: 4224
+  en: ¡Ataquemos por sorpresa!
+- id: 4225
+  en: >-
+    ¡Ahí va!
+
+    Sería mejor no precipitarse.
+- id: 4226
+  en: ¿Es Mushu?
+- id: 4227
+  en: >-
+    ¡Exacto!
+
+    ¡Sé que habéis oído hablar de mí!{:delay 78 00}{:clear }¡Soy pequeño, letal y legendario!
+- id: 4228
+  en: >-
+    ¡Largaos antes de que desate
+
+    mi cólera de dragón!
+- id: 4229
+  en: ¡Eh, Mushu! ¡Cuánto tiempo!
+- id: 4230
+  en: Yo sí que os voy a dar tiempo a...
+- id: 4231
+  en: '... ¡Sora! ¡Donald! ¡Goofy!'
+- id: 4232
+  en: ¿Los conoces?
+- id: 4233
+  en: >-
+    ¿Conocerlos?{:delay 3F 00}{:clear }¡Anda que no hemos despachado
+
+    a malos juntos!
+- id: 4234
+  en: >-
+    Les he sacado de apuros
+
+    un montón de veces.{:delay 84 00}{:clear }¡Porque soy un feroz dragón!
+
+    ¡A que sí!
+- id: 4235
+  en: Bueno, algo así.{:delay 6E 00}{:clear }Y... ¿tú eres?
+- id: 4236
+  en: Soy Mulán.{:delay 5C 00}{:clear }Mm... no, digo...
+- id: 4237
+  en: ¡Ping!
+- id: 4238
+  en: ¿Mulán Ping?
+- id: 4239
+  en: >-
+    Ping a secas.
+
+    Soy Ping, hijo de Fa Zhou.
+- id: 4240
+  en: ¿Conoces a Mushu?
+- id: 4241
+  en: >-
+    Mushu es uno de los
+
+    guardianes de mi familia.
+- id: 4242
+  en: >-
+    No sabíamos que contábamos
+
+    con alguien tan importante{:delay BF 00}{:clear }como un guardián de familia.
+- id: 4243
+  en: ¡Ya te digo!
+- id: 4244
+  en: >-
+    Y eso hace que estéis en deuda
+
+    con Ping, hasta las cejas.{:delay D2 00}{:clear }¿Y sabéis qué, chavales?
+
+    ¡Toca pagar!
+- id: 4245
+  en: Mushu...
+- id: 4246
+  en: Bah, no les importa. ¿A que no?
+- id: 4247
+  en: Mmm... Parece justo.
+- id: 4248
+  en: >-
+    Veréis, Ping iba de camino a
+
+    alistarse en el Ejército Imperial.
+- id: 4249
+  en: >-
+    Buscamos a los otros reclutas
+
+    del campamento de adiestramiento.
+- id: 4250
+  en: >-
+    ¿Os venís?{:delay 48 00}{:clear }Me será más fácil encajar
+
+    si voy con vosotros.
+- id: 4251
+  en: ¿Cómo que "encajar"?
+- id: 4252
+  en: >-
+    Bueno, eh...
+
+    no os preocupéis por eso.
+- id: 4253
+  en: >-
+    Pretendes hacerte pasar
+
+    por un chico, ¿no?
+- id: 4254
+  en: Eres... ¿una chica?
+- id: 4255
+  en: ¿No lo habíais notado?
+- id: 4256
+  en: Yo no.
+- id: 4257
+  en: Creo que funciona.
+- id: 4258
+  en: >-
+    No sé. Estos dos se tragarían
+
+    cualquier cosa.
+- id: 4259
+  en: ¡No te pases!
+- id: 4260
+  en: ¡Y recuerda! ¡Eres un tío!
+- id: 4261
+  en: Ya era hora de papear algo.
+- id: 4262
+  en: ¡Eh, no te cueles!
+- id: 4263
+  en: ¡Vaya morro!
+- id: 4264
+  en: ''
+- id: 4265
+  en: ¡Quita!
+- id: 4266
+  en: ¡Eh! ¡Un sitio en la cola!
+- id: 4267
+  en: ¿Qué nos pondrán hoy de rancho?
+- id: 4268
+  en: ¡Arroz con tortas!
+- id: 4269
+  en: ¡Se acabó!
+- id: 4270
+  en: ¡Por favor!
+- id: 4271
+  en: ¿Por favor?
+- id: 4272
+  en: ¡Menuda nena!
+- id: 4273
+  en: ¡Eh! ¡Ya basta!
+- id: 4274
+  en: ¿¡Basta el qué!?
+- id: 4275
+  en: ¡Te estás colando!
+- id: 4276
+  en: ¡Y me has pegado!
+- id: 4277
+  en: ¡Mira el canijo!
+- id: 4278
+  en: >-
+    ¿A quién llamas canijo,
+
+    so esmirriado?{:delay 78 00}{:clear }¡Soy un auténtico dragón guardián!
+- id: 4279
+  en: Volvamos a la fila, ¿vale?
+- id: 4280
+  en: >-
+    ¿Tú de qué lado estás?
+
+    ¡Acaban de zurrarme!
+- id: 4281
+  en: ¿Quieres más?
+- id: 4282
+  en: ¡Soldados! ¡Todos en fila!
+- id: 4283
+  en: ¡El Capitán!
+- id: 4285
+  en: ¿Qué son esos?
+- id: 4286
+  en: ¡Sincorazón!
+- id: 4288
+  en: ¿Ah, sí?
+- id: 4289
+  en: ¡Ping! Espero que estés listo.
+- id: 4290
+  en: '{:unk13 37 01 2F 00}{:unk08 01 00 05}Eh, vosotros, ¿cómo os llamáis?'
+- id: 4291
+  en: '{:unk13 4D 01 6F 00}{:unk08 01 00 06}Sora.'
+- id: 4292
+  en: '{:unk13 D4 00 D9 00}{:unk08 01 01 05}Donald.'
+- id: 4293
+  en: '{:unk13 C3 01 70 00}{:unk08 01 00 05}Goofy.'
+- id: 4294
+  en: >-
+    {:unk13 38 01 2E 00}{:unk08 01 00 05}Bienvenidos a mi destacamento.{:clear }Vuestras habilidades de combate
+
+    son admirables.
+- id: 4295
+  en: '{:unk13 D6 00 E9 00}{:unk08 01 00 01}Yo soy el hijo de Fa Zhou...'
+- id: 4296
+  en: >-
+    {:unk13 37 01 30 00}{:unk08 01 00 05}Tú harías bien en volver
+
+    a tu hogar.
+- id: 4297
+  en: >-
+    {:unk13 09 01 FA 00}{:unk08 01 00 00}Pe... pero...{:clear }¡Eso deshonraría
+
+    a mi familia!
+- id: 4298
+  en: >-
+    {:unk13 3B 01 30 00}{:unk08 01 00 05}¿Acaso prefieres traer la
+
+    deshonra a mi destacamento?
+- id: 4299
+  en: '{:unk13 78 00 FA 00}{:unk08 01 01 01}¡Le voy a...!'
+- id: 4300
+  en: >-
+    {:unk13 0B 01 4C 00}{:unk08 01 00 06}Si Ping se esfuerza
+
+    y entrena un poco...{:clear }se pondrá en forma
+
+    rápidamente.
+- id: 4301
+  en: '{:unk13 D2 00 3C 00}{:unk08 01 00 06}Mmm...'
+- id: 4302
+  en: >-
+    {:unk13 BE 00 69 00}{:unk08 01 00 06}¡Denos una misión y...{:clear }le mostraremos lo bien que
+
+    podemos trabajar en equipo!
+- id: 4303
+  en: '{:unk13 31 01 2D 00}{:unk08 01 00 05}¿Queréis que os ponga a prueba?'
+- id: 4304
+  en: >-
+    {:unk13 3F 01 32 00}{:unk08 01 00 05}El ejército de Shan Yu se
+
+    dirige hacia aquí. Tenemos...{:clear }órdenes de emboscarles.{:clear }Vendrán por el sendero de
+
+    montaña.
+- id: 4305
+  en: '{:unk13 01 01 6E 00}{:unk06 02}{:unk08 03 01 06}¡Los haremos pedazos!'
+- id: 4306
+  en: >-
+    {:unk13 47 01 35 00}{:unk08 01 00 04}Lo dudo.{:clear }Vosotros iréis delante.
+
+    Serviréis de avanzadilla.
+- id: 4307
+  en: '{:unk13 D7 00 69 00}{:unk08 01 00 06}¿Solo eso? Ningún problema.'
+- id: 4308
+  en: '{:unk13 F0 00 64 00}{:unk08 01 00 06}¿Vale?'
+- id: 4309
+  en: '{:unk13 01 01 5A 00}{:unk08 01 01 06}Va... vale.'
+- id: 4310
+  en: >-
+    {:unk13 58 01 3F 00}{:unk08 01 00 05}Luego os daré
+
+    más detalles.{:clear }Regresad cuando estéis
+
+    listos para partir.{:clear }Y recordad: la misión
+
+    más pequeña puede
+
+    servir al mayor propósito.{:clear }¡Manteneos alerta!
+- id: 4311
+  en: '{:unk13 4F 01 3D 00}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4312
+  en: '{:unk13 DC 00 0E 01}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4313
+  en: '{:unk13 A6 01 98 00}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4314
+  en: '{:unk13 90 00 4A 00}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4315
+  en: '{:unk13 4A 01 32 00}{:unk08 01 00 05}Bien hecho.'
+- id: 4316
+  en: '{:unk13 72 01 6E 00}{:unk08 01 00 07}¡Lo sabía!'
+- id: 4317
+  en: '{:unk13 C8 00 E6 00}{:unk08 01 00 00}Capitán...'
+- id: 4318
+  en: >-
+    {:unk13 4A 01 32 00}{:unk08 01 00 05}Imagino que un poco
+
+    sí has mejorado...
+- id: 4319
+  en: >-
+    {:unk13 E1 00 BE 00}{:unk08 01 01 04}¡Cómo que un poco!
+
+    ¡Será un montón!
+- id: 4320
+  en: >-
+    {:unk13 0E 01 36 01}{:unk08 01 01 02}No. Tiene razón, Capitán.{:clear }Por favor, asígneme
+
+    otra misión.{:clear }¡Esta vez le demostraré
+
+    de qué soy capaz!
+- id: 4321
+  en: '{:unk13 C8 00 D1 00}{:unk08 01 00 01}Bien, te daré otra oportunidad.'
+- id: 4322
+  en: >-
+    {:unk13 5E 01 40 00}{:unk08 01 00 05}Ven a verme cuando estés
+
+    listo para partir.{:clear }Y recordad: aunque sea
+
+    una prueba, es una
+
+    misión importante.{:clear }¡Estad alerta!
+- id: 4323
+  en: '{:unk13 4F 01 3D 00}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4324
+  en: '{:unk13 C8 00 0E 01}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4325
+  en: '{:unk13 A6 01 98 00}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4326
+  en: '{:unk13 90 00 4A 00}{:unk06 02}{:unk08 03 00 06}¡Sí, Señor!'
+- id: 4327
+  en: '{:unk13 54 01 6E 00}{:unk08 01 00 06}Eh, no está nada mal.'
+- id: 4328
+  en: '{:unk13 96 00 32 00}{:unk08 01 01 06}¡Un verdadero hombre!'
+- id: 4329
+  en: '{:unk13 F0 00 3C 00}{:unk08 01 01 06}¡Gracias!'
+- id: 4330
+  en: '{:unk13 51 00 80 00}{:unk08 01 01 06}¡Capitán!'
+- id: 4331
+  en: '{:unk13 40 01 3C 00}{:unk08 01 01 06}¡Ping, has estado grandioso!'
+- id: 4332
+  en: '{:unk13 C8 00 78 00}{:unk08 01 01 05}¡Y que lo digas!'
+- id: 4333
+  en: >-
+    {:unk13 09 01 54 01}{:unk08 01 00 01}Mmm... Bueno. Dejaré
+
+    que te unas a mis tropas...{:clear }Pero sigo sin estar convencido
+
+    de que tengas aptitudes para...{:clear }ser un buen soldado.
+- id: 4334
+  en: '{:unk06 02}{:unk13 FA 00 46 00}{:unk08 03 01 06}¿¡Pero por qué!?'
+- id: 4335
+  en: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}Déjalo, Sora.{:clear }Ya veré cómo demostrarle
+
+    de lo que soy capaz.{:clear }Solo necesito una oportunidad.
+- id: 4336
+  en: '{:unk13 09 01 54 01}{:unk08 01 00 01}Bien. Ese es el espíritu, Ping.'
+- id: 4337
+  en: '{:unk06 02}{:unk13 22 01 3C 00}{:unk08 03 01 06}¡Sí, Señor!'
+- id: 4338
+  en: '{:unk13 01 01 50 00}{:unk08 01 01 06}¡Bien hecho, Ping!'
+- id: 4339
+  en: '{:unk13 C8 00 46 00}{:unk08 01 00 05}¡Gracias!'
+- id: 4341
+  en: '{:unk13 C8 00 D1 00}{:unk08 01 00 05}¡Bien, chica! ¡Esta es tu oportunidad!{:clear }Acabo de ver a un tipo sospechoso.{:clear }Y sé que es Shan Yu.'
+- id: 4342
+  en: '{:unk13 78 00 50 00}{:unk06 02}{:unk08 03 01 06}¿¡Shan Yu!?'
+- id: 4343
+  en: '{:unk13 36 01 41 00}{:unk08 01 01 06}¡El jefe de los hunos!{:clear }¡Debemos avisar al Capitán!'
+- id: 4344
+  en: '{:unk13 78 00 3C 00}{:unk08 01 01 06}¡Sí!'
+- id: 4345
+  en: '{:unk13 F6 00 D6 00}{:unk06 02}{:unk08 03 00 06}Alto, alto, ¡alto ahí!{:clear }Usad la cabeza un segundo.'
+- id: 4346
+  en: >-
+    {:unk13 05 01 A8 00}{:unk08 01 00 06}A ver, ¿por qué estamos aquí?{:clear }Para que el Capitán vea
+
+    las habilidades de Mulán,
+
+    digo, de Ping, y que así...{:clear }restaure el honor de su familia.
+- id: 4347
+  en: >-
+    {:unk13 B4 00 C6 00}{:unk08 01 00 05}Así que, vayamos a por
+
+    Shan Yu nosotros mismos.{:clear }Con un poco de suerte,
+
+    ¡podremos liquidarlo!{:clear }Aunque con solo encontrarle,
+
+    ya nos colgaríamos una medalla...{:clear }¡El capitán Cabeza de Músculo
+
+    tendrá que reconocer a mi chica!
+- id: 4348
+  en: '{:unk13 14 01 28 00}{:unk08 01 00 04}De acuerdo. Vamos.'
+- id: 4349
+  en: '{:unk13 1E 01 2D 00}{:unk08 01 01 06}Contad con nosotros.'
+- id: 4350
+  en: '{:unk13 AA 00 DF 00}{:unk06 02}{:unk08 03 00 05}¡Esto se pone interesante!'
+- id: 4351
+  en: >-
+    {:unk13 AA 00 6E 00}{:unk08 01 01 05}¡Shan Yu está en una
+
+    cueva fuera de la aldea!
+- id: 4352
+  en: '{:unk13 2C 01 78 00}No hay salida.'
+- id: 4353
+  en: '{:unk13 22 01 DC 00}{:unk08 01 00 05}Ni un alma...'
+- id: 4354
+  en: '{:unk13 C8 00 5A 00}{:unk08 01 00 05}Estás loco. ¡Mira bien!'
+- id: 4355
+  en: '{:unk13 22 01 DC 00}{:unk08 01 00 05}Ya. Me voy.'
+- id: 4356
+  en: '{:unk13 8C 00 64 00}{:unk08 01 00 05}¡Espérame, Donald!'
+- id: 4357
+  en: '{:unk13 4A 01 8C 00}{:unk08 01 00 06}¡Eh, esperad!'
+- id: 4358
+  en: '{:unk13 02 01 71 00}{:unk08 01 00 05}¿Eh?'
+- id: 4359
+  en: '{:unk13 7F 00 2C 00}{:unk08 01 01 05}¿Cómo? ¿Qué pasa?'
+- id: 4360
+  en: '{:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}¡Sora!'
+- id: 4361
+  en: '{:unk06 02}{:unk13 5E 01 64 00}{:unk08 03 00 05}¡Ping!'
+- id: 4362
+  en: '{:unk06 02}{:unk13 18 01 64 00}{:unk08 03 01 05}¡Genial!'
+- id: 4363
+  en: >-
+    {:unk13 0E 01 5A 00}{:unk08 01 01 06}¡Buen combate, Ping!
+
+    Eres increíble.
+- id: 4364
+  en: '{:unk13 C8 00 5A 00}{:unk08 01 00 05}¿Estás bien?'
+- id: 4365
+  en: '{:unk13 18 01 18 01}{:unk08 01 01 02}Sí, gracias a Ping.'
+- id: 4366
+  en: '{:unk13 DB 00 33 00}{:unk08 01 01 06}¡Vamos! ¡Debemos informar al Capitán!'
+- id: 4367
+  en: >-
+    {:unk13 09 01 DC 00}{:unk08 01 01 02}Pero Shan Yu
+
+    no estaba aquí.
+- id: 4368
+  en: >-
+    {:unk13 BE 00 34 00}{:unk08 01 01 06}¡Bah! ¡Ese huno ya es historia!{:clear }Vamos a contarle al Capitán
+
+    que miles de sincorazón...{:clear }irrumpieron en la cueva. ¡Y que
+
+    Ping se encargó de todos ellos!
+- id: 4369
+  en: ¡Capitán!
+- id: 4370
+  en: ¡Capitán, no haga esfuerzos!
+- id: 4371
+  en: Solo es un rasguño.
+- id: 4372
+  en: >-
+    Capitán.{:delay 42 00}{:clear }¡El enemigo!
+
+    ¿Dónde se han metido?
+- id: 4373
+  en: Se fueron hacia la cima...
+- id: 4374
+  en: ¡Los detendremos!
+- id: 4375
+  en: Ha sido culpa nuestra.
+- id: 4376
+  en: Cierto.
+- id: 4377
+  en: Dirás culpa mía.
+- id: 4378
+  en: ¡No! ¡No!
+- id: 4379
+  en: >-
+    ¡Han sido Shan Yu y los
+
+    sincorazón, no nosotros!
+- id: 4380
+  en: >-
+    Capitán, ocúpese de los aldeanos y
+
+    nosotros nos encargaremos de esto.
+- id: 4381
+  en: Vámonos.
+- id: 4382
+  en: ¡Shan Yu!
+- id: 4383
+  en: ¡Está vivo!
+- id: 4384
+  en: ¡Se dirige a la Ciudad Imperial!{:delay 84 00}{:clear }¡Tenemos que avisar a Shang!
+- id: 4385
+  en: ¡Tenemos que avisar a Shang!
+- id: 4386
+  en: ¡Shang!
+- id: 4387
+  en: >-
+    ¡Shan Yu está vivo!
+
+    ¡Se dirige hacia aquí!
+- id: 4388
+  en: ¿Por qué habría de creerte esta vez?
+- id: 4389
+  en: Pero... ¡le está diciendo la verdad!
+- id: 4390
+  en: ''
+- id: 4391
+  en: >-
+    ¡Vigilad el palacio! ¡No permitáis que
+
+    el enemigo se acerque al Emperador!
+- id: 4392
+  en: ¡Es una orden!
+- id: 4393
+  en: >-
+    ¡Capitán!{:delay 3C 00}{:clear }¡Nosotros defenderemos el patio!
+
+    ¡Salve al Emperador!
+- id: 4395
+  en: ¡Es una orden!
+- id: 4396
+  en: '{:unk13 42 01 55 00}{:unk06 02}{:unk08 03 01 05}¡El Emperador está en peligro!'
+- id: 4397
+  en: '{:unk13 AD 00 42 00}{:unk06 02}{:unk08 03 01 06}¡No hay tiempo que perder!'
+- id: 4398
+  en: Ya puedes ir despidiéndote.
+- id: 4399
+  en: ¡Acabemos con esto!
+- id: 4400
+  en: ¡Bien dicho!
+- id: 4401
+  en: >-
+    ¡A eso lo llamo yo dar caña! ¡Toma ya!{:delay DE 00}{:clear }¡Mulán es la mejor!
+
+    ¡Mulán es la mejor!{:delay 96 00}{:clear }Espera un momento...
+
+    ¡yo soy el mejor!{:delay 48 00}{:clear }¡Mushu es el mejor!
+
+    ¡Mushu es el mejor!
+- id: 4402
+  en: >-
+    He oído muchas cosas sobre ti,
+
+    Fa Mulán.
+- id: 4403
+  en: ''
+- id: 4404
+  en: >-
+    Has robado la armadura de tu padre,
+
+    te has escapado de casa,{:delay 02 01}{:clear }te has hecho pasar por
+
+    un soldado imperial...
+- id: 4405
+  en: >-
+    Has engañado a tu superior, has
+
+    avergonzado a todo el ejército chino{:delay 68 01}{:clear }y has mancillado el
+
+    apellido de tu familia...
+- id: 4406
+  en: No se ha dejado ni una...
+- id: 4407
+  en: >-
+    Eres una mujer joven.
+
+    Y sin embargo...
+- id: 4409
+  en: '... te debemos la vida.'
+- id: 4410
+  en: ¡Excelencia!
+- id: 4411
+  en: Capitán Li.
+- id: 4412
+  en: >-
+    Toma esto, así todo el mundo sabrá
+
+    lo que has hecho por China.
+- id: 4413
+  en: Mil gracias.
+- id: 4414
+  en: Mulán.
+- id: 4415
+  en: Sora. Donald. Goofy.
+- id: 4416
+  en: Gracias.
+- id: 4417
+  en: >-
+    ¿Gracias? ¿Eso es lo único que
+
+    tienes que decir, Capitán?
+- id: 4418
+  en: >-
+    ¡Si deseas ganar el corazón de Fa Mulán,
+
+    la mujer más valiente de China,{:delay 38 01}{:clear }tendrás que ser un poco más elocuente!
+- id: 4419
+  en: ''
+- id: 4420
+  en: Todo ha salido bien.
+- id: 4421
+  en: Gracias por tu ayuda, Sora.
+- id: 4422
+  en: >-
+    ¡Ahora seguro que me dejan volver
+
+    a ser un guardián! ¡Seguro!
+- id: 4423
+  en: >-
+    Pero Mushu, creía que ya eras
+
+    el guardián de la familia.
+- id: 4424
+  en: >-
+    ¿Qué? Ah. Eh... No, no. No os
+
+    preocupéis por eso, es un tecnicismo.{:delay E4 00}{:clear } Solo jerga entre guardianes.
+- id: 4425
+  en: ¡Nos has engañado!
+- id: 4426
+  en: ''
+- id: 4427
+  en: ''
+- id: 4428
+  en: ¡Bien!
+- id: 4429
+  en: >-
+    Supongo que es hora de
+
+    seguir nuestro camino.
+- id: 4430
+  en: Os echaremos de menos.
+- id: 4431
+  en: ¿Podemos volver a visitaros?
+- id: 4432
+  en: ¡Por supuesto!
+- id: 4433
+  en: Esperaremos ansiosos vuestro regreso.
+- id: 4434
+  en: Hacéis buena pareja.
+- id: 4435
+  en: ¡Eh!... ¡Cuidadito, soldado!
+- id: 4436
+  en: ¡Adiós Sora, Donald y Goofy!
+- id: 4437
+  en: ''
+- id: 4438
+  en: ¿Cómo estarán todos?
+- id: 4439
+  en: ¡Allí!
+- id: 4440
+  en: ¡Alto!
+- id: 4441
+  en: ¡Sora!
+- id: 4442
+  en: >-
+    Mulán, no hay tiempo para hablar.
+
+    ¡Tenemos que atrapar a ese tipo!
+- id: 4444
+  en: ¡Yo también le estoy siguiendo!
+- id: 4445
+  en: ¡Pues vamos!
+- id: 4446
+  en: Me parece que ha escapado.
+- id: 4447
+  en: >-
+    ¿Qué haces tú siguiendo a alguien
+
+    de la Organización {XIII}?
+- id: 4448
+  en: ¿Qué es eso?
+- id: 4449
+  en: El tipo de negro.
+- id: 4450
+  en: ¡Es uno de los malos!
+- id: 4451
+  en: ¡Lo sabía!
+- id: 4452
+  en: >-
+    Corren rumores por la Ciudad Imperial
+
+    sobre un espía de negro{:delay DE 00}{:clear }que acecha desde las montañas.
+- id: 4453
+  en: >-
+    Seguía sus pasos, pero le he
+
+    perdido al llegar vosotros.
+- id: 4455
+  en: ''
+- id: 4456
+  en: ¡Lo sentimos!
+- id: 4457
+  en: >-
+    No pasa nada.
+
+    ¿Me pregunto dónde se habrá metido?
+- id: 4459
+  en: ¿Otra vez?
+- id: 4461
+  en: ¡Venga! ¡Vamos a por ellos!
+- id: 4462
+  en: ¡Eh! ¡Tú! ¡Deja ya los truquitos!
+- id: 4464
+  en: Ese era...
+- id: 4465
+  en: No...{:delay 9C 00}{:clear }¿Por qué... iba él a...?
+- id: 4466
+  en: ¿Riku?
+- id: 4467
+  en: ¿Estás bien, Sora?
+- id: 4468
+  en: ¿Le pillaste?
+- id: 4469
+  en: ¿Mmm?{:delay 42 00}{:clear }Ah...{:delay 3C 00}{:clear }Se ha ido.
+- id: 4471
+  en: ¿Qué? ¿Le has perdido?
+- id: 4472
+  en: En fin...{:delay 48 00}{:clear }¿Y ahora qué?
+- id: 4473
+  en: >-
+    Creo que será mejor librarnos de
+
+    todos los sincorazón primero.
+- id: 4474
+  en: >-
+    ¿Qué ha sido eso?{:delay A8 00}{:clear }Andando, será mejor que
+
+    salgamos de la montaña.
+- id: 4476
+  en: Vale.
+- id: 4477
+  en: >-
+    ¡Se dirige a la ciudad!
+
+    ¡Tenemos que avisar a Shang!
+- id: 4478
+  en: ''
+- id: 4479
+  en: '{:unk13 A2 00 91 00}{:unk08 01 01 05}¿Eh? Todo está en orden.'
+- id: 4480
+  en: '{:unk13 5A 00 B4 00}{:unk08 01 00 05}Vaya, vaya...'
+- id: 4481
+  en: '{:unk13 97 00 ED 00}{:unk06 01}{:unk08 01 01 06}¿Qué? ¿Pasa algo?'
+- id: 4482
+  en: '{:unk13 74 00 73 00}{:unk08 01 00 05}¡No!'
+- id: 4483
+  en: >-
+    {:unk13 40 01 32 00}{:unk08 01 00 05}Nos alegra que no
+
+    estéis vestidos de negro.
+- id: 4484
+  en: '{:unk13 5E 01 5A 00}{:unk06 02}{:unk08 03 01 06}¿Le habéis visto?'
+- id: 4485
+  en: '{:unk13 AA 00 BE 00}{:unk08 01 00 06}Sí, está en el palacio.'
+- id: 4486
+  en: '{:unk13 F0 00 50 00}{:unk06 02}{:unk08 03 00 05}¡Al palacio! ¡Deprisa!'
+- id: 4487
+  en: ¡Abridnos!
+- id: 4488
+  en: ¡Por aquí!
+- id: 4490
+  en: ¡Alto!
+- id: 4491
+  en: ¿Riku?
+- id: 4492
+  en: No. ¿Quién es ese?
+- id: 4493
+  en: '{:unk13 AD 00 3C 00}{:unk08 01 01 05}Supongo que no era Riku.'
+- id: 4494
+  en: '{:unk13 64 00 64 00}{:unk08 01 00 05}Lo siento, Sora.'
+- id: 4495
+  en: '{:unk13 4A 01 64 00}{:unk08 01 00 06}¡De acuerdo!'
+- id: 4496
+  en: >-
+    {:unk13 37 01 7A 00}{:unk06 02}{:unk08 03 01 05}¡Excelencia! ¡Shang!
+
+    ¡Ha sucedido algo terrible!
+- id: 4497
+  en: >-
+    {:unk13 0E 01 50 00}{:unk08 01 00 05}¡Vimos un monstruo enorme volar
+
+    desde las montañas hacia la ciudad!
+- id: 4498
+  en: >-
+    {:unk13 B4 00 5A 00}{:unk06 01}{:unk08 01 01 06}Ah. Así que es tal como
+
+    dijo el muchacho.{:clear }¿No es cierto, Capitán?
+- id: 4499
+  en: '{:unk13 78 00 64 00}{:unk08 01 00 06}Sí, Excelencia.'
+- id: 4500
+  en: >-
+    {:unk13 E6 00 5A 00}{:unk06 01}{:unk08 01 01 06}Veréis. Un extraño joven
+
+    nos visitó no hace mucho.
+- id: 4501
+  en: >-
+    {:unk13 01 01 55 00}{:unk06 01}{:unk08 01 01 06}El Capitán luchó con el visitante,
+
+    pero fue rápidamente vencido.
+- id: 4502
+  en: '{:unk13 C8 00 64 00}{:unk08 01 00 05}Para mi deshonra.'
+- id: 4503
+  en: >-
+    {:unk13 F0 00 64 00}{:unk06 01}{:unk08 01 01 06}Parece que el joven era ese tipo
+
+    de negro sobre el que corren rumores.
+- id: 4504
+  en: '{:unk13 DC 00 96 00}{:unk08 01 00 05}¿Mencionó el nombre de Riku?'
+- id: 4505
+  en: >-
+    {:unk13 96 00 64 00}{:unk06 01}{:unk08 01 01 06}No dio nombre alguno.
+
+    Fue bastante maleducado.
+- id: 4506
+  en: >-
+    {:unk13 60 01 32 00}{:unk06 02}{:unk08 03 00 05}¿Maleducado?
+
+    ¡Entonces era Riku!
+- id: 4507
+  en: '{:unk13 01 01 DC 00}{:unk08 01 01 06}¿Riku pertenece a la Organización?'
+- id: 4508
+  en: '{:unk13 DC 00 FA 00}{:unk08 01 00 01}Ahí va...'
+- id: 4509
+  en: '{:unk13 2C 01 50 00}{:unk08 01 00 05}¿Pero para qué vendría hasta aquí?'
+- id: 4510
+  en: '{:unk13 40 01 2C 00}{:unk08 01 00 05}Echaré un vistazo fuera.'
+- id: 4511
+  en: '{:unk13 30 01 37 00}{:unk06 02}{:unk08 03 01 06}¡Mulán!'
+- id: 4512
+  en: '{:unk13 B4 00 82 00}{:unk08 01 00 05}¡Shang, cuida del Emperador!'
+- id: 4513
+  en: >-
+    {:unk13 2C 01 64 00}{:unk08 01 00 05}¡Yo estaré bien
+
+    con ellos!
+- id: 4514
+  en: '{:unk13 09 01 64 00}{:unk08 01 01 06}¡Sí... claro!'
+- id: 4515
+  en: >-
+    {:unk13 22 01 3C 00}{:unk06 01}{:unk08 01 01 05}No hay duda.
+
+    Estáis en lo cierto.{:clear }No hay de qué preocuparse
+
+    si vosotros nos protegéis.
+- id: 4516
+  en: '{:unk13 74 00 61 00}{:unk06 02}{:unk08 03 00 05}¡Deprisa!'
+- id: 4517
+  en: >-
+    Una vez más,
+
+    habéis servido bien a China.{:delay FC 00}{:clear }Será un placer para mí recompensaros.{:delay BA 00}{:clear }¿Qué es lo que deseáis?
+- id: 4518
+  en: ''
+- id: 4519
+  en: ''
+- id: 4520
+  en: Pues...
+- id: 4521
+  en: >-
+    Dijisteis que un hombre de negro
+
+    vino a veros.{:delay A2 00}{:clear }¿Qué os dijo?
+- id: 4522
+  en: ¿Eso es todo lo que pides?
+- id: 4523
+  en: Así es.
+- id: 4524
+  en: >-
+    Largo tiempo lleva surcando estas tierras
+
+    la energía vital de los dragones.
+- id: 4525
+  en: >-
+    Su poder es extraordinario,{:delay B7 00}{:clear }y es el origen de infinidad de dones,
+
+    para el hombre y para la naturaleza.
+- id: 4526
+  en: >-
+    Pero, al parecer,
+
+    alguien con malas intenciones{:delay A8 00}{:clear }ha perturbado a uno de
+
+    nuestros dragones{:delay 8A 00}{:clear }y lo ha transformado
+
+    en lo que llamáis...{:delay 78 00}{:clear }un sincorazón.
+- id: 4527
+  en: >-
+    y lo ha transformado
+
+    en lo que llamáis...{:delay 78 00}{:clear }un sincorazón.
+- id: 4528
+  en: >-
+    A mi entender, tu joven amigo vino
+
+    a advertirme de ese peligro,{:delay 1A 01}{:clear }para que así pudiera alertar
+
+    y preparar a mis tropas.
+- id: 4529
+  en: >-
+    para que así pudiera alertar
+
+    y preparar a mis tropas.
+- id: 4530
+  en: ¿Lo hicisteis?
+- id: 4531
+  en: >-
+    Iba a hacerlo, pero me dijo que
+
+    la situación había cambiado.
+- id: 4532
+  en: >-
+    Dijo que tres amigos habían llegado
+
+    y que ellos se encargarían de todo.
+- id: 4533
+  en: y que ellos se encargarían de todo.
+- id: 4534
+  en: ¡Tiene que ser Riku!
+- id: 4535
+  en: >-
+    Pero ¿qué hace él mezclado
+
+    con la Organización {XIII}?
+- id: 4536
+  en: >-
+    Ni idea. Pero al menos
+
+    sé que está bien.
+- id: 4537
+  en: Con eso me basta.
+- id: 4538
+  en: ¡Sí, eso está bien!
+- id: 4539
+  en: Bueno, Fa Mulán...{:delay 96 00}{:clear }¿Tienes alguna petición?
+- id: 4540
+  en: Quisiera que Shang... Di... digo...{:delay AD 00}{:clear }esto... el Capitán...
+- id: 4541
+  en: Dime, dime, pequeña. ¿Qué deseas?
+- id: 4542
+  en: >-
+    ¿Podríais darle al Capitán
+
+    un permiso, por favor?
+- id: 4543
+  en: >-
+    No esperaba unas peticiones
+
+    tan humildes.
+- id: 4544
+  en: >-
+    En tal caso, me temo
+
+    que debo negarme.{:delay E4 00}{:clear }La misión del capitán Li
+
+    es proteger al emperador.
+- id: 4545
+  en: Sin embargo, Mulán...
+- id: 4546
+  en: Decidme.
+- id: 4547
+  en: >-
+    ¿Te gustaría servir a su
+
+    lado y protegerme?
+- id: 4548
+  en: ¿¡Qué!?
+- id: 4549
+  en: Dos juncos son más fuertes que uno.
+- id: 4550
+  en: Pero la decisión es tuya.
+- id: 4551
+  en: ¡Gracias, Excelencia!
+- id: 4585
+  en: ''
+- id: 4586
+  en: La primera batalla
+- id: 4587
+  en: Ataque sorpresa
+- id: 4588
+  en: La emboscada
+- id: 4589
+  en: La búsqueda
+- id: 4590
+  en: La invasión
+- id: 4591
+  en: 〜 Campamento 〜
+- id: 4592
+  en: >-
+    ¡El indicador superior izquierdo determina tu
+
+    supervivencia! ¡Si se llena, habrás fallado!
+
+    ¡Confío en ti!
+- id: 4593
+  en: ¡Derrota a los sincorazón en el campamento!
+- id: 4594
+  en: 〜 Puesto de control 〜
+- id: 4595
+  en: >-
+    ¡Han visto una extraña figura
+
+    en el puesto de control!
+
+    ¡Ve allí rápido y vence
+
+    al enemigo!
+- id: 4596
+  en: >-
+    ¡Derrota a los sincorazón
+
+    en el puesto de control!
+- id: 4597
+  en: 〜 Puesto de control 〜
+- id: 4598
+  en: >-
+    Una horda enemiga se dirige
+
+    al puesto de control.
+
+    ¡Detenla y estate atento
+
+    a los enemigos extraños!
+- id: 4599
+  en: >-
+    ¡Derrota a los sincorazón
+
+    en el puesto de control!
+- id: 4600
+  en: 〜 Campamento 〜
+- id: 4601
+  en: >-
+    Parece que el enemigo ha
+
+    invadido el campamento.
+
+    ¡Derrota a todos los enemigos
+
+    que encuentres!
+- id: 4602
+  en: ¡Derrota a los sincorazón ocultos!
+- id: 4603
+  en: 〜 Sendero de montaña 〜
+- id: 4604
+  en: >-
+    Ping y tú debéis abriros camino hasta el final del sendero de montaña.
+
+    ¡Derrotad a los enemigos que encontréis y cubríos las espaldas!
+- id: 4605
+  en: ¡Ve hasta el final del sendero de montaña!
+- id: 4606
+  en: Sí
+- id: 4607
+  en: No
+- id: 4608
+  en: Elige una misión.
+- id: 4609
+  en: ¿Comenzar esta misión?
+- id: 7657
+  en: >-
+    Está atrancada desde dentro.
+
+    Ahora no puedes pasar.
+- id: 7757
+  en: '{:unk13 01 01 64 00}{:unk08 01 00 05}Mira quién fue a aparecer.'
+- id: 7944
+  en: ¡Derrota a todos los sincorazón!
+- id: 7945
+  en: >-
+    ¡Derrota a todos los sincorazón!
+
+    ¡Lucha junto a Ping!
+- id: 7946
+  en: ¡Derrota a todos los sincorazón!{:theme 07}⭑{:reset}¡Que el indicador de ánimo no se vacíe!{:theme 07}⭑{:reset}
+- id: 7947
+  en: >
+    ¡Derrota a todos los sincorazón!
+
+    El indicador disminuye cuando golpean
+
+    a Ping. ¡No dejes que se vacíe!
+- id: 7948
+  en: ¡Derrota a todos los sincorazón!{:theme 07}⭑{:reset}¡Que el indicador de ánimo no se vacíe!{:theme 07}⭑{:reset}
+- id: 7949
+  en: >-
+    ¡Derrota a todos los sincorazón!
+
+    El indicador de ánimo y el reloj van
+
+    unidos. Ambos disminuyen a la vez.
+- id: 7950
+  en: ¡Derrota a todos los sincorazón!{:theme 07}⭑{:reset}¡Que el indicador de ánimo no se vacíe!{:theme 07}⭑{:reset}
+- id: 7951
+  en: >
+    ¡Derrota a todos los sincorazón!
+
+    Los golpes del sincorazón gigante
+
+    afectan al ánimo. ¡Que no se vacíe!
+- id: 7952
+  en: ¡Derrota a todos los enemigos ocultos!{:theme 07}⭑{:reset}¡Que el indicador de ánimo no se vacíe!{:theme 07}⭑{:reset}
+- id: 7953
+  en: >-
+    ¡Derrota a todos los sincorazón!
+
+    El indicador de ánimo y el reloj van
+
+    unidos. Ambos disminuyen a la vez.
+- id: 7954
+  en: ¡Deprisa! ¡A la cumbre!{:theme 07}⭑{:reset}¡Que el indicador de ánimo no se vacíe!{:theme 07}⭑{:reset}
+- id: 7955
+  en: >-
+    ¡Deprisa! ¡A la cumbre!
+
+    ¡Que el indicador de ánimo no se vacíe!
+
+    ¿Qué lo hará disminuir?
+
+    ¡Es una sorpresa!
+- id: 7956
+  en: ¡El sendero está abierto! ¡Adelante!
+- id: 7957
+  en: ¡Derrota a todos los sincorazón!
+- id: 7958
+  en: >-
+    ¡Derrota a todos los sincorazón!
+
+    ¡Lucha junto a Ping!
+- id: 7959
+  en: ¡Derrota a todos los sincorazón!
+- id: 7960
+  en: >-
+    ¡Derrota a todos los sincorazón!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 7961
+  en: ¡Derrota a todos los sincorazón!
+- id: 7962
+  en: ¡Derrota a todos los sincorazón!
+- id: 7963
+  en: ¡Derrota a Shan Yu y protege las puertas!
+- id: 7964
+  en: >-
+    ¡Derrota a Shan Yu y protege las puertas!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 7965
+  en: ¡Derrota al hombre misterioso!
+- id: 7966
+  en: ¡Derrota al hombre misterioso!
+- id: 7967
+  en: ¡Derrota a todos los sincorazón!
+- id: 7968
+  en: ¡Derrota a todos los sincorazón!
+- id: 7969
+  en: >-
+    ¡Derrota a todos los sincorazón!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 7970
+  en: ¡Derrota todos los incorpóreos!
+- id: 7972
+  en: >-
+    ¡Derrota a todos los incorpóreos!
+
+    ¡Si usas los comandos de reacción
+
+    con {:icon button-triangle}, la batalla será más fácil!
+- id: 8057
+  en: '{:unk13 FA 00 50 00}{:unk08 01 00 05}No puedo quedarme. Me preocupa Shang.'
+- id: 10377
+  en: >-
+    Hemos logrado restaurar buena parte
+
+    de esa aldea incendiada.{:clear }Aunque siga habiendo guerras,
+
+    la esperanza nunca desaparecerá.
+- id: 13867
+  en: '{:unk13 B4 00 3C 00}{:unk08 01 01 06}Pero el Capitán...'
+- id: 13964
+  en: >-
+    Puede que seáis fuertes, pero no
+
+    debéis descuidar el entrenamiento diario.{:clear }Así como nosotros nos fortalecemos,
+
+    también el enemigo se vuelve más poderoso.
+- id: 14071
+  en: >-
+    Los demás deben de estar recibiendo
+
+    una cálida bienvenida en el palacio.{:clear }Estar de guardia es aburrido. Echaré
+
+    una miradita desde el puesto de control.
+- id: 15224
+  en: >-
+    Dicen que últimamente hay gente
+
+    sospechosa en la {:theme 0A}cumbre{:reset}.{:clear }Ojalá que las patrullas no estén
+
+    muy debilitadas.
+- id: 16944
+  en: ¿Decididos a aceptar una misión?
+- id: 16945
+  en: >-
+    Shan Yu ha invadido nuestro país.
+
+    Debemos detenerlo a toda costa.
+- id: 16946
+  en: >-
+    Nuestro objetivo es derrotar a Shan Yu.
+
+    No podéis fallar en vuestra misión.
+- id: 16947
+  en: >-
+    Esta es la primera vez que veo a Ping...
+
+    digo... a Mulán como una chica.{:clear }Sin el disfraz, nadie la
+
+    confundiría con un muchacho.
+- id: 16948
+  en: >-
+    No entiendo cómo alguien pudo
+
+    sobrevivir a semejante alud.{:clear }Deprisa, encontremos a Shan Yu.
+
+    Probablemente se dirija hacia el palacio.
+- id: 16949
+  en: >-
+    Dicen que Shan Yu es un espadachín
+
+    experto, pero tú también lo eres, Sora.{:clear }Si logras esquivar sus ataques,
+
+    tendrás oportunidad de contraatacar.
+- id: 16950
+  en: >-
+    Varios destacamentos ya han sido atacados
+
+    por Shan Yu. No hay tiempo que perder.
+- id: 16995
+  en: En esta roca viste la sombra de Mushu.
+- id: 16996
+  en: Una flecha sobresale por la parte superior.
+- id: 17049
+  en: ¡Ping está cansado!
+- id: 17092
+  en: >-
+    ¿Engañado? No, no no no.
+
+    Veréis, yo... esto...{:delay C0 00}{:clear }no quería agobiaros con todo ese
+
+    rollo de los guardianes.{:delay 9C 00}{:clear }Veréis, es muy complejo, con mucha
+
+    letra pequeña. No lo entenderíais.
+- id: 17096
+  en: La puerta está cerrada.
+- id: 17436
+  en: >-
+    El camino a la cumbre es peligroso.
+
+    Muchas rocas cortan el paso.{:clear }Tendréis que encontrar la forma de
+
+    moverlas para poder pasar.
+- id: 17437
+  en: >-
+    Un soldado astuto está preparado
+
+    para cualquier imprevisto.{:clear }No olvidéis llevar suficientes
+
+    objetos con vosotros.
+- id: 17438
+  en: >-
+    Tendréis que ir por el sendero de
+
+    montaña hasta la cumbre.{:clear }Id bien armados.
+
+    Hay muchos enemigos.
+- id: 17629
+  en: >-
+    {:unk0f 03 64 00 6D 01}{:color #00F0F080}Se ha agregado el comando Grupo.{:reset}
+
+    Permite cambiar más rápido a los miembros del grupo.{:clear }{:unk0f 00 00 00 00 00}Úsalo en las batallas en las que no es
+
+    posible abrir los menús.
+- id: 17630
+  en: >-
+    {:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+    Pulsa {:unk16 02} para ver el Límite y luego selecciónalo.{:clear }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Sora y se ejecutan con miembros del grupo.
+- id: 17699
+  en: >-
+    Mulán se unió al ejército en lugar
+
+    de su padre, por su propia voluntad.{:clear }No quiero ni imaginar lo que
+
+    sucedería si se descubriera su secreto.
+- id: 17700
+  en: >-
+    ¡Cuando iba a liquidar a esas criaturas
+
+    horrendas, se asustaron y huyeron!{:clear }Son unos rivales muy extraños.
+- id: 17701
+  en: >-
+    Yo soy Chien. Ese bajito es Yao
+
+    y el otro flacucho es Ling.{:clear }¿Qué eran esas criaturas que vimos?
+
+    ¿Estamos luchando contra eso?
+- id: 17702
+  en: >-
+    El camino que conduce al palacio desde
+
+    el puesto de control está cerrado ahora.{:clear }Tal vez nos permitan pasar cuando
+
+    hayamos cumplido con algunas misiones.
+- id: 17703
+  en: >-
+    Eh, ¿cómo andáis? A ver, ¿cuándo
+
+    seréis tan fuertes como nosotros?
+- id: 17704
+  en: >-
+    Preferiría estar entrenando
+
+    para un concurso de comida.
+- id: 17705
+  en: >-
+    Mulán ha estado muy ocupada
+
+    últimamente.{:clear }Es lógico.
+
+    Es la heroína de nuestra nación.
+- id: 17706
+  en: >-
+    A veces, un solo soldado puede
+
+    cambiar el curso de una batalla.{:clear }Eso es lo que hizo Mulán, con
+
+    vuestra ayuda, claro.
+- id: 17707
+  en: >-
+    Desde este matorral, puedes observar
+
+    una aldea incendiada por Shan Yu.{:clear }Su ejército no se detendrá ante
+
+    nada hasta invadir nuestro país.
+- id: 18745
+  en: >-
+    ¡Derrota al jefe sincorazón!
+
+    ¡Trata de aprovechar los torbellinos!
+- id: 18934
+  en: >-
+    Ping vuelve a ser Mulán.
+
+    Mulán ha aprendido una nueva habilidad.
+- id: 19085
+  en: >-
+    Parece que fue construido
+
+    como un símbolo de paz.
+- id: 19155
+  en: >-
+    {:unk13 FF 00 50 00}{:unk0f 05 32 00 32 00}El indicador superior izquierdo representa el ánimo
+
+    del grupo. {:color #00F0F080}Si el indicador se vacía, se termina el juego{:reset}. 
+
+    Este se completa con las esferas de los enemigos.{:clear }{:unk0f 00 00 00 00 00}Las esferas son vitales para la supervivencia
+
+    del grupo, así que asegúrate de recoger
+
+    tantas como puedas, en especial las raras.
+- id: 19338
+  en: >-
+    {:unk13 51 01 39 00}{:unk08 01 00 05}No lo habéis
+
+    hecho mal.{:clear }¡Pero estad alerta!{:clear }Esto es solo
+
+    el comienzo.
+- id: 19339
+  en: >-
+    {:unk13 59 01 3D 00}{:unk08 01 00 05}Mmm, nada mal.{:clear }Ahora preparaos
+
+    para el resto de
+
+    las misiones.
+- id: 19340
+  en: >-
+    {:unk13 68 01 32 00}{:unk08 01 00 05}Bien, eso es exactamente
+
+    lo que necesito de vosotros.{:clear }Pero todavía tenéis tareas
+
+    pendientes. Daos prisa.
+- id: 19753
+  en: Tierra de Dragones
+- id: 19868
+  en: ¡Fuego! ¡Necesito fuego!
+- id: 19875
+  en: >-
+    ¡Bien! ¡Genial!
+
+    ¡Lo conseguimos! ¡Hurra!
+- id: 19876
+  en: ¡Señor!
+- id: 20608
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡No dejes que te atrape!
+- id: 21515
+  en: "{:delayandfade 08 78} \nAunque no aceptan a Ping en el ejército,\ncumple con afán las tareas de adiestramiento\ny se va haciendo cada vez más fuerte.\n \nEs entonces cuando Mushu llega con\nnoticias y asegura haber visto a Shan Yu\nen las cercanías.\n \n \n"
+- id: 21516
+  en: "{:delayandfade 0A 78} \nDerrotar al temible Shan Yu serviría\npara granjearse las simpatías de\ntodos, así que Sora y los demás\nse adentran en una cueva tras él,\npero todo resulta ser una trampa\ndel malvado huno.\n \n \n \n"
+- id: 21517
+  en: "{:delayandfade 0A 78} \n \n \n \n \n \n \n \n \n \n \n "
+- id: 21518
+  en: "{:delayandfade 08 78} \nSora y sus amigos plantan cara\nal monstruo de Xigbar y salvan\nal capitán Shang y al Emperador.\n \nAmbos aseguran a Sora haber visto\na un joven vestido de negro...\n¡que podría ser Riku!\n \nNo hay tiempo para más, pues un\nsúbito estruendo sacude el palacio.\n"
+- id: 21519
+  en: "{:delayandfade 0A 78} \n \n \n \n \n \n \n \n \n \n \n "

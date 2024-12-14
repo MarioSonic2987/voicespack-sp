@@ -1,0 +1,221 @@
+﻿- id: 16180
+  en: Te estaba esperando.
+- id: 16181
+  en: He ido a verle... {:delay 78 00}{:clear } {:delay 78 00}{:clear }Se parece mucho a ti.
+- id: 16182
+  en: ¿Quién eres?
+- id: 16183
+  en: Soy lo que queda. {:delay 96 00}{:clear }{:delay 28 00}{:clear }O... {:delay 54 00}{:clear }quizá lo único que siempre hubo.
+- id: 16184
+  en: Me refería a tu nombre.
+- id: 16185
+  en: Nada importa mi nombre. {:delay D8 00}{:clear }¿Y tú? {:delay 9C 00}{:clear }¿Acaso recuerdas tu verdadero nombre?
+- id: 16186
+  en: Mi verdadero nombre... es...
+- id: 16187
+  en: El final del camino.
+- id: 16188
+  en: Sí.
+- id: 16189
+  en: Suéltame. Puedo andar.
+- id: 16190
+  en: >-
+    ¿Sabes? {:delay 90 00}{:clear }Puede que la oscuridad me haya
+
+    afectado a mí también.
+- id: 16191
+  en: ¡Riku!
+- id: 16192
+  en: >-
+    Este mundo es perfecto para mí. {:delay E1 00}{:clear } Si de verdad el mundo es así... {:delay BB 00}{:clear }solo esto...{:delay B5 00}{:clear }tal vez debería diluirme
+
+    en la oscuridad.
+- id: 16193
+  en: Riku...
+- id: 16194
+  en: >-
+    Si el mundo está hecho
+
+    de luz y oscuridad...{:delay B4 00}{:clear } {:delay 5A 00}{:clear }seremos la oscuridad.
+- id: 16195
+  en: Sí. {:delay 76 00}{:clear }El otro lado... {:delay 8A 00}{:clear }el Reino de la Luz, está a salvo. {:delay 90 00}{:clear }Kairi, el rey y los demás están allí.
+- id: 16196
+  en: A eso me refiero. {:delay 4C 00}{:clear } {:delay 65 00}{:clear }Oye, Sora... {:delay A3 00}{:clear }¿puedes ayudarme?{:delay 76 00}{:clear }Quiero bajar hasta el agua.
+- id: 16197
+  en: Al menos las olas suenan igual.
+- id: 16198
+  en: >-
+    Lo que he dicho antes... {:delay 91 00}{:clear }Eso de que me creía mejor
+
+    que tú en todo...
+- id: 16199
+  en: ''
+- id: 16200
+  en: Para ser sincero, Sora... {:delay D2 00}{:clear }te tenía envidia.
+- id: 16201
+  en: ¿Por qué?
+- id: 16202
+  en: >-
+    Me habría gustado vivir la vida
+
+    como tú...{:delay 89 00}{:clear }{:delay 4F 00}haciendo caso a mi corazón.
+- id: 16203
+  en: >-
+    Ya, bueno... yo también
+
+    tengo mis problemas.
+- id: 16204
+  en: ¿Como cuáles?
+- id: 16205
+  en: Como... querer ser como tú.
+- id: 16206
+  en: >-
+   {:delay 8A 00}{:clear }Bueno, ser yo sí que
+
+   tiene una ventaja...{:delay 38 01}{:clear }Y es algo que tú no puedes imitar.
+- id: 16207
+  en: ¿En serio? ¿El qué?
+- id: 16208
+  en: Tenerte a ti como amigo.
+- id: 16209
+  en: >-
+    Entonces...{:delay 6C 00}{:clear }supongo que estoy bien
+
+    como estoy.{:delay 91 00}{:clear }Yo también tengo algo
+
+    que tú jamás podrás imitar.
+- id: 16210
+  en: ¿Sora?
+- id: 16211
+  en: ''
+- id: 16212
+  en: Creo que es para ti.
+- id: 19629
+  en: >-
+    Pienso en ti,
+
+    dondequiera que estés.{:delay 78 00}{:clear } {:delay 56 00}{:clear }Rogamos para que terminen
+
+    nuestros pesares{:delay 78 00}{:clear } {:delay 47 00}{:clear }y nuestros corazones se unan.
+- id: 19630
+  en: >-
+    Ahora me pondré en marcha
+
+    para cumplir ese deseo. {:delay B4 00}{:clear }{:delay 4E 00}{:clear }Y ¿quién sabe?,
+- id: 19631
+  en: >-
+    quizá no sea tan duro
+
+    emprender el viaje. {:delay B4 00}{:clear }{:delay 30 00}{:clear }O quizá ya haya comenzado... {:delay 66 00}{:clear }{:delay 5F 00}{:clear }Son muchos los mundos, {:delay 54 00}{:clear }{:delay 36 00}{:clear }pero todos comparten el mismo cielo.{:delay 7E 00}{:clear }{:delay 3C 00}{:clear }Un cielo... {:delay 38 00}{:clear }{:delay 36 00}{:clear }Un destino.
+- id: 19632
+  en: Luz.
+- id: 19633
+  en: La puerta a la luz.
+- id: 19634
+  en: ¡Vayamos juntos!
+- id: 19635
+  en: Sí.
+- id: 19636
+  en: ¡Sora! ¡Riku!
+- id: 19637
+  en: Hemos vuelto.
+- id: 19638
+  en: Bienvenidos.
+- id: 19639
+  en: No ha cambiado nada, ¿eh?
+- id: 19640
+  en: No. Nunca cambiará.
+- id: 19641
+  en: ¡Qué mundo más pequeño!
+- id: 19642
+  en: Es parte de uno mucho mayor.
+- id: 19643
+  en: Sí.
+- id: 19644
+  en: >-
+    Oye, Riku, ¿qué crees que era
+
+    la puerta a la luz?
+- id: 19645
+  en: Esto.
+- id: 19646
+  en: ¿Esto?
+- id: 19647
+  en: >-
+    Sí. Siempre está más cerca
+
+    de lo que crees.
+- id: 19648
+  en: ¡Sora! ¡Riku!
+- id: 19649
+  en: Eh, ¿qué pasa?
+- id: 19742
+  en: ¡Mirad!
+- id: 19743
+  en: ¿Es del rey?
+- id: 19843
+  en: Pienso en ti, dondequiera que estés.
+- id: 19844
+  en: >-
+    Rogamos para que terminen nuestros pesares
+
+    y nuestros corazones se unan.{:delay 90 01}{:clear }Ahora me pondré en marcha
+
+    para cumplir ese deseo.
+- id: 19845
+  en: >-
+    Y ¿quién sabe?,
+
+    quizá no sea tan duro emprender el viaje.{:delay 22 01}{:clear }O quizá ya haya comenzado...
+- id: 19846
+  en: >-
+    Son muchos los mundos,
+
+    pero todos comparten el mismo cielo.{:delay 68 01}{:clear }Un cielo... un destino.
+- id: 19847
+  en: >-
+    {:unk13 00 01 20 01}{:delayandfade 02 02}La llave espada
+
+    alberga un gran poder.{:delay A8 00}{:clear }{:delay 76 00}{:unk13 00 01 70 01}{:delayandfade 01 02}El portador de la llave espada
+
+    es descrito
+
+    como salvador del mundo
+
+    o bien como artífice del caos.{:delay 7A 00}{:clear }{:delay 1C 00}{:unk13 00 01 4A 01}{:linespacing 12}{:delayandfade 02 02}¿Qué será esa llave espada?
+
+    {:delay 14 00}Una llave... El poder de abrir puertas.
+
+    {:scale 15}                      (Informe Ansem 8)
+- id: 19848
+  en: ''
+- id: 19849
+  en: ''
+- id: 19850
+  en: ''
+- id: 19851
+  en: ''
+- id: 19852
+  en: ''
+- id: 19853
+  en: ''
+- id: 19854
+  en: ''
+- id: 19855
+  en: ''
+- id: 19856
+  en: ''
+- id: 19858
+  en: ''
+- id: 19859
+  en: ''
+- id: 19917
+  en: ''
+- id: 19918
+  en: '{:unk13 00 01 F5 00}La historia de una verdad por contar.'
+- id: 19929
+  en: '{:unk13 00 01 F5 00}El destino nunca se deja al azar.'
+- id: 19930
+  en: '{:unk13 00 01 F5 00}El destino es inevitable.{:delay 9A 00}{:clear }{:delay 80 00}{:unk13 A6 00 B8 00}Al fin,{:delay 72 00}{:clear }{:delay AE 00}{:unk13 00 01 F5 00}para despertar una nueva historia.'
+- id: 19931
+  en: '{:unk13 66 01 50 01}los destinos se reúnen...'

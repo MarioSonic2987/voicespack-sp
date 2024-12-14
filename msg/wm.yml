@@ -1,0 +1,649 @@
+﻿- id: 6179
+  en: >-
+    Utiliza el joystick analógico izquierdo para controlar
+
+    la nave gumi. Intenta acercarte a Bastión Hueco en la
+
+    dirección que señala la flecha. Cuando llegues a tu
+
+    destino, pulsa {:unk16 08} para desembarcar.
+- id: 7682
+  en: ¡Comienza una aventura!
+- id: 7683
+  en: >-
+    {:width 95}¿Será Bastión Hueco un sitio tranquilo,
+
+    ahora que no están los sincorazón...?
+- id: 7684
+  en: Viejos amigos
+- id: 7685
+  en: >-
+    ¡Debemos ir a casa de Merlín y
+
+    buscar las hojas perdidas de Pooh!
+- id: 7686
+  en: El mundo de los programas
+- id: 7687
+  en: >-
+    ¡Debemos acceder al laboratorio
+
+    de Ansem!
+- id: 7688
+  en: Regreso al mundo de los programas
+- id: 7689
+  en: >-
+    ¡Vayamos al mundo de los programas
+
+    desde el laboratorio de Ansem!
+- id: 7690
+  en: ¡Devolución de la hoja! 1
+- id: 7691
+  en: >-
+    El libro está en casa de Merlín.
+
+    ¡Vamos a devolver la hoja!
+- id: 7692
+  en: ¡Devolución de la hoja! 2
+- id: 7693
+  en: >-
+    El libro está en casa de Merlín.
+
+    ¡Vamos a devolver la hoja!
+- id: 7694
+  en: ¡Devolución de la hoja! 3
+- id: 7695
+  en: >-
+    El libro está en casa de Merlín.
+
+    ¡Vamos a devolver la hoja!
+- id: 7696
+  en: ¡Devolución de la hoja! 4
+- id: 7697
+  en: >-
+    El libro está en casa de Merlín.
+
+    ¡Vamos a devolver la hoja!
+- id: 7698
+  en: ¡Devolución de la hoja! 5
+- id: 7699
+  en: >-
+    El libro está en casa de Merlín.
+
+    ¡Vamos a devolver la hoja!
+- id: 7700
+  en: ¡Vamos a empezar una nueva aventura!
+- id: 7701
+  en: >-
+    ¡Echemos un vistazo a
+
+    la Tierra de Dragones!
+- id: 7702
+  en: ¡Vayamos a ver a Mulán!
+- id: 7703
+  en: >-
+    ¿Cómo iran las cosas en la
+
+    ciudad de la Tierra de Dragones!
+- id: 7704
+  en: ¡Al viejo castillo del bosque!
+- id: 7705
+  en: >-
+    Registremos el viejo castillo del bosque
+
+    a ver qué encontramos.
+- id: 7706
+  en: ¿Qué tal les irá a todos por aquí?
+- id: 7707
+  en: ¿Se habrán reconciliado Bella y Bestia?
+- id: 7708
+  en: Coliseo del Olimpo
+- id: 7709
+  en: >-
+    ¡Probemos nuestra destreza
+
+    en el Coliseo del Olimpo!
+- id: 7710
+  en: ¿Cómo andará Hércules?
+- id: 7711
+  en: >-
+    ¡Deberíamos ir a saludar a Hércules
+
+    y a Auron!
+- id: 7712
+  en: ¡Viva el reino!
+- id: 7713
+  en: ¿¡El Castillo Disney está en peligro!?
+- id: 7714
+  en: ¡Al reino submarino!
+- id: 7715
+  en: ¡A nadar en las aguas de Atlántica!
+- id: 7716
+  en: ¡Intentemos mover la estatua!
+- id: 7717
+  en: ¿Por qué no hablamos con Flounder?
+- id: 7718
+  en: ¡Participemos en el musical!
+- id: 7719
+  en: ¡Tenemos que hablar con Sebastián!
+- id: 7720
+  en: ¡Encontremos el objeto perdido!
+- id: 7721
+  en: ¡Vamos a hablar con Ariel!
+- id: 7722
+  en: '{:width 95}¡El mejor musical de todos los tiempos!'
+- id: 7723
+  en: ¡Vamos a hablar con Sebastián!
+- id: 7724
+  en: ¡Una aventura a capa y espada!
+- id: 7725
+  en: >-
+    ¡Vayamos a Port Royal! ¡Allí
+
+    hay montones de barcos!
+- id: 7726
+  en: ¡Vayamos a ver a Will!
+- id: 7727
+  en: >-
+    ¿Habrá vuelto la calma, ahora que
+
+    hemos vencido a Barbossa?
+- id: 7728
+  en: ¡Vayamos a Ciudad de Halloween!
+- id: 7729
+  en: >-
+    ¡Celebrémoslo con todo el
+
+    pueblo!
+- id: 7730
+  en: Ya casi es Navidad, ¿no?
+- id: 7731
+  en: >-
+    Parece que Jack se quitó
+
+    la Navidad de la cabeza, pero...
+- id: 7732
+  en: Al palacio del desierto
+- id: 7733
+  en: ¡Veamos qué pasa en Agrabah!
+- id: 7734
+  en: ¡Vayamos a visitar Agrabah!
+- id: 7735
+  en: ¿Cómo andarán Aladdín y Genio?
+- id: 7736
+  en: ¡Al reino salvaje!
+- id: 7737
+  en: >-
+    ¡Visitemos la jungla
+
+    de las Tierras del Reino!
+- id: 7738
+  en: ¿Por qué no vamos a ver al rey Simba?
+- id: 7739
+  en: >-
+    ¿Cómo le irá a Simba como rey
+
+    de las Tierras del Reino?
+- id: 7740
+  en: ¡A la batalla final!
+- id: 7741
+  en: >-
+    ¡Acabemos de una vez
+
+    con la Organización {XIII}!
+- id: 7840
+  en: '{:unk08 01 01 06}¡Hola, Sora! ¿Cómo lo llevas?'
+- id: 7841
+  en: >-
+    {:unk08 01 00 05}¡Eh! ¿Qué ha pasado con
+
+    Villa Crepúsculo?
+- id: 7850
+  en: '{:unk08 01 00 05}¿Eh?'
+- id: 7859
+  en: '{:unk08 01 00 05}¡Fíjate! ¡Villa Crepúsculo!'
+- id: 7862
+  en: >-
+    {:unk08 01 01 06}El rey, Riku... y ahora
+
+    he vuelto a perder a Kairi.
+- id: 13852
+  en: Nivel +
+- id: 13854
+  en: ₓₓ {:unk0d }
+- id: 18082
+  en: Blanco fijo
+- id: 18083
+  en: Acelerar
+- id: 18084
+  en: Teleportación
+- id: 18085
+  en: Desembarcar
+- id: 18086
+  en: Entrar
+- id: 18107
+  en: Cancelar
+- id: 18410
+  en: >-
+    {:unk08 01 00 05}Somos tus mecánicos gumi favoritos,
+
+    listos para trabajar. Chip...
+- id: 18411
+  en: '{:unk08 01 01 06}¡y Chop!'
+- id: 18412
+  en: ¡Feliz vuelo!
+- id: 18413
+  en: '{:unk08 01 01 06}¿Ha desaparecido?'
+- id: 18414
+  en: '{:unk08 01 01 06}¡No estés triste!'
+- id: 18415
+  en: >-
+    {:unk08 01 00 05}¡Donald tiene razón! Tú eres la llave
+
+    que lo conecta todo.
+- id: 18416
+  en: '{:unk08 01 01 06}Entonces todo es culpa mía.'
+- id: 18417
+  en: >-
+    {:unk08 01 00 05}¡Ahí va! Yo no quería decir eso.
+
+    Tú sigue tu instinto y seguro que
+
+    los encontramos.
+- id: 18418
+  en: '{:unk08 01 01 06}¡Bien dicho!'
+- id: 18426
+  en: >-
+    {:unk08 01 00 05}¡Atentos! Estoy detectando
+
+    una señal muy rara.
+- id: 18427
+  en: >-
+    {:unk08 01 00 05}Es esa extraña señal de antes.
+
+    ¿Ves? Sabía que no era un fallo.
+- id: 18428
+  en: '{:unk08 01 00 05}¿Qué es eso? Esa cosa tan... grande.'
+- id: 18429
+  en: >-
+    {:unk08 01 01 06}Puede que sea el origen de esa señal tan rara
+
+    que hemos detectado.
+- id: 18545
+  en: Desembarcar en ZZ
+- id: 18546
+  en: Desembarcar en Fin del mar
+- id: 18547
+  en: Desembarcar en Villa Crepúsculo
+- id: 18548
+  en: Desembarcar en Islas del Destino
+- id: 18549
+  en: Desembarcar en Bastión Hueco
+- id: 18550
+  en: Desembarcar en Castillo de Bestia
+- id: 18551
+  en: Desembarcar en Coliseo del Olimpo
+- id: 18552
+  en: Desembarcar en Agrabah
+- id: 18553
+  en: Desembarcar en Tierra de Dragones
+- id: 18554
+  en: Desembarcar en Bosque de los Cien Acres
+- id: 18555
+  en: Desembarcar en Tierras del Reino
+- id: 18556
+  en: Desembarcar en Atlántica
+- id: 18557
+  en: Desembarcar en Castillo Disney
+- id: 18558
+  en: Desembarcar en Río eterno
+- id: 18559
+  en: Desembarcar en Ciudad de Halloween
+- id: 18560
+  en: Desembarcar en FA
+- id: 18561
+  en: Desembarcar en Port Royal
+- id: 18562
+  en: Desembarcar en Espacio paranoico
+- id: 18563
+  en: Desembarcar en El Mundo Inexistente
+- id: 18564
+  en: Tal vez luego...
+- id: 18817
+  en: '{:unk08 01 01 05}¿Solo uno?'
+- id: 18818
+  en: '{:unk08 01 01 06}¡Eso no basta!'
+- id: 18819
+  en: >-
+    {:unk08 01 00 05}¡Esperad!
+
+    ¡Creo que es un mundo que conocemos!
+- id: 18820
+  en: >-
+    Utiliza el joystick analógico izquierdo para controlar la nave gumi.
+
+    Intenta acercarte a la ruta gumi con forma de puerta.
+
+    Cuando llegues a tu destino, pulsa {:unk16 08} para desembarcar.{:clear }No puedes desembarcar en mundos no conectados por rutas gumi.
+
+    Abre las rutas gumi para conectar los mundos.
+- id: 18821
+  en: '{:unk08 01 01 06}¡Sí, ya la veo! ¡Ha vuelto!'
+- id: 18822
+  en: '{:unk08 01 01 05}Gracias, chicos.'
+- id: 18823
+  en: >-
+    {:unk08 01 00 05}¡Oh, no! ¡Bastión Hueco!
+
+    ¡Está sumido en la oscuridad!
+- id: 18824
+  en: >-
+    {:unk08 01 01 06}¡Es verdad, Chip!
+
+    ¿Qué estará ocurriendo?
+- id: 18825
+  en: >-
+    {:unk08 01 00 05}¡Sora! ¡Hay que averiguar qué
+
+    sucede inmediatamente!
+- id: 18830
+  en: '{:unk08 01 01 06}¿Estás seguro? Déjame ver.'
+- id: 18831
+  en: '{:unk08 01 00 05}Mira... Todo está nublado y como borroso.'
+- id: 18832
+  en: '{:unk08 01 01 06}Ya, pero todo sigue nublado y como borroso.'
+- id: 18833
+  en: '{:unk08 01 00 05}Mmm... Bueno, una cosa sí está clara.'
+- id: 18834
+  en: >-
+    {:unk08 01 00 05}Y pasa algo raro con Villa Crepúsculo.
+
+    ¡Estoy viendo dos!
+- id: 18835
+  en: >-
+    {:unk08 01 01 06}¡Mira! ¡Otra subida enorme de energía!
+
+    Y viene del mismo punto, cerca de la ciudad.
+- id: 18865
+  en: >-
+    {:unk08 01 01 06}Eh, un momento...
+
+    ¿La nave se está moviendo sola?
+- id: 18885
+  en: >-
+    Utiliza el joystick analógico izquierdo para controlar la nave gumi.
+
+    ¿Ves ese mundo en la parte central de la pantalla?
+
+    Intenta acercarte a él.
+
+    Cuando llegues a tu destino, pulsa {:unk16 08} para desembarcar.
+- id: 18886
+  en: >-
+    {:unk08 01 00 05}Eh, parece que nos dirigimos a
+
+    Bastión Hueco.
+- id: 18890
+  en: '{:unk08 01 01 06}Será algún fallo...'
+- id: 18891
+  en: '{:unk08 01 00 05}No sé yo...'
+- id: 18892
+  en: '{:unk08 01 01 06}¿Qué cosa?'
+- id: 18893
+  en: >-
+    {:unk08 01 00 05}Que cuando Sora, Donald y Goofy salen
+
+    a ayudar a la gente, la señal se hace
+
+    más fuerte.
+- id: 18894
+  en: '{:unk08 01 01 06}¡Vaya! ¿Por qué será?'
+- id: 18895
+  en: >-
+    {:unk08 01 00 05}¡Sora! Nosotros trataremos de averiguar
+
+    algo más sobre la señal.
+- id: 18896
+  en: '{:unk08 01 01 06}¡Mientras tanto, vosotros seguid buscando por ahí!'
+- id: 18897
+  en: '{:unk08 01 00 05}¡Contamos con vosotros, chicos!'
+- id: 18898
+  en: >-
+    {:unk08 01 00 05}¡No sé muy bien qué pasa, chicos, pero
+
+    me temo que se está montando un buen lío
+
+    en Villa Crepúsculo!
+- id: 19021
+  en: Entrar en Lluvia de asteroides
+- id: 19022
+  en: Entrar en Polvo de estrellas
+- id: 19023
+  en: Entrar en Carretera truncada
+- id: 19024
+  en: Entrar en Carretera antigua
+- id: 19025
+  en: Entrar en Tormenta fantasma
+- id: 19026
+  en: Entrar en Tormenta solar
+- id: 19027
+  en: Entrar en Isla del rocío
+- id: 19028
+  en: Entrar en Isla flotante
+- id: 19029
+  en: '{:width 90}Entrar en Asalto del acorazado'
+- id: 19329
+  en: >-
+    {:unk08 01 00 05}Supongo que a veces la ayuda surge
+
+    de sitios inesperados.
+- id: 19330
+  en: '{:unk08 01 01 06}Desde luego.'
+- id: 19331
+  en: >-
+    {:unk08 01 00 05}¿Una foto y un helado? Uhm...
+
+    Parecen alguna especie de pista.
+
+    Y... ¿quién nos las habrá dejado?
+- id: 19332
+  en: '{:unk08 01 01 06}¿Riku?'
+- id: 19333
+  en: '{:unk08 01 00 05}¿Tú crees?'
+- id: 19334
+  en: '{:unk08 01 01 06}Algo me dice que sí.'
+- id: 19335
+  en: '{:unk08 01 01 06}¡Mirad! ¡Casi hemos llegado!'
+- id: 19336
+  en: >-
+    {:unk08 01 01 06}Oye, ¿y si vuelven los sincorazón?
+
+    No puedo usar la llave espada... eso solo
+
+    beneficiaría a la Organización.
+- id: 19337
+  en: >-
+    {:unk08 01 00 05}Pero Sora, tienes que usarla. Si no
+
+    luchamos, los sincorazón seguirán
+
+    haciendo daño a la gente.
+- id: 19382
+  en: '{:unk08 01 01 06}Oh, oh. No podemos seguir.'
+- id: 19383
+  en: >-
+    {:unk08 01 00 05}¡Ahí va! A lo mejor se ha atascado
+
+    la puerta o algo.
+- id: 19384
+  en: '{:unk08 01 00 05}¿Eh? ¿Quieres volver a Villa Crepúsculo?'
+- id: 19385
+  en: '{:unk08 01 01 06}¡Venga! ¡Tenemos que seguir adelante!'
+- id: 19386
+  en: ¿Cómo? No lo entiendo. No nos deja ir ahí.
+- id: 19387
+  en: ¿Se habrá roto algo?
+- id: 19469
+  en: Ahora es inaccesible.
+- id: 19472
+  en: '{:icon button-l1}{:width 90}Seleccionar destino'
+- id: 19473
+  en: '{:icon button-r1}Lista de episodios'
+- id: 19474
+  en: Acontecimientos
+- id: 19475
+  en: Siguiente objetivo
+- id: 19476
+  en: '{:icon button-triangle}Diario de Pepito'
+- id: 19477
+  en: Seleccionar destino
+- id: 19478
+  en: Lista de episodios
+- id: 19498
+  en: >-
+    Necesitas la magia 'Magneto'
+
+    para mover la estatua.
+- id: 19499
+  en: >-
+    Para participar en el musical, necesitas
+
+    que el indicador de Fusión esté en 5 o más.
+- id: 19500
+  en: >-
+    Necesitas la magia 'Magneto+'
+
+    para recuperar el objeto perdido.
+- id: 19501
+  en: >-
+    Necesitas la magia 'Electro++'
+
+    para llevar a cabo la idea de Sebastián.
+- id: 19504
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19505
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19506
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19507
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19508
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19509
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19510
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19511
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19512
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19513
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19514
+  en: ¡Se ha agregado un nuevo episodio!
+- id: 19515
+  en: Villa Crepúsculo
+- id: 19516
+  en: ¡Vayamos a Villa Crepúsculo!
+- id: 19517
+  en: El misterio del crepúsculo
+- id: 19518
+  en: >-
+    ¡Resolvamos el misterio de
+
+    Villa Crepúsculo!
+- id: 19519
+  en: ¿¡Qué ha ocurrido en Bastión Hueco!?
+- id: 19520
+  en: >-
+    ¡Algo muy extraño está
+
+    sucediendo en Bastión Hueco!
+- id: 19521
+  en: ¡Hay que inspeccionar la ciudad!
+- id: 19522
+  en: >-
+    ¿Cómo estará la ciudad...?
+
+    ¡Vayamos al mercado!
+- id: 19523
+  en: BH Escenario 3
+- id: 19524
+  en: Bastión Hueco Escenario 3
+- id: 19525
+  en: ¿El nuevo coliseo?
+- id: 19526
+  en: >-
+    Ha comenzado un extraño torneo.
+
+    {:width 90}Dolor y Pánico han de saber algo...
+- id: 19527
+  en: ¡La Copa Cerbero ha comenzado!
+- id: 19528
+  en: >-
+    En este torneo, participan luchadores muy
+
+    fuertes. ¡Habla con Pánico para apuntarte!
+- id: 19529
+  en: ¡La Copa Titán ha comenzado!
+- id: 19530
+  en: >-
+    Este torneo es un poco extraño.
+
+    ¡Habla con Pánico para apuntarte!
+- id: 19531
+  en: ¡Comienza la Copa Diosa del Destino!
+- id: 19532
+  en: >-
+    Este torneo pone a prueba tu destreza.
+
+    ¡Habla con Pánico para apuntarte!
+- id: 19533
+  en: '{:width 95}¡La Copa Paradoja de Dolor y Pánico!'
+- id: 19534
+  en: >-
+    {:width 95}Dicen que hay un torneo secreto.
+
+    ¡Habla con Hades para apuntarte!
+- id: 19535
+  en: '{:width 95}¡Comienza la Copa Paradoja de Cerbero!'
+- id: 19536
+  en: >-
+    ¿Qué clase de torneo es este...?
+
+    ¡Habla con Hades para apuntarte!
+- id: 19537
+  en: '{:width 95}¡Comienza la Copa Paradoja de Titán!'
+- id: 19538
+  en: >-
+    {:width 95}¡En este torneo, los rivales son muy
+
+    fuertes! ¡Habla con Hades para apuntarte!
+- id: 19539
+  en: '{:width 95}¡Comienza la Copa Paradoja de Hades!'
+- id: 19540
+  en: >-
+    Este es el torneo más difícil de todos.
+
+    ¡Habla con Hades para apuntarte!
+- id: 20527
+  en: ¡Explora la Gruta de la Evocación!
+- id: 20528
+  en: ¡Explora la mazmorra frente al castillo!
+- id: 20529
+  en: ¡Adéntrate en las entrañas de la gruta!
+- id: 20530
+  en: ¡Aventúrate hasta las entrañas!
+- id: 20531
+  en: ¡Examina el monitor!
+- id: 20532
+  en: >-
+    ¡Examina el monitor en las entrañas
+
+    de la Gruta de la Evocación!
+- id: 20533
+  en: ¿Otra anomalía?
+- id: 20534
+  en: >-
+    ¡Ve al Castillo Disney y comprueba
+
+    si ha ocurrido algo!

@@ -1,0 +1,1979 @@
+﻿- id: 16213
+  en: ''
+- id: 16214
+  en: >-
+    Según Axel, Kairi está
+
+    en las mazmorras.
+- id: 16215
+  en: >-
+    ¡Pues habrá que llegar
+
+    hasta ese castillo!
+- id: 16216
+  en: ¡Sora!
+- id: 16217
+  en: ¡Donald! ¡Goofy!
+- id: 16218
+  en: ''
+- id: 16219
+  en: ¿Una llave espada?
+- id: 16220
+  en: ¿Quién eres tú?
+- id: 16221
+  en: Alguien de la oscuridad.
+- id: 16222
+  en: No puedes ser Riku.
+- id: 16223
+  en: ¿Riku?... {:delay 6C 00}{:clear }En una ocasión le derroté.
+- id: 16224
+  en: ¿¡Que hiciste qué...!?
+- id: 16225
+  en: Dímelo... {:delay 8B 00}{:clear }Dime por qué te eligió a ti.
+- id: 16226
+  en: Ya veo. Por eso.
+- id: 16227
+  en: Eres un buen otro.
+- id: 16228
+  en: ¿Eres un buen otro?
+- id: 16229
+  en: ¿Estás bien?
+- id: 16230
+  en: ¿Qué... ha pasado?
+- id: 16231
+  en: >-
+    ¡Ahí va! No sé. {:delay 76 00}{:clear }Has desaparecido {:delay 6C 00}{:clear }y Donald y yo hemos tenido que
+
+    luchar contra unos incorpóreos.
+- id: 16232
+  en: Oh.
+- id: 16233
+  en: Ha dicho... {:delay 64 00}{:clear }que derrotó a Riku.
+- id: 16234
+  en: ¿Quién lo ha dicho?
+- id: 16235
+  en: Ese tío. El de la capa negra.
+- id: 16236
+  en: ¡Pero si nadie podía vencer a Riku!
+- id: 16237
+  en: '... Sí, tienes razón.'
+- id: 16238
+  en: >-
+    Si llevaba capa negra, es de
+
+    la Organización {XIII}. {:delay D0 00}{:clear }Estaría intentando engañarte.
+- id: 16239
+  en: ¡Claro, por eso no le hemos visto!
+- id: 16240
+  en: ''
+- id: 16241
+  en: Estarás cansado, Sora.
+- id: 16242
+  en: >-
+    ¡Venga, vamos a buscar la forma
+
+    de entrar en ese castillo!
+- id: 16243
+  en: ¡Kairi, has estado genial!
+- id: 16244
+  en: ¿Eh?
+- id: 16245
+  en: Te veo cambiada, Kairi, {:delay 5A 00}{:clear }¡pero me alegra que estés aquí!
+- id: 16246
+  en: >-
+    Riku y tú nunca volvisteis a casa,
+
+    así que he venido a por vosotros.
+- id: 16247
+  en: Lo siento.
+- id: 16248
+  en: Esto es real...
+- id: 16249
+  en: ¡Espera! ¡Ansem! {:delay 5A 00}{:clear }{:delay 2A 00}{:clear } Digo... sincorazón de Xehanort.{:delay 88 00}{:clear }{:delay 72 00}{:clear }Jamás pensé que volvería a verte.
+- id: 16250
+  en: >-
+    Solo de pensar en todas las cosas
+
+    que hiciste me pongo enfermo. {:delay 1F 01}{:clear }Pero...
+- id: 16251
+  en: Pero has salvado a Kairi, ¿no? {:delay 70 00}{:clear } {:delay 2B 00}{:clear }Eso te lo agradezco... {:delay 5E 00}{:clear } {:delay 50 00}{:clear }Gracias.
+- id: 16252
+  en: ¡Riku, no te vayas!
+- id: 16253
+  en: ¿Eh?
+- id: 16254
+  en: Kairi, ¿qué acabas de decir?
+- id: 16255
+  en: Riku.
+- id: 16256
+  en: >-
+    No soy nadie, solo un morador
+
+    de la oscuridad.
+- id: 16257
+  en: Sora, ven aquí.{:delay 5A 00}{:clear }{:delay 21 00}Dile algo tú.
+- id: 16258
+  en: Ven.{:delay 3C 00}{:clear }{:delay 25 00}Así lo entenderás.
+- id: 16259
+  en: Cierra los ojos.
+- id: 16260
+  en: Riku...
+- id: 16261
+  en: ¡Riku!{:delay 3C 00}{:clear }{:delay 1B 00}Eres tú...
+- id: 16262
+  en: ¡Te he estado buscando!
+- id: 16263
+  en: Vamos, Sora... tienes que comportarte.
+- id: 16264
+  en: ¡Te he buscado por todas partes!
+- id: 16265
+  en: No quería que me encontraras.
+- id: 16266
+  en: Pero era él el que nos ayudaba, ¿no?
+- id: 16267
+  en: ¿Eh?
+- id: 16268
+  en: >-
+    Esas pistas que encontrábamos.
+
+    Debían de ser de Riku.
+- id: 16269
+  en: >-
+    Empezaba a temer que no
+
+    os ibais a enterar nunca. {:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Sora no solía tener amigos muy listos.
+- id: 16270
+  en: ¿Qué quieres decir con eso?
+- id: 16271
+  en: >-
+    ¿Por qué no me dijiste
+
+    que estabas bien?
+- id: 16272
+  en: >-
+    Te lo he dicho. {:delay 66 00}{:clear }No quería que me encontraras. {:delay 64 00}{:clear }{:delay 32 00}{:clear }Así no. No podía.{:delay CB 00}{:clear }{:delay 19 00}{:clear }Luché contra Ansem, contra
+
+    el sincorazón de Xehanort,{:delay E3 00}{:clear }{:delay 29 00}cuando invadió mi corazón. Y vencí. {:delay A9 00}{:clear }Pero para usar el poder de la oscuridad,
+
+    tuve que convertirme en el propio Ansem.
+- id: 16273
+  en: >-
+    ¿Quieres decir...
+
+    que ya no puedes cambiar?
+- id: 16274
+  en: >-
+    La batalla no ha terminado. {:delay 54 00}{:clear } {:delay 42 00}{:clear }Y hasta que no termine,
+
+    necesito el poder de la oscuridad.
+- id: 16275
+  en: Pues... acabemos de una vez.
+- id: 16276
+  en: ¡Tú eres Riku, pase lo que pase!
+- id: 16277
+  en: ¿Qué me decís? {:delay 3C 00}{:clear }{:delay 3C 00}¿Listos para una última pelea juntos? {:delay 9C 00}{:clear }¡El rey nos espera!
+- id: 16278
+  en: ¡Sí! ¡En marcha!
+- id: 16279
+  en: No... Mi Kingdom Hearts... destruido.{:delay 07 01}{:clear } {:delay 7F 00}{:clear } Tendré que empezar de cero.
+- id: 16280
+  en: ¡Guerreros de la llave espada! {:delay B1 00}{:clear } ¡Id a traerme más corazones!
+- id: 16281
+  en: ¡No!
+- id: 16282
+  en: Moradores de la luz, responded esto:{:delay F3 00}{:clear }¿por qué odiáis la oscuridad?
+- id: 16283
+  en: >-
+    Ohh... no la odiamos. {:delay 60 00}{:clear } {:delay 23 00}{:clear }Es solo que da... {:delay 4E 00}{:clear }{:delay 29 00}miedo. {:delay 4E 00}{:clear } {:delay 42 00}{:clear }Pero el mundo está hecho
+
+    de luz y de oscuridad. {:delay C0 00}{:clear }No se puede tener una sin la otra,
+
+    porque la oscuridad es la mitad de todo.
+- id: 16284
+  en: >-
+    Es a causa de quien
+
+    acecha en su interior.
+- id: 16285
+  en: >-
+    Permitidme otra pregunta. {:delay 96 00}{:clear } {:delay 3B 00}{:clear }Aceptáis la oscuridad,
+
+    pero vivís en la luz. {:delay E4 00}{:clear } {:delay 30 00}{:clear }¿Por qué nos detestáis a los que
+
+    vivimos en el límite de la nada, {:delay 0B 01}{:clear }{:delay 2F 00}los que hemos sido rechazados por
+
+    la luz y por la oscuridad, {:delay 3E 01}{:clear }sin elección?
+- id: 16286
+  en: 'Muy sencillo: {:delay 3C 00}{:clear } {:delay 3C 00}{:clear }porque alteráis nuestros mundos.'
+- id: 16287
+  en: Puede ser. {:delay 54 00}{:clear }{:delay 3C 00}Sin embargo, {:delay 3C 00}{:clear }{:delay 42 00}¿qué otra alternativa teníamos?
+- id: 16288
+  en: >-
+    ¡No sigas con eso! {:delay 61 00}{:clear }¡Sois incorpóreos!
+
+    ¡No existís! {:delay AC 00}{:clear }¿Sentís pena por algo?
+- id: 16289
+  en: >-
+    {:delay 9C 00}{:clear }Muy bien. No se te escapa una. {:delay CC 00}{:clear } {:delay 6D 00}{:clear }No puedo sentir... pesar... {:delay EE 00}{:clear }por más que caigan desdichas
+
+    sobre los mundos.{:delay F0 00}{:clear }Da igual lo que penséis, {:delay 93 00}{:clear }lo que sintáis{:delay 7C 00}{:clear }o cómo existáis.
+- id: 16290
+  en: ¿Chicos?
+- id: 16291
+  en: ¡Sora! ¿Dónde estás?
+- id: 16292
+  en: ¡Sora! ¡Contéstame!
+- id: 16293
+  en: ¡Estás bien!
+- id: 16294
+  en: ¿Dónde está Xemnas?
+- id: 16296
+  en: >-
+    ¡Ayúdame, Kingdom Hearts! {:delay 96 00}{:clear } {:delay 6C 00}{:clear }¡Préstame tu poder para que
+
+    alcancemos el cénit! {:delay 14 01}{:clear } {:delay 4E 00}{:clear }El poder para acabar con
+
+    los necios que nos lastran.
+- id: 16297
+  en: ¡Xemnas! ¡No!
+- id: 16298
+  en: ¡Corazones que palpitáis de odio!
+- id: 16299
+  en: ¡Xemnas! ¡No!
+- id: 16300
+  en: ¡Corazones que ardéis de rabia!
+- id: 16301
+  en: ¡Jamás vencerás!
+- id: 16302
+  en: ¡Corazones desgarrados por la envidia!
+- id: 16303
+  en: >-
+    El necio de Ansem dijo que la naturaleza
+
+    del corazón escapaba a su comprensión...{:delay 8F 01}{:clear }¡Pero no a la mía! {:delay A4 00}{:clear }¡Los corazones son
+
+    la fuente de todo poder!
+- id: 16304
+  en: ¡Xemnas! ¡Te encontraremos!
+- id: 16305
+  en: ¡No podemos dejar que escape ahora!
+- id: 16306
+  en: ¡Mirad eso!
+- id: 16307
+  en: ¿Qué está pasando?
+- id: 16308
+  en: Kingdom Hearts...
+- id: 16309
+  en: Vamos.{:delay 2A 00}{:clear }{:delay 38 00}Xemnas debe de estar dentro.
+- id: 16310
+  en: >-
+    Los mundos nos han dado esta puerta.{:delay 89 00}{:clear }{:delay 34 00}¡Quieren que seamos los
+
+    guardianes de su destino!
+- id: 16311
+  en: ''
+- id: 16312
+  en: >-
+    Una vez que entremos,
+
+    no hay vuelta atrás. {:delay 78 00}{:clear }{:delay 3D 00}Es la victoria...{:delay 43 00}{:clear }{:delay 17 00}o el olvido. {:delay 32 00}{:clear }{:delay 46 00}Sora...{:delay 26 00}{:clear }{:delay 36 00}¿estás listo?
+- id: 16313
+  en: ¡Prepárate, Xemnas! {:delay 60 00}{:clear }¡Llegó la hora!
+- id: 16314
+  en: >-
+    Bueno... parece que vuestros corazones
+
+    os han guiado a la aniquilación. {:delay 2C 01}{:clear } {:delay 42 00}{:clear }Tal vez no valga la pena
+
+    hacerle caso al corazón. {:delay F0 00}{:clear } {:delay 87 00}{:clear }Intentaré no olvidarlo nunca.
+- id: 16317
+  en: ¡No!
+- id: 16318
+  en: ¡Solos podemos con él!
+- id: 16319
+  en: Necesito... más rabia.{:delay E6 00}{:clear }Más... corazones.
+- id: 16320
+  en: >-
+    Xemnas. {:delay 5E 00}{:clear }El corazón es algo más que
+
+    la rabia o el odio. {:delay B0 00}{:clear }Está lleno de sentimientos. {:delay 5E 00}{:clear } {:delay 60 00}{:clear }¿No te acuerdas?
+- id: 16321
+  en: Por desgracia...{:delay 5A 00}{:clear }{:delay 57 00}Yo no.
+- id: 16322
+  en: ¡Vaya! ¡Habéis estado geniales!
+- id: 16323
+  en: Te vuelves con nosotros, ¿no?
+- id: 16324
+  en: Yo cedí a la oscuridad...
+- id: 16325
+  en: ¡Riku!
+- id: 16326
+  en: ¿Cómo miraría a los que me conocían?
+- id: 16327
+  en: ¡Así!
+- id: 16328
+  en: ¡Rápido!
+- id: 16329
+  en: ¡Abriré un camino!
+- id: 16330
+  en: >-
+    Tu sitio ya no está en el
+
+    Reino de la Oscuridad, Riku.
+- id: 16331
+  en: ¿Cómo salimos de aquí, Majestad?
+- id: 16332
+  en: ''
+- id: 16333
+  en: ¿Quién ha hecho esto?
+- id: 16334
+  en: Bueno, no estoy seguro. {:delay 69 00}{:clear }Pero será mejor que nos demos prisa.
+- id: 16335
+  en: ¡Esperadme!
+- id: 16336
+  en: ¡Vamos!
+- id: 16337
+  en: Gracias, Naminé.
+- id: 16338
+  en: De nada.
+- id: 16339
+  en: >-
+    ¿Ves? Volvemos a vernos,
+
+    como te prometí.
+- id: 16340
+  en: ¿Eh?
+- id: 16341
+  en: Dijiste que nos veríamos,{:delay 52 00}{:clear }{:delay 3E 00}pero que tal vez...{:delay 37 00}{:clear }{:delay 32 00}no nos reconoceríamos.
+- id: 16342
+  en: Lo dije, ¿verdad?
+- id: 16343
+  en: Pero lo he hecho.
+- id: 16344
+  en: Mmm... Qué raro...
+- id: 16345
+  en: >-
+    Creo que ya lo entiendo.{:delay 4C 00}{:clear }{:delay 64 00}Yo me veo a mí mismo
+
+    como tú me recuerdas.{:delay 8F 00}{:clear } {:delay 6A 00}{:clear }Y tú te ves a ti misma
+
+    como yo te recuerdo.
+- id: 16346
+  en: >-
+    Creía que el destino de los incorpóreos
+
+    era diluirse en la oscuridad.
+- id: 16347
+  en: >-
+    Sí...{:delay 24 00}{:clear }{:delay 3C 00}pero tú y yo no.{:delay 61 00}{:clear }Hemos conocido a nuestros
+
+    seres originales.
+- id: 16348
+  en: Entonces...{:delay 64 00}{:clear }¡podemos estar juntos!
+- id: 16349
+  en: Sí.{:delay 5C 00}{:clear }Siempre que Sora y Kairi lo estén.
+- id: 16350
+  en: >-
+    Estaremos juntos todos los días,
+
+    ¿verdad, Sora?
+- id: 16351
+  en: Aahh... ¡Sí!
+- id: 16352
+  en: ¡Espabila!
+- id: 16353
+  en: Tranquilo, sigues siendo tú.
+- id: 16354
+  en: ¡Eh, vámonos a casa!
+- id: 16355
+  en: Riku... vamos.
+- id: 16356
+  en: Sí.
+- id: 16357
+  en: ¡Sora! ¡Riku!
+- id: 16358
+  en: ¿¡Qué...!?
+- id: 16359
+  en: ¡Riku!
+- id: 16360
+  en: ¡Sora!
+- id: 16361
+  en: >-
+    Héroes del Reino de la Luz...{:delay 00 01}{:clear }No permitiré que esto
+
+    acabe así.{:delay CD 00}{:clear }{:delay 1C 00}Aún no.{:delay A0 00}{:clear }Si la luz y la oscuridad son eternas, {:delay FA 00}{:clear }sin duda los que no somos
+
+    nada debemos ser igual de...{:delay 63 01}{:clear }¡eternos!
+- id: 16362
+  en: >-
+    Tienes razón, la luz y la
+
+    oscuridad son eternas. {:delay F6 00}{:clear }Aunque supongo que nada
+
+    dura para siempre.{:delay 8A 00}{:clear } {:delay 3C 00}{:clear }Pero adivina qué, Xemnas...
+- id: 16363
+  en: ¡Eso no significa que seas eterno!
+- id: 16364
+  en: >-
+    {:delay A2 00}{:clear }No más eterno que ese
+
+    resplandor vuestro...
+- id: 16365
+  en: ¡Lo conseguimos!
+- id: 16366
+  en: Yo no estaría tan seguro.
+- id: 16367
+  en: '{:delay 6D 00}{:clear }Sora... {:delay 77 00}{:clear }no puedo...'
+- id: 16368
+  en: ¡No digas nada! {:delay 80 00}{:clear }Esto no acaba aquí. Ni hablar.
+- id: 16369
+  en: ¿Cómo puedes decir eso? {:delay 6C 00}{:clear }Aunque pudiésemos seguir...{:delay 89 00}{:clear }mira dónde estamos.
+- id: 16370
+  en: >-
+    Ah, vamos, Riku. {:delay 6C 00}{:clear }Llevas demasiado tiempo
+
+    en la oscuridad. {:delay 72 00}{:clear } {:delay 45 00}{:clear }¡Tienes que ser más positivo!
+- id: 16371
+  en: Sora...
+- id: 16372
+  en: ''
+- id: 16373
+  en: Te sigo.
+- id: 16374
+  en: Hecho.
+- id: 16375
+  en: >-
+    ¿Sabes? {:delay 65 00}{:clear }Siempre he creído que yo
+
+    era mejor que tú en todo.
+- id: 16376
+  en: ¿En serio?
+- id: 16377
+  en: ¿Te molesta?
+- id: 16378
+  en: >-
+    No.{:delay 5B 00}{:clear }Yo también he creído siempre
+
+    que tú eras mejor en todo.
+- id: 16379
+  en: Riku... mira.{:delay 72 00}{:clear }¿Qué es esa luz?
+- id: 16380
+  en: ¿¡Cómo!? {:delay 42 00}{:clear }¿Por qué tienes la llave espada?
+- id: 16381
+  en: ¡A ti qué!
+- id: 16382
+  en: ¿Te has decidido?
+- id: 16383
+  en: ¿Por qué me escogió la llave espada?{:delay D3 00}{:clear }Tengo que saberlo.
+- id: 16384
+  en: >-
+    ¡No puedes traicionar
+
+    a la Organización!
+- id: 16385
+  en: ¿¡Cómo!?{:delay 42 00}{:clear }¿Por qué tienes la llave espada?
+- id: 16386
+  en: ¡A ti qué!
+- id: 16387
+  en: >-
+    ¡Si les das la espalda,
+
+    te destruirán!
+- id: 16388
+  en: Nadie me echaría de menos.
+- id: 16389
+  en: ¡Eso no es cierto!{:delay 83 00}{:clear }Yo sí.
+- id: 16390
+  en: Sora... Lo has hecho bien.
+- id: 16391
+  en: ¿Dónde está Kairi?
+- id: 16392
+  en: >-
+    ¿Quién sabe? Supongo que poniéndose
+
+    al día con su amiguito de la oscuridad.
+- id: 16393
+  en: ¿Qué quieres decir?
+- id: 16394
+  en: Ya no te necesita.
+- id: 16395
+  en: ¿Se supone que debo creerme eso?
+- id: 16396
+  en: >-
+    Bueno, no hace falta... {:delay B4 00}{:clear }{:delay 3F 00}{:clear }pero créete esto: {:delay 76 00}{:clear }{:delay 3C 00}{:clear }a la Organización {XIII} ya
+
+    no le sirves de nada.
+- id: 16397
+  en: >-
+    Nuestro Kingdom Hearts. {:delay 78 00}{:clear }{:delay 66 00}{:clear }Gracias a ti, reunimos
+
+    innumerables corazones... {:delay DE 00}{:clear }{:delay 3C 00}{:clear }¿Puedes oír su júbilo?
+- id: 16398
+  en: >-
+    Ahora solo falta una ayuda más
+
+    del elegido de la llave espada.
+- id: 16399
+  en: ¡Hay que luchar!
+- id: 16400
+  en: Pero... ¡Kingdom Hearts!
+- id: 16401
+  en: ¡Sora!
+- id: 16402
+  en: ¡Sora! ¡Eres tú de verdad!
+- id: 16403
+  en: ¡Kairi!
+- id: 16404
+  en: ¡Dejad en paz a Sora!
+- id: 16405
+  en: ¡Sora...!
+- id: 16406
+  en: ¡Cógela!
+- id: 16407
+  en: Muy bien.{:delay 55 00}{:clear }Esta vez... lucharé.
+- id: 16408
+  en: >-
+    Ya sabes que Sora está
+
+    indefenso sin nosotros. {:delay A0 00}{:clear }{:delay 1E 00}{:clear }¡Vamos, Riku!
+- id: 16409
+  en: Vaya, vaya. {:delay 5A 00}{:clear }{:delay 3C 00}{:clear }¿No acabarán nunca las intromisiones?
+- id: 16410
+  en: Pero Pete... {:delay 46 00}{:clear }{:delay 28 00}{:clear }el castillo es perfecto. {:delay A0 00}{:clear }{:delay 3C 00}{:clear }Tal vez deberíamos... adquirirlo.
+- id: 16411
+  en: >-
+    El sitio no está mal, supongo,
+
+    pero... eh...{:delay DD 00}{:clear }¿qué pasa con todos los sincorazón? {:delay 83 00}{:clear }Este mundo intermedio está
+
+    muy cerca de la oscuridad. {:delay E0 00}{:clear }¡Aquí no nos harán caso!
+- id: 16412
+  en: Una vez más, me subestimas.
+- id: 16413
+  en: ¡Dejadme!
+- id: 16414
+  en: ¿Qué está pasando?
+- id: 16415
+  en: ¿Has sido un buen chico?
+- id: 16416
+  en: ¡Da la cara!
+- id: 16417
+  en: Oh, me parece que no.
+- id: 16418
+  en: ¡Sora! ¡Roxas!
+- id: 16419
+  en: ¿Roxas?
+- id: 16420
+  en: ¡Eh! ¿Acaba de llamarme Roxas?
+- id: 16421
+  en: >-
+    Has puesto a la Organización {XIII}
+
+    en la picota. {:delay D2 00}{:clear }{:delay 26 00}{:clear }Supongo que por eso
+
+    te eligió la llave espada. {:delay AA 00}{:clear }{:delay 2E 00}{:clear }¡Pero macho, menudo niñato
+
+    ha elegido esta vez! {:delay 96 00}{:clear }{:delay 32 00}{:clear }No pareces ni la mitad
+
+    de héroe que los otros.
+- id: 16422
+  en: ¿Has terminado de vacilar?
+- id: 16423
+  en: >-
+    ¿Vacilar? ¡Más quisieras! {:delay 7E 00}{:clear }{:delay 38 00}{:clear }En definitiva, traidor,
+
+    ¡que ha llegado tu hora!
+- id: 16424
+  en: ¡Aquí viene!
+- id: 16425
+  en: ¿Por qué me has llamado Roxas?
+- id: 16426
+  en: '{:delay 78 00}¿Te gustaría saberlo?'
+- id: 16427
+  en: ¡Eh! ¡Espera!
+- id: 16428
+  en: ¡Sora! ¡Es Kairi!
+- id: 16429
+  en: ¡Oh, oh! Necesitan ayuda.
+- id: 16430
+  en: >-
+    Sora y Riku están juntos.
+
+    Nada podemos hacer ya aquí.
+- id: 16431
+  en: >-
+    ¡Vaya! Me pregunto si Riku
+
+    volverá a ser el de antes.
+- id: 16432
+  en: >-
+    Riku escogió esa forma para poder
+
+    usar el poder de la oscuridad. {:delay F0 00}{:clear }{:delay 1E 00}{:clear }No será fácil.
+- id: 16433
+  en: Kairi, ya vamos.
+- id: 16434
+  en: >-
+    Sí... Kingdom Hearts... {:delay F0 00}{:clear }{:delay 42 00}{:clear }¡Regocíjate y goza de los
+
+    corazones que te ofrecemos!{:delay 02 01}{:clear }{:delay 5F 00}{:clear }Que tu tenue luz ilumine
+
+    este reino vacío.{:delay D6 00}{:clear }{:delay 35 00}{:clear }¡Comparte tu poder con
+
+    nosotros los incorpóreos!
+- id: 16435
+  en: >-
+    Xemnas. ¿Está ya
+
+    listo Kingdom Hearts?
+- id: 16436
+  en: Queda poco.
+- id: 16437
+  en: >-
+    Entonces, ¿puedo
+
+    acabar con esta farsa?
+- id: 16438
+  en: Desde luego.
+- id: 16439
+  en: ¡Qué ganas tenía de oír eso!
+- id: 16443
+  en: Este sitio servirá.
+- id: 16444
+  en: ¿Para qué es este aparato?
+- id: 16445
+  en: >-
+    Sirve para convocar Kingdom Hearts
+
+    y codificarlo como datos.
+- id: 16446
+  en: No sé si lo entiendo.
+- id: 16447
+  en: >-
+    Yo tampoco sé cuál será
+
+    el resultado de esta operación. {:delay C8 00}{:clear }{:delay 46 00}{:clear }Después de todo...
+- id: 16448
+  en: ¿Qué es eso?
+- id: 16449
+  en: >-
+    Son el rey y DiZ... {:delay 47 00}{:clear }{:delay 13 00}{:clear }digo, Ansem el Sabio. {:delay 96 00}{:clear }{:delay 20 00}{:clear }Deben de estar más arriba.
+
+    Démonos prisa.
+- id: 16450
+  en: ¡Tú!
+- id: 16451
+  en: Preferiría saltarme las formalidades.
+- id: 16452
+  en: ¿Cómo has podido... Roxas?
+- id: 16453
+  en: ¡Soy Sora!
+- id: 16454
+  en: ¿Estás bien?
+- id: 16455
+  en: Sí, sin problemas. {:delay 5A 00}{:clear }{:delay 24 00}{:clear }Vamos a seguir.
+- id: 16456
+  en: ¡Sora! ¡Riku!
+- id: 16457
+  en: ¡Esto no va a acabar nunca!
+- id: 16458
+  en: ¡Juntos les detendremos!
+- id: 16459
+  en: >-
+    ¡Fuera de aquí! ¡Dejadnos
+
+    a estas criaturas a nosotros!
+- id: 16460
+  en: ¡Yo no creo que podamos con todos!
+- id: 16461
+  en: >-
+    Los enviaré tras Xemnas. {:delay AE 00}{:clear }O ¿tal vez preferirías luchar
+
+    contra ellos tú mismo?
+- id: 16462
+  en: >-
+    Sinceramente, ¡lo que
+
+    prefiero es correr!
+- id: 16463
+  en: ¡Pues márchate!
+- id: 16464
+  en: >-
+    ¡Vaya, pero si es el
+
+    rey del barquito!
+- id: 16465
+  en: >-
+    ¡Vas a abandonar el barco,
+
+    capitán Pete!
+- id: 16466
+  en: >-
+    Un capitán nunca haría
+
+    semejante cobardía.
+- id: 16467
+  en: >-
+    ¡Sora! ¡Majestad! No lo olvidéis: {:delay CC 00}{:clear }cuando los haya destruido a todos,
+
+    ¡este castillo será mío!
+- id: 16468
+  en: >-
+    Bueno, no voy a dejar
+
+    escapar la oportunidad de que{:delay AD 00}{:clear }estés en deuda conmigo, ¿sabes?
+- id: 16469
+  en: ¡A por ellos!
+- id: 16470
+  en: Hay que darse prisa.
+- id: 16472
+  en: Hacen lo que les ordena su corazón.{:delay 83 00}{:clear }{:delay 1F 00}No podemos interferir.
+- id: 16478
+  en: Pero...
+- id: 16488
+  en: ¿Riku?
+- id: 16491
+  en: ¡Riku!
+- id: 16493
+  en: >-
+    Ansem dijo que podía
+
+    pasar cualquier cosa.
+- id: 16494
+  en: Riku, ¿no te quitas eso?
+- id: 16495
+  en: Oh...
+- id: 16496
+  en: ¿Qué era eso?
+- id: 16497
+  en: Sus ojos no pueden mentir.
+- id: 16498
+  en: ¿Mentir?
+- id: 16499
+  en: >-
+    ¿Y a quién intentabas engañar?
+
+    ¿Eh? ¿Eh?
+- id: 16500
+  en: A mí.
+- id: 16501
+  en: Riku...
+- id: 16502
+  en: >-
+    ¡Venga, tío!{:delay 3C 00}{:clear }{:delay 26 00}¿Por qué intentas
+
+    hacer todo tú solo?
+- id: 16503
+  en: ¿Lo has olvidado?
+- id: 16504
+  en: ¡Repite eso!
+- id: 16505
+  en: ¡Oh, oh!
+- id: 16506
+  en: ¿Qué hacemos, Riku?
+- id: 16507
+  en: >-
+    Tenemos que derrotar a Xemnas. {:delay 66 00}{:clear } {:delay 1F 00}{:clear }Es el único que queda
+
+    de la Organización.
+- id: 16508
+  en: ¡Vale!
+- id: 16509
+  en: ¡Vamos!
+- id: 16516
+  en: Ha pasado mucho tiempo, amigo mío.
+- id: 16517
+  en: >-
+    Ansem el Sabio. {:delay 54 00}{:clear }{:delay 28 00}{:clear }¿Por qué no acudiste a mí antes de
+
+    que las cosas se torcieran tanto?
+- id: 16518
+  en: >-
+    Xemnas, el Gran Mentor
+
+    de la Organización,{:delay A8 00}{:clear }es el incorpóreo de Xehanort,
+
+    mi mejor aprendiz. {:delay DE 00}{:clear }{:delay 39 00}{:clear }Yo debía cargar con la culpa.
+- id: 16519
+  en: ¿Eso es todo?
+- id: 16520
+  en: >-
+    No niego que había más. {:delay 96 00}{:clear }{:delay 38 00}{:clear }Yo estaba... ofuscado
+
+    por mis ansias de venganza. {:delay D8 00}{:clear }{:delay 22 00}{:clear }Mis aprendices me robaron
+
+    todo cuanto apreciaba: {:delay CC 00}{:clear }{:delay 1C 00}{:clear }mis estudios... y mi orgullo.
+- id: 16521
+  en: Yo no puedo ayudarte en tu venganza.
+- id: 16522
+  en: Lo sé. {:delay 3C 00}{:clear }{:delay 36 00}{:clear }Riku me lo ha dicho miles de veces.
+- id: 16523
+  en: ¿Dónde está?
+- id: 16524
+  en: >-
+    Ahora ya debe de estar con sus amigos.{:delay 96 00}{:clear }{:delay 2A 00}{:clear }Riku me ha sido de gran ayuda. {:delay 8A 00}{:clear }Le encontré vagando por la oscuridad,
+
+    después de que os perdiérais.
+- id: 16525
+  en: >-
+    ¡Bueno! No nos habíamos
+
+    perdido exactamente. Riku se fue... {:delay FC 00}{:clear }Es que los sincorazón de Xehanort
+
+    estaban dentro de él, confundiéndole. {:delay 16 01}{:clear }Y eso le hacía sufrir... {:delay A6 00}{:clear }Pero no entiendo por qué sigue así;{:delay 71 00}{:clear }en el fondo de su corazón,
+
+    siempre será Riku.
+- id: 16526
+  en: >-
+    Yo tengo la culpa. {:delay 54 00}{:clear }{:delay 78 00}{:clear }Cuando vi a Riku por primera vez{:delay 72 00}{:clear }{:delay 38 00}{:clear }seguía teniendo el aspecto de un niño. {:delay 9C 00}{:clear }{:delay 54 00}{:clear }Probablemente porque tenía
+
+    un corazón muy fuerte.
+- id: 16527
+  en: >-
+    Le pedí que buscara a un joven llamado
+
+    Roxas, de la Organización {XIII}, {:delay 0E 01}{:clear }y me lo trajera. {:delay 48 00}{:clear }{:delay 54 00}{:clear }Cuando le dije que eso ayudaría
+
+    a que Sora despertara de su letargo,{:delay F0 00}{:clear }Riku se marchó sin mediar palabra.
+- id: 16528
+  en: >-
+    Se enfrentó a Roxas, pero me temo
+
+    que Riku perdió aquel combate.
+- id: 16529
+  en: >-
+    Riku debió de comprender que para
+
+    luchar en el Reino de la Oscuridad {:delay E4 00}{:clear }debía sumergirse en
+
+    esa misma oscuridad. {:delay D2 00}{:clear }{:delay 12 00}{:clear }Y así lo hizo... {:delay 3C 00}{:clear }{:delay 24 00}{:clear }Ya has visto lo que ha sido de él.
+- id: 16530
+  en: >-
+    Cuando Riku me trajo a Roxas,
+
+    se presentó a sí mismo como... Ansem.
+- id: 16531
+  en: >-
+    Si con eso despertaba a su amigo, estaba
+
+    dispuesto a vivir en la oscuridad...
+- id: 16532
+  en: Riku fue la víctima de mi venganza.
+- id: 16533
+  en: Ah, cómo me ardía el corazón. {:delay CA 00}{:clear }Solo podía reír {:delay 48 00}{:clear }{:delay 16 00}{:clear }para ocultar mi vergüenza.
+- id: 16534
+  en: >-
+    Debió de ser después de aquello
+
+    cuando volví a ver a Riku. {:delay DB 00}{:clear }Dijo que quería ayudar a Sora... {:delay 83 00}{:clear }pero me hizo prometer{:delay 6D 00}{:clear }que nunca le diría todo
+
+    lo que le había ocurrido a él {:delay B3 00}{:clear }mientras estaba en la oscuridad.
+- id: 16535
+  en: >-
+    Amigo mío, ha llegado la hora.{:delay 98 00}{:clear }Debo arreglar las cosas
+
+    con esos jóvenes.
+- id: 16536
+  en: >-
+    Solo tú podías llegar tan lejos
+
+    de una sola pieza... Roxas.
+- id: 16537
+  en: Ya me estoy hartando de eso.
+- id: 16538
+  en: ¡Sí! ¡Él es Sora!
+- id: 16539
+  en: Distinto nombre. Mismo destino.
+- id: 16540
+  en: ¿Por qué...? {:delay 46 00}{:clear }{:delay 32 00}Kingdom Hearts... {:delay 5F 00}{:clear }{:delay 50 00}¿dónde está mi corazón?
+- id: 16541
+  en: No lo entiendo.{:delay 3C 00}{:clear }{:delay 1E 00}¿Por qué me llaman todos Roxas?
+- id: 16542
+  en: Porque Roxas...{:delay 51 00}{:clear }{:delay 3D 00}es tu incorpóreo, Sora.
+- id: 16543
+  en: >-
+    ¿Mi... incorpóreo? {:delay 96 00}{:clear }{:delay 24 00}Eso es de locos.
+
+    Yo nunca he sido un sinco... {:delay 93 00}{:clear }{:delay 30 00}¡Ah, ya!
+- id: 16544
+  en: >-
+    Fue cuando viniste a rescatarme,
+
+    ¿te acuerdas?
+- id: 16545
+  en: >-
+    Xemnas fue el que encontró a Roxas.{:delay 84 00}{:clear }{:delay 3C 00}Podía usar la llave espada
+
+    porque era tu incorpóreo.
+- id: 16546
+  en: >-
+    Por eso Xemnas le llevó
+
+    a la Organización.{:delay 96 00}{:clear }{:delay 30 00}Pero Roxas les traicionó. {:delay 5A 00}{:clear }{:delay 36 00}Luché contra él porque pensé que
+
+    eso te ayudaría a despertar. {:delay AD 00}{:clear }{:delay 22 00}{:clear }Perdí.{:delay 4E 00}{:clear }Pero en nuestro siguiente encuentro,
+
+    yo ya era más fuerte.
+- id: 16548
+  en: Roxas... {:delay 42 00}{:clear }{:delay 3E 00}También me habría gustado conocerle.
+- id: 16549
+  en: Muy bien. Vámonos.
+- id: 16550
+  en: ¿Ansem?
+- id: 16551
+  en: >-
+    {:delay F8 00}Soy un iluso. {:delay 47 00}{:clear }{:delay 46 00}{:clear }Me he pasado años estudiando
+
+    los secretos del corazón, {:delay D0 00}{:clear }{:delay 31 00}{:clear }pero no he aprendido nada.
+- id: 16552
+  en: ¿Qué quieres decir?
+- id: 16553
+  en: >-
+    La codificación de corazones
+
+    no es calculable.
+- id: 16554
+  en: Los habitantes de mi Villa Crepúsculo{:delay AF 00}{:clear }eran datos de corazones de verdad.
+- id: 16555
+  en: >-
+    Creía que pensarían y actuarían
+
+    como yo había previsto...{:delay 0D 01}{:clear }pero no podía estar más equivocado.
+- id: 16556
+  en: ¡Ansem! ¡La máquina!
+- id: 16557
+  en: >-
+    Una prueba más de que un
+
+    corazón no puede plasmarse en datos. {:delay F7 00}{:clear }¡Huye, amigo mío! ¡Se va a autodestruir
+
+    y puede pasar cualquier cosa!
+- id: 16558
+  en: Pero...
+- id: 16559
+  en: ¡Majestad!
+- id: 16560
+  en: Sora, el resto depende de ti... {:delay A8 00}{:clear }{:delay 29 00}y de Roxas.{:delay 37 00}{:clear }{:delay 21 00}Dudo que pueda oírme, pero, de verdad...{:delay BF 00}{:clear }{:delay 11 00}lo siento.
+- id: 16561
+  en: ¡Ansem!
+- id: 16562
+  en: Mi corazón me dice lo que debo hacer.{:delay 94 00}{:clear }{:delay 32 00}Por favor, permíteme que le haga caso.
+- id: 16563
+  en: ¡No!
+- id: 16564
+  en: ¡Riku!
+- id: 16565
+  en: >-
+    Su corazón ha decidido.
+
+    Nada podemos hacer.
+- id: 16566
+  en: >-
+    Me preguntaba quién osa interferir
+
+    en mi Kingdom Hearts y mira... {:delay DC 01}{:clear }aquí estáis todos. {:delay 7D 00}{:clear }¡Qué bien me viene!
+- id: 16567
+  en: >-
+    Ansem el Sabio...
+
+    estás hecho un asco.
+- id: 16568
+  en: >-
+    Ríete si quieres. {:delay 5A 00}{:clear }{:delay 29 00}Me lo merezco por no haber
+
+    visto en ti lo necio que eras.
+- id: 16569
+  en: >-
+    Los alumnos son como sus maestros.{:delay AC 00}{:clear }{:delay 36 00}Solo un necio sería tu aprendiz. {:delay A3 00}{:clear }{:delay 1C 00}Además, nada de esto
+
+    habría pasado sin ti.
+- id: 16570
+  en: >-
+    Tú eres la fuente de
+
+    todos los sincorazón.{:delay D2 00}{:clear }{:delay 24 00}Tus estudios me inspiraron para ir más
+
+    allá de lo que tú jamás soñaste.
+- id: 16573
+  en: ¡Ya hemos dicho suficiente! {:delay 5A 00}{:clear }{:delay 3A 00}{:clear }¡Riku, ya sabes qué hacer! {:delay 61 00}{:clear }{:delay 63 00}{:clear }Rey Mickey, amigo mío, lo siento.{:delay C8 00}{:clear }{:delay 34 00}{:clear }¡Adiós!
+- id: 16671
+  en: ¿Y ahora qué?
+- id: 16672
+  en: >-
+    Tiene que haber un camino
+
+    por alguna parte.
+- id: 16673
+  en: ¿Qué vas a hacer con nosotros?
+- id: 16674
+  en: >-
+    Tú eres el fuego que
+
+    alimenta la furia de Sora.
+- id: 16675
+  en: No... {:delay 26 00}{:clear }{:delay 32 00}Sora está en peligro por mi culpa...
+- id: 16676
+  en: ¡Por aquí!
+- id: 16677
+  en: ¿Quién...?
+- id: 16678
+  en: Cree en ti misma. ¡Venga, rápido!
+- id: 16679
+  en: Kairi... Ya vamos.
+- id: 16680
+  en: ¡Kairi! ¿Dónde estás?
+- id: 16681
+  en: >-
+    ¡Shhh! ¡Recuerda dónde estamos!
+
+    ¡Este es su cuartel general!
+- id: 16682
+  en: ¡Esperad, Majestad!
+- id: 16683
+  en: ¡Cuidado! ¡Creo que tenemos compañía!
+- id: 16684
+  en: Naminé... Estás aquí.
+- id: 16685
+  en: ¿Naminé...?
+- id: 16686
+  en: >-
+    Kairi. Me temo que no
+
+    puedo dejarte ir.
+- id: 16687
+  en: Te llevaré a ver a Sora.
+- id: 16688
+  en: ¿No querías eso?
+- id: 16689
+  en: Sí, más que nada, {:delay 84 00}{:clear } {:delay 1C 00}pero no contigo cerca.
+- id: 16690
+  en: >-
+    Si tuviera corazón, ahora
+
+    mismo me moriría de risa.
+- id: 16691
+  en: Tú... {:delay 41 00}{:clear } {:delay 32 00}{:clear }¿No se había librado Roxas de ti?
+- id: 16692
+  en: Ocúpate tú de esto, {:delay 60 00}{:clear }Riku.
+- id: 16693
+  en: ¿Riku?
+- id: 16699
+  en: ¡Espera!
+- id: 16700
+  en: Riku... ¿de verdad eres tú?
+- id: 17000
+  en: >-
+    Tras esta puerta, comienza
+
+    el final de tu viaje.
+- id: 17001
+  en: >-
+    ¿Preparado para afrontar tu destino?
+
+    {:chardelay 33 00}Necesito tiempo para tranquilizarme.
+
+    {:chardelay 09 00}¡Vamos, terminemos con esto!
+- id: 17050
+  en: ¡Cuenta con tus amigos!
+- id: 18224
+  en: los corazones son impredecibles.
+- id: 18357
+  en: >-
+    Este edificio vigila a los
+
+    moradores de la oscuridad.
+- id: 18358
+  en: El paso está completamente bloqueado.
+- id: 18359
+  en: El Francotirador
+- id: 18360
+  en: El Torbellino de la Lanza
+- id: 18361
+  en: El Académico Gélido
+- id: 18362
+  en: El Héroe Silente
+- id: 18363
+  en: El Conspirador Velado
+- id: 18364
+  en: El Adivinador Lunar
+- id: 18365
+  en: Ráfaga de Llamas Danzantes
+- id: 18366
+  en: El Nocturno Melodioso
+- id: 18367
+  en: El Tahúr del Destino
+- id: 18368
+  en: El Asesino Virtuoso
+- id: 18369
+  en: La Ninfa Salvaje
+- id: 18370
+  en: La Llave del Destino
+- id: 18371
+  en: Está sellado mágicamente.
+- id: 18437
+  en: >-
+    ¡El rey se ha vuelto a adelantar!
+
+    ¿¡Es que no puede esperar!?{:clear }Estoy algo nervioso, pero me alivia poder
+
+    volver a Villa Crepúsculo cuando queramos.
+- id: 18438
+  en: >-
+    Esta ciudad es muy oscura. Aquí viven
+
+    los incorpóreos, ¿no?{:clear }Vamos. Hay que encontrar un camino
+
+    hasta el {:theme 0A}castillo{:reset} donde tienen a Kairi.
+- id: 18439
+  en: >-
+    Seguro que la Organización {XIII} 
+
+    os estará esperando en ese castillo.{:clear }No hace falta que os diga lo poderosos
+
+    que son. No bajéis la guardia.
+- id: 18440
+  en: >-
+    Este mundo es muy extraño.
+
+    La luna parece un corazón.{:clear }¡Vamos! El camino al {:theme 0A}castillo{:reset}
+
+    está abierto, ¡rescatemos a Kairi!
+- id: 18441
+  en: >-
+    Ese castillo es el cuartel del enemigo.
+
+    Habrá montones de incorpóreos.{:clear }Son rivales difíciles, pero todos
+
+    tienen debilidades. Intenta descubrirlas.
+- id: 18442
+  en: >-
+    ¡Vaya! ¡Si desde fuera parecía grande,
+
+    por dentro este sitio es inmenso!{:clear }Esta puede ser nuestra última batalla.
+
+    ¡Ahora verán quiénes somos!
+- id: 18443
+  en: >-
+    Caray, siento que la oscuridad nos
+
+    rodea, pero no he visto a ningún...{:clear }miembro de la Organización {XIII}.{:clear }Ya sabes que siempre aparecen
+
+    de la nada. Debemos estar preparados.
+- id: 18444
+  en: >-
+    ¿Qué es lo que pasa?
+
+    ¡Ansem estaba luchando junto a Kairi!{:clear }¡Pero ahora Kairi tiene problemas!
+
+    ¡Tenemos que ayudarla!
+- id: 18445
+  en: >-
+    No creo que desde aquí podamos llegar
+
+    directamente hasta donde está Kairi.{:clear }Sé que tienes prisa, pero necesitamos
+
+    seguir este camino.
+- id: 18446
+  en: >-
+    Este sitio me da mala espina.
+
+    Es como... un cementerio.{:clear }Casi todo parece estar en ruinas.
+
+    ¿Por qué será, Sora?
+- id: 18447
+  en: >-
+    ¡Mira!
+
+    Ahora hay una luz en esa entrada.{:clear }¿Tendrá algo que ver
+
+    con tus enemigos, Sora?
+- id: 18448
+  en: >-
+    Quisiera luchar como Riku y tú...{:clear }Sé lo que pensáis, pero no deberíais
+
+    ser los únicos que os arriesgarais.
+- id: 18449
+  en: >-
+    Algunos miembros de la Organización {XIII}
+
+    se toman la lucha como un juego.{:clear }No importan las reglas, siempre tendrás
+
+    una oportunidad de ganar. Aprovéchala.
+- id: 18450
+  en: >-
+    Puedo percibir a Saïx. Está usando
+
+    algo para incrementar su poder.{:clear }Si podemos descubrir de dónde
+
+    lo saca, tal vez también podamos usarlo.
+- id: 18451
+  en: >-
+    El camino está abierto. Allá
+
+    nos espera Xemnas.{:clear }Es el líder de la Organización {XIII}.
+
+    Démonos prisa, Sora.
+- id: 18452
+  en: >-
+    Roxas... Conozco ese nombre.
+
+    Una vez hablé con él.{:clear }Me recordaba a ti, Sora.
+
+    ¿Le conoces?
+- id: 18453
+  en: >-
+    Probablemente Xemnas se haya
+
+    fortalecido y nos esté esperando.{:clear }Todo comenzó con las investigaciones
+
+    de Ansem. ¡Terminémoslo en honor a él!
+- id: 18454
+  en: >-
+    Estoy cansada de esperar, ¡así que
+
+    no me digas que me quede atrás!{:clear }Desde ahora, adonde vaya uno,
+
+    irán los demás, ¿vale?
+- id: 18455
+  en: >-
+    ¿Recuerdas? Nos quedamos frente a
+
+    frente, cada uno a un lado de esa puerta.{:clear }Ahora estamos del mismo lado.
+
+    Volvamos a casa juntos esta vez, ¿vale?
+- id: 18456
+  en: >-
+    No bajes la guardia. Podemos terminar
+
+    separados en cualquier momento.{:clear }¡Venga, salvemos el mundo de nuevo!
+- id: 18457
+  en: >-
+    Kingdom Hearts ha abierto
+
+    la puerta a Xemnas.{:clear }No podemos dejar pasar esta oportunidad.
+
+    ¡Será una dura pelea, pero la ganaremos!
+- id: 18458
+  en: >-
+    ¡Mientras yo llevaba una vida normal,
+
+    vosotros vivíais infinitas aventuras!{:clear }¿¡Por qué siempre me quedo fuera!?
+
+    Me vais a tener que contar todo.
+- id: 18459
+  en: >-
+    Encontré a Roxas gracias a un tipo
+
+    llamado DiZ.{:clear }Al principio no confiaba en él, pero
+
+    nos necesitábamos el uno al otro.
+- id: 18460
+  en: >-
+    ¡Uf! ¡Estoy hecho polvo!
+
+    Vamos a descansar un poco.
+- id: 18461
+  en: >-
+    ¿Para qué construirían
+
+    este castillo?{:clear }Es bastante misterioso.
+- id: 18462
+  en: >-
+    Mmm. No está mal, Sora.
+
+    Te has vuelto más fuerte.{:clear }No necesitas de mi arma ni
+
+    del poder de la oscuridad.
+- id: 18463
+  en: >-
+    ¡Porras! Estaba listo y con ganas de ayudar,
+
+    ¡pero no tuve ocasión de pelear!{:clear }¡Nunca se sabe qué puede pasar!
+
+    ¡Hay que estar alerta!
+- id: 18464
+  en: >-
+    Me pregunto adónde habrá ido el rey.{:clear }Sé que es fuerte y puede cuidar
+
+    de sí mismo, pero me preocupa.
+- id: 18517
+  en: >-
+    Estar los tres juntos me recuerda
+
+    la vida en la isla.{:clear }¡Acabemos con todo esto,
+
+    y volvamos a casa juntos!
+- id: 18519
+  en: >-
+    Nunca imaginé que volvería a ser
+
+    yo. Bueno, un problema menos.{:clear }Ahora no me confundirán con un
+
+    miembro de la Organización {XIII}.
+- id: 18688
+  en: ¡Obtén un comando ◯!
+- id: 18689
+  en: ¡Obtén cuatro comandos ◯!
+- id: 18715
+  en: >-
+    ¡Vence a Xigbar!
+
+    ¡Debes contraatacar!
+
+    ¡Si usas comandos de reacción
+
+    con {:icon button-triangle}, te resultará más fácil!
+- id: 18716
+  en: 'Organización {XIII}: Luxord (Tahúr)'
+- id: 18717
+  en: >-
+    ¡Debes derrotar a Saïx!
+
+    ¡Aprovéchate de su arma!
+- id: 18769
+  en: Láser
+- id: 18770
+  en: Drenaje
+- id: 18853
+  en: Te diré por qué.
+- id: 18854
+  en: Porque no soy tan simplón como tú.
+- id: 18864
+  en: >-
+    Xemnas es el único miembro que queda
+
+    de la Organización {XIII}.{:clear }Es el más poderoso de todos. No
+
+    será una batalla fácil. Buena suerte.
+- id: 18935
+  en: Un corazón...{:delay 52 00}{:clear }es mucho más que un sistema.
+- id: 18936
+  en: >-
+    Lo vi cuando Roxas y Kairi se cruzaron. {:delay E2 00}{:clear }{:delay 37 00}Lo supe. {:delay 2C 00}{:clear }{:delay 1E 00}Pero era demasiado cabezota
+
+    para aceptarlo.
+- id: 18937
+  en: >-
+    Siempre pasa lo mismo. {:delay 8E 00}{:clear }Intento ocultar a mi mente cosas
+
+    que mi corazón ya sabe...{:delay DA 00}{:clear }{:delay 31 00}{:clear }y fracaso.
+- id: 18938
+  en: >-
+    Cuando quise recuperar a Sora,
+
+    tenía muchos planes para él. {:delay 0E 01}{:clear }{:delay 31 00}{:clear }Pero en cuanto pudo actuar,{:delay 83 00}{:clear }{:delay 2E 00}{:clear }se vinieron abajo.
+- id: 18939
+  en: Todos mis estudios quedaron en nada...{:delay 98 00}{:clear }{:delay 29 00}{:clear }comparados con el corazón de un niño.
+- id: 18940
+  en: >-
+    Admito...{:delay 3C 00}{:clear }{:delay 35 00}que mi descuido llevó
+
+    el caos a más de un mundo.
+- id: 18941
+  en: Pero ¿qué es lo que buscabas?
+- id: 18942
+  en: >-
+    Me borraste del mundo, {:delay 6D 00}{:clear }solo para usurpar mi nombre {:delay 8B 00}{:clear }y continuar unos estudios
+
+    que era mejor olvidar...
+- id: 18943
+  en: >-
+    ¿Es esta la respuesta
+
+    que andabas buscando?
+- id: 18944
+  en: >-
+    Todo esto y más. {:delay 74 00}{:clear }{:delay 1A 00}Estoy continuando lo que tú empezaste
+
+    y creando un mundo nuevo...{:delay 64 01}{:clear }corazón a corazón.{:delay 70 00}{:clear }{:delay 4A 00}Creí que me admirarías,{:delay 7C 00}{:clear }y lo único que haces es
+
+    entorpecer mi trabajo.
+- id: 18945
+  en: >-
+    Comprendo que...{:delay 50 00}{:clear }{:delay 1F 00}al contrario que yo, tú tienes un
+
+    corazón y no puedes controlarlo. {:delay 45 01}{:clear }{:delay 40 00}Te consumen los celos que sientes
+
+    del alumno que te ha sobrepasado.
+- id: 18946
+  en: >-
+    Xehanort. {:delay 3C 00}{:clear }{:delay 43 00}Necio aprendiz de un hombre necio.{:delay A9 00}{:clear }{:delay 4F 00}No has sobrepasado nada, sólo has
+
+    demostrado lo poco que ambos sabemos.
+- id: 18947
+  en: >-
+    Alardeamos de conocer el corazón,{:delay A3 00}{:clear }pero su esencia escapa
+
+    a nuestra comprensión.
+- id: 18948
+  en: >-
+    Somos dos ignorantes,
+
+    tan despistados como al principio. {:delay 0E 01}{:clear }{:delay 81 00}Me temo que cualquier mundo
+
+    que intentes crear...
+- id: 18949
+  en: >-
+    Un mundo tuyo...
+
+    sería un imperio de la ignorancia.{:delay 0E 01}{:clear }{:delay 4C 00}¡Por eso tu creación y tú
+
+    estáis destinados al fracaso!
+- id: 19117
+  en: >-
+    Quizá no hiciera falta luchar contra él. {:delay 96 00}{:clear }{:delay 1E 00}Creo... que dejó la Organización
+
+    porque lo que deseaba...
+- id: 19118
+  en: era conocerte.
+- id: 19121
+  en: >-
+    ¡El amuleto nos ha traído suerte!
+
+    ¡Por fin nos encontramos!{:clear }Tenía muchas ganas de verte, Sora.
+
+    ¡Te echaba tanto de menos!
+- id: 19122
+  en: >-
+    En el pasado, la oscuridad me venció,
+
+    y te traicioné. ¡En qué me he convertido!{:clear }No estaba seguro de querer
+
+    verte, pero Kairi insistió.
+- id: 19123
+  en: >-
+    Es asombroso que Kairi y tú
+
+    hayáis reconocido a Riku.{:clear }Es idéntico a Ansem. La primera
+
+    vez que le vi, no podía creerlo.
+- id: 19124
+  en: >-
+    Entonces el que nos ayudaba
+
+    todo el tiempo era Riku.{:clear }Vosotros sois sus mejores amigos.
+
+    ¡Hasta cambió su aspecto para ayudaros!
+- id: 19149
+  en: >-
+    ¡Nos reunimos con el rey y Kairi!
+
+    ¡Y ahora con Riku! ¡Somos invencibles!{:clear }Después de todo, Riku también
+
+    fue elegido por la llave espada.
+- id: 19150
+  en: >-
+    El año pasado nos separamos de
+
+    ti y estuvimos con Riku.{:clear }Entonces, él se mostró frío, pero
+
+    ahora se nota que es tu amigo.
+- id: 19151
+  en: >-
+    Se han desbloqueado todas las anotaciones
+
+    del Diario de Pepito.{:clear }Continúa tu aventura hasta conseguir
+
+    despejar todas las incógnitas.
+- id: 19152
+  en: >-
+    ¡Óyeme, Kingdom Hearts! {:delay A2 00}{:clear }Parece que tendremos
+
+    que empezar de nuevo.
+- id: 19153
+  en: >-
+    Ah, pero ten esto presente: {:delay 96 00}{:clear }{:delay 3C 00}te daré tantos corazones
+
+    como haga falta.
+- id: 19154
+  en: >-
+    ¡No lo olvides! {:delay 78 00}{:clear }{:delay 30 00}Nunca estarás completo sin mí,
+
+    igual que yo no lo estaré sin ti.
+- id: 19349
+  en: ¡Busca la carta de Luxord!
+- id: 19379
+  en: >-
+    Eso te hace pensar en por qué
+
+    tenemos miedo a la oscuridad.
+- id: 19380
+  en: Fíjate en eso.
+- id: 19543
+  en: ¿¡Qué!?
+- id: 19546
+  en: ¡Usa Láser para destruir enemigos distantes!
+- id: 19547
+  en: ¡Usa Drenaje para absorber el fuego enemigo!
+- id: 19571
+  en: ¡Deprisa! ¡Sin tu ayuda, Sora está perdido!
+- id: 19572
+  en: ¡Si usas Reflejo, podrás desviar ataques láser!
+- id: 19586
+  en: ¡Están a punto de atacar! ¡Usa Acrobacia para evitarlos!
+- id: 19587
+  en: ¡Este lugar va a explotar! ¡Tu única esperanza es usar Acrobacia!
+- id: 19588
+  en: ¡Detén el núcleo de energía!
+- id: 19589
+  en: ¡Cuidado con los enemigos que vienen desde arriba!
+- id: 19590
+  en: ¡Junto a los edificios aparecerán comandos de reacción!
+- id: 19591
+  en: ¡Arroja a los enemigos contra el núcleo para dañarlo!
+- id: 19592
+  en: ¡Vence a los enemigos cercanos para abrir la barrera!
+- id: 19593
+  en: ¡La barrera se ha abierto!
+- id: 19601
+  en: ¡Energía cargada! ¡Con Megaláser, desatarás un poderoso ataque!
+- id: 19602
+  en: ¡Absorbe los disparos enemigos con {:icon button-circle}, y acumularás energía!
+- id: 19603
+  en: ¡El núcleo de energía se ha detenido!
+- id: 19604
+  en: ¡Usa {:icon button-circle} para saltar en el aire y {:icon button-square} para planear!
+- id: 19605
+  en: ¡Xemnas está en lo alto del edificio!
+- id: 19606
+  en: >-
+    ¡Derrota a Xemnas!
+
+    ¡No le quites el ojo de encima
+
+    durante la batalla!
+- id: 19607
+  en: >-
+    ¡Ve tras Xemnas!
+
+    ¡Usa comandos de reacción para abrirte paso!
+- id: 19608
+  en: >-
+    ¡Ve tras Xemnas!
+
+    ¡Usa comandos de reacción para abrirte paso!
+- id: 19609
+  en: >-
+    ¡Arroja a los enemigos contra el núcleo para dañarlo!
+
+    ¡Si es necesario, usa comandos de
+
+    reacción para protegerte!
+- id: 19610
+  en: >-
+    ¡Detén el núcleo de energía!
+
+    ¡No dejes de atacarlo!
+- id: 19611
+  en: >-
+    ¡Derrota a Xemnas!
+
+    ¡Utiliza las tácticas que has aprendido!
+- id: 19612
+  en: >-
+    ¡Derrota a Xemnas!
+
+    ¡Usa Láser para destruir
+
+    enemigos distantes y
+
+    Drenaje para absorber el fuego enemigo!
+- id: 19613
+  en: >-
+    ¡Derrota a Xemnas!
+
+    ¡Usa {:icon button-circle} para saltar repetidamente, y planea en el aire con {:icon button-square}!
+
+    ¡Si usas comandos de reacción, la batalla será más fácil!
+- id: 19618
+  en: >-
+    ¡Derrota a Xemnas!
+
+    ¡Utiliza las tácticas que has aprendido!
+- id: 19761
+  en: El Mundo Inexistente
+- id: 19933
+  en: >-
+    Son órdenes. ¿Por qué las cuestionas?{:delay DC 00}{:clear }Sobre todo tú, que nunca has tenido piedad
+
+    con las ovejas descarriadas de la Organización.
+- id: 19934
+  en: >-
+    ¡No es el caso!{:delay 50 00}{:clear }Él no nos ha traicionado.
+
+    ¡Es que no puede volver aún!
+- id: 19935
+  en: >-
+    Si no regresa,
+
+    sabes bien qué debes hacer.{:delay E6 00}{:clear } {:delay 3C 00}{:clear }Si no, atente a las consecuencias.
+- id: 19936
+  en: Me convertiréis en un umbrío...
+- id: 19937
+  en: Entendido. ¡Lo haré si eso es lo que queréis!
+- id: 19938
+  en: >-
+    ¿Acaso me engañan los ojos?
+
+    Si no es más que... un crío.{:delay 4A 01}{:clear }Nada que ver con el elegido de la luz.
+- id: 19939
+  en: >-
+    Dale una oportunidad.
+
+    No se anda con chiquitas.{:delay FA 00}{:clear }Tiene un corazón puro,
+
+    no como todos nosotros.
+- id: 19940
+  en: Más le vale o no nos servirá de nada.
+- id: 19941
+  en: Espero que esté disfrutando del viajecito.{:delay FA 00}{:clear } {:delay 3C 00}{:clear }Igual le viene bien una ayudita con su destino.
+- id: 19942
+  en: >-
+    Mientras salgamos ganando nosotros... {:delay 91 00}{:clear }Ya sabéis, que haga lo que quiera de momento
+
+    y ya entraremos en escena si hace falta.
+- id: 19943
+  en: >-
+    Nadie diría que eres tú quien habla.{:delay AA 00}{:clear }¿Podemos tomar tus palabras como un ofrecimiento
+
+    en caso de que algo se tuerza? ¿Eh?
+- id: 19944
+  en: >-
+    ¿¡Qué!? ¿Yo?... {:delay 62 00}{:clear }Qué va, a otro con esas. 
+
+    Ese tipo de trabajitos no son mi fuerte.
+- id: 19945
+  en: Actuáis como si tuvierais conciencia.{:delay AF 00}{:clear }¿Cuándo fue la última vez que sentimos lo más mínimo?
+- id: 19946
+  en: Nunca oí palabras más sensatas.{:delay AF 00}{:clear }Supongo que la diversión tendrá que esperar.
+- id: 19947
+  en: >-
+    ¿Sabéis qué les ocurre a quienes pierden
+
+    de vista su meta?{:delay D7 00}{:clear }Que son consumidos por ellos mismos.
+- id: 19948
+  en: Caballeros...
+- id: 19949
+  en: >-
+    El elegido de la llave espada se ha embarcado
+
+    en una nueva odisea.{:delay 77 01}{:clear }Asegurémonos de que nunca la olvide.
+
+    ¿Ha quedado claro?{:delay 2C 01}{:clear } {:delay 50 00}{:clear }Marchaos.
+- id: 19950
+  en: >-
+    Ya le he transmitido el mensaje.{:delay A5 00}{:clear }Sora sabe que tiene que seguir combatiendo
+
+    a los sincorazón.
+- id: 19951
+  en: >-
+    Bien.{:delay 4D 00}{:clear } {:delay 37 00}{:clear }No solo posees el poder de infligir daños a los
+
+    corazones, sino que también sabes...{:delay D2 00}{:clear }sembrar las semillas de la duda, algo que siempre
+
+    acaba arraigando y destruyendo desde dentro.
+- id: 19952
+  en: >-
+    Dentro de poco, Sora empezará a dudar de sí mismo.{:delay DC 00}{:clear } {:delay 0F 00}{:clear }La duda lo llevará a la incertidumbre
+
+    y esta desembocará en ira. {:delay 9F 01}{:clear }Eso es lo que le hará liberarse de las ataduras
+
+    que le refrenan y así podrá seguir adelante.{:delay CC 01}{:clear } {:delay 28 00}{:clear }Ese jovencito irá allanando el camino
+
+    para el futuro que tanto anhelamos.
+- id: 19953
+  en: Me gustaría preguntarte algo.
+- id: 19954
+  en: ¿Sobre Axel?
+- id: 19955
+  en: >-
+    Pobre... {:delay 82 00}{:clear }¿Cuánto más seguirá persiguiendo la ilusión de la amistad
+
+    cuando ni siquiera es capaz de sentir?{:delay C2 01}{:clear }Se empecina en recuperar algo que cree que perdió... {:delay FA 00}{:clear }y que quizá ni siquiera llegó a existir.
+
+    Pobre necio.
+- id: 19956
+  en: >-
+    Merece nuestra simpatía, 
+
+    pero también nuestra compasión.
+- id: 19957
+  en: >-
+    Sora ya sabe la verdad. {:delay 93 00}{:clear } {:delay 62 00}{:clear }Con cada sincorazón que abate, {:delay 78 00}{:clear }se va convirtiendo más y más en la marioneta
+
+    perfecta para los intereses de la Organización.
+- id: 19958
+  en: >-
+    ¿Y qué importa eso?{:delay 92 00}{:clear }Sea como fuere,{:delay 8B 00}{:clear }Sora no puede evitar salvar 
+
+    a la gente de los sincorazón.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }Siempre ha sido así. 
+
+    Eso es lo que su puro corazoncito desea.
+- id: 19959
+  en: >-
+    Ya se han lanzado los dados.{:delay C8 00}{:clear } {:delay 14 00}{:clear }Todo está en marcha. 
+
+    Y él no puede detenernos.
+- id: 19960
+  en: >-
+    No vayas tan sobrado.{:delay 96 00}{:clear }Si la suerte no te sonríe con los dados,
+
+    podrías acabar como Demyx.
+- id: 19961
+  en: >-
+    Que sea lo que tenga que ser. 
+
+    Ahí está la gracia, ¿no?{:delay A0 00}{:clear } {:delay 28 00}{:clear }¿Qué sentido tiene apostar a tiro hecho?
+- id: 19962
+  en: >-
+    ¿Estás totalmente seguro de que derrotarlo no dará 
+
+    al traste con el plan de la Organización?
+- id: 19963
+  en: Sí. ¿Acaso nos serviría de algo si cayera así como así? {:delay E6 00}{:clear } {:delay 2D 00}{:clear }No. De nada.
+- id: 19964
+  en: >-
+    Eso es justo lo que quería oír. {:delay 8E 00}{:clear }Además, yo no soy de los que se andan 
+
+    con medias tintas.
+- id: 19965
+  en: >-
+    Esto está más vacío cada día, ¿no?{:delay 96 00}{:clear }Pensé que sería divertido ver el último 
+
+    espectáculo de Axel antes del fin... {:delay 40 01}{:clear }pero la cosa fue más tranquila de lo que esperaba.
+- id: 19966
+  en: >-
+    Quizá estaba preparado.{:delay 82 00}{:clear } {:delay 32 00}{:clear }Quizá arriesgó su propia existencia sabiendo
+
+    que así lograría algo que deseaba.
+- id: 19967
+  en: >-
+    Para, para. ¿Cómo va a ser posible algo así?
+
+    Nosotros no existimos, ¿se te ha olvidado o qué?{:delay 86 01}{:clear }Lo que acabas de decir va contra toda lógica.
+- id: 19969
+  en: Eso es absurdo.{:delay 46 00}{:clear } {:delay 0A 00}{:clear }Ni ganó nada, ni es ya nada.
+- id: 19971
+  en: >-
+    Diría que te has olvidado de una cosa. Esa debilidad
+
+    tiene el poder de despertar aquello que duerme.
+- id: 19972
+  en: >-
+    Lo veo más que claro. 
+
+    Por absurdos que puedan haber sido sus actos, {:delay EA 01}{:clear }Axel ha llegado hasta el corazón de Sora. {:delay F0 00}{:clear }Es posible que él despierte en el interior de Sora.
+- id: 19973
+  en: ¿Por qué no te rindes?
+- id: 19974
+  en: Vamos, Sora. {:delay 6A 00}{:clear }Creía que eras más fuerte.
+- id: 19975
+  en: >-
+    No fastidies.
+
+    Mira quién de los dos está ganando.
+- id: 19976
+  en: Así que es cierto. Eres su incorpóreo.{:delay EE 00}{:clear }Supongo que DiZ tenía razón, después de todo.
+- id: 19977
+  en: ¿De qué estás hablando?
+- id: 19978
+  en: ¡Yo soy yo!{:delay 6E 00}{:clear }¡Y nadie más!
+- id: 19979
+  en: ¿Cuántas veces tengo que derrotarte?
+- id: 19980
+  en: Muy bien. {:delay A4 00}{:clear }No me dejas otra alternativa.
+- id: 19981
+  en: ¿Qué?
+- id: 19983
+  en: Lo he aceptado.
+- id: 19984
+  en: DiZ... Él podía sentir a Sora.
+- id: 19985
+  en: Vaya, así que te dijo que "sentía"... {:delay B3 00}{:clear } {:delay 40 00}{:clear }Bobadas.
+- id: 20360
+  en: Quizás apostara por su no existencia...{:delay E6 00}{:clear }En cualquier caso, salió ganando.
+- id: 20361
+  en: Este Axel, enredando hasta el final.
+- id: 20362
+  en: >-
+    Era un pobre diablo incapaz de aceptar 
+
+    el vacío de no tener un corazón. {:delay E6 00}{:clear }Y eso ha acabado con él.
+- id: 20363
+  en: Era débil y necio.
+- id: 20542
+  en: >-
+    Un nuevo rival ha aparecido
+
+    y aguarda a Sora en alguno
+
+    de los mundos.
+- id: 20549
+  en: >-
+    ¡Derrota al encapuchado!
+
+    Fíjate en los comandos
+
+    cuando ataque.
+- id: 20616
+  en: ¡Pulsa {:icon button-triangle} para comenzar el duelo! ¡Aprovecha para atacar cuando baje la guardia!
+- id: 21432
+  en: ¿Riku?
+- id: 21433
+  en: Naminé... No le he dado las gracias.
+- id: 21436
+  en: ¡De eso nada!
+- id: 21437
+  en: >-
+    Será broma lo de librarse ya de él. 
+
+    Es demasiado pronto.
+- id: 21438
+  en: Los incorpóreos son incapaces de sentir.
+- id: 21439
+  en: Si hubiera conocido a Sora, {:delay 74 00}{:clear }quizá las cosas habrían sido distintas.
+- id: 21440
+  en: ¡Zexión! ¡Espera!
+- id: 21441
+  en: ¿Qué quieres?
+- id: 21442
+  en: ¿Dónde está Xemnas?
+- id: 21443
+  en: Donde siempre.
+- id: 21444
+  en: ¿En la Sala del Letargo?
+- id: 21445
+  en: Sí. Ve y compruébalo tú mismo.
+- id: 21446
+  en: No tiene gracia.
+- id: 21447
+  en: >-
+    Tendré que esperar, entonces.{:delay 82 00}{:clear }Pero el tiempo apremia cada vez más.
+
+    ¿Qué puedo hacer?
+- id: 21448
+  en: >-
+    ¿Por qué nunca está por aquí cuando lo necesito?
+
+    Es como si se quitara de en medio aposta.
+- id: 21451
+  en: >-
+    ¡Más quisieras! Hago lo que tengo que hacer. {:delay 96 00}{:clear }Para que te enteres, ayer encontré a uno nuevo.
+
+    Un tal Marnosequé.{:delay 4A 01}{:clear }Con él ya somos once en la Organización.{:delay C3 00}{:clear }Y como me he dejado la piel en eso, le he dicho 
+
+    a Lexaeus que me sustituya el resto del día. {:delay 4A 01}{:clear }Quiero descansar. Para lo de mañana, ya sabes.
+
+    Quiero estar fresco como una rosa.
+- id: 21452
+  en: >-
+    ¿En serio? 
+
+    Siendo así, te dejo tranquilo. {:delay D0 00}{:clear }Tengo asuntos que atender. 
+
+    Adiós.
+- id: 21453
+  en: Venga, hombre, no seas así. {:delay 7C 00}{:clear }Quédate a charlar. ¿Qué me dices?
+- id: 21454
+  en: >-
+    Ya va siendo hora de que me cuentes 
+
+    el secreto de Xemnas.
+- id: 21456
+  en: Ve al grano.
+- id: 21457
+  en: La Sala del Letargo.
+- id: 21458
+  en: >-
+    Allí es donde pasamos tanto tiempo 
+
+    investigando sobre la oscuridad {:delay F0 00}{:clear }inherente a los corazones.{:delay A0 00}{:clear }Es un cementerio que fue sellado por Ansem el Sabio.{:delay 18 01}{:clear }Lo primero que hizo Xemnas nada más librarse de él {:delay C8 00}{:clear }fue volver a abrirlo y construir 
+
+    una sala en lo más profundo.{:delay E6 00}{:clear } {:delay 50 00}{:clear }Desde entonces, pasa largos períodos allí encerrado... 
+
+    hablando con alguien.{:delay 4F 01}{:clear } {:delay 14 00}{:clear }Y dudo que yo sea el único que ve algo raro en eso... 
+
+    ¡sobre todo porque Xemnas está solo en la habitación!
+- id: 21459
+  en: >-
+    ¿Qué parte de lo que he dicho 
+
+    sobre los cotillas no has entendido?
+- id: 21460
+  en: >-
+    Yo no lo llamaría cotillear, 
+
+    porque no he oído nada de lo que decían. {:delay AF 00}{:clear }Aunque me muero por saberlo, eso sí. {:delay 87 00}{:clear } {:delay 28 00}{:clear }¿No sabrás tú algo, por casualidad?
+- id: 21461
+  en: >-
+    Lo único que sé es que prefiero centrarme 
+
+    en mis obligaciones. {:delay E6 00}{:clear }Y tú deberías hacer lo mismo.{:delay 64 00}{:clear }Tenemos que preparar las nuevas instalaciones 
+
+    cuanto antes, {:delay BE 00}{:clear }y solo somos once en la Organización.{:delay C8 00}{:clear }Está claro que necesitamos más efectivos.
+- id: 21462
+  en: ¿Qué instalaciones? {:delay 8C 00}{:clear } {:delay 28 00}{:clear }Ah, ¿hablas del Castillo del Olvido?{:delay AA 00}{:clear } {:delay 23 00}{:clear }¿Qué es lo que piensa hacer Xemnas con ese sitio?
+- id: 21463
+  en: Ya ha tenido a bien revelarnos sus intenciones.
+- id: 21464
+  en: Pero ¿a que no sabías que se ha guardado algo?
+- id: 21465
+  en: >-
+    La Sala del Letargo tiene otra sala gemela,
+     la Sala del Despertar. {:delay 5E 01}{:clear } {:delay 14 00}{:clear }Es otro cementerio, por si acaso te lo preguntabas. {:delay C8 00}{:clear }Y sé que no fue construida por Xemnas. {:delay 04 01}{:clear }Será allí donde se encuentren...
+- id: 21466
+  en: Allí es donde hallará a su otro "amigo".
+- id: 21467
+  en: Tengo que liberar el poder de mi corazón.{:delay DE 00}{:clear }El poder oscuro que he estado conteniendo.
+- id: 21468
+  en: Aunque... eso me cambie para siempre.
+- id: 21470
+  en: >-
+    No podía hacerlo todavía. {:delay 8C 00}{:clear }Al menos no hasta que todo vuelva 
+
+    a ser como debe.
+- id: 21471
+  en: >-
+    Tranquilo, lo lograremos. {:delay A0 00}{:clear }Y cuando lo hagamos, podrás agradecérselo 
+
+    tanto como quieras.
+- id: 21472
+  en: ¡Sí!
+- id: 21624
+  en: >-
+    Debemos tener muy presente que siendo consciente 
+
+    de algo así nos será más difícil de controlar.
+- id: 21632
+  en: >-
+    Bueno es saber que no soy el único. 
+
+    También odio ese sitio.
+- id: 21633
+  en: ¿Y tú, Zexión? ¿Qué opinas?
+- id: 21634
+  en: >-
+    Que escuchar a escondidas es de cotillas y críos.{:delay 78 00}{:clear }¿Qué haces aquí? Xaldin y tú tenéis 
+
+    la misión de reclutar nuevos miembros.
+- id: 21635
+  en: >-
+    ¿Se te ha olvidado o simplemente andas 
+
+    escaqueándote?
+- id: 21636
+  en: >-
+    ¿Cuánto ha pasado ya?
+
+    Hablo de cuando aquel puñado de tipos {:delay 3B 01}{:clear }blandiendo espadas con forma de llave
+
+    se presentaron aquí y se pusieron a combatir? {:delay B4 00}{:clear } {:delay 1E 00}{:clear }Para cuando se fueron, {:delay 96 00}{:clear }lo único que dejaron atrás fue a un hombre
+
+    sin memoria yaciendo en el suelo.
+- id: 21637
+  en: >-
+    Ansem encontró a Xemnas... {:delay A0 00}{:clear }o sea, a Xehanort más o menos por aquellas 
+
+    fechas, ¿a que sí?
+- id: 21695
+  en: ¿Sí?

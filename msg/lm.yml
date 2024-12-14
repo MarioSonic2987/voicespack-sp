@@ -1,0 +1,2033 @@
+﻿- id: 4995
+  en: >-
+    Me encantan las noches después
+
+    de una gran tormenta...
+- id: 4996
+  en: '{:unk0e 0A}Quiero vivir donde tú estás.{:unk0e 00}'
+- id: 4997
+  en: '{:unk0e 0A}¿Qué he de pagar por ir a tu lado?{:unk0e 00}'
+- id: 4998
+  en: '{:unk0e 0A}Quisiera vernos reír, estar junto a ti.{:unk0e 00}'
+- id: 4999
+  en: >-
+    {:unk0e 0A}Saber correr, saber saltar,
+
+    saber que el sol me va a acariciar.{:unk0e 00}
+- id: 5000
+  en: >-
+    {:unk0e 0A}Sueño sin fin... Quiero subir...
+
+    salir del mar.{:unk0e 00}
+- id: 5001
+  en: Una chica me rescató... Su voz...
+- id: 5002
+  en: ¡Caray! ¡Otra vez bajo el mar!
+- id: 5003
+  en: ¡Ajá!
+- id: 5004
+  en: ¡Sora! ¡Donald! ¡Goofy!
+- id: 5005
+  en: Eh... ¿Qué tal?
+- id: 5006
+  en: ¿Ya has olvidado cómo nadar?
+- id: 5007
+  en: Un poco... supongo.
+- id: 5008
+  en: >-
+    ¡Pues a practicar se ha dicho!{:delay 6C 00}{:clear }Seguid a Flounder.
+
+    Él os enseñará todo lo necesario.
+- id: 5009
+  en: ¡Vamos, Sora, tú puedes!
+- id: 5010
+  en: '{:unk13 72 01 50 00}{:unk08 01 00 05}¡Así está mucho mejor!'
+- id: 5011
+  en: >-
+    {:unk13 18 01 4A 01}{:unk08 01 01 01}Y bien...{:clear }¿Qué os trae
+
+    por estos mares?{:clear }¿Sucede algo?
+- id: 5012
+  en: '{:unk13 5E 01 50 00}{:unk08 01 00 05}Más o menos.'
+- id: 5013
+  en: >-
+    {:unk13 A0 00 96 00}{:unk08 01 01 04}Pero todo parece
+
+    estar en calma aquí.
+- id: 5014
+  en: >-
+    {:unk13 5E 01 2C 01}{:unk08 01 01 00}Todo está bien... mientras
+
+    papá esté de buen humor.
+- id: 5015
+  en: >-
+    {:unk13 04 01 2C 01}{:unk08 01 01 01}Eh, celebraremos un
+
+    concierto muy pronto.{:clear }¿Por qué no cantáis
+
+    en mi espectáculo musical?
+- id: 5016
+  en: >-
+    {:unk13 2C 01 64 00}{:unk08 01 01 05}¡Por favor, decid que sí!
+
+    Ariel está muy rara últimamente.{:clear }Pero puede que se tranquilice y
+
+    practique si vosotros participáis.
+- id: 5017
+  en: >-
+    {:unk13 64 00 18 01}{:unk08 01 01 00}¡Puede ser
+
+    divertido!
+- id: 5018
+  en: '{:unk13 AA 00 46 00}{:unk08 01 01 06}¡Cuenta con nosotros!'
+- id: 5019
+  en: >-
+    {:unk13 72 01 18 01}{:unk08 01 01 01}¡Excelente!{:clear }Ahora, os mostraré
+
+    lo que necesitáis saber.
+- id: 5020
+  en: '{:unk13 AA 00 46 00}{:unk08 01 01 06}¿Qué tenemos que hacer?'
+- id: 5021
+  en: '{:unk13 72 01 04 01}{:unk08 01 01 01}¡Es fácil!'
+- id: 5022
+  en: >-
+    {:unk13 96 00 64 00}{:unk08 01 00 05}Eso es todo
+
+    lo que hay que hacer.
+- id: 5023
+  en: '{:unk13 72 01 2C 01}{:unk08 01 00 00}Ahí va, no sé...'
+- id: 5024
+  en: >-
+    {:unk13 40 01 2C 01}{:unk08 01 01 00}Cuando queráis cantar en una
+
+    obra maestra de la música...{:clear }solo tenéis que venir a verme.
+- id: 5027
+  en: '{:unk13 AA 00 46 00}{:unk08 01 01 06}¡Rómpete una aleta!'
+- id: 5028
+  en: '{:unk13 47 01 2D 00}{:unk08 01 00 04}¡Vamos allá!'
+- id: 5029
+  en: ¡Sora, has estado impresionante!
+- id: 5030
+  en: ¡Eh! ¡Yo quiero cantar más frases!
+- id: 5031
+  en: ¡Majestad! ¡Tenemos visita!
+- id: 5032
+  en: ¡El Rey Tritón!
+- id: 5033
+  en: >-
+    Veo que portas esa llave espada tuya.
+
+    ¿Acaso ocurre algo que lo requiera?
+- id: 5034
+  en: >-
+    Aquí no. Todo parece
+
+    bastante tranquilo.
+- id: 5035
+  en: >-
+    Majestad, nuestros invitados
+
+    quieren cantar en el musical.
+- id: 5036
+  en: >-
+    ¡Bien, bien!
+
+    Me parece una idea estupenda.
+- id: 5037
+  en: >-
+    Tal vez sí necesitemos vuestra ayuda.
+
+    Veréis.{:delay C6 00}{:clear }Me temo que Ariel sigue encaprichada
+
+    con el mundo de los humanos.{:delay 04 01}{:clear }Si los ensayos la mantuvieran ocupada,{:delay 9C 00}{:clear }dejaría de pensar en la
+
+    vida de la superficie.
+- id: 5038
+  en: ¡Esa es la voz que oí! ¡Estoy seguro!
+- id: 5039
+  en: ¿Hola? ¿Dónde te escondes?
+- id: 5040
+  en: Sé que fuiste tú quien me rescató.
+- id: 5041
+  en: >-
+    Por favor, sal para que
+
+    pueda agradecértelo
+- id: 5042
+  en: ¿Ariel?
+- id: 5043
+  en: >-
+    Esta chica está rara otra vez.{:delay 90 00}{:clear }Habrá estado tonteando
+
+    por la superficie...{:delay 90 00}{:clear }¡Uuuhh, el Rey de los Mares me va
+
+    a arrancar las pinzas por esto!
+- id: 5044
+  en: ¡Vamos! ¡Hay que seguir ensayando!
+- id: 5045
+  en: Lo siento, pero no me apetece.
+- id: 5046
+  en: ¡Noooo! ¡Ariel!
+- id: 5047
+  en: Tengo una idea, Sebastián.
+- id: 5048
+  en: ¿Ah, sí?
+- id: 5049
+  en: ¡Sé cómo animar a Ariel!{:delay 60 00}{:clear }¡Venga! ¡Seguidme!
+- id: 5050
+  en: '{:unk13 5A 00 C8 00}{:unk08 01 01 05}¡Por aquí!'
+- id: 5051
+  en: '{:unk13 F0 00 78 00}{:unk08 01 01 05}Mirad...'
+- id: 5052
+  en: >-
+    {:unk13 5E 01 8C 00}{:unk08 01 01 05}¡Oh, no! ¡Debe de ser
+
+    del mundo humano!
+- id: 5053
+  en: >-
+    {:unk13 B4 00 E9 00}{:unk08 01 01 00}Lo encontré tras la tormenta.
+
+    Apuesto a que es de un naufragio.{:clear }¿No creéis que a Ariel
+
+    le encantaría?
+- id: 5054
+  en: >-
+    {:unk13 2C 01 2C 01}{:unk08 01 01 01}Pero si el Rey del Mar
+
+    lo descubre...
+- id: 5055
+  en: '{:unk13 B0 00 54 01}{:unk08 01 01 00}¡Es mejor que ir a la superficie!'
+- id: 5056
+  en: '{:unk13 C8 00 18 01}{:unk08 01 01 01}Vamos, ayudadme a moverlo.'
+- id: 5057
+  en: '{:unk13 F0 00 6E 00}{:unk08 01 01 05}Es imposible.'
+- id: 5058
+  en: ¡Ariel!
+- id: 5059
+  en: Queremos que vengas con nosotros.
+- id: 5060
+  en: ¡Tenemos algo que enseñarte!
+- id: 5061
+  en: ¡Oohh!
+- id: 5062
+  en: Es una estatua muy chula, ¿eh?
+- id: 5063
+  en: Parece una especie de príncipe.
+- id: 5064
+  en: ¿Un príncipe?
+- id: 5065
+  en: Ariel...{:delay 44 00}{:clear }puedes contar con nosotros.
+- id: 5066
+  en: >-
+    ¡Oh, no!
+
+    ¡Vosotros tres quedaos al margen!
+- id: 5067
+  en: ¡Mira quién habla!
+- id: 5068
+  en: >-
+    ¡Sí! ¡Ibas a chivarte de
+
+    todo esto a su padre!
+- id: 5069
+  en: Pero es que yo...
+- id: 5070
+  en: >-
+    {:unk13 72 01 5A 00}{:unk08 01 00 05}Llegas tarde, Sebastián.
+
+    ¿Sucede algo?
+- id: 5071
+  en: '{:unk13 0E 01 96 00}{:unk08 01 01 06}No. Nada, Majestad.'
+- id: 5072
+  en: '{:unk13 64 00 64 00}{:unk08 01 00 05}Me alegro.'
+- id: 5073
+  en: >-
+    {:unk13 B4 00 40 01}{:unk08 01 01 01}Bien, cuéntame, ¿cómo va
+
+    la canción para el musical?
+- id: 5074
+  en: >-
+    {:unk13 7C 01 50 00}{:unk08 01 00 05}¡Está terminada,
+
+    Majestad!
+- id: 5075
+  en: >-
+    {:unk13 37 01 E5 00}Y ensalza todas las maravillas que
+
+    tenemos aquí en el océano.{:clear }Será mi mejor obra.
+- id: 5076
+  en: >-
+    {:unk13 AF 00 46 01}{:unk08 01 00 02}¿Logrará que Ariel se olvide
+
+    del mundo de los humanos?
+- id: 5077
+  en: >-
+    {:unk13 7C 01 0E 01}{:unk08 01 00 01}Eh, sí... bien...
+
+    Es probable...
+
+    Es posible...
+- id: 5078
+  en: '{:unk13 40 01 2C 01}{:unk08 01 01 01}Qui... quiero decir... ¡seguro!'
+- id: 5079
+  en: >-
+    {:unk13 2C 01 2C 01}{:unk08 01 01 01}Discúlpeme, Majestad, pero
+
+    debo ensayar... ya me comprende.
+- id: 5080
+  en: >-
+    {:unk13 8C 00 04 01}{:unk08 01 01 01}¡Es terrible!
+
+    Tenemos que hacer algo.
+- id: 5081
+  en: >-
+    {:unk13 72 01 2C 01}{:unk08 01 01 01}Ella no puede participar
+
+    en el musical así.
+- id: 5082
+  en: '{:unk13 B4 00 04 01}{:unk08 01 01 01}¡Yo cantaré su parte!'
+- id: 5083
+  en: >-
+    {:unk13 78 00 C8 00}{:unk08 01 01 01}¡De ninguna manera!
+
+    ¡Ni hablar!
+- id: 5084
+  en: '{:unk13 5E 01 3C 00}{:unk08 01 00 05}¿Qué? ¿¡Por qué no!?'
+- id: 5085
+  en: '{:unk13 2C 01 2C 01}{:unk08 01 01 01}Eh, es Sebastián.'
+- id: 5086
+  en: '{:unk13 C1 00 DA 00}{:unk08 01 00 01}Esto no va a funcionar...'
+- id: 5087
+  en: '{:unk13 68 01 46 00}{:unk08 01 00 05}¿Qué pasa?'
+- id: 5088
+  en: >-
+    {:unk13 40 01 50 00}{:unk08 01 00 06}He compuesto una canción
+
+    perfecta para el musical.{:clear }Pero creo que será demasiado
+
+    complicada para vosotros.
+- id: 5089
+  en: '{:unk13 4C 01 29 00}{:unk08 01 01 04}¡Venga ya! No será tan difícil.'
+- id: 5090
+  en: '{:unk13 72 01 2C 01}{:unk08 01 01 01}Eh...'
+- id: 5091
+  en: Capítulo Tres
+- id: 5092
+  en: ¿Y bien? ¿Qué opinas, Ariel?
+- id: 5093
+  en: >-
+    Oh, creo que es una canción genial,
+
+    Sebastián. Pero...{:delay CC 00}{:clear }no me apetece cantarla.
+- id: 5094
+  en: >-
+    Quiero cantar algo...{:delay 5A 00}{:clear }que hable de que los dos mundos,
+
+    tierra y mar,{:delay 96 00}{:clear }¡pueden vivir en armonía!
+- id: 5095
+  en: >-
+    ¡El Rey de los Mares me haría picadillo
+
+    si cantases una canción así!
+- id: 5096
+  en: >-
+    Entonces no pienso cantar.
+
+    ¡Ni hablar!
+- id: 5097
+  en: ¡A... Ariel!
+- id: 5098
+  en: ¿Por qué me meteré yo en estos líos?
+- id: 5099
+  en: >-
+    ¡La señorita se ha ido a enamorar
+
+    en el peor momento!{:delay 3E 01}{:clear }¡Y para colmo de un humano!
+- id: 5100
+  en: ¿Ariel está enamorada de un humano?
+- id: 5101
+  en: ¡Mira que soy bocazas!
+- id: 5102
+  en: '{:unk13 C8 00 2C 01}{:unk08 01 01 01}¡Oh!'
+- id: 5103
+  en: '{:unk13 72 01 64 00}¿Es él?'
+- id: 5104
+  en: '{:unk13 78 00 2C 01}Sí.'
+- id: 5105
+  en: '{:unk13 0E 01 5F 00}{:unk08 01 00 05}¡Vamos a llamarle!'
+- id: 5106
+  en: '{:unk13 78 00 64 00}{:unk08 01 01 05}¡No! ¡Por favor!'
+- id: 5107
+  en: >-
+    {:unk13 00 01 5C 00}{:unk08 01 00 05}Es un humano y yo soy una sirena.
+
+    No... no sé cómo reaccionaría...
+- id: 5108
+  en: '{:unk13 37 01 21 01}{:unk08 01 00 01}¡Se le ha caído algo!'
+- id: 5109
+  en: '{:unk13 74 01 78 00}{:unk08 01 00 06}¡Ah! ¡Debe ser suyo!'
+- id: 5110
+  en: '{:unk13 B4 00 78 00}{:unk08 01 01 04}Pero no podemos alcanzarlo...'
+- id: 5111
+  en: '{:unk13 20 01 AA 00}{:unk08 01 00 05}¡Jo!'
+- id: 5112
+  en: >-
+    Qué bien, Sora. Seguro que
+
+    él se alegra de recuperarlo.
+- id: 5113
+  en: Y dime, ¿quién es él?
+- id: 5114
+  en: ¡Papá!
+- id: 5115
+  en: >-
+    ¡Ariel, sabes lo peligrosos
+
+    que son los humanos!
+- id: 5116
+  en: >-
+    ¡Si ni siquiera le conoces!{:delay 96 00}{:clear }Ohh... Papá, tú dices que no
+
+    confías en los humanos,{:delay D8 00}{:clear }pero todos no pueden ser tan
+
+    malos como dices.{:delay A8 00}{:clear }Y yo...{:delay 48 00}{:clear }voy a demostrártelo.
+- id: 5119
+  en: Y si esta es la única forma...
+- id: 5120
+  en: ¡Que así sea!
+- id: 5121
+  en: ''
+- id: 5122
+  en: '{:unk13 40 01 54 01}{:unk08 01 01 03}¡Pobrecita Ariel!'
+- id: 5123
+  en: >-
+    {:unk13 C7 00 3C 00}{:unk08 01 00 05}¡Tú eres Úrsula, la Bruja del Mar!
+
+    ¿No te desterró mi padre?
+- id: 5124
+  en: >-
+    {:unk13 2C 01 54 01}{:unk08 01 01 01}Así es, angelito.
+
+    ¿Pero iba a mantenerme lejos...{:clear }sabiendo que eras tan desdichada?
+
+    Lo que tú necesitas es consejo
+
+    femenino.
+- id: 5125
+  en: >-
+    {:unk13 AA 00 04 01}{:unk08 01 00 02}¿Qué tal si pudiera hacer
+
+    tus sueños realidad?
+- id: 5126
+  en: >-
+    {:unk13 DC 00 2C 01}{:unk08 01 01 01}Mi padre nunca
+
+    lo permitiría...
+- id: 5127
+  en: >-
+    {:unk13 0E 01 54 01}{:unk08 01 00 02}Ah, bien. No debe de ser amor si
+
+    puedes renunciar a él tan fácilmente.
+- id: 5128
+  en: >-
+    {:unk13 72 01 18 01}{:unk08 01 00 02}¿De veras... podrías
+
+    ayudarme? ¿Cómo?
+- id: 5129
+  en: >-
+    {:unk13 AA 00 40 01}{:unk08 01 00 02}Bueno... la única forma de
+
+    conseguir lo que deseas...{:clear }es convirtiéndote tú misma
+
+    en un ser humano.
+- id: 5130
+  en: >-
+    {:unk13 FA 00 50 00}{:unk08 01 01 05}¿En un humano?
+
+    ¿Puedes hacer eso?
+- id: 5131
+  en: >-
+    {:unk13 B4 00 40 01}{:unk08 01 00 02}Querida, dulce criatura...
+
+    es mi especialidad.
+- id: 5132
+  en: >-
+    {:unk13 72 01 8C 00}{:unk08 01 00 05}¡Esto es terrible!
+
+    ¡Flounder!
+
+    ¡Debes avisar al Rey!
+- id: 5133
+  en: '{:unk13 DC 00 40 01}{:unk08 01 00 01}¡Vale!'
+- id: 5134
+  en: >-
+    {:unk13 AF 00 11 01}{:unk08 01 01 01}¿Trato hecho?{:clear }Te convertiré en
+
+    humana ahora mismo.{:clear }Lo único que tienes que hacer
+
+    es firmar un pequeño contrato.
+- id: 5135
+  en: '{:unk13 9B 01 51 00}{:unk08 01 00 05}¿Un contrato?'
+- id: 5136
+  en: >-
+    {:unk13 AA 00 2C 01}{:unk08 01 01 01}Correcto, querida.{:clear }Y el precio es simbólico.
+
+    Una bagatela. Lo que quiero
+
+    de ti es... tu voz.
+- id: 5137
+  en: '{:unk13 9E 01 45 00}{:unk08 01 00 05}¿Mi... mi voz?'
+- id: 5138
+  en: >-
+    {:unk13 B4 00 40 01}{:unk08 01 01 01}Ah, casi lo olvido. El hechizo
+
+    solo dura tres días.{:clear }Debes consequir que el
+
+    principito ese te bese antes...{:clear }de que el sol se ponga,
+
+    el tercer día.{:clear }Si no, volverás a ser una
+
+    sirena, ¡y me pertenecerás!
+- id: 5139
+  en: >-
+    {:unk13 DF 00 41 00}{:unk08 01 01 05}Tal vez encuentres mis
+
+    condiciones un poco estrictas.{:clear }Después de todo, eres la
+
+    hija del Rey Tritón.{:clear }¡Adorada por toda Atlántica!{:clear }Caray, tienes una vida
+
+    feliz casi garantizada.{:clear }¿Seguro que no quieres
+
+    obedecer a tu papaíto?{:clear }Solo te costaría perder
+
+    tu verdadero amor.{:clear }Vamos, cariño.
+
+    Es tu última oportunidad.{:clear }Pero tranquila, no voy a
+
+    convencerte si no quieres.
+- id: 5140
+  en: >-
+    {:unk13 72 01 50 00}{:unk08 01 00 05}¡No la escuches,
+
+    Ariel!
+- id: 5141
+  en: Bueno, no te molesto más.{:delay D2 00}{:clear }Ya me voy.{:delay 78 00}{:clear }Es evidente que no quieres mi ayuda.
+- id: 5142
+  en: >-
+    Es una pena lo de tu príncipe.
+
+    Es todo un partido...
+- id: 5143
+  en: ¡Espera!
+- id: 5144
+  en: ¿Solo tengo que firmar?
+- id: 5145
+  en: ¡Trato hecho!
+- id: 5146
+  en: ¡Perfecto!
+- id: 5147
+  en: ¡Ariel! ¡No!
+- id: 5148
+  en: >-
+    ¡Sora, por favor!
+
+    ¡Tienes que impedírselo!
+- id: 5149
+  en: ¡Espera!
+- id: 5150
+  en: >-
+    ¡Oh, no!
+
+    ¡No puede respirar!
+- id: 5151
+  en: Despierta. Abre los ojos.
+- id: 5152
+  en: ¡Eh! ¡Ten cuidado!
+- id: 5153
+  en: >-
+    ¿Qué te pasa?
+
+    ¿No puedes hablar?
+- id: 5154
+  en: Ah, bien... ¿Y de dónde vienes?
+- id: 5156
+  en: '{:delay 54 00}¡Ese es mi colgante!{:delay AE 00}{:clear }Es increíble que lo hayas encontrado.'
+- id: 5157
+  en: Gracias.
+- id: 5158
+  en: >-
+    Por favor, ven conmigo.
+
+    Quiero ayudarte.
+- id: 5159
+  en: >-
+    {:unk13 78 00 F0 00}{:unk08 01 00 03}¡Parece que todo
+
+    va muy bien!
+- id: 5160
+  en: >-
+    {:unk13 7E 01 50 00}{:unk08 01 00 06}Ahí va, ¿no deberíamos
+
+    contarle todo esto
+
+    al Rey Tritón?
+- id: 5161
+  en: '{:unk13 54 01 2C 01}{:unk08 01 01 01}¡Ni hablar!'
+- id: 5165
+  en: '{:unk13 A7 00 04 01}{:unk08 01 01 01}¿Y nos limitamos a observar?'
+- id: 5166
+  en: '{:unk13 72 01 C8 00}{:unk08 01 01 05}¿Tienes una idea mejor?'
+- id: 5167
+  en: >-
+    {:unk13 AA 00 2C 01}{:unk08 01 01 01}Podríamos hacer que Úrsula
+
+    arreglara todo esto.
+- id: 5168
+  en: >-
+    {:unk13 5E 01 3C 00}{:unk08 01 01 05}¡Ja! No se va a tomar
+
+    la molestia.
+- id: 5169
+  en: >-
+    {:unk13 0E 01 2C 01}{:unk08 01 00 01}¡Eh, nunca se sabe hasta
+
+    que lo intentas!
+- id: 5170
+  en: >-
+    {:unk13 72 01 46 00}{:unk08 01 01 05}Mmm...
+
+    Tal vez tengas razón.{:clear }Y eso es mejor
+
+    que nada.{:clear }¿Puedo confiar en que
+
+    te encargarás de Úrsula?
+- id: 5171
+  en: '{:unk13 0E 01 64 00}{:unk08 01 01 05}¡Claro!'
+- id: 5172
+  en: >-
+    ¡Eh!
+
+    ¿Dónde está Sebastián?
+- id: 5173
+  en: Uhhh...{:delay 28 00}{:clear }{:delay 20 00}{:clear }El Rey Tritón quería verle en palacio.
+- id: 5174
+  en: Me pregunto si será por lo de Ariel.
+- id: 5175
+  en: >-
+    Si el Rey Tritón se entera de esto,
+
+    nos la hemos cargado,{:delay BE 00}{:clear }por haberlo mantenido en secreto.
+- id: 5176
+  en: ¿Y Úrsula?
+- id: 5177
+  en: Se ha esfumado.
+- id: 5178
+  en: >-
+    ¿Cómo le va a Ariel?
+
+    Solo tiene hasta mañana al atardecer.
+- id: 5179
+  en: ¡Eh, mirad!
+- id: 5180
+  en: ''
+- id: 5181
+  en: ¡No veo nada!
+- id: 5182
+  en: Uuff, menos mal.
+- id: 5183
+  en: ¡Vaya! Han estado muy cerca.
+- id: 5184
+  en: >-
+    Creo que deberíamos seguir
+
+    buscando a Úrsula, ¿no creéis?
+- id: 5185
+  en: Sí, buena idea.
+- id: 5186
+  en: No hay ni rastro de Úrsula...
+- id: 5187
+  en: >-
+    ¿Dónde se habrá metido
+
+    esa bruja de los mares?
+- id: 5188
+  en: Ahhh...
+- id: 5189
+  en: Ariel no ha parado de llorar.
+- id: 5190
+  en: '{:unk13 FA 00 72 01}{:unk0e 0A}Quiero vivir donde tú estás.{:delay DE 00}{:clear } {:delay 32 00}{:clear }{:unk0e 0A}¿Qué he de pagar por ir a tu lado?{:delay 04 01}{:clear } {:delay 0A 00}{:clear }{:unk0e 0A}Quisiera vernos reír, estar junto a ti.{:delay 7C 01}{:clear }{:unk0e 0A}Saber correr, saber saltar,{:delay C8 00}{:clear }{:unk0e 0A}saber que el sol me va a acariciar.{:delay 0E 01}{:clear } {:delay 14 00}{:clear }{:unk0e 0A}Sueño sin fin... Quiero subir...{:delay 0E 01}{:clear } {:delay 14 00}{:clear }{:unk0e 0A}Salir del mar.{:unk0e 00}'
+- id: 5191
+  en: '{:unk13 FA 00 54 01}¡Eh! ¿Qué le pasa al príncipe?'
+- id: 5192
+  en: '{:unk13 FA 00 54 01}¡Mirad ahí!'
+- id: 5193
+  en: >-
+    {:unk13 FA 00 54 01}¡Es Úrsula! ¡Se ha debido de
+
+    transformar en esa chica!
+- id: 5194
+  en: '{:unk13 FA 00 54 01}¡No aguanto más!'
+- id: 5195
+  en: ¿Qué... qué ha pasado?
+- id: 5196
+  en: ¡Eric!
+- id: 5197
+  en: Puedes...{:delay 7B 00}{:clear }puedes hablar...{:delay AD 00}{:clear }Eras tú...{:delay 66 00}{:clear }Aquella voz era la tuya...
+- id: 5198
+  en: Mi nombre es Ariel. Yo...
+- id: 5199
+  en: >-
+    ¡Pues claro!{:delay 6C 00}{:clear }¡Fuiste tú!{:delay 72 00}{:clear }¡Tú me salvaste aquella
+
+    noche de tormenta!
+- id: 5200
+  en: Ah, Ariel...{:delay A2 00}{:clear }Siento no haberme dado cuenta antes.{:delay 96 00}{:clear }Es a ti a quien amo.
+- id: 5201
+  en: Eric...
+- id: 5202
+  en: ¡No tan deprisa!
+- id: 5203
+  en: ¿Ves lo mismo que yo?
+- id: 5204
+  en: '{:delay 96 00}{:clear }¡Se acabó el tiempo!'
+- id: 5205
+  en: ¡Ariel!
+- id: 5206
+  en: ¡Alto!
+- id: 5207
+  en: ''
+- id: 5208
+  en: ¡No os metáis, estúpidos!
+- id: 5209
+  en: >-
+    ¡La querida hija de Tritón
+
+    firmó un contrato!
+- id: 5210
+  en: >-
+    Y ahora, pequeña... ¡ya veremos lo
+
+    hermosa que eres cuando acabe contigo!
+- id: 5211
+  en: ¡Ese contrato no vale!
+- id: 5212
+  en: ¡Suéltala!
+- id: 5213
+  en: ¿¡Cómo!?
+- id: 5214
+  en: >-
+    Vaya, vaya...{:delay 78 00}{:clear }ni siquiera el Rey Tritón puede
+
+    permitirse el lujo{:delay BA 00}{:clear }de invalidar un contrato.{:delay 7E 00}{:clear }No puede, no señor.
+- id: 5215
+  en: >-
+    Y ahora, si me disculpáis,
+
+    tengo asuntos que atender.
+- id: 5216
+  en: >-
+    ¡Espera, Úrsula! Tú ganas.{:delay CD 00}{:clear }Pero prométeme
+
+    que soltarás a mi hija.
+- id: 5217
+  en: >-
+    Un contrato es un contrato...{:delay 78 00}{:clear }A no ser, claro,
+
+    que te ofrezcas para ocupar su lugar.
+- id: 5218
+  en: >-
+    Me temo...
+
+    que no tengo alternativa.
+- id: 5219
+  en: ¡Majestad!
+- id: 5220
+  en: ¡Por fin!
+- id: 5221
+  en: ¡Papá!
+- id: 5222
+  en: >-
+    ¡Ja! ¿Dónde está ahora el
+
+    "todopoderoso" Señor de los Mares?
+- id: 5223
+  en: ¡Apártate! ¡Deja a mi padre!
+- id: 5224
+  en: ¡Eric!
+- id: 5225
+  en: ¿Cómo te atreves?
+- id: 5226
+  en: ¡Patético e insignificante humano!
+- id: 5227
+  en: ¡Eh! ¡Ya basta!
+- id: 5228
+  en: >-
+    ¡Ja, ja!
+
+    ¡Ahora os postraréis ante mí!
+- id: 5229
+  en: ¡Eso lo veremos!
+- id: 5230
+  en: ¡No! ¡No es posible!
+- id: 5231
+  en: ¡Se acabó, Úrsula!
+- id: 5232
+  en: ¡Devuélveme eso!
+- id: 5233
+  en: Como quieras... ¡aquí lo tienes!
+- id: 5235
+  en: Ariel...
+- id: 5237
+  en: No puede ser...
+- id: 5239
+  en: Vaya, vaya...
+- id: 5241
+  en: >-
+    Si lo llego a saber, hubiera puesto
+
+    más empeño en aprender a nadar.
+- id: 5242
+  en: >-
+    Bueno, supongo que nunca
+
+    es tarde para aprender, ¿no?
+- id: 5243
+  en: ¿Quieres enseñarme?
+- id: 5245
+  en: >-
+    {:unk13 4A 01 5A 00}{:unk08 01 01 06}El príncipe Eric es buen chico.
+
+    Y también es muy valiente.
+- id: 5246
+  en: '{:unk13 C8 00 54 01}{:unk08 01 01 03}Sí. Pero es un humano.'
+- id: 5247
+  en: '{:unk13 18 01 50 00}{:unk08 01 00 04}Uuff... Otra vez no...'
+- id: 5248
+  en: >-
+    {:unk13 8C 00 2C 01}{:unk08 01 00 02}¿Qué tal con tu
+
+    padre, Ariel?
+- id: 5249
+  en: >-
+    {:unk13 48 01 CA 00}{:unk08 01 00 01}¡Genial! Gracias por tu ayuda.
+
+    Tengo que irme. ¡Os veré luego!
+- id: 5250
+  en: '{:unk13 90 01 50 00}{:unk08 01 01 05}Eh, espera...'
+- id: 5251
+  en: >-
+    {:unk13 C8 00 50 00}{:unk08 01 01 04}¡Casi lo olvido, Sebastián!{:clear }¡El Rey Tritón dijo que el festival
+
+    de este año es tan importante...{:clear }que más vale que el musical
+
+    sea el mejor de tu vida!
+- id: 5252
+  en: >-
+    {:unk13 72 01 B4 00}{:unk08 01 01 05}¿El mejor de mi vida?
+
+    Mmm...
+- id: 5253
+  en: '{:unk13 7C 01 50 00}{:unk08 01 01 05}A ver, ¿qué sucede?'
+- id: 5254
+  en: '{:unk13 5E 01 72 01}{:unk08 01 01 01}Tenéis que hacerme un favor.'
+- id: 5255
+  en: '{:unk13 78 00 40 01}{:unk08 01 01 01}¿¡Qué!?'
+- id: 5256
+  en: '{:unk13 D4 00 4E 00}{:unk08 01 00 05}¿Eh?'
+- id: 5257
+  en: '{:unk13 B1 01 3F 00}{:unk08 01 00 05}¡Imposible!'
+- id: 5258
+  en: >-
+    {:unk13 EC 00 36 00}{:unk08 01 01 07}Iba a hacer que la canción
+
+    fuera perfecta...
+- id: 5259
+  en: '{:unk13 0E 01 C8 00}'
+- id: 5260
+  en: '{:unk13 96 00 96 00}{:unk08 01 01 05}¡No os olvidéis de mi canción!'
+- id: 5261
+  en: Capítulo Cinco
+- id: 5262
+  en: Sora, ¿qué ha sido eso?
+- id: 5263
+  en: Se ha abierto una nueva puerta.
+- id: 5264
+  en: ¿¡Cómo!? ¿Os vais?{:delay 9C 00}{:clear }¿Es un adiós?
+- id: 5265
+  en: ¡De eso nada! ¡Nunca diremos adiós!
+- id: 5266
+  en: >-
+    ¡Eso es!
+
+    Y un, dos, tres, cuatro...
+- id: 5268
+  en: >-
+    Aunque nos vayamos
+
+    nuestro mundo sigue al lado.
+- id: 5269
+  en: Lo que significa...
+- id: 5270
+  en: Somos libres para volver.
+- id: 5271
+  en: ¡Y cantar!
+- id: 5272
+  en: >-
+    Así que no estés triste,
+
+    pronto nos veremos otra vez.
+- id: 5273
+  en: Instrucciones del musical
+- id: 5274
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 5275
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Nunca verá lo que hay aquí.{:unk0e 00}'
+- id: 5276
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú piensas que en otros lagos,{:unk0e 00}'
+- id: 5277
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y sueñas con ir arriba,{:unk0e 00}'
+- id: 5278
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}No ves que tu propio mundo,{:unk0e 00}'
+- id: 5279
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}no tiene comparación.{:unk0e 00}'
+- id: 5280
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¿Qué puede haber allá afuera,{:unk0e 00}'
+- id: 5281
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}que cause tal emoción?{:unk0e 00}'
+- id: 5282
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Bajo el mar.{:unk0e 00}'
+- id: 5283
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Vives serena siendo sirena,{:unk0e 00}'
+- id: 5284
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Ellos trabajan sin parar,{:unk0e 00}'
+- id: 5285
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}y bajo el sol para variar,{:unk0e 00}'
+- id: 5286
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}mientras nosotros siempre flotamos...{:unk0e 00}'
+- id: 5287
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Bajo el mar.{:unk0e 00}'
+- id: 5288
+  en: ''
+- id: 5289
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Hay siempre ritmo y lo sentimos{:unk0e 00}'
+- id: 5290
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}al natural.{:unk0e 00}'
+- id: 5291
+  en: ''
+- id: 5292
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}La mantarraya va a tocar.{:unk0e 00}'
+- id: 5293
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}El esturión va a acompañar.{:unk0e 00}'
+- id: 5294
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú solo escucha, aquí está la marcha...{:unk0e 00}'
+- id: 5295
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Las bailarinas son las sardinas...{:unk0e 00}'
+- id: 5296
+  en: ''
+- id: 5297
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¿Qué mundo quieres explorar{:unk0e 00}'
+- id: 5298
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}si nuestra banda empieza a tocar?{:unk0e 00}'
+- id: 5299
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y las almejas{:unk0e 00}'
+- id: 5300
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}son castañuelas.{:unk0e 00}'
+- id: 5301
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Bajo el mar.{:unk0e 00}'
+- id: 5302
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y las babosas{:unk0e 00}'
+- id: 5303
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}son tan graciosas.{:unk0e 00}'
+- id: 5304
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y el caracol es un gran artista.{:unk0e 00}'
+- id: 5305
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y las burbujas{:unk0e 00}'
+- id: 5306
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}para que bailen{:unk0e 00}'
+- id: 5307
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Bajo el mar!{:unk0e 00}'
+- id: 5308
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Hoy he vuelto para rebelarme{:unk0e 00}'
+- id: 5309
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Sed bienvenidos al comienzo{:unk0e 00}'
+- id: 5310
+  en: ' '
+- id: 5311
+  en: Diversión submarina
+- id: 5312
+  en: Parte de tu mundo
+- id: 5313
+  en: Bajo el mar
+- id: 5314
+  en: La venganza de Úrsula
+- id: 5315
+  en: Amanecer de un nuevo día
+- id: 5316
+  en: 'Canción 1: Guía #0'
+- id: 5317
+  en: >-
+    ¡Por cada EXCELENTE
+
+    que obtengas
+
+    aparecerá una nota!
+- id: 5318
+  en: 'Canción 1: Guía #2'
+- id: 5319
+  en: 'Canción 2: Guía #0'
+- id: 5320
+  en: >-
+    ¡Trata de obtener 5
+
+    o más EXCELENTES
+
+    seguidos!
+- id: 5321
+  en: 'Canción 2: Guía #2'
+- id: 5322
+  en: 'Canción 3: Guía #0'
+- id: 5323
+  en: >-
+    Anima a Ariel y obtén
+
+    la mayor puntuación.
+- id: 5324
+  en: 'Canción 3: Guía #2'
+- id: 5325
+  en: 'Canción 4: Guía #0'
+- id: 5326
+  en: ¡Vence a Úrsula!
+- id: 5327
+  en: 'Canción 4: Guía #2'
+- id: 5328
+  en: 'Canción 5: Guía #0'
+- id: 5329
+  en: >-
+    ¡Obtén 30.000
+
+    puntos o más!
+- id: 5330
+  en: 'Canción 5: Guía #2'
+- id: 5331
+  en: Sí
+- id: 5332
+  en: No
+- id: 5333
+  en: Elige una canción.
+- id: 5334
+  en: ¿Interpretas esta canción?
+- id: 6432
+  en: >-
+    {:unk13 A0 00 64 00}{:unk08 01 01 05}¡Se le rompería el corazón
+
+    si se enterase de esto!
+- id: 6433
+  en: '{:unk13 8C 00 A0 00}{:unk08 01 01 01}¿Entonces qué hacemos?'
+- id: 6434
+  en: >-
+    {:unk13 04 01 54 01}{:unk08 01 01 01}Nos quedaremos aquí
+
+    y cuidaremos de Ariel.
+
+    Eso haremos.
+- id: 6435
+  en: >-
+    {:unk13 78 00 A0 00}{:unk08 01 01 01}Creo que es lo único
+
+    que podemos hacer.
+- id: 7935
+  en: >-
+    {:unk13 1E 01 61 00}{:unk08 01 01 05}¡Todo lo que tienes que
+
+    hacer es sentir el ritmo!{:clear }¡Escucha el compás y ponle
+
+    un poco de movimiento!{:clear }¿Listo? ¡Vamos!
+- id: 7936
+  en: '{:unk13 04 01 6E 00}{:unk08 01 01 05}¡Eso es!'
+- id: 7937
+  en: >-
+    {:unk13 04 01 68 00}{:unk08 01 01 05}Un poco a destiempo.
+
+    ¡Pero ya casi lo tienes!
+- id: 7938
+  en: >-
+    {:unk13 04 01 68 00}{:unk08 01 01 05}Bien, Donald. Tu turno.
+
+    Haz lo mismo que Sora.
+
+    Deja que vea cómo lo haces.
+- id: 7939
+  en: >-
+    {:unk13 04 01 68 00}{:unk08 01 01 05}Goofy, ahora sigues tú.
+
+    ¿Crees que puedes mejorarlo?
+- id: 7940
+  en: >-
+    {:unk13 04 01 6E 00}{:unk08 01 01 05}¡Esta vez vas a bailar con Ariel!
+
+    Recuerda, ¡no pierdas el ritmo!
+- id: 7941
+  en: >-
+    {:unk13 04 01 6E 00}{:unk08 01 01 05}¡Ahora vamos a improvisar
+
+    con las burbujas!{:clear }La regla es la misma:
+
+    debes seguir el ritmo.
+- id: 7942
+  en: >-
+    {:unk13 E1 00 5A 00}{:unk08 01 01 05}¡Muy bien!
+
+    ¡Eso es!
+- id: 8044
+  en: >-
+    Vamos, Ariel...
+
+    ya puedes salir. Pasó el peligro.
+- id: 8045
+  en: >-
+    Lo siento, Eric...
+
+    Esto es por lo que acudí a Úrsula.
+- id: 8046
+  en: Quería decírtelo, pero...
+- id: 8047
+  en: Eric... Adiós.
+- id: 8048
+  en: ¡Me encantaría!
+- id: 8049
+  en: ¡Toma ya!
+- id: 8799
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8800
+  en: '{:unk13 FA 00 90 01}¡Disfruta la música! ¡Tú puedes!'
+- id: 8801
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Déjate llevar por el ritmo.{:unk0e 00}'
+- id: 8802
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Y a bailar!{:unk0e 00}'
+- id: 8803
+  en: '{:unk13 FA 00 90 01}¡Ves como puedes!'
+- id: 8804
+  en: '{:unk13 FA 00 90 01}Tranquilo... ¡menéate!'
+- id: 8805
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 8806
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8807
+  en: '{:unk13 FA 00 90 01}Cuidado con el escenario. ¡Qué emoción!'
+- id: 8808
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Llega a la señal justo a tiempo.{:unk0e 00}'
+- id: 8809
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Toc, toc, toc!{:unk0e 00}'
+- id: 8810
+  en: '{:unk13 FA 00 90 01}¡Bien, así se hace!'
+- id: 8811
+  en: '{:unk13 FA 00 90 01}No importa. Ya lo lograrás.'
+- id: 8812
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 8813
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8814
+  en: '{:unk13 FA 00 90 01}Llegas hasta el blanco, usa la magia.'
+- id: 8815
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Apunta bien y atento tan solo.{:unk0e 00}'
+- id: 8816
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Zap, zap, zap!{:unk0e 00}'
+- id: 8817
+  en: '{:unk13 FA 00 90 01}¡Eso es! ¡Ya has pillado el ritmo!'
+- id: 8818
+  en: '{:unk13 FA 00 90 01}¡Huy! ¡Por los pelos!'
+- id: 8819
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 8820
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8821
+  en: >-
+    {:unk13 FA 00 90 01}Aún no ha acabado.
+
+    Tú puedes, sigue luchando.
+- id: 8822
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 8823
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8824
+  en: '{:unk13 FA 00 90 01}¿Y qué pasa con las burbujas?'
+- id: 8825
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Con poquito y muy pronto saldrá{:unk0e 00}'
+- id: 8826
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}un pop, pop, pop.{:unk0e 00}'
+- id: 8827
+  en: '{:unk13 FA 00 90 01}¡Ja, ja! ¡Vamos con la siguiente!'
+- id: 8828
+  en: '{:unk13 FA 00 90 01}Mmm... Tal vez sea algo difícil.'
+- id: 8829
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 8830
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8831
+  en: >-
+    {:unk13 FA 00 90 01}¡Dales la salida
+
+    con un solo de tambor!
+- id: 8832
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Cuenta para que empieze el ritmo{:unk0e 00}'
+- id: 8833
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}a sonar!{:unk0e 00}'
+- id: 8834
+  en: '{:unk13 FA 00 90 01}La salida la das tú.'
+- id: 8835
+  en: '{:unk13 FA 00 90 01}Los errores no importan. ¡Otra vez!'
+- id: 8836
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 8837
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8838
+  en: '{:unk13 FA 00 90 01}¡Llega tu momento! ¡Te aplauden!'
+- id: 8839
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Es el final, así que a triunfar o{:unk0e 00}'
+- id: 8840
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Sha-la-la!{:unk0e 00}'
+- id: 8841
+  en: >-
+    {:unk13 FA 00 90 01}¡Has causado sensación!
+
+    ¡Ha sido fantástico!
+- id: 8842
+  en: >-
+    {:unk13 FA 00 90 01}Aún no está. ¡Pero casi lo tienes!
+
+    ¡Y es muy divertido!
+- id: 8843
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú ven nadando, goza bailando.{:unk0e 00}'
+- id: 8844
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Es muy fácil si lo intentas.
+
+    ¡Entra y choca esa aleta!{:unk0e 00}
+- id: 8845
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Ven nadando, y canta a mi lado.{:unk0e 00}'
+- id: 8846
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Disfrutemos todos juntos
+
+    de este juego musical.{:unk0e 00}
+- id: 8867
+  en: >-
+    Te aseguro, Ariel,
+
+    que te voy a hacer entrar en razón.
+- id: 8892
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Cuántos tesoros que yo descubrí.{:unk0e 00}'
+- id: 8893
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Cuánto nos queda por ver,{:unk0e 00}'
+- id: 8894
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}y soñar y sentir.{:unk0e 00}'
+- id: 8895
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tú crees que yo alrededor{:unk0e 00}'
+- id: 8896
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}no veo dones, fortuna, esplendor.{:unk0e 00}'
+- id: 8897
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Piensas que debo decir: "No{:unk0e 00}'
+- id: 8898
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}necesito más".{:unk0e 00}'
+- id: 8899
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Cosas raras guardamos a miles,{:unk0e 00}'
+- id: 8900
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}aunque no las sepamos usar.{:unk0e 00}'
+- id: 8901
+  en: '{:unk13 FA 00 90 01}¿Quieres no-sé-qué-bobs?'
+- id: 8902
+  en: '{:unk13 FA 00 90 01}¡Tengo veinte!'
+- id: 8903
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Pero ves, no me sé{:unk0e 00}'
+- id: 8904
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}conformar.{:unk0e 00}'
+- id: 8905
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Quiero saber si sabré bailar.{:unk0e 00}'
+- id: 8906
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Yo quiero ver una bella danza.{:unk0e 00}'
+- id: 8907
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y caminar con los... ¿Cómo se llaman?{:unk0e 00}'
+- id: 8909
+  en: '{:unk13 FA 00 90 01}Ah... ¡pies!'
+- id: 8910
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Saber correr, saber saltar,{:unk0e 00}'
+- id: 8911
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}saber que el sol me va a acariciar.{:unk0e 00}'
+- id: 8912
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Sueño sin fin, quiero subir...{:unk0e 00}'
+- id: 8913
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Salir del mar.{:unk0e 00}'
+- id: 8914
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}contra el mar.{:unk0e 00}'
+- id: 8915
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y Tritón no escapará,{:unk0e 00}'
+- id: 8916
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}no se va a librar.{:unk0e 00}'
+- id: 8917
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Todo el que me desafía luego aprende{:unk0e 00}'
+- id: 8918
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}la lección:{:unk0e 00}'
+- id: 8919
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡con mi honor no se ha de jugar!{:unk0e 00}'
+- id: 8920
+  en: '{:unk13 FA 00 90 01}¡Tienes tu merecido!'
+- id: 8921
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Flotsam, Jetsam!{:unk0e 00}'
+- id: 8922
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Fieles fuertes, cual tempestad.{:unk0e 00}'
+- id: 8923
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Mis pequeños, venid con mamá.{:unk0e 00}'
+- id: 8924
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Y ahora! ¡Necesito que los aplastéis{:unk0e 00}'
+- id: 8925
+  en: '{:unk13 FA 00 90 01}¡Yo no creo eso!'
+- id: 8926
+  en: '{:unk13 FA 00 90 01}¡Muy bien!'
+- id: 8927
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Qué insignificante como humano se le ve.{:unk0e 00}'
+- id: 8928
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Lucha por su premio, ¡qué tozudos pueden ser!{:unk0e 00}'
+- id: 8929
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Y sin tu sirenita
+
+    hay venganza en tu interior,{:unk0e 00}
+- id: 8930
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}y eso yo lo conozco bien.{:unk0e 00}'
+- id: 8931
+  en: '{:unk13 FA 00 90 01}¡No pienso perderla!'
+- id: 8932
+  en: '{:unk13 FA 00 90 01}¡Sí! ¡Estamos contigo!'
+- id: 8933
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Flotsam, Jetsam!{:unk0e 00}'
+- id: 8934
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Fieles fuertes,{:unk0e 00}'
+- id: 8935
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}cual tempestad.{:unk0e 00}'
+- id: 8936
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Mis pequeños{:unk0e 00}'
+- id: 8937
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}venid con mamá.{:unk0e 00}'
+- id: 8938
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Y ahora! ¡Necesito {:unk0e 00}'
+- id: 8939
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}que los aplastéis sin tardar!{:unk0e 00}'
+- id: 8940
+  en: '{:unk13 FA 00 90 01}Lo siento, "mami",'
+- id: 8941
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}de una nueva era.{:unk0e 00}'
+- id: 8942
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tierra y mar se funden en{:unk0e 00}'
+- id: 8943
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}abrazo de armonía y paz.{:unk0e 00}'
+- id: 8944
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}A los cuentos mágicos{:unk0e 00}'
+- id: 8945
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}queremos hoy cantar.{:unk0e 00}'
+- id: 8946
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Pues se ha enamorado Ariel{:unk0e 00}'
+- id: 8947
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}nuestra majestad,{:unk0e 00}'
+- id: 8948
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}de un esbelto príncipe{:unk0e 00}'
+- id: 8949
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}que no mora en el mar.{:unk0e 00}'
+- id: 8950
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Los deseos pueden ser{:unk0e 00}'
+- id: 8951
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}una realidad.{:unk0e 00}'
+- id: 8952
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y la dicha en mi interior{:unk0e 00}'
+- id: 8953
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}es por vosotros{:unk0e 00}'
+- id: 8954
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¿Qué tal si ahora tus amigos{:unk0e 00}'
+- id: 8955
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}nos presentas? ¡Qué emoción!{:unk0e 00}'
+- id: 8956
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Saludad, Donald{:unk0e 00}'
+- id: 8957
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Goofy y Sora.{:unk0e 00}'
+- id: 8958
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Enhorabuena, os deseo{:unk0e 00}'
+- id: 8959
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}a vos.{:unk0e 00}'
+- id: 8960
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Habéis hallado{:unk0e 00}'
+- id: 8961
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}ambos el amor!{:unk0e 00}'
+- id: 8962
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Nos alegra ayudarte{:unk0e 00}'
+- id: 8963
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}es un gran honor.{:unk0e 00}'
+- id: 8964
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Solo verte sonreír,{:unk0e 00}'
+- id: 8965
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}nos hace chapotear sin fin.{:unk0e 00}'
+- id: 8966
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Los deseos pueden ser{:unk0e 00}'
+- id: 8967
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}una realidad.{:unk0e 00}'
+- id: 8968
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y la dicha en mi interior{:unk0e 00}'
+- id: 8969
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}es por vosotros nada más.{:unk0e 00}'
+- id: 8970
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Os rogamos, presentadnos{:unk0e 00}'
+- id: 8971
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}a la corte y al rey.{:unk0e 00}'
+- id: 8972
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Por favor: padre{:unk0e 00}'
+- id: 8973
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Sebastián, Flounder.{:unk0e 00}'
+- id: 8974
+  en: '{:unk13 FA 00 90 01}Ariel, me alegro tanto por ti.'
+- id: 8975
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Grandes finales no hay muchos así.{:unk0e 00}'
+- id: 8976
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Nos alegra mucho, es un{:unk0e 00}'
+- id: 8977
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}gran honor.{:unk0e 00}'
+- id: 8978
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Solo verte sonreír
+
+    nos hace chapotear sin fin.{:unk0e 00}
+- id: 8979
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¿Hay quizá algún otro amigo{:unk0e 00}'
+- id: 8980
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}que espera por ahí?{:unk0e 00}'
+- id: 8981
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Sí, así es, ahí los ves{:unk0e 00}'
+- id: 8982
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}de el todo mundo{:unk0e 00}'
+- id: 8983
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}y confín.{:unk0e 00}'
+- id: 8984
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Sed bienvenidos al comienzo{:unk0e 00}'
+- id: 8985
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}de una nueva era.{:unk0e 00}'
+- id: 8986
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Tierra y mar se funden en{:unk0e 00}'
+- id: 8987
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}abrazo de armonía y paz.{:unk0e 00}'
+- id: 8988
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}A los cuentos mágicos{:unk0e 00}'
+- id: 8989
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}queremos hoy cantar.{:unk0e 00}'
+- id: 8990
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Y así el amor de Ariel y Eric celebrar.{:unk0e 00}'
+- id: 10327
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Esto no es el final,
+
+    acaba de empezar.{:unk0e 00}
+- id: 10336
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Cuando Úrsula triunfe acabará!{:unk0e 00}'
+- id: 10413
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Un final de dicha y gozo...{:unk0e 00}'
+- id: 10417
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}nada más.{:unk0e 00}'
+- id: 10418
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}entre tierra y mar.{:unk0e 00}'
+- id: 10420
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}las algas más verdes son.{:unk0e 00}'
+- id: 10421
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}Bajo el mar.{:unk0e 00}'
+- id: 10422
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}eres feliz.{:unk0e 00}'
+- id: 10423
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}llenan la pista{:unk0e 00}'
+- id: 10424
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}en nuestra fiesta.{:unk0e 00}'
+- id: 10425
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}qué gran equivocación.{:unk0e 00}'
+- id: 10426
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}¡Ven a bailar!{:unk0e 00}'
+- id: 14601
+  en: '{:unk13 FA 00 90 01}{:unk0e 0A}sin tardar!{:unk0e 00}'
+- id: 14602
+  en: '{:unk13 FA 00 90 01}tus pequeños están fritos.'
+- id: 15712
+  en: >-
+    {:unk0e 0A}Ven nadando, y canta a mi lado.{:unk0e 00}{:delay 89 00}{:clear }{:unk0e 0A}Disfrutemos todos juntos
+
+    de este juego musical.{:unk0e 00}
+- id: 17820
+  en: >-
+    Para moverte horizontalmente, usa el joystick izquierdo.
+
+    Usa el joystick derecho para hacerlo verticalmente (según la
+
+    configuración, pulsa {:unk16 0C} y usa el joystick derecho
+
+    para desplazamientos verticales).{:clear }Si pulsas {:unk16 06}, nadarás más rápidamente.
+
+    Para fijar un blanco, usa {:icon button-r1}, y
+
+    acércate con {:icon button-circle} usando el aletazo delfín.
+
+    {:color #00F0F080}Habla con Flounder.{:reset}
+- id: 17821
+  en: >-
+    Usa los joystick izquierdo y derecho
+
+    para moverte. Para fijar un objetivo, usa {:icon button-r1},
+
+    y acércate con {:icon button-circle} usando el aletazo delfín.
+
+    {:color #00F0F080}Habla con Flounder.{:reset}
+- id: 17822
+  en: >-
+    Si no logras fijar objetivos,
+
+    acércate más a ellos con {:unk16 06}.
+- id: 18123
+  en: >-
+    Vaya con Ariel... ¡está obsesionada
+
+    con la vida en la superficie!
+- id: 18124
+  en: >-
+    ¿Os habéis olvidado de cómo nadar?
+
+    ¿Qué habéis hecho todo este tiempo?{:clear }¿Cómo? ¿Estabais dormidos?
+
+    ¡Vaya siestecita!
+- id: 18125
+  en: >-
+    La clave de los musicales es
+
+    moverse al ritmo de la música.{:clear }Que la música invada tu cuerpo...
+
+    ¿Lo veis? ¿Podéis sentir el ritmo?
+- id: 18126
+  en: >-
+    La vida bajo el mar es lenta.{:clear }Si os aburrís, tal vez queráis
+
+    regresar a vuestro mundo...
+- id: 18127
+  en: >-
+    ¡La mejor forma de recordar
+
+    cómo nadar es nadando!{:clear }Id y hablad con {:theme 0A}Flounder{:reset}.
+- id: 18128
+  en: >-
+    No lo olvidéis: debéis sentir
+
+    el ritmo en el cuerpo.
+- id: 18129
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Participar en el musical?
+
+    {:chardelay 33 00}No estoy preparado.
+
+    {:chardelay 09 00}¡Lo intentaré!
+- id: 18130
+  en: >-
+    ¡Estamos perdiendo tiempo de ensayo!
+
+    Pero no podemos dejar las cosas así.{:clear }¿Qué podríamos hacer? ¿Qué?
+- id: 18131
+  en: >-
+    ¡Sí, eso es!
+
+    ¡Qué rápido aprendes, Sora!
+- id: 18132
+  en: >-
+    Aunque no lo parezca, Sebastián
+
+    es un músico de la corte del mar.
+- id: 18133
+  en: >-
+    Nuestros problemas se arreglarán si
+
+    llevamos esa estatua a la gruta de Ariel.{:clear }¡Deprisa! ¡Vamos a moverla!
+- id: 18134
+  en: >-
+    ¡En el mar también podemos movernos
+
+    en vertical! ¡Tendrás que acostumbrarte!
+- id: 18135
+  en: >-
+    ¿Qué podemos hacer para que Ariel
+
+    deje de pensar en la superficie?{:clear }No es fácil conseguir que a alguien
+
+    deje de gustarle algo.
+- id: 18136
+  en: >-
+    Parece que Ariel sigue pensando
+
+    en la vida de la superficie.{:clear }Sé que le gustan las aventuras,
+
+    pero ojalá no se meta en líos.
+- id: 18137
+  en: >-
+    Si quieres hablar con alguien, elige
+
+    una criatura y nada hacia ella.
+- id: 18138
+  en: >-
+    No hay ni rastro de los sincorazón.
+
+    Es genial que todo esté en calma.{:clear }Jamás hubiera imaginado que participaría
+
+    en un musical submarino. ¡Es extraño!
+- id: 18139
+  en: >-
+    Entiendo cómo se siente Ariel, pero
+
+    también entiendo al Rey Tritón.{:clear }Como padre, debe de estar muy
+
+    preocupado por su hija.
+- id: 18140
+  en: >-
+    Solo el rey del mar
+
+    puede llevar este tridente.{:clear }Mientras lo tenga, podré
+
+    derrotar a cualquier enemigo.
+- id: 18141
+  en: >-
+    ¿Cómo van los ensayos
+
+    del musical?{:clear }Haced lo que haga falta para que
+
+    Ariel olvide la vida en la superficie.
+- id: 18142
+  en: >-
+    Vaya... Eh, ¿Sora?
+
+    Bah... no importa. Olvídalo.
+- id: 18143
+  en: >-
+    ¡Gracias por traerme esa estatua!
+
+    ¡La tendré siempre conmigo!{:clear }¡No se lo digas a nadie, pero es igual
+
+    al hombre que vi en la superficie!
+- id: 18144
+  en: >-
+    ¿Qué es esto?
+
+    ¿Ahora puedes mover la estatua?{:clear }Esto solo me traerá
+
+    más problemas...
+- id: 18145
+  en: >-
+    Parece que aún no estás listo.
+
+    Date prisa, quiero comenzar el ensayo.
+- id: 18146
+  en: >-
+    ¿Estás listo para mover
+
+    la estatua?
+- id: 18147
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Mover la estatua?
+
+    {:chardelay 33 00}Espera.
+
+    {:chardelay 09 00}Vamos a moverla.
+- id: 18148
+  en: >-
+    Ariel lleva horas contemplando esa
+
+    estatua. Está encantada.
+- id: 18149
+  en: >-
+    Ya que estamos aquí, ¿por qué
+
+    no le regalamos la estatua a Ariel?{:clear }Le encantan las cosas de la superficie.
+
+    Estoy seguro de que le encantará.
+- id: 18150
+  en: >-
+    ¡En lugar de usar magia, voy a hacer
+
+    resonar mi voz en el mar!{:clear }Algún día me gustaría cantar
+
+    para Daisy.
+- id: 18151
+  en: >-
+    Con los musicales, Sebastián
+
+    está bajo mucha presión.{:clear }Alguna vez deberíamos llevarle
+
+    a la superficie para que se divierta.
+- id: 18152
+  en: >-
+    Quizá sea la estatua de
+
+    un príncipe de cualquier lugar.{:clear }Hace buena pareja con Ariel...
+
+    ¡Ella también es hija de un rey!
+- id: 18153
+  en: >-
+    Ariel está un poco
+
+    triste últimamente.{:clear }A menudo mira hacia la superficie,
+
+    como si estuviera... No, no puede ser...
+- id: 18154
+  en: >-
+    No sé qué es peor, lo ocurrido el año
+
+    pasado, o lo que pasa con Ariel ahora.
+- id: 18155
+  en: >-
+    La superficie está tan cerca,
+
+    y a la vez tan lejos...{:clear }Ah, si pudiera convencer a mi padre
+
+    de lo maravillosos que son los humanos...
+- id: 18156
+  en: >-
+    La cosa que se le cayó a ese hombre
+
+    está atascada entre las rocas.{:clear }Sora, por favor, ayúdame.
+
+    ¡Quiero devolvérsela!
+- id: 18157
+  en: >-
+    ¡Excelente! ¡Ahora podremos
+
+    montar el musical en paz!
+- id: 18158
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Comenzar el ensayo?
+
+    {:chardelay 33 00}Espera.
+
+    {:chardelay 09 00}¡Vale, empecemos!
+- id: 18159
+  en: >-
+    ¿Ariel quiere devolver algo que se le
+
+    cayó a un humano? ¿En qué estará pensando?
+- id: 18160
+  en: >-
+    Últimamente, Ariel no hace más que
+
+    contemplar la estatua y suspirar.{:clear }Me encantaría encontrar una forma
+
+    de hacerla sonreír.
+- id: 18161
+  en: >-
+    ¿Quién hubiera pensado que esa era la
+
+    estatua de alguien que Ariel conoce?
+- id: 18162
+  en: >-
+    Lo mínimo que podemos hacer es
+
+    animar a Ariel durante el musical.{:clear }Tal vez eso la alegre un poco.
+- id: 18163
+  en: >-
+    Ariel debería decirle cuanto antes
+
+    que fue ella quien le salvó.{:clear }¿Qué es lo que teme?
+- id: 18164
+  en: >-
+    Ya me he acostumbrado a mi aspecto.{:clear }Pero no sé si Donald... Es como si
+
+    las piernas se le fueran a enredar.
+- id: 18165
+  en: >-
+    Cuanto más se preocupa por él,
+
+    más temerosa se vuelve.{:clear }Qué curioso es el corazón a veces.
+- id: 18166
+  en: >-
+    Me pregunto si será cierto
+
+    lo que dijo Sebastián.{:clear }¿Cómo haré para llegar
+
+    a ella...?
+- id: 18167
+  en: >-
+    Esto es por su propio bien. Ahora
+
+    dejadme solo. No estoy de humor.
+- id: 18168
+  en: >-
+    Cuando supe del hechizo de Úrsula,
+
+    pensé que estaba perdida.{:clear }Pero ese humano hizo frente a la bruja
+
+    del mar. Es tan valiente como vosotros.
+- id: 18169
+  en: >-
+    Sora, parece que has ganado
+
+    algo de experiencia.{:clear }¿Crees que puedes ayudarme
+
+    con el colgante?
+- id: 18170
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Recoger el objeto?
+
+    {:chardelay 33 00}Aún no.
+
+    {:chardelay 09 00}Vale, venga.
+- id: 18171
+  en: >-
+    Esto es terrible. Terrible...
+
+    ¿Qué voy a hacer ahora...?
+- id: 18174
+  en: >-
+    He terminado la letra y la partitura.{:clear }Si mejorarais un poco
+
+    vuestras habilidades...
+- id: 18175
+  en: >-
+    Ariel posee la voz más hermosa
+
+    del reino.{:clear }Supongo que cuanto más te gusta
+
+    cantar, más bonita se vuelve tu voz.
+- id: 18176
+  en: >-
+    ¿Crees que Ariel estará bien? ¿Qué
+
+    podemos hacer para ayudarla?
+- id: 18177
+  en: >-
+    Hace mucho, Tritón expulsó
+
+    a Úrsula del reino.{:clear }Ella tiene mucho poder. ¡Ojalá
+
+    que lo usara para ayudar a los demás!
+- id: 18178
+  en: >-
+    La música de Sebastián es genial,
+
+    y Ariel tiene una voz hermosa.{:clear }Cuando cante con nosotros,
+
+    la canción mejorará mucho.
+- id: 18179
+  en: >-
+    Me siento mal por Ariel.{:clear }El Rey Tritón estaba furioso
+
+    cuando destruyó la estatua.
+- id: 18180
+  en: >-
+    ¡La magia de Úrsula era impresionante,
+
+    pero la mía es la mejor!
+- id: 18181
+  en: >-
+    ¡Qué bonito es cantar! Me pregunto
+
+    cuál será la próxima canción.
+- id: 18182
+  en: >-
+    Espero que Ariel y ese muchacho se
+
+    besen antes de que caiga el sol.{:clear }No sé qué podríamos hacer para ayudar.
+
+    Por ahora, observaremos.
+- id: 18183
+  en: >-
+    No vimos a los sincorazón, pero
+
+    hemos tenido bastantes problemas.{:clear }Es triste que haya villanos
+
+    en todos los mundos.
+- id: 18184
+  en: >-
+    Ariel juró que me demostraría lo
+
+    maravillosos que son los humanos.{:clear }¡Pero nunca imaginé que llegaría
+
+    tan lejos para hacerlo!
+- id: 18185
+  en: >-
+    Todo padre desea que sus hijos
+
+    sean felices.{:clear }La echaré de menos,
+
+    pero me encanta verla feliz.
+- id: 18186
+  en: >-
+    Hagamos que el musical de hoy sea
+
+    el mejor de todos los tiempos, Sora.{:clear }¡Pensaré en vosotros cuando cante!
+- id: 18187
+  en: >-
+    No lo parece, pero nuestro mundo está
+
+    conectado con el de la superficie.{:clear }Y me he dado cuenta de que...
+
+    con las personas sucede lo mismo.
+- id: 18188
+  en: >-
+    ¡Parece que ahora podéis hacerlo!
+
+    ¡Nuestro musical será estupendo!
+- id: 18189
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Bueno. ¿Listo para comenzar?
+
+    {:chardelay 33 00}Espera, estoy algo nervioso.
+
+    {:chardelay 09 00}¡Sí, estoy listo! ¡Vamos!
+- id: 18190
+  en: >-
+    Como siempre digo: los hijos deben
+
+    hacer lo que quieran con sus vidas.
+- id: 18191
+  en: >-
+    Últimamente Ariel no hace más
+
+    que hablar de Eric.{:clear }¡Pero ahora sonríe cuando
+
+    lo hace! ¡Verla así me hace feliz!
+- id: 18192
+  en: >-
+    ¡Gracias a vosotros,
+
+    Ariel ha vuelto a ser feliz!{:clear }¿Por qué no cantamos todos
+
+    juntos de nuevo? ¡Será divertido!
+- id: 18193
+  en: >-
+    Llegó la hora de actuar.
+
+    ¡Sé que voy a estar genial!{:clear }Seguiré a Ariel
+
+    nota por nota, ¿vale?
+- id: 18194
+  en: >-
+    Es genial que todo haya ido bien
+
+    entre el príncipe Eric y Ariel.{:clear }Me hace pensar en Daisy...
+- id: 18195
+  en: >-
+    Este no será un
+
+    simple musical.{:clear }Todos nuestros sentimientos
+
+    se unirán en una hermosa canción.
+- id: 18196
+  en: >-
+    Me alegra que las cosas entre Ariel
+
+    y el Rey Tritón se hayan arreglado.{:clear }Es triste ver una familia desunida.
+- id: 18197
+  en: >-
+    Debería ir a ver
+
+    cómo está Ariel.
+- id: 18198
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Ir a ver a Ariel?
+
+    {:chardelay 33 00}No, un descansito.
+
+    {:chardelay 09 00}Sí, vamos.
+- id: 18473
+  en: >-
+    {:unk13 D0 00 68 00}{:unk08 01 00 05}Vamos, ¿qué vas a
+
+    hacer ahora?{:clear }No sé nada de los otros
+
+    mundos, pero...{:clear }... ese baile no
+
+    es del mar.
+- id: 18474
+  en: >-
+    {:unk13 CF 00 3C 01}{:unk08 01 01 01}¡Esto no expresa los
+
+    sentimientos del compositor!{:clear }¡Y eso es importante!{:clear }Hay que bailar con el
+
+    corazón para expresar
+
+    la belleza del mundo.
+- id: 18475
+  en: >-
+    {:unk13 D6 00 35 01}{:unk08 01 00 01}¡Todavía se puede mejorar!{:clear }¡De esta forma Ariel nunca
+
+    olvidará su locura por la tierra!
+- id: 18476
+  en: >-
+    {:unk13 DE 00 38 01}{:unk08 01 01 01}¿Eso es lo mejor que puedes
+
+    hacer? ¡Ja! Nunca me superarás,
+
+    ¡ni en cien años!
+- id: 18477
+  en: >-
+    {:unk13 C8 00 46 00}{:unk08 01 01 05}Ha sido algo maravilloso:
+
+    tierra y mar juntos...{:clear }¡No te lo pierdas!
+- id: 18581
+  en: >-
+    {:unk13 66 01 64 00}{:unk08 01 00 05}No todos pueden
+
+    ser brillantes
+
+    la primera vez.{:clear }Pero tienes un
+
+    gran potencial.
+
+    ¡No te desanimes!
+- id: 18725
+  en: Aletazo delfín
+- id: 18726
+  en: Nadar
+- id: 19192
+  en: >-
+    Nadie lo hace bien de buenas a
+
+    primeras. ¡Intentadlo varias veces!
+- id: 19193
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Intentarlo de nuevo?
+
+    {:chardelay 33 00}Necesito un descanso.
+
+    {:chardelay 09 00}¡Vamos con ello!
+- id: 19756
+  en: Atlántica
+- id: 19870
+  en: ¡Vaya tela!
+- id: 21529
+  en: "{:delayandfade 08 78} \nTras la breve lección de\nnatación submarina, Sebastián\ninvita a Sora, Donald y Goofy\na participar en el musical.\n \nNo todos los días uno recibe\nuna invitación así, por lo que\ntodos comienzan a ensayar\ncon entusiasmo.\n \n"
+- id: 21530
+  en: "{:delayandfade 0A 78} \nEl Rey Tritón, conociendo a Ariel\ncomo la conoce, sabe que su hija\nanda enredando con algo...\n \n \n \n \n \n"
+- id: 21531
+  en: "{:delayandfade 08 78} \nSin duda, muchos son los\nproblemas que acucian al reino,\npero Sora hace de tripas corazón\ny sigue con los ensayos.\n \nDespués de todo, las penas\ncon música, menos tristes son.\n \n \n \n"
+- id: 21532
+  en: "{:delayandfade 07 78} \nLa joven y enamorada Ariel observa\na su príncipe en la lejanía. Entre las\nrocas ve aquello que el joven busca,\npero le es imposible alcanzarlo.\n \nPor suerte, Sora está por allí y,\nusando sus poderes, logra apartar\nla gran roca para hacerse con\nel colgante.\n \n"
+- id: 21533
+  en: "{:delayandfade 07 78} \nUna sombra amenazadora se acerca\na Ariel. Se trata de Úrsula, la bruja\ndesterrada un año atrás, que se\naprovecha de la joven para ofrecerle\nun trato: su bella voz a cambio de\ntransformarla en humana.\n \nPero hay algo más: Ariel debe recibir\nun beso del príncipe antes de tres\ndías o se convertirá en un monstruo.\n \n"
+- id: 21534
+  en: "{:delayandfade 0A 78} \nSora y sus amigos deben llegar\nhasta la malvada Úrsula mientras\nprotegen a la pobre Ariel.\n \n \n \n \n \n"
+- id: 21535
+  en: "{:delayandfade 0A 78} \nEl paso de Sora y sus amigos\npor Atlántica deja, una vez más,\nun reino en el que impera la paz.\n \nY para celebrarlo, ¡¿qué mejor\nque un buen musical marino\ncomo colofón final a la aventura!?\n \n \n \n"
